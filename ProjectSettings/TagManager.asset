@@ -2,7 +2,7 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 2
+  serializedVersion: 3
   tags: []
   layers:
   - Default
@@ -11,10 +11,10 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
+  - Player
+  - Buildings
+  - Ground
+  - LightBlockers
   - 
   - 
   - 
@@ -41,3 +41,20 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Ground
+    uniqueID: 3955862381
+    locked: 0
+  - name: Fog
+    uniqueID: 681978267
+    locked: 0
+  - name: Light Blockers
+    uniqueID: 1452602339
+    locked: 0
+  - name: Buildings
+    uniqueID: 3773182941
+    locked: 0
+  - name: Player
+    uniqueID: 108835673
+    locked: 0
+  m_RenderingLayers:
+  - Default
