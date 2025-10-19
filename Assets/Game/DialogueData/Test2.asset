@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5272d69de47d6724f8fa0d53e5052b27, type: 3}
+  m_Name: Test2
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueObject
+  characters:
+  - {fileID: 5162997256646205289, guid: 65cad5022ccc83f4b8d07507d5b13200, type: 3}
+  - {fileID: -3182846144002117131, guid: ad1cf993c738ac04faca853f40504866, type: 3}
+  - {fileID: -5206141263336328892, guid: b54f04739bf1d444fb10cd0433057e15, type: 3}
+  charactersName:
+  - Manolo
+  - Juanito
+  - Pepe
+  charactersSide: 000000000000000000000000
+  conversationLine:
+  - dialogue: Vete a la mierda, bro
+    spriteIndex: 1
+  - dialogue: Eh, relaja
+    spriteIndex: 0
+  - dialogue: hola mi gente de peru
+    spriteIndex: 2
+  - dialogue: callaros todos
+    spriteIndex: 1
+  responses:
+  - responseText: yo que se
+    dialogueObject: {fileID: 11400000, guid: 457998d9a1d9ec947ad2e64288c62ee8, type: 2}

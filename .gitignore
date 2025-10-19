@@ -12,6 +12,7 @@
 [Uu]ser[Ss]ettings/
 .idea/
 *.log
+ProjectSettings/SceneTemplateSettings.json
 
 # By default unity supports Blender asset imports, *.blend1 blender files do not need to be commited to version control.
 *.blend1
@@ -35,6 +36,7 @@
 # Visual Studio cache directory
 .vs/
 .vscode/
+.vsconfig/
 
 # Gradle cache directory
 .gradle/
