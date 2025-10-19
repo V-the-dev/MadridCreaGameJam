@@ -18,7 +18,7 @@ public class ConversationLine
     public int spriteIndex;
 }
 
-[CreateAssetMenu(menuName = "Dialogue/DialogueObject")]
+[CreateAssetMenu(fileName = "NuevoDialogo", menuName = "Dialogo/DialogueObject")]
 public class DialogueObject : ScriptableObject
 {
     public Sprite[] characters = new Sprite[0];
