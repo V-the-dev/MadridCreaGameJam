@@ -9,6 +9,7 @@ public class GameManager : MonoBehaviour
     public static GameManager Instance { get; private set; }
 
     [SerializeField] private MessageManager messageManager = null;
+    [SerializeField] private bool defaultStart = true;
     
     private void Awake()
     {
@@ -25,7 +26,8 @@ public class GameManager : MonoBehaviour
 
     private void Start()
     {
-        messageManager.Interactuar();
+        if(defaultStart)
+            messageManager.Interactuar();
     }
 
     private void Update()

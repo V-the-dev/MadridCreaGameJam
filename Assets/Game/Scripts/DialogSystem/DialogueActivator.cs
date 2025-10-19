@@ -23,4 +23,9 @@ public class DialogueActivator : MonoBehaviour, IInteractuable
 
         messageManager.DialogueUI.ShowDialogue(dialogueObject);
     }
+
+    public void NearestIndicator(bool activate)
+    {
+        // Implement visual indicator logic here if needed
+    }
 }
