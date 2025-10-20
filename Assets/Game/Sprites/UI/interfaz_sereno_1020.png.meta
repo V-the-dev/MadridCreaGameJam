@@ -1,0 +1,911 @@
+fileFormatVersion: 2
+guid: 4d51074d49a0553438533c59afe24c90
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3693138049561656229
+    second: interfaz_sereno_1020_0
+  - first:
+      213: 6361801509404564191
+    second: interfaz_sereno_1020_1
+  - first:
+      213: -2303229063041590220
+    second: interfaz_sereno_1020_2
+  - first:
+      213: -1398986642771950445
+    second: interfaz_sereno_1020_3
+  - first:
+      213: -2120469261080895022
+    second: interfaz_sereno_1020_4
+  - first:
+      213: -8941780190095300545
+    second: interfaz_sereno_1020_5
+  - first:
+      213: 361408530356773490
+    second: interfaz_sereno_1020_6
+  - first:
+      213: -9188347110599773783
+    second: interfaz_sereno_1020_7
+  - first:
+      213: 4467077091725874919
+    second: interfaz_sereno_1020_8
+  - first:
+      213: 4796478660416709988
+    second: interfaz_sereno_1020_9
+  - first:
+      213: -5557890924063649431
+    second: interfaz_sereno_1020_10
+  - first:
+      213: -2340557365109290708
+    second: interfaz_sereno_1020_11
+  - first:
+      213: 5915894193966506363
+    second: interfaz_sereno_1020_12
+  - first:
+      213: 8953979089662318910
+    second: interfaz_sereno_1020_13
+  - first:
+      213: 6796541112611422113
+    second: interfaz_sereno_1020_14
+  - first:
+      213: -537535215130503323
+    second: interfaz_sereno_1020_15
+  - first:
+      213: 1114217701409314325
+    second: interfaz_sereno_1020_16
+  - first:
+      213: 855499125221780712
+    second: interfaz_sereno_1020_17
+  - first:
+      213: 9135729311255224326
+    second: interfaz_sereno_1020_18
+  - first:
+      213: -4189891888286268470
+    second: interfaz_sereno_1020_19
+  - first:
+      213: 4784740709716547160
+    second: interfaz_sereno_1020_20
+  - first:
+      213: 1666317871220827313
+    second: interfaz_sereno_1020_21
+  - first:
+      213: 1572505989470724227
+    second: interfaz_sereno_1020_22
+  - first:
+      213: -2786963868165591835
+    second: interfaz_sereno_1020_23
+  - first:
+      213: 108032869111537989
+    second: interfaz_sereno_1020_24
+  - first:
+      213: -9125373085085087858
+    second: interfaz_sereno_1020_25
+  - first:
+      213: -5842815655785410143
+    second: interfaz_sereno_1020_26
+  - first:
+      213: -2339730582060137956
+    second: interfaz_sereno_1020_27
+  - first:
+      213: -6493313538548666127
+    second: interfaz_sereno_1020_28
+  - first:
+      213: -4884769706562091516
+    second: interfaz_sereno_1020_29
+  - first:
+      213: -8988823345240007857
+    second: interfaz_sereno_1020_30
+  - first:
+      213: -868924805540319507
+    second: interfaz_sereno_1020_31
+  - first:
+      213: -5118875244487714144
+    second: interfaz_sereno_1020_32
+  - first:
+      213: -5194663065901734870
+    second: interfaz_sereno_1020_33
+  - first:
+      213: 8012004142080300071
+    second: interfaz_sereno_1020_34
+  - first:
+      213: 8429545024275511906
+    second: interfaz_sereno_1020_35
+  - first:
+      213: -6792080724904435462
+    second: interfaz_sereno_1020_36
+  - first:
+      213: -8266388696029388032
+    second: interfaz_sereno_1020_37
+  - first:
+      213: 2150113493792879897
+    second: interfaz_sereno_1020_38
+  - first:
+      213: 4368759559258271354
+    second: interfaz_sereno_1020_39
+  - first:
+      213: -7643990795189978988
+    second: interfaz_sereno_1020_40
+  - first:
+      213: -7020581431759218715
+    second: interfaz_sereno_1020_41
+  - first:
+      213: 123403488507387551
+    second: interfaz_sereno_1020_42
+  - first:
+      213: -909575380268126544
+    second: interfaz_sereno_1020_43
+  - first:
+      213: 8083008032824370307
+    second: interfaz_sereno_1020_44
+  - first:
+      213: -5861485199030566914
+    second: interfaz_sereno_1020_45
+  - first:
+      213: -3538759261098095107
+    second: interfaz_sereno_1020_46
+  - first:
+      213: -414248664793661917
+    second: interfaz_sereno_1020_47
+  - first:
+      213: 7696206910382328649
+    second: interfaz_sereno_1020_48
+  - first:
+      213: -7129067740481357505
+    second: interfaz_sereno_1020_49
+  - first:
+      213: -8765703389309158040
+    second: interfaz_sereno_1020_50
+  - first:
+      213: 3857798106109413791
+    second: interfaz_sereno_1020_51
+  - first:
+      213: -2073006797745253379
+    second: interfaz_sereno_1020_52
+  - first:
+      213: 2234294566483823472
+    second: interfaz_sereno_1020_53
+  - first:
+      213: -417899426229989592
+    second: interfaz_sereno_1020_54
+  - first:
+      213: 4297765527729026692
+    second: interfaz_sereno_1020_55
+  - first:
+      213: -8336953353272199116
+    second: interfaz_sereno_1020_56
+  - first:
+      213: 5963430512103588333
+    second: interfaz_sereno_1020_57
+  - first:
+      213: 1285962323055383765
+    second: interfaz_sereno_1020_58
+  - first:
+      213: 1492431350149584184
+    second: interfaz_sereno_1020_59
+  - first:
+      213: 9076389717491900568
+    second: interfaz_sereno_1020_60
+  - first:
+      213: 4493860839501419949
+    second: interfaz_sereno_1020_61
+  - first:
+      213: 4481481107123485433
+    second: interfaz_sereno_1020_62
+  - first:
+      213: 3095407973615568852
+    second: interfaz_sereno_1020_63
+  - first:
+      213: -7062522247121292603
+    second: interfaz_sereno_1020_64
+  - first:
+      213: -6021497890512687640
+    second: interfaz_sereno_1020_65
+  - first:
+      213: -7694367598172440380
+    second: interfaz_sereno_1020_66
+  - first:
+      213: -7324138879538555471
+    second: interfaz_sereno_1020_67
+  - first:
+      213: -4537520249206196622
+    second: interfaz_sereno_1020_68
+  - first:
+      213: -1375464460569719779
+    second: interfaz_sereno_1020_69
+  - first:
+      213: 2768334966342923321
+    second: interfaz_sereno_1020_70
+  - first:
+      213: -8743740892323991766
+    second: interfaz_sereno_1020_71
+  - first:
+      213: 5950559489110981573
+    second: interfaz_sereno_1020_72
+  - first:
+      213: 7766378178158579434
+    second: interfaz_sereno_1020_73
+  - first:
+      213: -4234575112506035950
+    second: interfaz_sereno_1020_74
+  - first:
+      213: 2051466182528353741
+    second: interfaz_sereno_1020_75
+  - first:
+      213: 4648093914569976267
+    second: interfaz_sereno_1020_76
+  - first:
+      213: 6029152738440519076
+    second: interfaz_sereno_1020_77
+  - first:
+      213: -5098982575871321626
+    second: interfaz_sereno_1020_78
+  - first:
+      213: -4838999239293649451
+    second: interfaz_sereno_1020_79
+  - first:
+      213: -6439259858275041736
+    second: interfaz_sereno_1020_80
+  - first:
+      213: 3617878242155437913
+    second: interfaz_sereno_1020_81
+  - first:
+      213: -6678657910375724553
+    second: interfaz_sereno_1020_82
+  - first:
+      213: 2745084060990782872
+    second: interfaz_sereno_1020_83
+  - first:
+      213: -5108287068406268506
+    second: interfaz_sereno_1020_84
+  - first:
+      213: 5131635426834724470
+    second: interfaz_sereno_1020_85
+  - first:
+      213: -5593163748184249246
+    second: interfaz_sereno_1020_86
+  - first:
+      213: -254862106715997148
+    second: interfaz_sereno_1020_87
+  - first:
+      213: -7659104157902277470
+    second: interfaz_sereno_1020_88
+  - first:
+      213: -193936232243860449
+    second: interfaz_sereno_1020_89
+  - first:
+      213: -7248871061533631873
+    second: interfaz_sereno_1020_90
+  - first:
+      213: -5061453017429065165
+    second: interfaz_sereno_1020_91
+  - first:
+      213: 4398697758552348326
+    second: interfaz_sereno_1020_92
+  - first:
+      213: 252679988916895313
+    second: interfaz_sereno_1020_93
+  - first:
+      213: 7278411280482509442
+    second: interfaz_sereno_1020_94
+  - first:
+      213: -887537615920031168
+    second: interfaz_sereno_1020_95
+  - first:
+      213: 1699342955077925212
+    second: interfaz_sereno_1020_96
+  - first:
+      213: 714999423578981960
+    second: interfaz_sereno_1020_97
+  - first:
+      213: 5341249629593789524
+    second: interfaz_sereno_1020_98
+  - first:
+      213: 7492393362875939877
+    second: interfaz_sereno_1020_99
+  - first:
+      213: 1252189197023693026
+    second: interfaz_sereno_1020_100
+  - first:
+      213: -5354970228861221567
+    second: interfaz_sereno_1020_101
+  - first:
+      213: -3372170414394216761
+    second: interfaz_sereno_1020_102
+  - first:
+      213: -1874716088030075905
+    second: interfaz_sereno_1020_103
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boton_selected
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 3342
+        width: 1679
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e61b9482fe3efd30800000000000000
+      internalID: 4467077091725874919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: key_empty
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 3640
+        width: 166
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c12003a9e6b978fd0800000000000000
+      internalID: -2339730582060137956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: key_e
+      rect:
+        serializedVersion: 2
+        x: 2128
+        y: 3640
+        width: 168
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0729f5dbd13e5a0800000000000000
+      internalID: -6493313538548666127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: key_space
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 3452
+        width: 362
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0032dd53743e74d80800000000000000
+      internalID: -8266388696029388032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_not_selected
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1686
+        width: 1666
+        height: 492
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd348974db68dcb0800000000000000
+      internalID: -4838999239293649451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exclamation_2
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 1711
+        width: 151
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52cf6bf21145af760800000000000000
+      internalID: 7492393362875939877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: key_back
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 3265
+        width: 362
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd648a000893d7f45aa18934bbdda42b
+      internalID: 123403488507387551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chat_box_item
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 2296
+        width: 1534
+        height: 997
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f5c58d44c29f7479ecc801a02dacb4
+      internalID: -3538759261098095107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow_1
+      rect:
+        serializedVersion: 2
+        x: 1913
+        y: 3092
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33bc4f4f0a4c564f85d453b6d4ee187
+      internalID: 7696206910382328649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow_2
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 3071
+        width: 176
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ae4cd6f5c3b84418022b91a7d51948
+      internalID: -7129067740481357505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keys_gamepad_selected
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 2671
+        width: 324
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a088cf5b004e4540a3ca497e50f9b65
+      internalID: 4297765527729026692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: key_enter
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 2394
+        width: 207
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5010e57cbeaa92d4ea7670d1a748bf63
+      internalID: 1285962323055383765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keys_gamepad_none
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 2287
+        width: 304
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9052c730afefab948861846ed5248c53
+      internalID: -7062522247121292603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exclamation_1
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2004
+        width: 129
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e935fd91eed754ba1e736d4a5dc0c3
+      internalID: -8743740892323991766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_cant_select
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1169
+        width: 1663
+        height: 478
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c56c5d4ab56d240a018f8b8d0f2513
+      internalID: -2065606688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chat_box_npc
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 93
+        width: 2122
+        height: 986
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3413967afb1738478ad04f963cb0724
+      internalID: -1962530762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6ede55aeb3ae07b40a1be001eecef820
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      arrow_1: 7696206910382328649
+      arrow_2: -7129067740481357505
+      boton_cant_select: -2065606688
+      boton_not_selected: -4838999239293649451
+      boton_selected: 4467077091725874919
+      chat_box_item: -3538759261098095107
+      chat_box_npc: -1962530762
+      exclamation_1: -8743740892323991766
+      exclamation_2: 7492393362875939877
+      interfaz_sereno_1020_0: -3693138049561656229
+      interfaz_sereno_1020_1: 6361801509404564191
+      interfaz_sereno_1020_10: -5557890924063649431
+      interfaz_sereno_1020_100: 1252189197023693026
+      interfaz_sereno_1020_101: -5354970228861221567
+      interfaz_sereno_1020_102: -3372170414394216761
+      interfaz_sereno_1020_103: -1874716088030075905
+      interfaz_sereno_1020_104: 2029154605
+      interfaz_sereno_1020_105: 252206935
+      interfaz_sereno_1020_106: 1978683699
+      interfaz_sereno_1020_107: -445800021
+      interfaz_sereno_1020_108: 1842661467
+      interfaz_sereno_1020_109: -1288201250
+      interfaz_sereno_1020_11: -2340557365109290708
+      interfaz_sereno_1020_110: 630540746
+      interfaz_sereno_1020_111: 1876336640
+      interfaz_sereno_1020_112: -221561301
+      interfaz_sereno_1020_113: 1917191489
+      interfaz_sereno_1020_115: -160064029
+      interfaz_sereno_1020_116: -1205841799
+      interfaz_sereno_1020_117: -444699243
+      interfaz_sereno_1020_118: 1688185065
+      interfaz_sereno_1020_119: -395167207
+      interfaz_sereno_1020_12: 5915894193966506363
+      interfaz_sereno_1020_120: 410949075
+      interfaz_sereno_1020_121: 1786262146
+      interfaz_sereno_1020_122: 1459732059
+      interfaz_sereno_1020_123: -1153200116
+      interfaz_sereno_1020_124: -786052107
+      interfaz_sereno_1020_125: -107225271
+      interfaz_sereno_1020_126: -1203403224
+      interfaz_sereno_1020_13: 8953979089662318910
+      interfaz_sereno_1020_14: 6796541112611422113
+      interfaz_sereno_1020_15: -537535215130503323
+      interfaz_sereno_1020_16: 1114217701409314325
+      interfaz_sereno_1020_17: 855499125221780712
+      interfaz_sereno_1020_18: 9135729311255224326
+      interfaz_sereno_1020_19: -4189891888286268470
+      interfaz_sereno_1020_2: -2303229063041590220
+      interfaz_sereno_1020_20: 4784740709716547160
+      interfaz_sereno_1020_21: 1666317871220827313
+      interfaz_sereno_1020_22: 1572505989470724227
+      interfaz_sereno_1020_23: -2786963868165591835
+      interfaz_sereno_1020_24: 108032869111537989
+      interfaz_sereno_1020_25: -9125373085085087858
+      interfaz_sereno_1020_26: -5842815655785410143
+      interfaz_sereno_1020_29: -4884769706562091516
+      interfaz_sereno_1020_3: -1398986642771950445
+      interfaz_sereno_1020_30: -8988823345240007857
+      interfaz_sereno_1020_31: -868924805540319507
+      interfaz_sereno_1020_32: -5118875244487714144
+      interfaz_sereno_1020_33: -5194663065901734870
+      interfaz_sereno_1020_34: 8012004142080300071
+      interfaz_sereno_1020_35: 8429545024275511906
+      interfaz_sereno_1020_36: -6792080724904435462
+      interfaz_sereno_1020_38: 2150113493792879897
+      interfaz_sereno_1020_39: 4368759559258271354
+      interfaz_sereno_1020_4: -2120469261080895022
+      interfaz_sereno_1020_40: -7643990795189978988
+      interfaz_sereno_1020_41: -7020581431759218715
+      interfaz_sereno_1020_43: -909575380268126544
+      interfaz_sereno_1020_44: 8083008032824370307
+      interfaz_sereno_1020_45: -5861485199030566914
+      interfaz_sereno_1020_47: -414248664793661917
+      interfaz_sereno_1020_5: -8941780190095300545
+      interfaz_sereno_1020_50: -8765703389309158040
+      interfaz_sereno_1020_51: 3857798106109413791
+      interfaz_sereno_1020_52: -2073006797745253379
+      interfaz_sereno_1020_53: 2234294566483823472
+      interfaz_sereno_1020_54: -417899426229989592
+      interfaz_sereno_1020_56: -8336953353272199116
+      interfaz_sereno_1020_57: 5963430512103588333
+      interfaz_sereno_1020_59: 1492431350149584184
+      interfaz_sereno_1020_6: 361408530356773490
+      interfaz_sereno_1020_60: 9076389717491900568
+      interfaz_sereno_1020_61: 4493860839501419949
+      interfaz_sereno_1020_62: 4481481107123485433
+      interfaz_sereno_1020_63: 3095407973615568852
+      interfaz_sereno_1020_65: -6021497890512687640
+      interfaz_sereno_1020_66: -7694367598172440380
+      interfaz_sereno_1020_67: -7324138879538555471
+      interfaz_sereno_1020_68: -4537520249206196622
+      interfaz_sereno_1020_69: -1375464460569719779
+      interfaz_sereno_1020_7: -9188347110599773783
+      interfaz_sereno_1020_70: 2768334966342923321
+      interfaz_sereno_1020_72: 5950559489110981573
+      interfaz_sereno_1020_73: 7766378178158579434
+      interfaz_sereno_1020_74: -4234575112506035950
+      interfaz_sereno_1020_75: 2051466182528353741
+      interfaz_sereno_1020_76: 4648093914569976267
+      interfaz_sereno_1020_77: 6029152738440519076
+      interfaz_sereno_1020_78: -5098982575871321626
+      interfaz_sereno_1020_80: -6439259858275041736
+      interfaz_sereno_1020_81: 3617878242155437913
+      interfaz_sereno_1020_82: -6678657910375724553
+      interfaz_sereno_1020_83: 2745084060990782872
+      interfaz_sereno_1020_84: -5108287068406268506
+      interfaz_sereno_1020_85: 5131635426834724470
+      interfaz_sereno_1020_86: -5593163748184249246
+      interfaz_sereno_1020_87: -254862106715997148
+      interfaz_sereno_1020_88: -7659104157902277470
+      interfaz_sereno_1020_89: -193936232243860449
+      interfaz_sereno_1020_9: 4796478660416709988
+      interfaz_sereno_1020_90: -7248871061533631873
+      interfaz_sereno_1020_91: -5061453017429065165
+      interfaz_sereno_1020_92: 4398697758552348326
+      interfaz_sereno_1020_93: 252679988916895313
+      interfaz_sereno_1020_94: 7278411280482509442
+      interfaz_sereno_1020_95: -887537615920031168
+      interfaz_sereno_1020_96: 1699342955077925212
+      interfaz_sereno_1020_97: 714999423578981960
+      interfaz_sereno_1020_98: 5341249629593789524
+      key_back: 123403488507387551
+      key_e: -6493313538548666127
+      key_empty: -2339730582060137956
+      key_enter: 1285962323055383765
+      key_space: -8266388696029388032
+      keys_gamepad_none: -7062522247121292603
+      keys_gamepad_selected: 4297765527729026692
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
