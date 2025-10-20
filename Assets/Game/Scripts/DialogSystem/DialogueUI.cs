@@ -24,6 +24,8 @@ public class DialogueUI : MonoBehaviour
     [SerializeField]
     private TMP_Text titleLabel;
 
+    [SerializeField] private GameObject flechita;
+
     [SerializeField] private Color obscuredPeople = new Color(0.3f, 0.3f, 0.3f, 1);
     [SerializeField] private float scaledObscuredPeople = 0.8f;
     [SerializeField] private float characterSpacing = 100;
@@ -102,7 +104,10 @@ public class DialogueUI : MonoBehaviour
         for(int i = 0; i < dialogueObject.Dialogue.Length; i++)
         {
             string dialogue = dialogueObject.Dialogue[i];
-
+            
+            // Cuando empiece el texto oculta la flechita
+            flechita.SetActive(false);
+            
             SetTalkingOrders(dialogueObject, i);
             SetNameAndTitle(dialogueObject, i);
 
@@ -115,6 +120,9 @@ public class DialogueUI : MonoBehaviour
 
             // Pasar el ParsedText al typewriter, no el texto original
             yield return RunTypingEffect(parsed);
+            
+            // Cuando termine el texto muestra la flechita
+            flechita.SetActive(true);
 
             // - textLabel.text tiene el parsed.cleanText con los espacios
             // - maxVisibleCharacters está en parsed.cleanText.Length
@@ -135,6 +143,8 @@ public class DialogueUI : MonoBehaviour
 
         if (dialogueObject.HasResponses)
         {
+            // Cuando termine el texto muestra la flechita
+            flechita.SetActive(false);
             responseHandler.ShowResponses(dialogueObject.Responses);
         }
         else
@@ -166,6 +176,7 @@ public class DialogueUI : MonoBehaviour
         IsOpen = false;
         dialogueBox.SetActive(false);
         nameTitleBox.SetActive(false);
+        flechita.SetActive(false);
         leftCharacters.Clear();
         rightCharacters.Clear();
         characterBoxIzqPosition.gameObject.SetActive(false);
