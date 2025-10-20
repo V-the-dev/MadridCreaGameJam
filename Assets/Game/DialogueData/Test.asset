@@ -18,9 +18,26 @@ MonoBehaviour:
   - Manolo
   charactersSide: 00000000
   conversationLine:
-  - dialogue: Hola pringaoooooo, me llamo Sereno y estoy alterao
+  - dialogue: 'Hola pringaoooooo, me llamo <wave>Sereno</wave> y estoy <shake>alterao</shake>
+
+      <speed=0,2><color=#FF0000>No
+      te atrevas a hablarme mal</color></speed>
+
+      <size=2>HOLAAAAAAAAAAAA   
+      : D</size>'
     spriteIndex: 0
-  - dialogue: "Qu\xE9 es lo que quieres?"
+  - dialogue: "<rainbow>Qu\xE9 es lo que quieres?</rainbow>\n<wave>Buenas gente</wave>\n<shake>Me
+      cago en tus <color=#FF0000>muertos</color></shake>"
+    spriteIndex: 0
+  - dialogue: 'Soy Frisk <img=frisk> Tu peor pesadilla >:)
+
+      Soy Toriel <img=toriel>
+      Tu mejor pesadilla :)
+
+      Shrek <img=shrek> is love, Shrek <img=shrek> is
+      life.'
+    spriteIndex: 0
+  - dialogue: Prueba
     spriteIndex: 0
   responses:
   - responseText: Vete a la mierda

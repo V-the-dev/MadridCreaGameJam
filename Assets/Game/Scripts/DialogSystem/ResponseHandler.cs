@@ -14,6 +14,7 @@ public class ResponseHandler : MonoBehaviour
     private RectTransform responseContainer;
 
     private DialogueUI dialogueUI;
+    private TypewritterEffect typewritterEffect;
     private ResponseEvent[] responseEvents;
 
     List<GameObject> tempResponseButtons = new List<GameObject>();
@@ -21,11 +22,12 @@ public class ResponseHandler : MonoBehaviour
     private void Start()
     {
         dialogueUI = GetComponent<DialogueUI>();
+        typewritterEffect = GetComponent<TypewritterEffect>();
     }
 
-    public void AddResponseEvents(ResponseEvent[] responseEvents)
+    public void AddResponseEvents(ResponseEvent[] responseEventsVar)
     {
-        this.responseEvents = responseEvents;
+        this.responseEvents = responseEventsVar;
     }
 
     public void ShowResponses(Response[] responses)
@@ -67,6 +69,10 @@ public class ResponseHandler : MonoBehaviour
         }
 
         responseEvents = null;
+
+        // Detener efectos antes de cambiar de diálogo
+        if (typewritterEffect)
+            typewritterEffect.StopEffects();
 
         if (response.DialogueObject)
         {

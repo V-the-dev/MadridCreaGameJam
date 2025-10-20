@@ -1,4 +1,3 @@
-using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -21,7 +20,6 @@ public class DialogueUI : MonoBehaviour
 
     [SerializeField] private Color obscuredPeople = new Color(0.3f, 0.3f, 0.3f, 1);
     [SerializeField] private float scaledObscuredPeople = 0.8f;
-
     [SerializeField] private float characterSpacing = 100;
 
     private InputAction _acceptAction;
@@ -34,11 +32,16 @@ public class DialogueUI : MonoBehaviour
 
     private ResponseHandler responseHandler;
     private TypewritterEffect typewritterEffect;
+    private InlineImageHandler imageHandler;
 
     private void Awake()
     {
         typewritterEffect = GetComponent<TypewritterEffect>();
         responseHandler = GetComponent<ResponseHandler>();
+        imageHandler = GetComponent<InlineImageHandler>();
+        
+        if (imageHandler != null)
+            imageHandler.Initialize(textLabel);
         
         CloseDialogueBox();
     }
@@ -55,6 +58,7 @@ public class DialogueUI : MonoBehaviour
         characterBoxIzqPosition.gameObject.SetActive(true);
         characterBoxDerPosition.gameObject.SetActive(true);
         SetCharacterSpritesInScene(dialogueObject);
+        
         foreach (GameObject leftCharacter in leftCharacters)
         {
             leftCharacter.SetActive(true);
@@ -75,6 +79,7 @@ public class DialogueUI : MonoBehaviour
         {
             rightCharacter.GetComponent<Image>().sprite = dialogueObject.Characters[index++];
         }
+        
         StartCoroutine(StepThroughDialogue(dialogueObject));
     }
 
@@ -93,15 +98,31 @@ public class DialogueUI : MonoBehaviour
 
             SetTalkingOrders(dialogueObject, i);
 
-            yield return RunTypingEffect(dialogue);
+            // Parsear el texto una sola vez antes del resto de la conversación
+            ParsedText parsed = TextEffectParser.Parse(dialogue, imageHandler);
+            
+            // Procesar imágenes antes del typewriter
+            if (imageHandler)
+                imageHandler.ProcessImages(parsed);
 
-            textLabel.text = dialogue;
+            // Pasar el ParsedText al typewriter, no el texto original
+            yield return RunTypingEffect(parsed);
+
+            // - textLabel.text tiene el parsed.cleanText con los espacios
+            // - maxVisibleCharacters está en parsed.cleanText.Length
 
             if (i == dialogueObject.Dialogue.Length - 1 && dialogueObject.HasResponses)
                 break;
 
             yield return null;
             yield return new WaitUntil(() => _acceptAction.WasReleasedThisFrame());
+            
+            // Limpiar imágenes antes de la siguiente línea
+            if (imageHandler)
+                imageHandler.ClearImages();
+            
+            // Detener efectos antes de la siguiente línea
+            typewritterEffect.StopEffects();
         }
 
         if (dialogueObject.HasResponses)
@@ -110,14 +131,16 @@ public class DialogueUI : MonoBehaviour
         }
         else
         {
+            // Detener efectos al cerrar el diálogo
+            typewritterEffect.StopEffects();
             CloseDialogueBox();
             GameManager.Instance.ResumeGame();
         }
     }
 
-    private IEnumerator RunTypingEffect(string dialogue)
+    private IEnumerator RunTypingEffect(ParsedText parsed)
     {
-        typewritterEffect.Run(dialogue, textLabel);
+        typewritterEffect.Run(parsed, textLabel);
 
         while (typewritterEffect.IsRunning)
         {
@@ -141,6 +164,9 @@ public class DialogueUI : MonoBehaviour
         characterNamesInScene.Clear();
         characterDictionary.Clear();
         textLabel.text = string.Empty;
+        
+        if (imageHandler)
+            imageHandler.ClearImages();
     }
 
     public void SetCharacterSpritesInScene(DialogueObject dialogueObject)
@@ -149,20 +175,17 @@ public class DialogueUI : MonoBehaviour
         
         for (int i = 0; i < dialogueObject.Characters.Length; i++)
         {
-            // Si el personaje ya está en escena, continuar
             if (characterNamesInScene.Contains(dialogueObject.charactersName[i]))
             {
                 characterNamesListed.Remove(dialogueObject.charactersName[i]);
                 continue;
             }
             
-            // Personaje a la izquierda
             if (dialogueObject.CharactersSide[i] == SpriteSide.Izquierda)
             {
                 GameObject newCharacter = Instantiate(characterBoxTemplate, characterBoxIzqPosition);
                 RectTransform newCharacterRect = newCharacter.GetComponent<RectTransform>();
                 
-                // Posicionar el personaje según su índice en la lista
                 Vector2 position = Vector2.zero;
                 position.x = characterSpacing * leftCharacters.Count;
                 newCharacterRect.anchoredPosition = position;
@@ -172,13 +195,11 @@ public class DialogueUI : MonoBehaviour
                 characterDictionary.Add(dialogueObject.charactersName[i], newCharacter);
                 characterNamesListed.Remove(dialogueObject.charactersName[i]);
             }
-            // Personaje a la derecha
             else
             {
                 GameObject newCharacter = Instantiate(characterBoxTemplate, characterBoxDerPosition);
                 RectTransform newCharacterRect = newCharacter.GetComponent<RectTransform>();
                 
-                // Posicionar el personaje según su índice en la lista
                 Vector2 position = Vector2.zero;
                 position.x = characterSpacing * rightCharacters.Count;
                 newCharacterRect.anchoredPosition = position;
@@ -190,7 +211,6 @@ public class DialogueUI : MonoBehaviour
             }
         }
 
-        // Eliminar personajes que ya no están en el diálogo actual
         while (characterNamesListed.Count > 0)
         {
             string characterNameToRemove = characterNamesListed[0];
@@ -201,7 +221,6 @@ public class DialogueUI : MonoBehaviour
             {
                 leftCharacters.Remove(characterToErase);
                 
-                // Reorganizar personajes a la izquierda que están después del eliminado
                 foreach (GameObject leftCharacter in leftCharacters)
                 {
                     RectTransform tempRectTransform = leftCharacter.GetComponent<RectTransform>();
@@ -218,7 +237,6 @@ public class DialogueUI : MonoBehaviour
             {
                 rightCharacters.Remove(characterToErase);
                 
-                // Reorganizar personajes a la derecha que están después del eliminado
                 foreach (GameObject rightCharacter in rightCharacters)
                 {
                     RectTransform tempRectTransform = rightCharacter.GetComponent<RectTransform>();
@@ -232,12 +250,10 @@ public class DialogueUI : MonoBehaviour
                 }
             }
             
-            // Eliminar del diccionario y lista de nombres
             characterDictionary.Remove(characterNameToRemove);
             characterNamesInScene.Remove(characterNameToRemove);
             characterNamesListed.RemoveAt(0);
             
-            // IMPORTANTE: Destruir el GameObject
             Destroy(characterToErase);
         }
     }
@@ -246,6 +262,7 @@ public class DialogueUI : MonoBehaviour
     {
         string talkingPersonName = dialogueObject.charactersName[dialogueObject.SpriteIndexes[dialogueIndex]];
         GameObject talkingPerson = null;
+        
         foreach (GameObject leftCharacter in leftCharacters)
         {
             if (characterDictionary[talkingPersonName] == leftCharacter)
@@ -258,6 +275,7 @@ public class DialogueUI : MonoBehaviour
                 leftCharacter.GetComponent<RectTransform>().localScale = new Vector3(scaledObscuredPeople, scaledObscuredPeople, scaledObscuredPeople);
             }
         }
+        
         foreach (GameObject rightCharacter in rightCharacters)
         {
             if (characterDictionary[talkingPersonName] == rightCharacter)

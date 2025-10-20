@@ -198,6 +198,7 @@ GameObject:
   - component: {fileID: 184590883294092865}
   - component: {fileID: 4387256767795548968}
   - component: {fileID: 6861525651457330978}
+  - component: {fileID: 8299258961095994411}
   m_Layer: 5
   m_Name: DialogueCanvas
   m_TagString: Untagged
@@ -300,7 +301,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1dcb5b076aad49c4b8e6b2032b40c068, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TypewritterEffect
-  typewriterSpeed: 15
+  typewriterSpeed: 25
+  shakeIntensity: 2
+  waveIntensity: 5
+  waveSpeed: 3
+  rainbowSpeed: 1
 --- !u!114 &4387256767795548968
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -336,6 +341,29 @@ MonoBehaviour:
   obscuredPeople: {r: 0.3529412, g: 0.3529412, b: 0.3529412, a: 1}
   scaledObscuredPeople: 0.8
   characterSpacing: 200
+--- !u!114 &8299258961095994411
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4709541143000056941}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7b51b5b0f7a383469e3d5b3bebcf2c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::InlineImageHandler
+  imageDatabase:
+  - key: frisk
+    sprite: {fileID: 5162997256646205289, guid: 65cad5022ccc83f4b8d07507d5b13200, type: 3}
+    sizeMultiplier: 50
+  - key: toriel
+    sprite: {fileID: -3182846144002117131, guid: ad1cf993c738ac04faca853f40504866, type: 3}
+    sizeMultiplier: 50
+  - key: shrek
+    sprite: {fileID: 993983420032589135, guid: c12de6364b77516409bd5b86b64708a6, type: 3}
+    sizeMultiplier: 50
+  imageTemplate: {fileID: 4635588075551323424, guid: 23ef9fcca9dbcdb41bae2c273d14a5cd, type: 3}
 --- !u!1 &4952115730944995374
 GameObject:
   m_ObjectHideFlags: 0
@@ -479,9 +507,9 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 50, y: -10}
-  m_SizeDelta: {x: 880, y: -20}
-  m_Pivot: {x: 0, y: 0.5}
+  m_AnchoredPosition: {x: 50, y: 0}
+  m_SizeDelta: {x: 1200, y: -20}
+  m_Pivot: {x: 0, y: 0}
 --- !u!222 &2803035232619391823
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -615,5 +643,5 @@ RectTransform:
   m_AnchorMin: {x: 1, y: 0}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: -10, y: 0}
-  m_SizeDelta: {x: 400, y: -20.000008}
+  m_SizeDelta: {x: 500, y: -20.000008}
   m_Pivot: {x: 1, y: 0.5}

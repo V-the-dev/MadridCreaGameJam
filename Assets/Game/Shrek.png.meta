@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: ad1cf993c738ac04faca853f40504866
+guid: c12de6364b77516409bd5b86b64708a6
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3182846144002117131
-    second: toriel_0
+      213: 993983420032589135
+    second: Shrek_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: toriel_0
+      name: Shrek_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 307
-        height: 310
+        x: 32
+        y: 12
+        width: 790
+        height: 1469
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5f13804ab4244d3d0800000000000000
-      internalID: -3182846144002117131
+      spriteID: f4d9ba777a65bcd00800000000000000
+      internalID: 993983420032589135
       vertices: []
       indices: 
       edges: []
@@ -125,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      toriel_0: -3182846144002117131
+      Shrek_0: 993983420032589135
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

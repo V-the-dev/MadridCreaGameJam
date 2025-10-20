@@ -15,7 +15,7 @@ MonoBehaviour:
   characters:
   - {fileID: 5162997256646205289, guid: 65cad5022ccc83f4b8d07507d5b13200, type: 3}
   - {fileID: -3182846144002117131, guid: ad1cf993c738ac04faca853f40504866, type: 3}
-  - {fileID: -5206141263336328892, guid: b54f04739bf1d444fb10cd0433057e15, type: 3}
+  - {fileID: 21300000, guid: b54f04739bf1d444fb10cd0433057e15, type: 3}
   charactersName:
   - Manolo
   - Juanito
