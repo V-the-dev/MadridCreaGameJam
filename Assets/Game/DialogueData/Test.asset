@@ -16,6 +16,8 @@ MonoBehaviour:
   - {fileID: 5162997256646205289, guid: 65cad5022ccc83f4b8d07507d5b13200, type: 3}
   charactersName:
   - Manolo
+  charactersTitle:
+  - "El m\xE1s guapolo"
   charactersSide: 00000000
   conversationLine:
   - dialogue: 'Hola pringaoooooo, me llamo <wave>Sereno</wave> y estoy <shake>alterao</shake>

@@ -7,6 +7,7 @@ public class DialogueObjectEditor : Editor
 {
     private SerializedProperty charactersProp = null;
     private SerializedProperty charactersNameProp = null;
+    private SerializedProperty charactersTitleProp = null;
     private SerializedProperty charactersSideProp = null;
     private SerializedProperty conversationLineProp = null;
     private SerializedProperty responsesProp = null;
@@ -15,6 +16,7 @@ public class DialogueObjectEditor : Editor
     {
         charactersProp = serializedObject.FindProperty("characters");
         charactersNameProp = serializedObject.FindProperty("charactersName");
+        charactersTitleProp = serializedObject.FindProperty("charactersTitle");
         charactersSideProp = serializedObject.FindProperty("charactersSide");
         conversationLineProp = serializedObject.FindProperty("conversationLine");
         responsesProp = serializedObject.FindProperty("responses");
@@ -32,22 +34,27 @@ public class DialogueObjectEditor : Editor
             GUILayout.BeginHorizontal();
 
             SerializedProperty nameProp = charactersNameProp.GetArrayElementAtIndex(i);
+            SerializedProperty titleProp = charactersTitleProp.GetArrayElementAtIndex(i);
             SerializedProperty spriteProp = charactersProp.GetArrayElementAtIndex(i);
             SerializedProperty sideProp = charactersSideProp.GetArrayElementAtIndex(i);
 
             // Campo para el nombre
-            EditorGUILayout.PropertyField(nameProp, GUIContent.none, GUILayout.Width(200));
+            EditorGUILayout.PropertyField(nameProp, GUIContent.none, GUILayout.Width(100));
 
+            // Campo para el titulo
+            EditorGUILayout.PropertyField(titleProp, GUIContent.none, GUILayout.Width(100));
+            
             // Campo para el sprite
             EditorGUILayout.PropertyField(spriteProp, GUIContent.none, GUILayout.Width(100));
 
             // Campo para el lado del sprite
-            EditorGUILayout.PropertyField(sideProp, GUIContent.none, GUILayout.Width(100));
+            EditorGUILayout.PropertyField(sideProp, GUIContent.none, GUILayout.Width(75));
 
             // Botón para eliminar
             if (GUILayout.Button("-", GUILayout.Width(20)))
             {
                 charactersNameProp.DeleteArrayElementAtIndex(i);
+                charactersTitleProp.DeleteArrayElementAtIndex(i);
                 charactersProp.DeleteArrayElementAtIndex(i);
                 charactersSideProp.DeleteArrayElementAtIndex(i);
                 GUILayout.EndHorizontal();
@@ -62,14 +69,17 @@ public class DialogueObjectEditor : Editor
         if (GUILayout.Button("Add Character"))
         {
             charactersNameProp.arraySize++;
+            charactersTitleProp.arraySize++;
             charactersProp.arraySize++;
             charactersSideProp.arraySize++;
 
             SerializedProperty newName = charactersNameProp.GetArrayElementAtIndex(charactersNameProp.arraySize - 1);
+            SerializedProperty newTitle = charactersTitleProp.GetArrayElementAtIndex(charactersTitleProp.arraySize - 1);
             SerializedProperty newSprite = charactersProp.GetArrayElementAtIndex(charactersProp.arraySize - 1);
             SerializedProperty newSide = charactersSideProp.GetArrayElementAtIndex(charactersSideProp.arraySize - 1);
 
             newName.stringValue = "New Character";
+            newTitle.stringValue = "New Title";
             newSprite.objectReferenceValue = null;
             newSide.enumValueIndex = 0; // Izquierda
         }

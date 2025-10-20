@@ -20,6 +20,10 @@ MonoBehaviour:
   - Manolo
   - Juanito
   - Pepe
+  charactersTitle:
+  - "El m\xE1s guapolo"
+  - El primo de pepito
+  - El tonto
   charactersSide: 000000000000000000000000
   conversationLine:
   - dialogue: Vete a la mierda, bro

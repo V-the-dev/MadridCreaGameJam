@@ -10,6 +10,8 @@ public class DialogueUI : MonoBehaviour
     [SerializeField]
     private GameObject dialogueBox;
     [SerializeField]
+    private GameObject nameTitleBox;
+    [SerializeField]
     private GameObject characterBoxTemplate;
     [SerializeField]
     private RectTransform characterBoxIzqPosition;
@@ -17,6 +19,10 @@ public class DialogueUI : MonoBehaviour
     private RectTransform characterBoxDerPosition;
     [SerializeField]
     private TMP_Text textLabel;
+    [SerializeField]
+    private TMP_Text nameLabel;
+    [SerializeField]
+    private TMP_Text titleLabel;
 
     [SerializeField] private Color obscuredPeople = new Color(0.3f, 0.3f, 0.3f, 1);
     [SerializeField] private float scaledObscuredPeople = 0.8f;
@@ -55,6 +61,7 @@ public class DialogueUI : MonoBehaviour
     {
         IsOpen = true;
         dialogueBox.SetActive(true);
+        nameTitleBox.SetActive(true);
         characterBoxIzqPosition.gameObject.SetActive(true);
         characterBoxDerPosition.gameObject.SetActive(true);
         SetCharacterSpritesInScene(dialogueObject);
@@ -97,6 +104,7 @@ public class DialogueUI : MonoBehaviour
             string dialogue = dialogueObject.Dialogue[i];
 
             SetTalkingOrders(dialogueObject, i);
+            SetNameAndTitle(dialogueObject, i);
 
             // Parsear el texto una sola vez antes del resto de la conversación
             ParsedText parsed = TextEffectParser.Parse(dialogue, imageHandler);
@@ -157,6 +165,7 @@ public class DialogueUI : MonoBehaviour
     {
         IsOpen = false;
         dialogueBox.SetActive(false);
+        nameTitleBox.SetActive(false);
         leftCharacters.Clear();
         rightCharacters.Clear();
         characterBoxIzqPosition.gameObject.SetActive(false);
@@ -296,5 +305,11 @@ public class DialogueUI : MonoBehaviour
             talkingPerson.transform.SetAsLastSibling();
             talkingPerson.GetComponent<RectTransform>().localScale = new Vector3(1, 1, 1);
         }
+    }
+
+    public void SetNameAndTitle(DialogueObject dialogueObject, int dialogueIndex)
+    {
+        nameLabel.text = dialogueObject.charactersName[dialogueObject.SpriteIndexes[dialogueIndex]];
+        titleLabel.text = dialogueObject.charactersTitle[dialogueObject.SpriteIndexes[dialogueIndex]];
     }
 }

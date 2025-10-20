@@ -18,6 +18,9 @@ MonoBehaviour:
   charactersName:
   - Manolo
   - Juanito
+  charactersTitle:
+  - New Title
+  - New Title
   charactersSide: 0000000000000000
   conversationLine:
   - dialogue: Hola tontito

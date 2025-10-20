@@ -16,6 +16,8 @@ MonoBehaviour:
   - {fileID: 1284004253462615347, guid: 4bc106d3a5f2dce4e95f847ebcf28ce2, type: 3}
   charactersName:
   - Padre Haro
+  charactersTitle:
+  - New Title
   charactersSide: 00000000
   conversationLine:
   - dialogue: "Ah, Sereno. Ya comienza tu jornada, y termina la m\xEDa."
