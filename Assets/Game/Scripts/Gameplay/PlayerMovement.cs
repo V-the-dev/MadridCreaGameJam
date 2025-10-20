@@ -53,7 +53,7 @@ public class PlayerMovement : MonoBehaviour
             SortByDistance();
         }
 
-        if (interactuables.Count > 0 && playerInput.actions["Interact"].WasPressedThisFrame())
+        if (interactuables.Count > 0 && playerInput.actions["Interact"].WasPressedThisFrame()&&Time.timeScale>0)
         {
             nearest.Interact(messageManager);
 
