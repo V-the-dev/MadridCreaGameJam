@@ -10,15 +10,18 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5272d69de47d6724f8fa0d53e5052b27, type: 3}
-  m_Name: Test_UI_NPC
+  m_Name: T1_Padre_Haro
   m_EditorClassIdentifier: Assembly-CSharp::DialogueObject
   characters:
   - {fileID: 1284004253462615347, guid: 4bc106d3a5f2dce4e95f847ebcf28ce2, type: 3}
+  - {fileID: 4599360421988549829, guid: 4bc106d3a5f2dce4e95f847ebcf28ce2, type: 3}
   charactersName:
   - Padre Haro
+  - Sereno
   charactersTitle:
-  - New Title
-  charactersSide: 00000000
+  - Sacerdote
+  - 
+  charactersSide: 0000000001000000
   conversationLine:
   - dialogue: "Ah, Sereno. Ya comienza tu jornada, y termina la m\xEDa."
     spriteIndex: 0
@@ -28,5 +31,9 @@ MonoBehaviour:
   - dialogue: "Ruego por las almas de los fieles, espero que todos est\xE9n bien."
     spriteIndex: 0
   responses:
-  - responseText: Solo Pruebo que funcione
+  - responseText: 1
+    dialogueObject: {fileID: 0}
+  - responseText: 2
+    dialogueObject: {fileID: 0}
+  - responseText: 3
     dialogueObject: {fileID: 0}

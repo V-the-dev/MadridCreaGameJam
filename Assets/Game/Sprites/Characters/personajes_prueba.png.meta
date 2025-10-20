@@ -128,10 +128,10 @@ TextureImporter:
       name: personajes_prueba_1
       rect:
         serializedVersion: 2
-        x: 677
-        y: 103
-        width: 401
-        height: 873
+        x: 678
+        y: 104
+        width: 399
+        height: 870
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
