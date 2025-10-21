@@ -1,13 +1,16 @@
 fileFormatVersion: 2
-guid: 4bc106d3a5f2dce4e95f847ebcf28ce2
+guid: e88eacf8b96cc7040b839cb5be66c468
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1284004253462615347
-    second: personajes_prueba_0
+      213: -224965562458684352
+    second: AnimUITest-6_0
   - first:
-      213: 4599360421988549829
-    second: personajes_prueba_1
+      213: 207673934964131049
+    second: AnimUITest-6_1
+  - first:
+      213: 9133226927678682758
+    second: AnimUITest-6_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -99,49 +102,97 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: personajes_prueba_0
+      name: AnimUITest-6_0
       rect:
         serializedVersion: 2
-        x: 165
-        y: 105
-        width: 405
-        height: 758
+        x: 163
+        y: 89
+        width: 1571
+        height: 1896
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 335dab9c013b1d110800000000000000
-      internalID: 1284004253462615347
+      spriteID: 04444fa4303c0ecf0800000000000000
+      internalID: -224965562458684352
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: personajes_prueba_1
+      name: AnimUITest-6_1
       rect:
         serializedVersion: 2
-        x: 678
-        y: 104
-        width: 399
-        height: 870
+        x: 1268
+        y: 1974
+        width: 12
+        height: 12
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5c44e927fe534df30800000000000000
-      internalID: 4599360421988549829
+      spriteID: 9e405a2f75ec1e200800000000000000
+      internalID: 207673934964131049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimUITest-6_2
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1972
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686f155308dbfbe70800000000000000
+      internalID: 9133226927678682758
       vertices: []
       indices: 
       edges: []
@@ -150,7 +201,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: eed53f5cf0ff9be43b832cfea20f1379
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -160,8 +211,9 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      personajes_prueba_0: 1284004253462615347
-      personajes_prueba_1: 4599360421988549829
+      AnimUITest-6_0: -224965562458684352
+      AnimUITest-6_1: 207673934964131049
+      AnimUITest-6_2: 9133226927678682758
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
