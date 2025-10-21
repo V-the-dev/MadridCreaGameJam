@@ -1,6 +1,8 @@
 ﻿using UnityEngine;
 using UnityEditor;
 using System.Collections.Generic;
+using UnityEngine.Animations;
+using UnityEditor.ShaderGraph.Internal;
 
 public class EditorMapTool : EditorWindow
 {
@@ -180,7 +182,21 @@ public class EditorMapTool : EditorWindow
             EditorGUILayout.HelpBox("Selecciona un prefab para ajustar transformaciones.", MessageType.Info);
         }
 
-        // Visibility toggle
+        GUILayout.Space(10);
+        GUILayout.Label("Alineamiento de Posición", EditorStyles.boldLabel);
+
+        EditorGUILayout.BeginHorizontal();
+
+        if (GUILayout.Button("X")) AlignObjectsPosition(new Vector3(1, 0, 0));
+        if (GUILayout.Button("Y")) AlignObjectsPosition(new Vector3(0, 1, 0));
+        if (GUILayout.Button("Z")) AlignObjectsPosition(new Vector3(0, 0, 1));
+
+        EditorGUILayout.EndHorizontal();
+
+        GUILayout.Space(10);
+        GUILayout.Label("Alineamiento de Rotación", EditorStyles.boldLabel);
+        if (GUILayout.Button("Z")) AlignObjectsRotationZ();
+
         GUILayout.Space(10);
         if (GUILayout.Button("Alternar Visibilidad"))
         {
@@ -496,6 +512,55 @@ public class EditorMapTool : EditorWindow
         float x = Mathf.Round(position.x / gridSize) * gridSize;
         float y = Mathf.Round(position.y / gridSize) * gridSize;
         return new Vector3(x, y, position.z);
+    }
+
+    public static void AlignObjectsPosition(Vector3 axisMask)
+    {
+        if (Selection.gameObjects.Length < 2)
+        {
+            Debug.LogWarning("Selecciona al menos dos objetos para alinear.");
+            return;
+        }
+
+        // El primer objeto seleccionado es la referencia
+        Transform reference = Selection.gameObjects[0].transform;
+        Vector3 refPos = reference.position;
+
+        foreach (GameObject obj in Selection.gameObjects)
+        {
+            if (obj == reference.gameObject) continue;
+
+            Vector3 pos = obj.transform.position;
+
+            // Solo copiamos las coordenadas que correspondan al eje (máscara 1 = copia, 0 = mantiene)
+            pos.x = axisMask.x != 0 ? refPos.x : pos.x;
+            pos.y = axisMask.y != 0 ? refPos.y : pos.y;
+            pos.z = axisMask.z != 0 ? refPos.z : pos.z;
+
+            Undo.RecordObject(obj.transform, "Align Position");
+            obj.transform.position = pos;
+        }
+    }
+
+    // Alinear rotaciones solo en Z
+    public static void AlignObjectsRotationZ()
+    {
+        if (Selection.gameObjects.Length < 2)
+            return;
+
+        Transform reference = Selection.gameObjects[0].transform;
+        float refRotZ = reference.eulerAngles.z;
+
+        foreach (GameObject obj in Selection.gameObjects)
+        {
+            if (obj == reference.gameObject) continue;
+
+            Vector3 rot = obj.transform.eulerAngles;
+            rot.z = refRotZ;
+
+            Undo.RecordObject(obj.transform, "Align Rotation Z");
+            obj.transform.eulerAngles = rot;
+        }
     }
 
     //Gestiona la creación del objeto preview
