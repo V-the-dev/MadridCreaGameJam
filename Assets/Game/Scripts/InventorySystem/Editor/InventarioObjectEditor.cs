@@ -9,7 +9,6 @@ public class InventarioObjectEditor : Editor
     private SerializedProperty eventosProp;
     
     private bool mostrarMonedas = true;
-    private bool mostrarEstados = true;
     private bool mostrarObjetosClave = true;
     private bool mostrarEventos = true;
     private Dictionary<int, bool> eventosExpandidos = new Dictionary<int, bool>();
@@ -29,14 +28,10 @@ public class InventarioObjectEditor : Editor
         EditorGUILayout.Space(5);
 
         // OBJETOS
-        EditorGUILayout.LabelField("═══════════ OBJETOS ═══════════", EditorStyles.boldLabel);
+        EditorGUILayout.LabelField("════════════════ OBJETOS ════════════════", EditorStyles.boldLabel);
         
         // Monedas
         DibujarSeccionMonedas();
-        EditorGUILayout.Space(10);
-
-        // Estados
-        DibujarSeccionEstados();
         EditorGUILayout.Space(10);
 
         // Objetos Clave
@@ -44,7 +39,7 @@ public class InventarioObjectEditor : Editor
         EditorGUILayout.Space(15);
 
         // EVENTOS
-        EditorGUILayout.LabelField("═══════════ EVENTOS ═══════════", EditorStyles.boldLabel);
+        EditorGUILayout.LabelField("════════════════ EVENTOS ════════════════", EditorStyles.boldLabel);
         DibujarSeccionEventos();
 
         serializedObject.ApplyModifiedProperties();
@@ -73,56 +68,17 @@ public class InventarioObjectEditor : Editor
                 
                 SerializedProperty moneda = monedasProp.GetArrayElementAtIndex(i);
                 SerializedProperty nombre = moneda.FindPropertyRelative("nombre");
+                SerializedProperty sprite = moneda.FindPropertyRelative("sprite");
                 SerializedProperty valor = moneda.FindPropertyRelative("valor");
 
                 EditorGUILayout.LabelField($"#{i}", GUILayout.Width(30));
-                EditorGUILayout.PropertyField(nombre, GUIContent.none, GUILayout.Width(200));
-                EditorGUILayout.PropertyField(valor, GUIContent.none, GUILayout.Width(80));
-
-                if (GUILayout.Button("×", GUILayout.Width(25)))
-                {
-                    monedasProp.DeleteArrayElementAtIndex(i);
-                }
-
-                EditorGUILayout.EndHorizontal();
-                EditorGUILayout.EndVertical();
-            }
-            
-            EditorGUI.indentLevel--;
-        }
-    }
-
-    private void DibujarSeccionEstados()
-    {
-        SerializedProperty estadosProp = objetosProp.FindPropertyRelative("estados");
-        
-        mostrarEstados = EditorGUILayout.Foldout(mostrarEstados, $"Estados ({estadosProp.arraySize})", true, EditorStyles.foldoutHeader);
-        
-        if (mostrarEstados)
-        {
-            EditorGUI.indentLevel++;
-            
-            if (GUILayout.Button("+ Añadir Estado"))
-            {
-                estadosProp.InsertArrayElementAtIndex(estadosProp.arraySize);
-            }
-
-            for (int i = 0; i < estadosProp.arraySize; i++)
-            {
-                EditorGUILayout.BeginVertical(EditorStyles.helpBox);
-                EditorGUILayout.BeginHorizontal();
-                
-                SerializedProperty estado = estadosProp.GetArrayElementAtIndex(i);
-                SerializedProperty nombre = estado.FindPropertyRelative("nombre");
-                SerializedProperty valor = estado.FindPropertyRelative("valor");
-
-                EditorGUILayout.LabelField($"#{i}", GUILayout.Width(30));
-                EditorGUILayout.PropertyField(nombre, GUIContent.none, GUILayout.Width(200));
+                EditorGUILayout.PropertyField(nombre, GUIContent.none, GUILayout.Width(150));
+                EditorGUILayout.PropertyField(sprite, GUIContent.none, GUILayout.Width(130));
                 EditorGUILayout.PropertyField(valor, GUIContent.none, GUILayout.Width(120));
 
                 if (GUILayout.Button("×", GUILayout.Width(25)))
                 {
-                    estadosProp.DeleteArrayElementAtIndex(i);
+                    monedasProp.DeleteArrayElementAtIndex(i);
                 }
 
                 EditorGUILayout.EndHorizontal();
@@ -155,10 +111,12 @@ public class InventarioObjectEditor : Editor
                 
                 SerializedProperty objetoClave = objetosClaveProp.GetArrayElementAtIndex(i);
                 SerializedProperty nombre = objetoClave.FindPropertyRelative("nombre");
+                SerializedProperty sprite = objetoClave.FindPropertyRelative("sprite");
                 SerializedProperty valor = objetoClave.FindPropertyRelative("valor");
 
                 EditorGUILayout.LabelField($"#{i}", GUILayout.Width(30));
-                EditorGUILayout.PropertyField(nombre, GUIContent.none, GUILayout.Width(200));
+                EditorGUILayout.PropertyField(nombre, GUIContent.none, GUILayout.Width(150));
+                EditorGUILayout.PropertyField(sprite, GUIContent.none, GUILayout.Width(130));
                 EditorGUILayout.PropertyField(valor, GUIContent.none, GUILayout.Width(120));
 
                 if (GUILayout.Button("×", GUILayout.Width(25)))
@@ -186,41 +144,20 @@ public class InventarioObjectEditor : Editor
             {
                 eventosProp.InsertArrayElementAtIndex(eventosProp.arraySize);
                 SerializedProperty nuevoEvento = eventosProp.GetArrayElementAtIndex(eventosProp.arraySize - 1);
-                SerializedProperty diccionario = nuevoEvento.FindPropertyRelative("diccionario");
-                // Asegurar que el nuevo evento tenga exactamente un elemento en el diccionario
-                diccionario.ClearArray();
-                diccionario.InsertArrayElementAtIndex(0);
+                SerializedProperty nombre = nuevoEvento.FindPropertyRelative("nombre");
                 eventosExpandidos[eventosProp.arraySize - 1] = true;
             }
 
             for (int i = 0; i < eventosProp.arraySize; i++)
             {
                 SerializedProperty evento = eventosProp.GetArrayElementAtIndex(i);
-                SerializedProperty diccionario = evento.FindPropertyRelative("diccionario");
 
-                // Asegurar que siempre haya exactamente un elemento
-                if (diccionario.arraySize == 0)
-                {
-                    diccionario.InsertArrayElementAtIndex(0);
-                }
-                else if (diccionario.arraySize > 1)
-                {
-                    while (diccionario.arraySize > 1)
-                    {
-                        diccionario.DeleteArrayElementAtIndex(diccionario.arraySize - 1);
-                    }
-                }
-
-                // Obtener el nombre del diccionario para usarlo como título
+                // Obtener el nombre para usarlo como título
                 string nombreEvento = "Evento sin nombre";
-                if (diccionario.arraySize > 0)
+                SerializedProperty nombre = evento.FindPropertyRelative("nombre");
+                if (!string.IsNullOrEmpty(nombre.stringValue))
                 {
-                    SerializedProperty elemento = diccionario.GetArrayElementAtIndex(0);
-                    SerializedProperty nombre = elemento.FindPropertyRelative("nombre");
-                    if (!string.IsNullOrEmpty(nombre.stringValue))
-                    {
-                        nombreEvento = nombre.stringValue;
-                    }
+                    nombreEvento = nombre.stringValue;
                 }
 
                 // Asegurar que existe la entrada en el diccionario
@@ -252,25 +189,18 @@ public class InventarioObjectEditor : Editor
                     SerializedProperty isLoopPersistent = evento.FindPropertyRelative("isLoopPersistent");
                     SerializedProperty startValue = evento.FindPropertyRelative("startValue");
 
-                    EditorGUILayout.PropertyField(isLoopPersistent, new GUIContent("Is Loop Persistent"));
-                    EditorGUILayout.PropertyField(startValue, new GUIContent("Start Value"));
-
-                    EditorGUILayout.Space(5);
-
                     // Mostrar el único elemento del diccionario
-                    SerializedProperty elemento = diccionario.GetArrayElementAtIndex(0);
-                    SerializedProperty nombreDic = elemento.FindPropertyRelative("nombre");
-                    SerializedProperty valorDic = elemento.FindPropertyRelative("valor");
+                    SerializedProperty nombreDic = evento.FindPropertyRelative("nombre");
 
                     EditorGUILayout.BeginHorizontal();
                     EditorGUILayout.LabelField("Nombre:", GUILayout.Width(60));
                     EditorGUILayout.PropertyField(nombreDic, GUIContent.none);
                     EditorGUILayout.EndHorizontal();
 
-                    EditorGUILayout.BeginHorizontal();
-                    EditorGUILayout.LabelField("Valor:", GUILayout.Width(60));
-                    EditorGUILayout.PropertyField(valorDic, GUIContent.none);
-                    EditorGUILayout.EndHorizontal();
+                    EditorGUILayout.Space(5);
+
+                    EditorGUILayout.PropertyField(isLoopPersistent, new GUIContent("Is Loop Persistent"));
+                    EditorGUILayout.PropertyField(startValue, new GUIContent("Start Value"));
                 }
 
                 EditorGUILayout.EndVertical();

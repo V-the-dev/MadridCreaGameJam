@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c103153fa96457541a7aff906030dd54, type: 3}
+  m_Name: GameInventory
+  m_EditorClassIdentifier: Assembly-CSharp::InventarioObject
+  objetos:
+    monedas:
+    - nombre: pesetas
+      sprite: {fileID: 7696206910382328649, guid: 4d51074d49a0553438533c59afe24c90, type: 3}
+      valor: 50
+    - nombre: pan
+      sprite: {fileID: 4969764150213461430, guid: 7b9075163f32ac14fb9fb973d6e128a9, type: 3}
+      valor: 0
+    objetosClave:
+    - nombre: farol
+      sprite: {fileID: -4194584041537302659, guid: 9ef23ad098da5ac429826265ca6610b4, type: 3}
+      valor: 0
+    - nombre: chuzo
+      sprite: {fileID: 993983420032589135, guid: c12de6364b77516409bd5b86b64708a6, type: 3}
+      valor: 1
+  eventos: []

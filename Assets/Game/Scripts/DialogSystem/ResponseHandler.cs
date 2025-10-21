@@ -76,6 +76,16 @@ public class ResponseHandler : MonoBehaviour
 
         if (response.DialogueObject)
         {
+            DialogueActivator dialogueActivator = MessageManager.Instance.dialogueActivator;
+            dialogueActivator.UpdateDialogueObject(response.DialogueObject);
+            foreach (DialogueResponseEvents responseEvents in dialogueActivator.GetComponents<DialogueResponseEvents>())
+            {
+                if(responseEvents.DialogueObject == response.DialogueObject)
+                {
+                    MessageManager.Instance.DialogueUI.AddResponseEvents(responseEvents.Events);
+                    break;
+                }
+            }
             dialogueUI.ShowDialogue(response.DialogueObject);
         }
         else

@@ -2,6 +2,8 @@ using UnityEngine;
 
 public class MessageManager : MonoBehaviour
 {
+    public static MessageManager Instance { get; private set; }
+ 
     [SerializeField]
     private DialogueUI dialogueUI;
 
@@ -10,6 +12,19 @@ public class MessageManager : MonoBehaviour
     [HideInInspector]
     public DialogueActivator dialogueActivator = null;
 
+    private void Awake()
+    {
+        if (Instance == null)
+        {
+            Instance = this;
+        }
+        else
+        {
+            Destroy(gameObject);
+            return;
+        }
+    }
+    
     private void Start()
     {
         if (dialogueActivator == null)
