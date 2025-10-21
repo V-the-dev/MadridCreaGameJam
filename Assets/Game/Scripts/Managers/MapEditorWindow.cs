@@ -166,9 +166,9 @@ public class EditorMapTool : EditorWindow
         GUILayout.Space(10);
         GUILayout.Label("Controles de Transformación", EditorStyles.boldLabel);
         snapTransformations = GUILayout.Toggle(snapTransformations, "Activar Snap en Transformaciones");
-        scaleIncrement = EditorGUILayout.Slider("Incremento Escala", scaleIncrement, 0.05f, 0.5f);
-        rotationIncrement = EditorGUILayout.Slider("Incremento Rotación", rotationIncrement, 5f, 45f);
-        depthIncrement = EditorGUILayout.Slider("Incremento Profundidad", depthIncrement, 0.1f, 2f);
+        scaleIncrement = EditorGUILayout.Slider("Incremento Escala", scaleIncrement, 0.05f, 1f);
+        rotationIncrement = EditorGUILayout.Slider("Incremento Rotación", rotationIncrement, 1f, 45f);
+        depthIncrement = EditorGUILayout.Slider("Incremento Profundidad", depthIncrement, 1f, 2f);
 
         if (previewObject != null)
         {
