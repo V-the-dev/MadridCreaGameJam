@@ -24,8 +24,8 @@ public class PlayerMovement : MonoBehaviour
     private PlayerInput playerInput;
     private Vector2 inputVector;
 
-    public IInteractuable nearest;
-    private Dictionary<Collider2D, IInteractuable> interactuables = new Dictionary<Collider2D, IInteractuable>();
+    public InteractableObject nearest;
+    private Dictionary<Collider2D, InteractableObject> interactuables = new Dictionary<Collider2D, InteractableObject>();
 
     private void Awake()
     {
@@ -55,7 +55,7 @@ public class PlayerMovement : MonoBehaviour
 
         if (interactuables.Count > 0 && playerInput.actions["Interact"].WasPressedThisFrame()&&Time.timeScale>0)
         {
-            nearest.Interact(messageManager);
+            nearest.Trigger();
 
         }
     }
@@ -69,7 +69,7 @@ public class PlayerMovement : MonoBehaviour
     {
         if (collision.CompareTag("Interactuable"))
         {
-            var interactuable = collision.GetComponentInParent<IInteractuable>();
+            var interactuable = collision.GetComponentInParent<InteractableObject>();
 
             if (interactuable != null && !interactuables.ContainsKey(collision))
             {
@@ -103,7 +103,7 @@ public class PlayerMovement : MonoBehaviour
         }
 
         float minDist = float.MaxValue;
-        KeyValuePair<Collider2D, IInteractuable> nearestKvp = default;
+        KeyValuePair<Collider2D, InteractableObject> nearestKvp = default;
         bool found = false;
 
         foreach (var kvp in interactuables)
@@ -123,7 +123,7 @@ public class PlayerMovement : MonoBehaviour
 
         if (found)
         {
-            IInteractuable newNearest = nearestKvp.Value;
+            InteractableObject newNearest = nearestKvp.Value;
 
             // Solo si el más cercano ha cambiado sew actualiza el indicador
             if (nearest != newNearest)

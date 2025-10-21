@@ -1,8 +1,7 @@
 using UnityEngine;
 
-public class NPCcontroller : MonoBehaviour , IInteractuable
+public class NPCcontroller :  InteractableObject
 {
-    private GameObject exclamation;
 
     [SerializeField]
     private DialogueObject dialogueObject;
@@ -10,17 +9,22 @@ public class NPCcontroller : MonoBehaviour , IInteractuable
     void Awake()
     {
         exclamation = transform.GetChild(2).gameObject;
+        messageManager= MessageManager.Instance;
+
+        if(messageManager != null )
+        {
+            Debug.Log("Message Manager found in NPCcontroller");
+        }
+        else
+        {
+            Debug.LogError("Message Manager NOT found in NPCcontroller");
+        }
     }
 
-    void IInteractuable.Interact(MessageManager messageManager)
+    override public void  Trigger()
     {
-        messageManager.dialogueActivator.UpdateDialogueObject(dialogueObject);
-        
-        messageManager.Interact();
-    }
+        MessageManager.Instance.dialogueActivator.UpdateDialogueObject(dialogueObject);
 
-    public void NearestIndicator(bool activate)
-    {
-        exclamation.SetActive(activate);
+        MessageManager.Instance.Interact();
     }
 }

@@ -1,10 +1,10 @@
 using UnityEngine;
 
-public class DoorController : MonoBehaviour , IInteractuable
+public class DoorController : InteractableObject
 {
     private BoxCollider2D door;
     private BoxCollider2D zone;
-    private GameObject exclamation;
+
     private void Awake()
     {
         door = transform.GetChild(0).GetComponent<BoxCollider2D>();
@@ -12,12 +12,7 @@ public class DoorController : MonoBehaviour , IInteractuable
         exclamation = transform.GetChild(2).gameObject;
     }
 
-    public void NearestIndicator(bool activate)
-    {
-        exclamation.SetActive(activate);
-    }
-
-    public void Interact(MessageManager messageManager)
+    override public void Trigger()
     {
         door.enabled=false;     //ahora mismo la puerta es de un solo uso
         zone.enabled=false;
