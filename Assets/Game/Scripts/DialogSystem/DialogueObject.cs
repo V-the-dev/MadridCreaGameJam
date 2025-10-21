@@ -28,6 +28,10 @@ public class DialogueObject : ScriptableObject
     public string[] charactersTitle = Array.Empty<string>();
     
     public SpriteSide[] charactersSide = Array.Empty<SpriteSide>();
+
+    public bool mainCharacterWhenResponses = false;
+
+    public int mainCharacterIndex = 0;
     
     public ConversationLine[] conversationLine = Array.Empty<ConversationLine>();
     
@@ -45,6 +49,8 @@ public class DialogueObject : ScriptableObject
     public string[] CharactersTitle => charactersTitle;
     
     public SpriteSide[] CharactersSide => charactersSide;
+    
+    public bool MainCharacterWhenResponses => mainCharacterWhenResponses;
     
     public bool HasResponses => responses != null && responses.Length > 0;
     

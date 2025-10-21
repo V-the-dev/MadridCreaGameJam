@@ -19,6 +19,8 @@ MonoBehaviour:
   charactersTitle:
   - "El m\xE1s guapolo"
   charactersSide: 00000000
+  mainCharacterWhenResponses: 0
+  mainCharacterIndex: 0
   conversationLine:
   - dialogue: 'Hola pringaoooooo, me llamo <wave>Sereno</wave> y estoy <shake>alterao</shake>
 

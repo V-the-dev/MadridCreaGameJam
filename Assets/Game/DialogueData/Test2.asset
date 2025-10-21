@@ -25,6 +25,8 @@ MonoBehaviour:
   - El primo de pepito
   - El tonto
   charactersSide: 000000000000000000000000
+  mainCharacterWhenResponses: 0
+  mainCharacterIndex: 0
   conversationLine:
   - dialogue: Vete a la mierda, bro
     spriteIndex: 1

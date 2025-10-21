@@ -9,6 +9,8 @@ public class DialogueObjectEditor : Editor
     private SerializedProperty charactersNameProp = null;
     private SerializedProperty charactersTitleProp = null;
     private SerializedProperty charactersSideProp = null;
+    private SerializedProperty mainCharacterWhenResponsesProp = null;
+    private SerializedProperty mainCharacterIndexProp = null;
     private SerializedProperty conversationLineProp = null;
     private SerializedProperty responsesProp = null;
 
@@ -18,6 +20,8 @@ public class DialogueObjectEditor : Editor
         charactersNameProp = serializedObject.FindProperty("charactersName");
         charactersTitleProp = serializedObject.FindProperty("charactersTitle");
         charactersSideProp = serializedObject.FindProperty("charactersSide");
+        mainCharacterWhenResponsesProp = serializedObject.FindProperty("mainCharacterWhenResponses");
+        mainCharacterIndexProp = serializedObject.FindProperty("mainCharacterIndex");
         conversationLineProp = serializedObject.FindProperty("conversationLine");
         responsesProp = serializedObject.FindProperty("responses");
     }
@@ -64,7 +68,7 @@ public class DialogueObjectEditor : Editor
 
             GUILayout.EndHorizontal();
         }
-
+        
         // Botón para agregar un nuevo personaje
         if (GUILayout.Button("Add Character"))
         {
@@ -83,6 +87,36 @@ public class DialogueObjectEditor : Editor
             newSprite.objectReferenceValue = null;
             newSide.enumValueIndex = 0; // Izquierda
         }
+
+        GUILayout.BeginHorizontal();
+        {
+            // Etiqueta
+            EditorGUILayout.LabelField("Focus Main Character When Responses", GUILayout.Width(240));
+
+            // Checkbox (mantiene tamaño fijo)
+            EditorGUI.indentLevel = 0;
+            EditorGUILayout.PropertyField(mainCharacterWhenResponsesProp, GUIContent.none, GUILayout.Width(20));
+
+            // Popup inmediatamente después del bool (solo si está activo)
+            if (mainCharacterWhenResponsesProp.boolValue)
+            {
+                string[] characterNames = new string[charactersNameProp.arraySize];
+                for (int j = 0; j < charactersNameProp.arraySize; j++)
+                {
+                    characterNames[j] = charactersNameProp.GetArrayElementAtIndex(j).stringValue;
+                }
+
+                mainCharacterIndexProp.intValue = EditorGUILayout.Popup(
+                    mainCharacterIndexProp.intValue,
+                    characterNames,
+                    GUILayout.Width(150) // ancho del popup
+                );
+            }
+
+            GUILayout.FlexibleSpace(); // empuja todo a la izquierda si sobra espacio
+        }
+        GUILayout.EndHorizontal();
+
 
         EditorGUILayout.Space();
 

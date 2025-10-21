@@ -127,8 +127,9 @@ public class DialogueUI : MonoBehaviour
             // - textLabel.text tiene el parsed.cleanText con los espacios
             // - maxVisibleCharacters está en parsed.cleanText.Length
 
-            if (i == dialogueObject.Dialogue.Length - 1 && dialogueObject.HasResponses)
-                break;
+            // Esto ha sido comentado para que antes de las respuestas aparezca la flechita
+            // if (i == dialogueObject.Dialogue.Length - 1 && dialogueObject.HasResponses)
+            //     break;
 
             yield return null;
             yield return new WaitUntil(() => _acceptAction.WasReleasedThisFrame());
@@ -146,6 +147,10 @@ public class DialogueUI : MonoBehaviour
             // Cuando termine el texto muestra la flechita
             flechita.SetActive(false);
             responseHandler.ShowResponses(dialogueObject.Responses);
+            if (dialogueObject.MainCharacterWhenResponses)
+            {
+                FocusOnCharacter(dialogueObject, dialogueObject.mainCharacterIndex);
+            }
         }
         else
         {
@@ -278,9 +283,10 @@ public class DialogueUI : MonoBehaviour
         }
     }
 
-    public void SetTalkingOrders(DialogueObject dialogueObject, int dialogueIndex)
+    public void FocusOnCharacter(DialogueObject dialogueObject, int characterIndex)
     {
-        string talkingPersonName = dialogueObject.charactersName[dialogueObject.SpriteIndexes[dialogueIndex]];
+        string talkingPersonName = dialogueObject.charactersName[characterIndex];
+        
         GameObject talkingPerson = null;
         
         foreach (GameObject leftCharacter in leftCharacters)
@@ -316,6 +322,12 @@ public class DialogueUI : MonoBehaviour
             talkingPerson.transform.SetAsLastSibling();
             talkingPerson.GetComponent<RectTransform>().localScale = new Vector3(1, 1, 1);
         }
+    }
+    
+    public void SetTalkingOrders(DialogueObject dialogueObject, int dialogueIndex)
+    {
+        int characterIndex = dialogueObject.SpriteIndexes[dialogueIndex];
+        FocusOnCharacter(dialogueObject, characterIndex);
     }
 
     public void SetNameAndTitle(DialogueObject dialogueObject, int dialogueIndex)
