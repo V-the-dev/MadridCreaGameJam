@@ -14,17 +14,95 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::InventarioObject
   objetos:
     monedas:
-    - nombre: pesetas
+    - nombre: Pesetas
       sprite: {fileID: 7696206910382328649, guid: 4d51074d49a0553438533c59afe24c90, type: 3}
-      valor: 50
-    - nombre: pan
+      valor: 0
+    - nombre: Chatarra
+      sprite: {fileID: 4969764150213461430, guid: 7b9075163f32ac14fb9fb973d6e128a9, type: 3}
+      valor: 0
+    - nombre: Pan
       sprite: {fileID: 4969764150213461430, guid: 7b9075163f32ac14fb9fb973d6e128a9, type: 3}
       valor: 0
     objetosClave:
-    - nombre: farol
+    - nombre: Farol
       sprite: {fileID: -4194584041537302659, guid: 9ef23ad098da5ac429826265ca6610b4, type: 3}
       valor: 0
-    - nombre: chuzo
+    - nombre: Chuzo
       sprite: {fileID: 993983420032589135, guid: c12de6364b77516409bd5b86b64708a6, type: 3}
       valor: 1
-  eventos: []
+    - nombre: "Jam\xF3n"
+      sprite: {fileID: 993983420032589135, guid: c12de6364b77516409bd5b86b64708a6, type: 3}
+      valor: 1
+    - nombre: Reloj
+      sprite: {fileID: 993983420032589135, guid: c12de6364b77516409bd5b86b64708a6, type: 3}
+      valor: 1
+    - nombre: Llaves
+      sprite: {fileID: 993983420032589135, guid: c12de6364b77516409bd5b86b64708a6, type: 3}
+      valor: 1
+    - nombre: Licor
+      sprite: {fileID: 993983420032589135, guid: c12de6364b77516409bd5b86b64708a6, type: 3}
+      valor: 1
+  eventos:
+  - isLoopPersistent: 0
+    startValue: 0
+    nombre: Nuevo (Benavide)
+  - isLoopPersistent: 0
+    startValue: 0
+    nombre: "Ladr\xF3n derrotado"
+  - isLoopPersistent: 0
+    startValue: 0
+    nombre: Amante retirado
+  - isLoopPersistent: 0
+    startValue: 0
+    nombre: Acceso ruinas
+  - isLoopPersistent: 0
+    startValue: 0
+    nombre: "Acceso mansi\xF3n"
+  - isLoopPersistent: 0
+    startValue: 0
+    nombre: Bernardo (info)
+  - isLoopPersistent: 0
+    startValue: 0
+    nombre: Manuel (info)
+  - isLoopPersistent: 0
+    startValue: 0
+    nombre: "Pared\xF3n looteado"
+  - isLoopPersistent: 0
+    startValue: 0
+    nombre: Mendigo salvado
+  - isLoopPersistent: 0
+    startValue: 0
+    nombre: Propietarios ayudados
+  - isLoopPersistent: 0
+    startValue: 0
+    nombre: Apuesta realizada
+  - isLoopPersistent: 0
+    startValue: 0
+    nombre: Perro muerto
+  - isLoopPersistent: 0
+    startValue: 0
+    nombre: Perro alimentado
+  - isLoopPersistent: 0
+    startValue: 0
+    nombre: Licor robado
+  - isLoopPersistent: 0
+    startValue: 0
+    nombre: Padre Haro
+  - isLoopPersistent: 0
+    startValue: 0
+    nombre: Viuda
+  - isLoopPersistent: 0
+    startValue: 0
+    nombre: Benavide
+  - isLoopPersistent: 0
+    startValue: 0
+    nombre: Agente
+  - isLoopPersistent: 0
+    startValue: 0
+    nombre: "Cad\xE1ver"
+  - isLoopPersistent: 0
+    startValue: 0
+    nombre: Tumbas
+  - isLoopPersistent: 0
+    startValue: 0
+    nombre: "Ni\xF1a retirada"
