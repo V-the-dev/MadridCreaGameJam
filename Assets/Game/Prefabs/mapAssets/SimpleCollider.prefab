@@ -11,8 +11,8 @@ GameObject:
   - component: {fileID: 2377891007791243612}
   - component: {fileID: 3368594278818850089}
   - component: {fileID: 8859630633418723805}
-  m_Layer: 10
-  m_Name: CameraLimit
+  m_Layer: 6
+  m_Name: SimpleCollider
   m_TagString: HideMapTag
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -81,7 +81,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
-  m_Color: {r: 0.754717, g: 0.13883947, b: 0.6384649, a: 1}
+  m_Color: {r: 0.7529412, g: 0.4800201, b: 0.13725488, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
