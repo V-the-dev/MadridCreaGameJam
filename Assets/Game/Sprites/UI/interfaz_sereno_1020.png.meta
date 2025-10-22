@@ -563,28 +563,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chat_box_item
-      rect:
-        serializedVersion: 2
-        x: 26
-        y: 2296
-        width: 1534
-        height: 997
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c6f5c58d44c29f7479ecc801a02dacb4
-      internalID: -3538759261098095107
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: arrow_1
       rect:
         serializedVersion: 2
@@ -734,28 +712,6 @@ TextureImporter:
       bones: []
       spriteID: c2c56c5d4ab56d240a018f8b8d0f2513
       internalID: -2065606688
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: chat_box_npc
-      rect:
-        serializedVersion: 2
-        x: 56
-        y: 93
-        width: 2122
-        height: 986
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d3413967afb1738478ad04f963cb0724
-      internalID: -1962530762
       vertices: []
       indices: 
       edges: []
