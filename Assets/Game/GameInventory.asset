@@ -45,49 +45,49 @@ MonoBehaviour:
   eventos:
   - isLoopPersistent: 0
     startValue: 0
-    nombre: Nuevo (Benavide)
+    nombre: Nuevo_Benavide
   - isLoopPersistent: 0
     startValue: 0
-    nombre: "Ladr\xF3n derrotado"
+    nombre: Ladron_Derrotado
   - isLoopPersistent: 0
     startValue: 0
-    nombre: Amante retirado
+    nombre: Amante_Retirado
   - isLoopPersistent: 0
     startValue: 0
-    nombre: Acceso ruinas
+    nombre: Acceso_Ruinas
   - isLoopPersistent: 0
     startValue: 0
-    nombre: "Acceso mansi\xF3n"
+    nombre: Acceso_Mansion
   - isLoopPersistent: 0
     startValue: 0
-    nombre: Bernardo (info)
+    nombre: Bernardo_Info
   - isLoopPersistent: 0
     startValue: 0
-    nombre: Manuel (info)
+    nombre: Manuel_Info
   - isLoopPersistent: 0
     startValue: 0
-    nombre: "Pared\xF3n looteado"
+    nombre: Paredon_Looteado
   - isLoopPersistent: 0
     startValue: 0
-    nombre: Mendigo salvado
+    nombre: Mendigo_Salvado
   - isLoopPersistent: 0
     startValue: 0
-    nombre: Propietarios ayudados
+    nombre: Propietarios_Ayudados
   - isLoopPersistent: 0
     startValue: 0
-    nombre: Apuesta realizada
+    nombre: Apuesta_Realizada
   - isLoopPersistent: 0
     startValue: 0
-    nombre: Perro muerto
+    nombre: Perro_Muerto
   - isLoopPersistent: 0
     startValue: 0
-    nombre: Perro alimentado
+    nombre: Perro_Alimentado
   - isLoopPersistent: 0
     startValue: 0
-    nombre: Licor robado
+    nombre: Licor_Robado
   - isLoopPersistent: 0
     startValue: 0
-    nombre: Padre Haro
+    nombre: Padre_Haro
   - isLoopPersistent: 0
     startValue: 0
     nombre: Viuda
@@ -99,13 +99,13 @@ MonoBehaviour:
     nombre: Agente
   - isLoopPersistent: 0
     startValue: 0
-    nombre: "Cad\xE1ver"
+    nombre: Cadaver
   - isLoopPersistent: 0
     startValue: 0
     nombre: Tumbas
   - isLoopPersistent: 0
     startValue: 0
-    nombre: "Ni\xF1a retirada"
+    nombre: Nina_retirada
   - isLoopPersistent: 0
     startValue: 0
     nombre: DebugAlejandro
