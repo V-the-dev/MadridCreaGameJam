@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Interactuable
   - HideMapTag
+  - Stairs
   layers:
   - Default
   - TransparentFX
