@@ -17,7 +17,7 @@ MonoBehaviour:
   - {fileID: 0}
   charactersName:
   - CHATARRERO
-  - Sereno
+  - SERENO
   charactersTitle:
   - 
   - 
@@ -25,7 +25,8 @@ MonoBehaviour:
   mainCharacterWhenResponses: 1
   mainCharacterIndex: 1
   conversationLine:
-  - dialogue: Te puedo dar unas pocas pesetas si me traes trozos de chatarra de calidad.
+  - dialogue: Escucha, te puedo dar unas pocas pesetas si me traes trozos de chatarra
+      de calidad.
     spriteIndex: 0
   responses:
   - responseText: Vender chatarra por 50 pesetas.

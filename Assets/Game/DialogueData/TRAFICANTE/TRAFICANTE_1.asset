@@ -17,15 +17,25 @@ MonoBehaviour:
   - {fileID: 0}
   charactersName:
   - CARDO
-  - Sereno
+  - SERENO
   charactersTitle:
   - Traficante
   - 
   charactersSide: 0000000001000000
-  mainCharacterWhenResponses: 0
-  mainCharacterIndex: 0
+  mainCharacterWhenResponses: 1
+  mainCharacterIndex: 1
   conversationLine:
-  - dialogue: Con un aire vanidoso, Cardo, el traficante, te hace un gesto con la
-      barbilla.
+  - dialogue: (Con un aire vanidoso, Cardo, el traficante, te hace un gesto con la
+      barbilla.)
     spriteIndex: 0
-  responses: []
+  - dialogue: "\xBFQu\xE9 buscas?"
+    spriteIndex: 0
+  responses:
+  - responseText: ' Chuzo por 150 pesetas'
+    dialogueObject: {fileID: 11400000, guid: c6a0f2a10b3e6b74fba792435752fe7a, type: 2}
+  - responseText: 'Reloj por 100 pesetas '
+    dialogueObject: {fileID: 11400000, guid: 7ceb8aa1fa9ccfe42b5d2d0dcea1b7d6, type: 2}
+  - responseText: Pan por 50 pesetas
+    dialogueObject: {fileID: 11400000, guid: 52756ca744efb084285c783edf371a28, type: 2}
+  - responseText: Volver
+    dialogueObject: {fileID: 0}

@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5272d69de47d6724f8fa0d53e5052b27, type: 3}
+  m_Name: FUGITIVO_1
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueObject
+  characters:
+  - {fileID: 0}
+  - {fileID: 0}
+  charactersName:
+  - FUGITIVO
+  - SERENO
+  charactersTitle:
+  - Desconocido
+  - 
+  charactersSide: 0000000001000000
+  mainCharacterWhenResponses: 0
+  mainCharacterIndex: 0
+  conversationLine:
+  - dialogue: (Escuchas movimiento tras la esquina.)
+    spriteIndex: 1
+  - dialogue: (Al acercarte, ves a un hombre cargando maletas en un coche maltrecho.
+      Al verte, se detiene.)
+    spriteIndex: 0
+  - dialogue: Has venido. Tienes coraje, eso es evidente.
+    spriteIndex: 0
+  - dialogue: "\xBFQu\xE9 pasa, te cuesta reconocer mi aspecto?"
+    spriteIndex: 0
+  - dialogue: "Quiz\xE1 tres a\xF1os en un campo de trabajo han borrado mi identidad.
+      Soy Mateo. Tu sargento."
+    spriteIndex: 0
+  - dialogue: "Recordar\xE1s que me dejaste atr\xE1s. Ni Manuel, ni Bernardo ni t\xFA
+      volvisteis a por mi. Seguisteis con vuestras vidas, sin m\xE1s."
+    spriteIndex: 0
+  - dialogue: "Aunque he de decir que de los tres, eres quien ha salido peor parado.
+      \xBFSereno? \xBFEn serio? \xBFGuardas llaves por una m\xEDsera propina?"
+    spriteIndex: 0
+  - dialogue: "\xBFSereno? \xBFEn serio? \xBFGuardas llaves por una m\xEDsera propina?"
+    spriteIndex: 0
+  - dialogue: "T\xFA fuiste el m\xE1s despiadado de nosotros. Jam\xE1s parpadeabas
+      al apretar el gatillo."
+    spriteIndex: 0
+  - dialogue: "\xBFA qu\xE9 has venido?"
+    spriteIndex: 0
+  responses:
+  - responseText: Quedarse en silencio
+    dialogueObject: {fileID: 11400000, guid: 5c0ec9b0d246aa045bd0c6e2eaf4c735, type: 2}
+  - responseText: Preguntar por Bernardo
+    dialogueObject: {fileID: 11400000, guid: 5ef52ca4d74fd0b4fa09775fc22c5346, type: 2}
+  - responseText: "Preguntar si \xE9l mat\xF3 a Manuel"
+    dialogueObject: {fileID: 11400000, guid: 858890c0c9899e642823f32fadc0ce5f, type: 2}

@@ -15,14 +15,13 @@ MonoBehaviour:
   characters:
   - {fileID: 0}
   charactersName:
-  - CARDO
+  - 
   charactersTitle:
-  - Traficante
+  - 
   charactersSide: 00000000
   mainCharacterWhenResponses: 0
   mainCharacterIndex: 1
   conversationLine:
-  - dialogue: "Compras el Reloj Viejo. Con \xE9l en la mano, sientes que eres m\xE1s
-      consciente del paso del tiempo."
+  - dialogue: Compras un trozo de pan.
     spriteIndex: 0
   responses: []

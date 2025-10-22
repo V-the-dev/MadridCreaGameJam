@@ -16,16 +16,23 @@ MonoBehaviour:
   - {fileID: 0}
   - {fileID: 0}
   charactersName:
-  - Don Benavide
-  - Sereno
+  - DON BENAVIDE
+  - SERENO
   charactersTitle:
   - Sereno
   - 
   charactersSide: 0000000001000000
-  mainCharacterWhenResponses: 0
+  mainCharacterWhenResponses: 1
   mainCharacterIndex: 1
   conversationLine:
-  - dialogue: "Don Benavide, tu mentor, est\xE1 apoyado en el \xE1rbol con una botella
-      de licor en mano y un par m\xE1s ya vac\xEDas a su lado."
+  - dialogue: "(Tu mentor est\xE1 apoyado en el \xE1rbol con una botella de licor
+      en mano y un par m\xE1s ya vac\xEDas a su lado.)"
     spriteIndex: 0
-  responses: []
+  - dialogue: "Hombre, ah\xED est\xE1s. Oye, no me encuentro muy bien la verdad.
+      \xBFCrees que puedes cubrir mi zona hoy?"
+    spriteIndex: 0
+  responses:
+  - responseText: Aceptar Soborno
+    dialogueObject: {fileID: 11400000, guid: b2a71cad99232ad488c31f2d27aaadba, type: 2}
+  - responseText: Rechazar
+    dialogueObject: {fileID: 11400000, guid: 4abd8ecda7f92034e960b0880af1332a, type: 2}

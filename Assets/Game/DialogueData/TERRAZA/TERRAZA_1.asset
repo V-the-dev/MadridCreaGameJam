@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5272d69de47d6724f8fa0d53e5052b27, type: 3}
+  m_Name: TERRAZA_1
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueObject
+  characters:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  charactersName:
+  - JUGADOR 1
+  - JUGADOR 2
+  - SERENO
+  charactersTitle:
+  - El confiado
+  - "El gru\xF1\xF3n"
+  - 
+  charactersSide: 000000000000000001000000
+  mainCharacterWhenResponses: 0
+  mainCharacterIndex: 0
+  conversationLine:
+  - dialogue: (Un par de sujetos juegan a las cartas, levantan la mirada al verte.)
+    spriteIndex: 2
+  - dialogue: "\xA1Sereno! \xBFTiene algunas pesetas en mano? \xBFQuiere unirse a
+      la partida?"
+    spriteIndex: 0
+  responses:
+  - responseText: Preguntar por Manuel
+    dialogueObject: {fileID: 11400000, guid: b9ed284345374ed499c01a7339e10565, type: 2}
+  - responseText: Preguntar por Bernardo
+    dialogueObject: {fileID: 11400000, guid: 269c27022c4e3d94c98ba276180ad9af, type: 2}
+  - responseText: Jugar una partida
+    dialogueObject: {fileID: 11400000, guid: 60754857ba5b54f4bb61ef6250580c5e, type: 2}
+  - responseText: Volver
+    dialogueObject: {fileID: 0}

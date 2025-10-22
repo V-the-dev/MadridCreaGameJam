@@ -16,8 +16,8 @@ MonoBehaviour:
   - {fileID: 0}
   - {fileID: 0}
   charactersName:
-  - Don Benavide
-  - Sereno
+  - DON BENAVIDE
+  - SERENO
   charactersTitle:
   - Sereno
   - 
@@ -28,6 +28,14 @@ MonoBehaviour:
   - dialogue: (Benavide mira la botella que le entregas. Es licor barato, justo el
       que le gusta. Te dedica un gesto de aprecio.)
     spriteIndex: 0
+  - dialogue: Te has ganado un regalo, venga, elige uno.
+    spriteIndex: 0
   responses:
-  - responseText: Entregar licor
-    dialogueObject: {fileID: 0}
+  - responseText: 50 Pesetas
+    dialogueObject: {fileID: 11400000, guid: fdae3c82591560240b615161af2d584a, type: 2}
+  - responseText: Pedazo de chatarra
+    dialogueObject: {fileID: 11400000, guid: 5a22267dcc159c3499400f21481025a0, type: 2}
+  - responseText: Farol de aceite
+    dialogueObject: {fileID: 11400000, guid: ac458fc3536174243ae43478c3607ad2, type: 2}
+  - responseText: Manojo de llaves
+    dialogueObject: {fileID: 11400000, guid: 114a6aec13f6cc64fa3dfa8a1520c204, type: 2}

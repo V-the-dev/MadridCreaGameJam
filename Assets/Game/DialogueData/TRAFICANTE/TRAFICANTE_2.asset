@@ -14,25 +14,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::DialogueObject
   characters:
   - {fileID: 0}
-  - {fileID: 0}
   charactersName:
-  - CARDO
-  - Sereno
-  charactersTitle:
-  - Traficante
   - 
-  charactersSide: 0000000001000000
-  mainCharacterWhenResponses: 1
+  charactersTitle:
+  - 
+  charactersSide: 00000000
+  mainCharacterWhenResponses: 0
   mainCharacterIndex: 1
   conversationLine:
-  - dialogue: "\xBFQu\xE9 buscas?"
+  - dialogue: "Compras el chuzo, un bast\xF3n con punta de pica que puedes usar para
+      defenderte."
     spriteIndex: 0
-  responses:
-  - responseText: ' Chuzo por 150 pesetas'
-    dialogueObject: {fileID: 0}
-  - responseText: 'Reloj por 100 pesetas '
-    dialogueObject: {fileID: 0}
-  - responseText: Pan por 50 pesetas
-    dialogueObject: {fileID: 0}
-  - responseText: Volver
-    dialogueObject: {fileID: 0}
+  responses: []

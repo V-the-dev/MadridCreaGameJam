@@ -17,18 +17,15 @@ MonoBehaviour:
   - {fileID: 0}
   charactersName:
   - PROPIETARIO
-  - Sereno
+  - SERENO
   charactersTitle:
   - del Bar
   - 
-  charactersSide: 0000000000000000
+  charactersSide: 0000000001000000
   mainCharacterWhenResponses: 0
-  mainCharacterIndex: 0
+  mainCharacterIndex: 1
   conversationLine:
-  - dialogue: "Sereno! Que alivio verle por aqu\xED. Escuche, se han producido robos
-      por aqu\xED \xFAltimamente. "
-    spriteIndex: 0
-  - dialogue: "Alg\xFAn malnacido est\xE1 aprovechando la falta de luz en la calle
-      de aqu\xED al lado para emboscar a los residentes. Tenga ciudado. "
+  - dialogue: "\xA1Vaya! Tenga, qu\xE9dese este pan. No es mucho, pero le estoy muy
+      agradecido por lo que ha hecho."
     spriteIndex: 0
   responses: []

@@ -16,8 +16,8 @@ MonoBehaviour:
   - {fileID: 0}
   - {fileID: 0}
   charactersName:
-  - Don Benavide
-  - Sereno
+  - DON BENAVIDE
+  - SERENO
   charactersTitle:
   - Sereno
   - 
@@ -25,11 +25,6 @@ MonoBehaviour:
   mainCharacterWhenResponses: 1
   mainCharacterIndex: 1
   conversationLine:
-  - dialogue: "Hombre, ah\xED est\xE1s. Oye, no me encuentro muy bien la verdad.
-      \xBFCrees que puedes cubrir mi zona hoy?"
+  - dialogue: "T\xFA mismo."
     spriteIndex: 0
-  responses:
-  - responseText: Aceptar Soborno
-    dialogueObject: {fileID: 11400000, guid: b2a71cad99232ad488c31f2d27aaadba, type: 2}
-  - responseText: 
-    dialogueObject: {fileID: 0}
+  responses: []

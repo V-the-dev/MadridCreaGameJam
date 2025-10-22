@@ -17,18 +17,18 @@ MonoBehaviour:
   - {fileID: 0}
   charactersName:
   - PROPIETARIO
-  - Sereno
+  - SERENO
   charactersTitle:
   - del Bar
   - 
-  charactersSide: 0000000000000000
-  mainCharacterWhenResponses: 0
-  mainCharacterIndex: 0
+  charactersSide: 0000000001000000
+  mainCharacterWhenResponses: 1
+  mainCharacterIndex: 1
   conversationLine:
-  - dialogue: "Sereno! Que alivio verle por aqu\xED. Escuche, se han producido robos
-      por aqu\xED \xFAltimamente. "
+  - dialogue: "Sereno, \xBFse sabe algo del ladr\xF3n?"
     spriteIndex: 0
-  - dialogue: "Alg\xFAn malnacido est\xE1 aprovechando la falta de luz en la calle
-      de aqu\xED al lado para emboscar a los residentes. Tenga ciudado. "
-    spriteIndex: 0
-  responses: []
+  responses:
+  - responseText: "El ladr\xF3n no volver\xE1"
+    dialogueObject: {fileID: 11400000, guid: df25ecf2bd34df249a02d74933f35a1c, type: 2}
+  - responseText: Volver
+    dialogueObject: {fileID: 0}

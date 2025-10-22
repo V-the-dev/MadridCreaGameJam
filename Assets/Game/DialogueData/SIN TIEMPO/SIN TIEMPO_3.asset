@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5272d69de47d6724f8fa0d53e5052b27, type: 3}
+  m_Name: SIN TIEMPO_3
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueObject
+  characters:
+  - {fileID: 0}
+  - {fileID: 0}
+  charactersName:
+  - FUGITIVO
+  - SERENO
+  charactersTitle:
+  - Desconocido
+  - 
+  charactersSide: 0000000001000000
+  mainCharacterWhenResponses: 1
+  mainCharacterIndex: 0
+  conversationLine:
+  - dialogue: (Antes de poder hacer nada, escuchas un sonido estruendoso.)
+    spriteIndex: 1
+  - dialogue: (Caes de rodillas.)
+    spriteIndex: 1
+  - dialogue: "(El hombre, nervioso, deja caer su rev\xF3lver.)"
+    spriteIndex: 0
+  - dialogue: "(Un gesto casi imperceptible de l\xE1stima es lo \xFAnico que te dedica
+      antes de salir corriendo y desaparecer en la oscuridad.)"
+    spriteIndex: 0
+  responses:
+  - responseText: Reiniciar el bucle
+    dialogueObject: {fileID: 0}

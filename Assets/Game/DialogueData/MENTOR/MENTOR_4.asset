@@ -16,8 +16,8 @@ MonoBehaviour:
   - {fileID: 0}
   - {fileID: 0}
   charactersName:
-  - Don Benavide
-  - Sereno
+  - DON BENAVIDE
+  - SERENO
   charactersTitle:
   - Sereno
   - 
@@ -29,4 +29,4 @@ MonoBehaviour:
     spriteIndex: 0
   responses:
   - responseText: Entregar licor
-    dialogueObject: {fileID: 11400000, guid: a594bb65e9a2b21498443e596bcb9933, type: 2}
+    dialogueObject: {fileID: 11400000, guid: f63992c0395af0245aee5340d98c7c22, type: 2}

@@ -14,14 +14,23 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::DialogueObject
   characters:
   - {fileID: 0}
+  - {fileID: 0}
   charactersName:
   - PROPIETARIO
+  - SERENO
   charactersTitle:
   - del Bar
-  charactersSide: 00000000
+  - 
+  charactersSide: 0000000001000000
   mainCharacterWhenResponses: 0
   mainCharacterIndex: 0
   conversationLine:
-  - dialogue: El propietario del bar te hace un gesto para que te acerques.
+  - dialogue: (El propietario del bar te hace un gesto para que te acerques.)
+    spriteIndex: 0
+  - dialogue: "Sereno! Que alivio verle por aqu\xED. Escuche, se han producido robos
+      por aqu\xED \xFAltimamente."
+    spriteIndex: 0
+  - dialogue: "Alg\xFAn malnacido est\xE1 aprovechando la falta de luz en la calle
+      de aqu\xED al lado para emboscar a los residentes. Tenga ciudado."
     spriteIndex: 0
   responses: []

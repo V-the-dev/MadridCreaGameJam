@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5272d69de47d6724f8fa0d53e5052b27, type: 3}
+  m_Name: NINA_1
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueObject
+  characters:
+  - {fileID: 0}
+  - {fileID: 0}
+  charactersName:
+  - "NI\xD1A"
+  - SERENO
+  charactersTitle:
+  - 
+  - 
+  charactersSide: 0000000001000000
+  mainCharacterWhenResponses: 1
+  mainCharacterIndex: 0
+  conversationLine:
+  - dialogue: "(Entre los escombros de un edificio abandonado, una ni\xF1a trata
+      de arrancar una viga de metal atrancada entre un par de bloques de piedra.)"
+    spriteIndex: 0
+  - dialogue: (Al verte, se limpia el sudor de la frente y avanza hacia ti dando
+      pisotones fuertes.)
+    spriteIndex: 0
+  - dialogue: "Oye t\xFA, ay\xFAdame a mover este trozo de metal de aqu\xED."
+    spriteIndex: 0
+  responses:
+  - responseText: "Ayudar a la ni\xF1a"
+    dialogueObject: {fileID: 11400000, guid: 38005204faa7e704da5b013564e3bd94, type: 2}
+  - responseText: Volver
+    dialogueObject: {fileID: 0}
