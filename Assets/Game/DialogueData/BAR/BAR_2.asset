@@ -15,13 +15,16 @@ MonoBehaviour:
   characters:
   - {fileID: 0}
   - {fileID: 0}
+  - {fileID: 0}
   charactersName:
-  - PROPIETARIO
+  - COCINERO
   - SERENO
+  - CAMARERA
   charactersTitle:
   - del Bar
   - 
-  charactersSide: 0000000001000000
+  - del Bar
+  charactersSide: 000000000100000000000000
   mainCharacterWhenResponses: 1
   mainCharacterIndex: 1
   conversationLine:
