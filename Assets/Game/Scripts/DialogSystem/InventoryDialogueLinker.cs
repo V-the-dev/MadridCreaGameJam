@@ -12,9 +12,17 @@ public class InventoryDialogueEntry
     public int selectedEventIndex = -1;
     public bool eventFlag;
 
+    public bool hasAssociatedObject;
+    public int selectedObjectIndex = -1;
+    public int objectQuantity = 0;
+
     public bool[] eventResponseAssociated = Array.Empty<bool>();
     public int[] eventsAssociated = Array.Empty<int>();
     public bool[] eventsFlagAssociated = Array.Empty<bool>();
+    
+    public bool[] objectResponseAssociated = Array.Empty<bool>();
+    public int[] objectsAssociated = Array.Empty<int>();
+    public int[] objectsQuantityAssociated = Array.Empty<int>();
 }
 
 public class InventoryDialogueLinker : MonoBehaviour
@@ -39,6 +47,24 @@ public class InventoryDialogueLinker : MonoBehaviour
         }
         return null;
     }
+    
+    [CanBeNull]
+    public Objeto TryGetObjetoFromResponse(DialogueObject dialogueObject, int responseIndex)
+    {
+        if (!dialogueObject) return null;
+        InventoryDialogueEntry entry = GetEntryWithDialogueObject(dialogueObject);
+        if (entry == null) return null;
+        if (entry.objectResponseAssociated[responseIndex])
+        {
+                if (entry.selectedObjectIndex > inventoryObject.objetos.monedas.Count)
+                {
+                    return inventoryObject.objetos.objetosClave[
+                        entry.objectsAssociated[responseIndex] - inventoryObject.objetos.monedas.Count];
+                }
+                return inventoryObject.objetos.monedas[entry.objectsAssociated[responseIndex]];
+        }
+        return null;
+    }
 
     public bool? TryGetEventoValueFromResponse(DialogueObject dialogueObject, int responseIndex)
     {
@@ -48,6 +74,18 @@ public class InventoryDialogueLinker : MonoBehaviour
         if (entry.eventResponseAssociated[responseIndex])
         {
             return entry.eventsFlagAssociated[responseIndex];
+        }
+        return null;
+    }
+    
+    public int? TryGetObjetoQuantityFromResponse(DialogueObject dialogueObject, int responseIndex)
+    {
+        if(!dialogueObject) return null;
+        InventoryDialogueEntry entry = GetEntryWithDialogueObject(dialogueObject);
+        if (entry == null) return null;
+        if (entry.objectResponseAssociated[responseIndex])
+        {
+            return entry.objectsQuantityAssociated[responseIndex];
         }
         return null;
     }
@@ -65,6 +103,25 @@ public class InventoryDialogueLinker : MonoBehaviour
 
         return null;
     }
+    
+    [CanBeNull]
+    public Objeto TryGetObjeto(DialogueObject dialogueObject)
+    {
+        if(!dialogueObject) return null;
+        InventoryDialogueEntry entry = GetEntryWithDialogueObject(dialogueObject);
+        if (entry == null) return null;
+        if (entry.hasAssociatedObject)
+        {
+            if (entry.selectedObjectIndex > inventoryObject.objetos.monedas.Count)
+            {
+                return inventoryObject.objetos.objetosClave[
+                    entry.selectedObjectIndex - inventoryObject.objetos.monedas.Count];
+            }
+            return inventoryObject.objetos.monedas[entry.selectedObjectIndex];
+        }
+
+        return null;
+    }
 
     public bool? TryGetEventValue(DialogueObject dialogueObject)
     {
@@ -74,6 +131,19 @@ public class InventoryDialogueLinker : MonoBehaviour
         if (entry.hasAssociatedEvent)
         {
             return entry.eventFlag;
+        }
+
+        return null;
+    }
+    
+    public int? TryGetObjectQuantity(DialogueObject dialogueObject)
+    {
+        if (!dialogueObject) return null;
+        InventoryDialogueEntry entry = GetEntryWithDialogueObject(dialogueObject);
+        if (entry == null) return null;
+        if (entry.hasAssociatedObject)
+        {
+            return entry.objectQuantity;
         }
 
         return null;

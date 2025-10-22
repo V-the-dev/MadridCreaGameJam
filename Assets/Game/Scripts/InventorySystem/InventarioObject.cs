@@ -3,16 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 [Serializable]
-public class Moneda
-{
-    public string nombre;
-    public Sprite sprite;
-    public int valor;
-}
-
-
-[Serializable]
-public class ObjetoClave
+public class Objeto
 {
     public string nombre;
     public Sprite sprite;
@@ -31,8 +22,8 @@ public class Evento
 [Serializable]
 public class Objetos
 {
-    public List<Moneda> monedas = new List<Moneda>();
-    public List<ObjetoClave> objetosClave = new List<ObjetoClave>();
+    public List<Objeto> monedas = new List<Objeto>();
+    public List<Objeto> objetosClave = new List<Objeto>();
 }
 
 [CreateAssetMenu(fileName = "NuevoInventario", menuName = "Inventario/InventarioObject")]

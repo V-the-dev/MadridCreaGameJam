@@ -99,7 +99,7 @@ public class InventoryManager : MonoBehaviour
         }
         inventoryDictionary.Clear();
         
-        foreach (Moneda moneda in inventarioInicial.objetos.monedas)
+        foreach (Objeto moneda in inventarioInicial.objetos.monedas)
         {
             objectsSprite.Add(moneda.nombre, moneda.sprite);
             if (moneda.valor > 0)
@@ -108,7 +108,7 @@ public class InventoryManager : MonoBehaviour
             }
         }
 
-        foreach (ObjetoClave objetoClave in inventarioInicial.objetos.objetosClave)
+        foreach (Objeto objetoClave in inventarioInicial.objetos.objetosClave)
         {
             objectsSprite.Add(objetoClave.nombre, objetoClave.sprite);
             if (objetoClave.valor > 0)
@@ -250,13 +250,13 @@ public class InventoryManager : MonoBehaviour
         objectsSprite.Clear();
         inventoryDictionary.Clear();
         eventsDictionary.Clear();
-        foreach (Moneda moneda in inventarioInicial.objetos.monedas)
+        foreach (Objeto moneda in inventarioInicial.objetos.monedas)
         {
             objectsSprite.Add(moneda.nombre, moneda.sprite);
             AddItemToInventory(moneda.nombre, moneda.valor);
         }
 
-        foreach (ObjetoClave objetoClave in inventarioInicial.objetos.objetosClave)
+        foreach (Objeto objetoClave in inventarioInicial.objetos.objetosClave)
         {
             objectsSprite.Add(objetoClave.nombre, objetoClave.sprite);
             AddItemToInventory(objetoClave.nombre, objetoClave.valor);

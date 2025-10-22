@@ -29,6 +29,11 @@ public class DialogueUI : MonoBehaviour
     [SerializeField] private Color obscuredPeople = new Color(0.3f, 0.3f, 0.3f, 1);
     [SerializeField] private float scaledObscuredPeople = 0.8f;
     [SerializeField] private float characterSpacing = 100;
+    
+    [Header("Text Background")]
+    [SerializeField] private GameObject textBackground;
+    [SerializeField] private Sprite backgroundWithName;
+    [SerializeField] private Sprite backgroundWithoutName;
 
     private InputAction _acceptAction;
     private List<GameObject> leftCharacters = new List<GameObject>();
@@ -103,14 +108,21 @@ public class DialogueUI : MonoBehaviour
         
         // Verificar si el diálogo completo debe mostrarse
         bool shouldShowDialogue = true;
-        if (linker != null)
+        if (linker)
         {
             Evento evento = linker.TryGetEvento(dialogueObject);
             bool? eventValue = linker.TryGetEventValue(dialogueObject);
+            Objeto objeto = linker.TryGetObjeto(dialogueObject);
+            int? objectQuantity = linker.TryGetObjectQuantity(dialogueObject);
             
             if (evento != null && eventValue.HasValue)
             {
                 shouldShowDialogue = InventoryManager.Instance.GetEventValue(evento.nombre) == eventValue.Value;
+            }
+
+            if (objeto != null && objectQuantity.HasValue && shouldShowDialogue)
+            {
+                shouldShowDialogue = InventoryManager.Instance.GetItemValue(objeto.nombre) >= objectQuantity.Value;
             }
         }
         
@@ -176,14 +188,21 @@ public class DialogueUI : MonoBehaviour
             {
                 bool shouldShowResponse = true;
                 
-                if (linker != null)
+                if (linker)
                 {
                     Evento evento = linker.TryGetEventoFromResponse(dialogueObject, i);
                     bool? eventValue = linker.TryGetEventoValueFromResponse(dialogueObject, i);
+                    Objeto objeto = linker.TryGetObjetoFromResponse(dialogueObject, i);
+                    int? objectQuantity = linker.TryGetObjetoQuantityFromResponse(dialogueObject, i);
                     
                     if (evento != null && eventValue.HasValue)
                     {
                         shouldShowResponse = InventoryManager.Instance.GetEventValue(evento.nombre) == eventValue.Value;
+                    }
+
+                    if (objeto != null && objectQuantity.HasValue && shouldShowResponse)
+                    {
+                        shouldShowResponse = InventoryManager.Instance.GetItemValue(objeto.nombre) >= objectQuantity.Value;
                     }
                 }
                 
@@ -383,5 +402,13 @@ public class DialogueUI : MonoBehaviour
     {
         nameLabel.text = dialogueObject.charactersName[dialogueObject.SpriteIndexes[dialogueIndex]];
         titleLabel.text = dialogueObject.charactersTitle[dialogueObject.SpriteIndexes[dialogueIndex]];
+        if (nameLabel.text  == "" && titleLabel.text == "")
+        {
+            textBackground.GetComponent<Image>().sprite = backgroundWithoutName;
+        }
+        else
+        {
+            textBackground.GetComponent<Image>().sprite = backgroundWithName;
+        }
     }
 }

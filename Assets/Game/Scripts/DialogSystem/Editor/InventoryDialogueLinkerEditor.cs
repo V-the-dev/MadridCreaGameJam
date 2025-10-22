@@ -46,11 +46,17 @@ public class InventoryDialogueLinkerEditor : Editor
                 SerializedProperty entryProp = entriesProp.GetArrayElementAtIndex(i);
                 SerializedProperty dialogueObjectProp = entryProp.FindPropertyRelative("dialogueObject");
                 SerializedProperty hasEventProp = entryProp.FindPropertyRelative("hasAssociatedEvent");
+                SerializedProperty hasObjectProp = entryProp.FindPropertyRelative("hasAssociatedObject");
                 SerializedProperty eventIndexProp = entryProp.FindPropertyRelative("selectedEventIndex");
+                SerializedProperty objectIndexProp = entryProp.FindPropertyRelative("selectedObjectIndex");
                 SerializedProperty eventFlagProp = entryProp.FindPropertyRelative("eventFlag");
+                SerializedProperty objectQuantityProp = entryProp.FindPropertyRelative("objectQuantity");
                 SerializedProperty eventResponseAssociatedProp = entryProp.FindPropertyRelative("eventResponseAssociated");
+                SerializedProperty objectResponseAssociatedProp = entryProp.FindPropertyRelative("objectResponseAssociated");
                 SerializedProperty eventsAssociatedProp = entryProp.FindPropertyRelative("eventsAssociated");
+                SerializedProperty objectsAssociatedProp = entryProp.FindPropertyRelative("objectsAssociated");
                 SerializedProperty eventsFlagAssociatedProp = entryProp.FindPropertyRelative("eventsFlagAssociated");
+                SerializedProperty objectsQuantityAssociatedProp = entryProp.FindPropertyRelative("objectsQuantityAssociated");
 
                 EditorGUILayout.BeginVertical(EditorStyles.helpBox);
                 EditorGUILayout.BeginHorizontal();
@@ -93,15 +99,42 @@ public class InventoryDialogueLinkerEditor : Editor
                         EditorGUILayout.PropertyField(eventFlagProp, new GUIContent("Flag"));
                     }
                 }
+                
+                // ---- OBJETO ASOCIADO ----
+                if (inventoryObject)
+                {
+                    EditorGUILayout.Space();
+                    EditorGUILayout.PropertyField(hasObjectProp, new GUIContent("Objeto asociado"));
+
+                    if (hasObjectProp.boolValue)
+                    {
+                        var objetos = inventoryObject.objetos.monedas != null
+                            ? inventoryObject.objetos.monedas.Select(e => e.nombre).ToArray()
+                            : new string[0];
+                        objetos = Enumerable.Concat(objetos, inventoryObject.objetos.objetosClave != null
+                            ? inventoryObject.objetos.objetosClave.Select(e => e.nombre).ToArray()
+                            : new string[0]).ToArray();
+
+                        int newIndex = EditorGUILayout.Popup("Objeto", objectIndexProp.intValue, objetos);
+                        if (newIndex != objectIndexProp.intValue)
+                            objectIndexProp.intValue = newIndex;
+
+                        EditorGUILayout.PropertyField(objectQuantityProp, new GUIContent("Value"));
+                    }
+                }
 
                 // ---- RESPUESTAS ASOCIADAS ----
                 
                 if (dialogueObject)
                 {
                     eventResponseAssociatedProp.arraySize = dialogueObject.Responses.Length;
+                    objectResponseAssociatedProp.arraySize = dialogueObject.Responses.Length;
                     eventsAssociatedProp.arraySize = dialogueObject.Responses.Length;
+                    objectsAssociatedProp.arraySize = dialogueObject.Responses.Length;
                     eventsFlagAssociatedProp.arraySize = dialogueObject.Responses.Length;
+                    objectsQuantityAssociatedProp.arraySize = dialogueObject.Responses.Length;
                     serializedObject.ApplyModifiedProperties();
+
                     showResponses = EditorGUILayout.Foldout(showResponses, "Respuestas", true);
                     if (showResponses)
                     {
@@ -109,56 +142,99 @@ public class InventoryDialogueLinkerEditor : Editor
                         for (int j = 0; j < dialogueObject.Responses.Length; j++)
                         {
                             SerializedProperty eventResponseVar = eventResponseAssociatedProp.GetArrayElementAtIndex(j);
+                            SerializedProperty objectResponseVar = objectResponseAssociatedProp.GetArrayElementAtIndex(j);
                             SerializedProperty eventsVar = eventsAssociatedProp.GetArrayElementAtIndex(j);
+                            SerializedProperty objectsVar = objectsAssociatedProp.GetArrayElementAtIndex(j);
                             SerializedProperty eventFlagVar = eventsFlagAssociatedProp.GetArrayElementAtIndex(j);
-                            
+                            SerializedProperty objectQuantityVar = objectsQuantityAssociatedProp.GetArrayElementAtIndex(j);
+
                             EditorGUILayout.BeginVertical(EditorStyles.helpBox);
-                            EditorGUILayout.BeginHorizontal();
-                            EditorGUILayout.LabelField(dialogueObject.Responses[j].ResponseText, EditorStyles.boldLabel, GUILayout.Width(200));
-                            EditorGUILayout.PropertyField(eventResponseVar, GUIContent.none, GUILayout.Width(50));
+
+                            EditorGUILayout.LabelField(dialogueObject.Responses[j].ResponseText, EditorStyles.boldLabel);
+
+                            EditorGUILayout.PropertyField(eventResponseVar, new GUIContent("¿Evento asociado?"));
+
                             if (eventResponseVar.boolValue)
                             {
                                 if (inventoryObject && inventoryObject.eventos != null && inventoryObject.eventos.Count > 0)
                                 {
-                                    // Aseguramos que tenga el mismo tamaño que las respuestas
                                     if (eventsAssociatedProp.arraySize != dialogueObject.Responses.Length)
                                     {
                                         eventsAssociatedProp.arraySize = dialogueObject.Responses.Length;
                                         eventsFlagAssociatedProp.arraySize = dialogueObject.Responses.Length;
                                     }
 
-                                    // Construir lista de nombres
                                     string[] nombresEventos = inventoryObject.eventos
                                         .Select(e => e != null ? e.nombre : "(Evento nulo)")
                                         .ToArray();
 
-                                    // Valor actual (índice)
                                     int currentIndex = eventsVar.intValue;
                                     if (currentIndex < 0 || currentIndex >= nombresEventos.Length)
                                         currentIndex = 0;
 
-                                    // Mostrar popup con los nombres de eventos
+                                    EditorGUILayout.BeginHorizontal();
                                     int newIndex = EditorGUILayout.Popup(currentIndex, nombresEventos, GUILayout.Width(150));
-
-                                    // Si cambió la selección, guardarla
                                     if (newIndex != currentIndex)
-                                    {
                                         eventsVar.intValue = newIndex;
-                                    }
-                                    
-                                    EditorGUILayout.PropertyField(eventFlagVar, GUIContent.none,  GUILayout.Width(50));
+
+                                    EditorGUILayout.PropertyField(eventFlagVar, GUIContent.none);
+                                    EditorGUILayout.EndHorizontal();
                                 }
                                 else
                                 {
-                                    EditorGUILayout.LabelField("Sin eventos disponibles", GUILayout.Width(200));
+                                    EditorGUILayout.LabelField("Sin eventos disponibles");
                                 }
                             }
-                            EditorGUILayout.EndHorizontal();
+
+                            EditorGUILayout.Space(3); // ← Espaciado visual entre respuestas
+                            
+                            EditorGUILayout.PropertyField(objectResponseVar, new GUIContent("¿Objeto asociado?"));
+
+                            if (objectResponseVar.boolValue)
+                            {
+                                if (inventoryObject && 
+                                    inventoryObject.objetos.monedas != null && inventoryObject.eventos.Count > 0 &&
+                                    inventoryObject.objetos.objetosClave != null && inventoryObject.objetos.objetosClave.Count > 0)
+                                {
+                                    if (objectsAssociatedProp.arraySize != dialogueObject.Responses.Length)
+                                    {
+                                        objectsAssociatedProp.arraySize = dialogueObject.Responses.Length;
+                                        objectsQuantityAssociatedProp.arraySize = dialogueObject.Responses.Length;
+                                    }
+
+                                    string[] nombresObjetos = inventoryObject.objetos.monedas
+                                        .Select(e => e != null ? e.nombre : "(Objeto nulo)")
+                                        .ToArray();
+                                    nombresObjetos = Enumerable.Concat(nombresObjetos, inventoryObject.objetos.objetosClave
+                                        .Select(e => e != null ? e.nombre : "(Objeto nulo)")
+                                        .ToArray()).ToArray();
+
+                                    int currentIndex = objectsVar.intValue;
+                                    if (currentIndex < 0 || currentIndex >= nombresObjetos.Length)
+                                        currentIndex = 0;
+
+                                    EditorGUILayout.BeginHorizontal();
+                                    int newIndex = EditorGUILayout.Popup(currentIndex, nombresObjetos, GUILayout.Width(150));
+                                    if (newIndex != currentIndex)
+                                        objectsVar.intValue = newIndex;
+
+                                    EditorGUILayout.PropertyField(objectQuantityVar, GUIContent.none);
+                                    EditorGUILayout.EndHorizontal();
+                                }
+                                else
+                                {
+                                    EditorGUILayout.LabelField("Sin objetos disponibles");
+                                }
+                            }
+
                             EditorGUILayout.EndVertical();
+                            EditorGUILayout.Space(3); // ← Espaciado visual entre respuestas
                         }
                         EditorGUI.indentLevel--;
                     }
                 }
+
+
 
                 EditorGUILayout.EndVertical();
                 EditorGUILayout.Space();
