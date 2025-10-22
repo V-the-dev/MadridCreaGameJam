@@ -243,6 +243,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 2850149195111994021, guid: c1ad5743db976ec46ab8dda058e3c7a9, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1081449364}
+    - targetCorrespondingSourceObject: {fileID: 2850149195111994021, guid: c1ad5743db976ec46ab8dda058e3c7a9, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1081449368}
   m_SourcePrefab: {fileID: 100100000, guid: c1ad5743db976ec46ab8dda058e3c7a9, type: 3}
 --- !u!114 &318115696 stripped
 MonoBehaviour:
@@ -458,19 +461,28 @@ MonoBehaviour:
   - name: yo que se
     onPickedResponse:
       m_PersistentCalls:
-        m_Calls:
-        - m_Target: {fileID: 1838350385}
-          m_TargetAssemblyTypeName: InventoryManager, Assembly-CSharp
-          m_MethodName: HideInventoryPanelBlockingInput
-          m_Mode: 1
-          m_Arguments:
-            m_ObjectArgument: {fileID: 0}
-            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-            m_IntArgument: 0
-            m_FloatArgument: 0
-            m_StringArgument: 
-            m_BoolArgument: 0
-          m_CallState: 2
+        m_Calls: []
+--- !u!114 &1081449368
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1081449360}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 29ce947d9338f1c44919fb27b4277a05, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::InventoryDialogueLinker
+  inventoryObject: {fileID: 11400000, guid: 851110b7dceec0c4ea9c8ff25be7d8b1, type: 2}
+  entries:
+  - dialogueObject: {fileID: 11400000, guid: 262e32e91d68e8c4ebb4d95667250de6, type: 2}
+    hasAssociatedEvent: 1
+    selectedEventIndex: 18
+    eventFlag: 0
+    eventResponseAssociated: 0100
+    eventsAssociated: 0000000000000000
+    eventsFlagAssociated: 0100
 --- !u!224 &1415586325 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 9125906362090259093, guid: da988b07eb9a29142a63904ba8058b30, type: 3}

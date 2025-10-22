@@ -59,7 +59,7 @@ public class DialogueUI : MonoBehaviour
         _acceptAction = InputSystem.actions.FindAction("UI/Submit");
     }
 
-    public void ShowDialogue(DialogueObject dialogueObject)
+    public void ShowDialogue(DialogueObject dialogueObject, InventoryDialogueLinker linker = null)
     {
         IsOpen = true;
         dialogueBox.SetActive(true);
@@ -67,7 +67,7 @@ public class DialogueUI : MonoBehaviour
         characterBoxIzqPosition.gameObject.SetActive(true);
         characterBoxDerPosition.gameObject.SetActive(true);
         SetCharacterSpritesInScene(dialogueObject);
-        
+    
         foreach (GameObject leftCharacter in leftCharacters)
         {
             leftCharacter.SetActive(true);
@@ -88,8 +88,8 @@ public class DialogueUI : MonoBehaviour
         {
             rightCharacter.GetComponent<Image>().sprite = dialogueObject.Characters[index++];
         }
-        
-        StartCoroutine(StepThroughDialogue(dialogueObject));
+    
+        StartCoroutine(StepThroughDialogue(dialogueObject, linker));
     }
 
     public void AddResponseEvents(ResponseEvent[] responseEvents)
@@ -97,9 +97,30 @@ public class DialogueUI : MonoBehaviour
         responseHandler.AddResponseEvents(responseEvents);
     }
 
-    private IEnumerator StepThroughDialogue(DialogueObject dialogueObject)
+    private IEnumerator StepThroughDialogue(DialogueObject dialogueObject, InventoryDialogueLinker linker = null)
     {
         GameManager.Instance.PauseGame();
+        
+        // Verificar si el diálogo completo debe mostrarse
+        bool shouldShowDialogue = true;
+        if (linker != null)
+        {
+            Evento evento = linker.TryGetEvento(dialogueObject);
+            bool? eventValue = linker.TryGetEventValue(dialogueObject);
+            
+            if (evento != null && eventValue.HasValue)
+            {
+                shouldShowDialogue = InventoryManager.Instance.GetEventValue(evento.nombre) == eventValue.Value;
+            }
+        }
+        
+        if (!shouldShowDialogue)
+        {
+            // Si el diálogo no debe mostrarse, cerrar y salir
+            CloseDialogueBox();
+            GameManager.Instance.ResumeGame();
+            yield break;
+        }
         
         for(int i = 0; i < dialogueObject.Dialogue.Length; i++)
         {
@@ -146,7 +167,35 @@ public class DialogueUI : MonoBehaviour
         {
             // Cuando termine el texto muestra la flechita
             flechita.SetActive(false);
-            responseHandler.ShowResponses(dialogueObject.Responses);
+            
+            // Filtrar respuestas según eventos
+            List<Response> validResponses = new List<Response>();
+            List<int> validResponseIndices = new List<int>();
+            
+            for (int i = 0; i < dialogueObject.Responses.Length; i++)
+            {
+                bool shouldShowResponse = true;
+                
+                if (linker != null)
+                {
+                    Evento evento = linker.TryGetEventoFromResponse(dialogueObject, i);
+                    bool? eventValue = linker.TryGetEventoValueFromResponse(dialogueObject, i);
+                    
+                    if (evento != null && eventValue.HasValue)
+                    {
+                        shouldShowResponse = InventoryManager.Instance.GetEventValue(evento.nombre) == eventValue.Value;
+                    }
+                }
+                
+                if (shouldShowResponse)
+                {
+                    validResponses.Add(dialogueObject.Responses[i]);
+                    validResponseIndices.Add(i);
+                }
+            }
+            
+            responseHandler.ShowResponses(validResponses.ToArray(), validResponseIndices.ToArray());
+            
             if (dialogueObject.MainCharacterWhenResponses)
             {
                 FocusOnCharacter(dialogueObject, dialogueObject.mainCharacterIndex);

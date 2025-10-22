@@ -16,6 +16,7 @@ public class ResponseHandler : MonoBehaviour
     private DialogueUI dialogueUI;
     private TypewritterEffect typewritterEffect;
     private ResponseEvent[] responseEvents;
+    private int[] originalResponseIndices;
 
     List<GameObject> tempResponseButtons = new List<GameObject>();
 
@@ -30,8 +31,10 @@ public class ResponseHandler : MonoBehaviour
         this.responseEvents = responseEventsVar;
     }
 
-    public void ShowResponses(Response[] responses)
+    public void ShowResponses(Response[] responses, int[] originalIndices = null)
     {
+        originalResponseIndices = originalIndices;
+    
         for(int i = 0; i < responses.Length; i++)
         {
             Response response = responses[i];
@@ -63,12 +66,16 @@ public class ResponseHandler : MonoBehaviour
         }
         tempResponseButtons.Clear();
 
-        if(responseEvents != null && responseIndex <= responseEvents.Length)
+        // Usar el índice original si existe
+        int actualIndex = originalResponseIndices != null ? originalResponseIndices[responseIndex] : responseIndex;
+
+        if(responseEvents != null && actualIndex < responseEvents.Length)
         {
-            responseEvents[responseIndex].OnPickedResponse?.Invoke();
+            responseEvents[actualIndex].OnPickedResponse?.Invoke();
         }
 
         responseEvents = null;
+        originalResponseIndices = null;
 
         // Detener efectos antes de cambiar de diálogo
         if (typewritterEffect)
@@ -78,6 +85,8 @@ public class ResponseHandler : MonoBehaviour
         {
             DialogueActivator dialogueActivator = MessageManager.Instance.dialogueActivator;
             dialogueActivator.UpdateDialogueObject(response.DialogueObject);
+            InventoryDialogueLinker linker = dialogueActivator.GetInventoryDialogueLinker();
+        
             foreach (DialogueResponseEvents responseEvents in dialogueActivator.GetComponents<DialogueResponseEvents>())
             {
                 if(responseEvents.DialogueObject == response.DialogueObject)
@@ -86,7 +95,7 @@ public class ResponseHandler : MonoBehaviour
                     break;
                 }
             }
-            dialogueUI.ShowDialogue(response.DialogueObject);
+            dialogueUI.ShowDialogue(response.DialogueObject, linker);
         }
         else
         {

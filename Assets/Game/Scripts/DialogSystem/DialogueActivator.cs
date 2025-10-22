@@ -10,6 +10,11 @@ public class DialogueActivator : MonoBehaviour, IInteractuable
         this.dialogueObject = dialogueObject;
     }
 
+    public InventoryDialogueLinker GetInventoryDialogueLinker()
+    {
+        return GetComponent<InventoryDialogueLinker>();
+    }
+
     public void Interact(MessageManager messageManager)
     {
         foreach (DialogueResponseEvents responseEvents in GetComponents<DialogueResponseEvents>())
@@ -21,7 +26,8 @@ public class DialogueActivator : MonoBehaviour, IInteractuable
             }
         }
 
-        messageManager.DialogueUI.ShowDialogue(dialogueObject);
+        InventoryDialogueLinker linker = GetComponent<InventoryDialogueLinker>();
+        messageManager.DialogueUI.ShowDialogue(dialogueObject, linker);
     }
 
     public void NearestIndicator(bool activate)

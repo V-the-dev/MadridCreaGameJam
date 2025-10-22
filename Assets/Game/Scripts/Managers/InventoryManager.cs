@@ -44,21 +44,9 @@ public class InventoryManager : MonoBehaviour
     private void Start()
     {
         _showInventoryAction = InputSystem.actions.FindAction("UI/ShowInventory");
-        foreach (Moneda moneda in inventarioInicial.objetos.monedas)
+        if (inventoryDictionary.Count == 0)
         {
-            objectsSprite.Add(moneda.nombre, moneda.sprite);
-            AddItemToInventory(moneda.nombre, moneda.valor);
-        }
-
-        foreach (ObjetoClave objetoClave in inventarioInicial.objetos.objetosClave)
-        {
-            objectsSprite.Add(objetoClave.nombre, objetoClave.sprite);
-            AddItemToInventory(objetoClave.nombre, objetoClave.valor);
-        }
-
-        foreach (Evento evento in inventarioInicial.eventos)
-        {
-            eventsDictionary.Add(evento.nombre, evento.startValue);
+            InitializeInventory();
         }
     }
 
@@ -195,6 +183,10 @@ public class InventoryManager : MonoBehaviour
 
     public int GetItemValue(string itemName)
     {
+        if (eventsDictionary.Count == 0)
+        {
+            InitializeInventory();
+        }
         if (inventoryDictionary.TryGetValue(itemName, out GameObject item))
         {
             TMP_Text itemText = item.GetComponentInChildren<TMP_Text>();
@@ -210,12 +202,21 @@ public class InventoryManager : MonoBehaviour
 
     public bool? GetEventValue(string eventName)
     {
+        if (eventsDictionary.Count == 0)
+        {
+            InitializeInventory();
+        }
         if (eventsDictionary.TryGetValue(eventName, out bool value))
         {
             return value;
         }
 
         return null;
+    }
+
+    public InventarioObject GetInventario()
+    {
+        return inventarioInicial;
     }
 
     public void ShowInventoryPanel()
@@ -242,5 +243,28 @@ public class InventoryManager : MonoBehaviour
         inventoryVisible = false;
         inventoryMoving = true;
         inputBlocked = false;
+    }
+
+    public void InitializeInventory()
+    {
+        objectsSprite.Clear();
+        inventoryDictionary.Clear();
+        eventsDictionary.Clear();
+        foreach (Moneda moneda in inventarioInicial.objetos.monedas)
+        {
+            objectsSprite.Add(moneda.nombre, moneda.sprite);
+            AddItemToInventory(moneda.nombre, moneda.valor);
+        }
+
+        foreach (ObjetoClave objetoClave in inventarioInicial.objetos.objetosClave)
+        {
+            objectsSprite.Add(objetoClave.nombre, objetoClave.sprite);
+            AddItemToInventory(objetoClave.nombre, objetoClave.valor);
+        }
+
+        foreach (Evento evento in inventarioInicial.eventos)
+        {
+            eventsDictionary.Add(evento.nombre, evento.startValue);
+        }
     }
 }
