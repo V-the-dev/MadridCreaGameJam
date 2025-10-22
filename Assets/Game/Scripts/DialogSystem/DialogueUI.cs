@@ -107,19 +107,32 @@ public class DialogueUI : MonoBehaviour
         bool shouldShowDialogue = true;
         if (linker)
         {
-            Evento evento = linker.TryGetEvento(dialogueObject);
-            bool? eventValue = linker.TryGetEventValue(dialogueObject);
-            Objeto objeto = linker.TryGetObjeto(dialogueObject);
-            int? objectQuantity = linker.TryGetObjectQuantity(dialogueObject);
-            
-            if (evento != null && eventValue.HasValue)
+            List<Evento> eventos = linker.TryGetEventos(dialogueObject);
+            List<EventData> eventValues = linker.TryGetEventData(dialogueObject);
+            List<Objeto> objetos = linker.TryGetObjetos(dialogueObject);
+            List<ObjectData> objectQuantitys = linker.TryGetObjectData(dialogueObject);
+
+            if (eventos != null)
             {
-                shouldShowDialogue = InventoryManager.Instance.GetEventValue(evento.nombre) == eventValue.Value;
+                for (int i = 0; i < eventos.Count; i++)
+                {
+                    if (eventos[i] != null && eventValues != null)
+                    {
+                        shouldShowDialogue = InventoryManager.Instance.GetEventValue(eventos[i].nombre) ==
+                                             eventValues[i].eventFlag;
+                    }
+                }
             }
 
-            if (objeto != null && objectQuantity.HasValue && shouldShowDialogue)
+            if (objetos != null)
             {
-                shouldShowDialogue = InventoryManager.Instance.GetItemValue(objeto.nombre) >= objectQuantity.Value;
+                for (int i = 0; i < objetos.Count; i++)
+                {
+                    if (objetos[i] != null && objectQuantitys != null && shouldShowDialogue)
+                    {
+                        shouldShowDialogue = InventoryManager.Instance.GetItemValue(objetos[i].nombre) >= objectQuantitys[i].quantity;
+                    }
+                }
             }
         }
         
@@ -186,19 +199,33 @@ public class DialogueUI : MonoBehaviour
                 
                 if (linker)
                 {
-                    Evento evento = linker.TryGetEventoFromResponse(dialogueObject, i);
-                    bool? eventValue = linker.TryGetEventoValueFromResponse(dialogueObject, i);
-                    Objeto objeto = linker.TryGetObjetoFromResponse(dialogueObject, i);
-                    int? objectQuantity = linker.TryGetObjetoQuantityFromResponse(dialogueObject, i);
+                    List<Evento> eventos = linker.TryGetEventosFromResponse(dialogueObject, i);
+                    List<EventData> eventValues = linker.TryGetEventDataFromResponse(dialogueObject, i);
+                    List<Objeto> objetos = linker.TryGetObjetosFromResponse(dialogueObject, i);
+                    List<ObjectData> objectQuantitys = linker.TryGetObjectDataFromResponse(dialogueObject, i);
                     
-                    if (evento != null && eventValue.HasValue)
+                    
+                    if (eventos != null)
                     {
-                        shouldShowResponse = InventoryManager.Instance.GetEventValue(evento.nombre) == eventValue.Value;
+                        for (int j = 0; j < eventos.Count; j++)
+                        {
+                            if (eventos[j] != null && eventValues != null)
+                            {
+                                shouldShowResponse = InventoryManager.Instance.GetEventValue(eventos[j].nombre) ==
+                                                     eventValues[j].eventFlag;
+                            }
+                        }
                     }
-
-                    if (objeto != null && objectQuantity.HasValue && shouldShowResponse)
+                    
+                    if (objetos != null)
                     {
-                        shouldShowResponse = InventoryManager.Instance.GetItemValue(objeto.nombre) >= objectQuantity.Value;
+                        for (int j = 0; j < objetos.Count; j++)
+                        {
+                            if (objetos[j] != null && objectQuantitys != null && shouldShowResponse)
+                            {
+                                shouldShowResponse = InventoryManager.Instance.GetItemValue(objetos[j].nombre) >= objectQuantitys[j].quantity;
+                            }
+                        }
                     }
                 }
                 

@@ -442,7 +442,7 @@ PrefabInstance:
       addedObject: {fileID: 1081449364}
     - targetCorrespondingSourceObject: {fileID: 2850149195111994021, guid: c1ad5743db976ec46ab8dda058e3c7a9, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1081449368}
+      addedObject: {fileID: 1081449365}
   m_SourcePrefab: {fileID: 100100000, guid: c1ad5743db976ec46ab8dda058e3c7a9, type: 3}
 --- !u!114 &318115696 stripped
 MonoBehaviour:
@@ -664,7 +664,7 @@ MonoBehaviour:
     showVoidEvent: 0
     showStringEvent: 0
     showStringIntEvent: 0
---- !u!114 &1081449368
+--- !u!114 &1081449365
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -680,17 +680,13 @@ MonoBehaviour:
   entries:
   - dialogueObject: {fileID: 11400000, guid: 262e32e91d68e8c4ebb4d95667250de6, type: 2}
     hasAssociatedEvent: 0
-    selectedEventIndex: 0
-    eventFlag: 0
+    associatedEvents: []
     hasAssociatedObject: 0
-    selectedObjectIndex: 0
-    objectQuantity: 0
+    associatedObjects:
+    - objectIndex: 0
+      quantity: 0
     eventResponseAssociated: 000000
-    eventsAssociated: 000000000000000000000000
-    eventsFlagAssociated: 000000
     objectResponseAssociated: 000000
-    objectsAssociated: 000000000000000000000000
-    objectsQuantityAssociated: 000000000000000000000000
 --- !u!1 &1386236523 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4424400422513451638, guid: 7f57931ef439e7f43bb856c16674e6c1, type: 3}

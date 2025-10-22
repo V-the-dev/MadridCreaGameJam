@@ -209,6 +209,16 @@ public class InventoryManager : MonoBehaviour
         return null;
     }
 
+    public void SetEventValue(string eventName, bool value)
+    {
+        if (eventsDictionary.Count == 0)
+        {
+            InitializeInventory();
+        }
+
+        eventsDictionary[eventName] = value;
+    }
+
     public InventarioObject GetInventario()
     {
         return inventarioInicial;

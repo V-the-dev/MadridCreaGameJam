@@ -7,16 +7,20 @@ public class InventarioObjectEditor : Editor
 {
     private SerializedProperty objetosProp;
     private SerializedProperty eventosProp;
+    private SerializedProperty internalEventsProp;
     
     private bool mostrarMonedas = true;
     private bool mostrarObjetosClave = true;
     private bool mostrarEventos = true;
+    private bool mostrarEventosInternos = false;
     private Dictionary<int, bool> eventosExpandidos = new Dictionary<int, bool>();
+    private Dictionary<int, bool> eventosInternosExpandidos = new Dictionary<int, bool>();
 
     private void OnEnable()
     {
         objetosProp = serializedObject.FindProperty("objetos");
         eventosProp = serializedObject.FindProperty("eventos");
+        internalEventsProp = serializedObject.FindProperty("internalEvents");
     }
 
     public override void OnInspectorGUI()
@@ -41,6 +45,11 @@ public class InventarioObjectEditor : Editor
         // EVENTOS
         EditorGUILayout.LabelField("════════════════ EVENTOS ════════════════", EditorStyles.boldLabel);
         DibujarSeccionEventos();
+        EditorGUILayout.Space(15);
+        
+        // INTERNAL EVENTS
+        EditorGUILayout.LabelField("════════════ EVENTOS INTERNOS ═══════════", EditorStyles.boldLabel);
+        DibujarSeccionEventosInternos();
 
         serializedObject.ApplyModifiedProperties();
     }
@@ -191,6 +200,85 @@ public class InventarioObjectEditor : Editor
 
                     // Mostrar el único elemento del diccionario
                     SerializedProperty nombreDic = evento.FindPropertyRelative("nombre");
+
+                    EditorGUILayout.BeginHorizontal();
+                    EditorGUILayout.LabelField("Nombre:", GUILayout.Width(60));
+                    EditorGUILayout.PropertyField(nombreDic, GUIContent.none);
+                    EditorGUILayout.EndHorizontal();
+
+                    EditorGUILayout.Space(5);
+
+                    EditorGUILayout.PropertyField(isLoopPersistent, new GUIContent("Is Loop Persistent"));
+                    EditorGUILayout.PropertyField(startValue, new GUIContent("Start Value"));
+                }
+
+                EditorGUILayout.EndVertical();
+                EditorGUILayout.Space(5);
+            }
+            
+            EditorGUI.indentLevel--;
+        }
+    }
+
+    private void DibujarSeccionEventosInternos()
+    {
+        mostrarEventosInternos = EditorGUILayout.Foldout(mostrarEventosInternos, $"Lista de Eventos Internos ({internalEventsProp.arraySize})", true, EditorStyles.foldoutHeader);
+        
+        if (mostrarEventosInternos)
+        {
+            EditorGUI.indentLevel++;
+            
+            if (GUILayout.Button("+ Añadir Evento Interno"))
+            {
+                internalEventsProp.InsertArrayElementAtIndex(internalEventsProp.arraySize);
+                SerializedProperty nuevoEventoInterno = internalEventsProp.GetArrayElementAtIndex(internalEventsProp.arraySize - 1);
+                SerializedProperty nombre = nuevoEventoInterno.FindPropertyRelative("nombre");
+                eventosInternosExpandidos[internalEventsProp.arraySize - 1] = true;
+            }
+
+            for (int i = 0; i < internalEventsProp.arraySize; i++)
+            {
+                SerializedProperty eventoInterno = internalEventsProp.GetArrayElementAtIndex(i);
+
+                // Obtener el nombre para usarlo como título
+                string nombreEventoInterno = "Evento Interno sin nombre";
+                SerializedProperty nombre = eventoInterno.FindPropertyRelative("nombre");
+                if (!string.IsNullOrEmpty(nombre.stringValue))
+                {
+                    nombreEventoInterno = nombre.stringValue;
+                }
+
+                // Asegurar que existe la entrada en el diccionario
+                if (!eventosInternosExpandidos.ContainsKey(i))
+                {
+                    eventosInternosExpandidos[i] = false;
+                }
+
+                EditorGUILayout.BeginVertical(GUI.skin.box);
+                
+                EditorGUILayout.BeginHorizontal();
+                
+                // Foldout para plegar/desplegar
+                eventosInternosExpandidos[i] = EditorGUILayout.Foldout(eventosInternosExpandidos[i], nombreEventoInterno, true);
+                
+                if (GUILayout.Button("×", GUILayout.Width(25)))
+                {
+                    internalEventsProp.DeleteArrayElementAtIndex(i);
+                    eventosInternosExpandidos.Remove(i);
+                    EditorGUILayout.EndHorizontal();
+                    EditorGUILayout.EndVertical();
+                    break;
+                }
+                EditorGUILayout.EndHorizontal();
+
+                // Mostrar contenido solo si está expandido
+                if (eventosInternosExpandidos[i])
+                {
+                    SerializedProperty isLoopPersistent = eventoInterno.FindPropertyRelative("isLoopPersistent");
+                    SerializedProperty startValue = eventoInterno.FindPropertyRelative("startValue");
+
+                    // Mostrar el único elemento del diccionario
+                    SerializedProperty nombreDic = eventoInterno.FindPropertyRelative("nombre");
 
                     EditorGUILayout.BeginHorizontal();
                     EditorGUILayout.LabelField("Nombre:", GUILayout.Width(60));

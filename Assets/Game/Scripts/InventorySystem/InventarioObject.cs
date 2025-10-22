@@ -31,6 +31,7 @@ public class InventarioObject : ScriptableObject
 {
     public Objetos objetos = new Objetos();
     public List<Evento> eventos = new List<Evento>();
+    public List<Evento> internalEvents = new List<Evento>();
 
     // ----------------Métodos de utilidad para acceder a los datos----------------
     
@@ -98,7 +99,15 @@ public class InventarioObject : ScriptableObject
     /// <returns>Referencia de tipo Evento</returns>
     public Evento ObtenerEventoPorNombre(string nombreEvento)
     {
-        return eventos.Find(e => e.nombre == nombreEvento);
+        Evento evento = eventos.Find(e => e.nombre == nombreEvento);
+        if (evento != null)
+        {
+            return evento;
+        }
+        else
+        {
+            return internalEvents.Find(e => e.nombre == nombreEvento);
+        }
     }
 
     /// <summary>
