@@ -71,7 +71,7 @@ public class ResponseHandler : MonoBehaviour
 
         if(responseEvents != null && actualIndex < responseEvents.Length)
         {
-            responseEvents[actualIndex].OnPickedResponse?.Invoke();
+            responseEvents[actualIndex].Invoke();
         }
 
         responseEvents = null;

@@ -126,22 +126,22 @@ public class InventoryManager : MonoBehaviour
         }
     }
 
-    public int AddItemToInventory(string itemName, int amount)
+    public void AddItemToInventory(string itemName, int amount)
     {
-        if (amount <= 0) return -1;
+        if (amount <= 0) return;
         
         // Si tiene ese item
         if (inventoryDictionary.TryGetValue(itemName, out var item))
         {
             TMP_Text itemText = item.GetComponentInChildren<TMP_Text>();
-            if (itemText == null) return -1;
+            if (!itemText) return;
             if (int.TryParse(itemText.text.Substring(1), out int previousAmount))
             {
                 itemText.text = "x"+(previousAmount + amount);
             }
             else
             {
-                return -1;
+                return;
             }
         }
         // No tiene el item, lo creamos
@@ -152,13 +152,11 @@ public class InventoryManager : MonoBehaviour
             inventoryItemVar.GetComponentInChildren<TMP_Text>().text = "x"+amount;
             inventoryDictionary.Add(itemName, inventoryItemVar);
         }
-
-        return 0;
     }
 
-    public int RemoveItemFromInventory(string itemName, int amount)
+    public void RemoveItemFromInventory(string itemName, int amount)
     {
-        if (amount >= 0) return -1;
+        if (amount >= 0) return;
         
         if (inventoryDictionary.TryGetValue(itemName, out var item))
         {
@@ -174,11 +172,8 @@ public class InventoryManager : MonoBehaviour
                 {
                     itemText.text = "x"+(previousAmount - amount);
                 }
-                
-                return 0;
             }
         }
-        return -1;
     }
 
     public int GetItemValue(string itemName)
