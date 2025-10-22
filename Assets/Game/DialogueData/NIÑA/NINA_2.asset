@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5272d69de47d6724f8fa0d53e5052b27, type: 3}
+  m_Name: NINA_2
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueObject
+  characters:
+  - {fileID: 0}
+  - {fileID: 0}
+  charactersName:
+  - "NI\xD1A"
+  - SERENO
+  charactersTitle:
+  - 
+  - 
+  charactersSide: 0000000001000000
+  mainCharacterWhenResponses: 1
+  mainCharacterIndex: 0
+  conversationLine:
+  - dialogue: (Tiras de la viga con fuerza hasta que se arranca, causando el colapso
+      de la debilitada estructura.)
+    spriteIndex: 0
+  - dialogue: "(La ni\xF1a cae al suelo extenuada. Al ponerse en pie, te dedica un
+      gesto de respeto, agarra el trozo de metal y se lo lleva a rastras, desapareciendo
+      en la oscuridad.)"
+    spriteIndex: 0
+  - dialogue: "Oye t\xFA, ay\xFAdame a mover este trozo de metal de aqu\xED."
+    spriteIndex: 0
+  - dialogue: (Te pones en pie. Cuando el polvo se disipa, ves que lo que antes era
+      una pared se ha convertido en una rampa maltrecha que lleva al interior del
+      edificio abandonado.)
+    spriteIndex: 1
+  responses: []

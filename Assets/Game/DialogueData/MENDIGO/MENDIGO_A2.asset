@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5272d69de47d6724f8fa0d53e5052b27, type: 3}
+  m_Name: MENDIGO_A2
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueObject
+  characters:
+  - {fileID: 0}
+  - {fileID: 0}
+  charactersName:
+  - MENDIGO
+  - SERENO
+  charactersTitle:
+  - 
+  - 
+  charactersSide: 0000000001000000
+  mainCharacterWhenResponses: 1
+  mainCharacterIndex: 1
+  conversationLine:
+  - dialogue: (Los ojos del mendigo se iluminan. Al comer el pan, parece recobrar
+      la vida.)
+    spriteIndex: 0
+  - dialogue: (Entonces, parece ponerse nervioso y se agarra a tu abrigo.)
+    spriteIndex: 0
+  - dialogue: "Yo los vi, \xA1estaba ah\xED cuando ocurri\xF3! Al principio hab\xEDa
+      dos hombres, un tercero les segu\xEDa de cerca. "
+    spriteIndex: 0
+  - dialogue: "El tercer hombre les arrincon\xF3 en el puente. Discutieron. Uno de
+      ellos intent\xF3 atacar al tercero, ah\xED se escuch\xF3 el disparo. En ese
+      momento hu\xED..."
+    spriteIndex: 0
+  - dialogue: (Se deja caer contra la pared, aliviado.)
+    spriteIndex: 0
+  - dialogue: "Usted y yo... \xBFHemos tenido esta conversaci\xF3n antes?"
+    spriteIndex: 0
+  - dialogue: "\xBFEn otra vida, quiz\xE1?"
+    spriteIndex: 0
+  - dialogue: Todos tenemos algo que nos atrapa, que nos impide avanzar.
+    spriteIndex: 0
+  - dialogue: "Al final todo vuelve para ajustar cuentas, tarde o temprano. D\xEDgame,
+      \xBFse arrepiente de algo?"
+    spriteIndex: 0
+  - dialogue: "\xBFQue hubiese hecho diferente si pudiese volver atr\xE1s?"
+    spriteIndex: 0
+  - dialogue: (El mendigo aparta la mirada, como si hubiese visto un fantasma.)
+    spriteIndex: 0
+  responses: []

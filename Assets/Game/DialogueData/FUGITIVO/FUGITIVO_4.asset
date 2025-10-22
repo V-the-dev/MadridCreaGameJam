@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5272d69de47d6724f8fa0d53e5052b27, type: 3}
+  m_Name: FUGITIVO_4
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueObject
+  characters:
+  - {fileID: 0}
+  - {fileID: 0}
+  charactersName:
+  - MATEO
+  - SERENO
+  charactersTitle:
+  - Fugitivo
+  - 
+  charactersSide: 0000000001000000
+  mainCharacterWhenResponses: 0
+  mainCharacterIndex: 0
+  conversationLine:
+  - dialogue: "Durante meses me vi a m\xED mismo como un m\xE1rtir. Pens\xE9 que
+      os hab\xEDa salvado, y me enorgullec\xEDa pensar en ello. Era mi resguardo."
+    spriteIndex: 0
+  - dialogue: "Dime la verdad. \xBFNi un solo d\xEDa has pensado en que que yo cargu\xE9
+      con la culpa de los cuatro? \xBFNo te molesta?"
+    spriteIndex: 0
+  - dialogue: "(Mateo carga su rev\xF3lver.)"
+    spriteIndex: 0
+  - dialogue: "Pasaron meses hasta que empec\xE9 a perder la fe."
+    spriteIndex: 0
+  - dialogue: Yo no soy una persona especialmente fuerte ni resiliente. Yo soy...
+      yo.
+    spriteIndex: 0
+  - dialogue: "Solo s\xE9 que si pudiera volver a ese d\xEDa, aunque estuviera atrapado
+      eternamente en \xE9l, siempre eligir\xEDa mi vida antes que la vuestra."
+    spriteIndex: 0
+  - dialogue: "Me arrepiento tanto... \xBFT\xFA no?"
+    spriteIndex: 0
+  responses:
+  - responseText: Quedarse en silencio
+    dialogueObject: {fileID: 11400000, guid: 4cb7c76fe8d289047bf170a38cb5f314, type: 2}
+  - responseText: Atacar con el chuzo
+    dialogueObject: {fileID: 11400000, guid: 51e60e6e2d662d54fa181d73fb27f81f, type: 2}

@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5272d69de47d6724f8fa0d53e5052b27, type: 3}
+  m_Name: MENDIGO_A1
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueObject
+  characters:
+  - {fileID: 0}
+  - {fileID: 0}
+  charactersName:
+  - MENDIGO
+  - SERENO
+  charactersTitle:
+  - 
+  - 
+  charactersSide: 0000000001000000
+  mainCharacterWhenResponses: 1
+  mainCharacterIndex: 1
+  conversationLine:
+  - dialogue: "(Un mendigo fam\xE9lico est\xE1 tumbado bajo el puente. Su estado
+      es deplorable.)"
+    spriteIndex: 0
+  - dialogue: "Sereno... \xBFNo tendr\xEDa usted un cacho de pan que darme?"
+    spriteIndex: 0
+  responses:
+  - responseText: Ofrecer Pan
+    dialogueObject: {fileID: 11400000, guid: e0ec3383abdb6494eabb8c528f93b1b3, type: 2}
+  - responseText: Volver
+    dialogueObject: {fileID: 0}

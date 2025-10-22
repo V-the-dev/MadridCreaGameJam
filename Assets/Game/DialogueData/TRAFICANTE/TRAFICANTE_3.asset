@@ -15,14 +15,14 @@ MonoBehaviour:
   characters:
   - {fileID: 0}
   charactersName:
-  - CARDO
+  - 
   charactersTitle:
-  - Traficante
+  - 
   charactersSide: 00000000
   mainCharacterWhenResponses: 0
   mainCharacterIndex: 1
   conversationLine:
-  - dialogue: "Compras el chuzo, un bast\xF3n con punta de pica que puedes usar para
-      defenderte."
+  - dialogue: "Compras el Reloj Viejo. Con \xE9l en la mano, sientes que eres m\xE1s
+      consciente del paso del tiempo."
     spriteIndex: 0
   responses: []

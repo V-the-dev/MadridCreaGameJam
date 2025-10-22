@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5272d69de47d6724f8fa0d53e5052b27, type: 3}
+  m_Name: FUGITIVO_2
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueObject
+  characters:
+  - {fileID: 0}
+  - {fileID: 0}
+  charactersName:
+  - MATEO
+  - SERENO
+  charactersTitle:
+  - Fugitivo
+  - 
+  charactersSide: 0000000001000000
+  mainCharacterWhenResponses: 0
+  mainCharacterIndex: 0
+  conversationLine:
+  - dialogue: "Debi\xF3 verme venir. Sab\xEDa que ven\xEDa. Estaba armado."
+    spriteIndex: 1
+  - dialogue: "No quer\xEDa matarlo, pero lo hice en defensa propia."
+    spriteIndex: 0
+  - dialogue: "Dios... Me promet\xED que no har\xEDa esto. No puedo sentir pena por
+      \xE9l, despu\xE9s de todo..."
+    spriteIndex: 0
+  - dialogue: "\xBFPor qu\xE9 me duele tanto? \xA1Me dejasteis para morir!"
+    spriteIndex: 0
+  responses:
+  - responseText: ...
+    dialogueObject: {fileID: 11400000, guid: 5c0ec9b0d246aa045bd0c6e2eaf4c735, type: 2}
