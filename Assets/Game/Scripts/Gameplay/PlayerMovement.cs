@@ -19,8 +19,9 @@ public class PlayerMovement : MonoBehaviour
     float speed = 5f;
     [SerializeField]
     Vector2 movementMults = new Vector2(1f, 0.75f);
+    [SerializeField]
     Vector2 currentMults ;
-    private Quaternion currentRotation;
+    //private Quaternion currentRotation;
 
     bool isMoving = false;
 
@@ -86,12 +87,11 @@ public class PlayerMovement : MonoBehaviour
         }
         if (collision.CompareTag("Stairs"))
         {
-            var stairs = collision.GetComponent<StairsZone>();
+            var stairs = collision.GetComponentInParent<StairsZone>();
 
             if(stairs != null)
             {
-                currentMults = stairs.movementMults;
-                currentRotation = Quaternion.Euler(0, 0, collision.transform.eulerAngles.z);
+                currentMults = stairs.newVec;
             }
         }
     }
@@ -111,15 +111,13 @@ public class PlayerMovement : MonoBehaviour
         }
         if (collision.CompareTag("Stairs"))
         {
-            var stairs = collision.GetComponent<StairsZone>();
+            var stairs = collision.GetComponentInParent<StairsZone>();
 
             if (stairs != null)
             {
                 currentMults = movementMults;
-                currentRotation = Quaternion.identity;
             }
         }
-
     }
 
     private void SortByDistance()

@@ -3,20 +3,24 @@
 
 public class StairsZone : MonoBehaviour
 {
-    [Tooltip("Velocidad relativa del movimiento cuando estás en la escalera")]
-    public float climbMultiplier = 0.8f;
+    public float angleZ;
+    [SerializeField]private float climbMult = 0.8f;
 
-    private Vector2 stairsDirection;
-
-    public Vector2 movementMults = new Vector2(0.8f, 0.8f);
-
-    private float angle;
+    public Vector2 newVec;
 
     private void Awake()
     {
+        angleZ = transform.eulerAngles.z;
+        if (angleZ > 180)
+            angleZ = -
+        Mathf.Abs(angleZ);
 
-        angle = transform.eulerAngles.z;// * Mathf.Deg2Rad;
-        //stairsDirection = new Vector2(Mathf.Cos(angle), Mathf.Sin(angle)).normalized;
+        newVec = new Vector2(Mathf.Cos(angleZ * Mathf.Deg2Rad), Mathf.Sin(angleZ * Mathf.Deg2Rad));
+
+        //newVec.Normalize();
+        //newVec *= climbMult;
+
     }
+
 
 }
