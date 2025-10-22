@@ -1,7 +1,9 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
+using Random = UnityEngine.Random;
 
 public class TypewritterEffect : MonoBehaviour
 {
@@ -12,13 +14,14 @@ public class TypewritterEffect : MonoBehaviour
     [SerializeField] private float waveSpeed = 3f;
     [SerializeField] private float rainbowSpeed = 2f;
 
-    public bool IsRunning { get; private set; }
-
-    private readonly List<Punctuation> punctuations = new List<Punctuation>()
+    [Header("List of Punctuations")] [SerializeField]
+    private List<Punctuation> punctuations = new List<Punctuation>()
     {
-        new Punctuation(new HashSet<char>() {'.', '!', '?'}, 0.6f),
-        new Punctuation(new HashSet<char>() {',', ';', ':'}, 0.3f)
+        new Punctuation(new List<char> {'.', '!', '?'}, 0.6f),
+        new Punctuation(new List<char> {',', ';', ':'}, 0.3f)
     };
+
+    public bool IsRunning { get; private set; }
 
     private Coroutine typingCoroutine;
     private Coroutine effectCoroutine;
@@ -359,12 +362,13 @@ public class TypewritterEffect : MonoBehaviour
         return false;
     }
 
-    private readonly struct Punctuation
+    [Serializable]
+    private struct Punctuation
     {
-        public readonly HashSet<char> Punctuations;
-        public readonly float WaitTime;
+        public List<char> Punctuations;
+        public float WaitTime;
 
-        public Punctuation(HashSet<char> punctuations, float waitTime)
+        public Punctuation(List<char> punctuations, float waitTime)
         {
             Punctuations = punctuations;
             WaitTime = waitTime;
