@@ -12,11 +12,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5272d69de47d6724f8fa0d53e5052b27, type: 3}
   m_Name: CHATARRERO_2
   m_EditorClassIdentifier: Assembly-CSharp::DialogueObject
-  characters: []
-  charactersName: []
-  charactersTitle: []
-  charactersSide: 
+  characters:
+  - {fileID: 0}
+  charactersName:
+  - 
+  charactersTitle:
+  - 
+  charactersSide: 00000000
   mainCharacterWhenResponses: 0
   mainCharacterIndex: 0
-  conversationLine: []
+  conversationLine:
+  - dialogue: Vendes la chatarra por 50 pesetas.
+    spriteIndex: 0
   responses: []

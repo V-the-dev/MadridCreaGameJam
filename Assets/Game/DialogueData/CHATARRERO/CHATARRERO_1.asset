@@ -12,11 +12,23 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5272d69de47d6724f8fa0d53e5052b27, type: 3}
   m_Name: CHATARRERO_1
   m_EditorClassIdentifier: Assembly-CSharp::DialogueObject
-  characters: []
-  charactersName: []
-  charactersTitle: []
-  charactersSide: 
-  mainCharacterWhenResponses: 0
-  mainCharacterIndex: 0
-  conversationLine: []
-  responses: []
+  characters:
+  - {fileID: 0}
+  - {fileID: 0}
+  charactersName:
+  - CHATARRERO
+  - Sereno
+  charactersTitle:
+  - 
+  - 
+  charactersSide: 0000000001000000
+  mainCharacterWhenResponses: 1
+  mainCharacterIndex: 1
+  conversationLine:
+  - dialogue: Te puedo dar unas pocas pesetas si me traes trozos de chatarra de calidad.
+    spriteIndex: 0
+  responses:
+  - responseText: Vender chatarra por 50 pesetas.
+    dialogueObject: {fileID: 11400000, guid: a067fb58cc6fccb478e9e7834fe5d986, type: 2}
+  - responseText: Volver
+    dialogueObject: {fileID: 0}
