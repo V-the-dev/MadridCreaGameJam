@@ -1,0 +1,3913 @@
+fileFormatVersion: 2
+guid: 7377268d624b9d440833321ebf5eb535
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7192310741507823289
+    second: Valla zona mendigos_0
+  - first:
+      213: 7272850947480499521
+    second: Valla zona mendigos_1
+  - first:
+      213: -2446186318246849616
+    second: Valla zona mendigos_2
+  - first:
+      213: 43463091262440765
+    second: Valla zona mendigos_3
+  - first:
+      213: -281771494474469363
+    second: Valla zona mendigos_4
+  - first:
+      213: 1392467051612875197
+    second: Valla zona mendigos_5
+  - first:
+      213: -8014868271671609440
+    second: Valla zona mendigos_6
+  - first:
+      213: -8971923821434277621
+    second: Valla zona mendigos_7
+  - first:
+      213: -825644831263499670
+    second: Valla zona mendigos_8
+  - first:
+      213: -48847990924078688
+    second: Valla zona mendigos_9
+  - first:
+      213: -6733236050027843487
+    second: Valla zona mendigos_10
+  - first:
+      213: -8591285325249251495
+    second: Valla zona mendigos_11
+  - first:
+      213: -3752833154946257324
+    second: Valla zona mendigos_12
+  - first:
+      213: 4429648975779891871
+    second: Valla zona mendigos_13
+  - first:
+      213: 6552962424494854544
+    second: Valla zona mendigos_14
+  - first:
+      213: 3771908728797574163
+    second: Valla zona mendigos_15
+  - first:
+      213: 648647199261438687
+    second: Valla zona mendigos_16
+  - first:
+      213: 2939337788663876457
+    second: Valla zona mendigos_17
+  - first:
+      213: -2269794589402342422
+    second: Valla zona mendigos_18
+  - first:
+      213: -2197015625097793139
+    second: Valla zona mendigos_19
+  - first:
+      213: 5286214641359523679
+    second: Valla zona mendigos_20
+  - first:
+      213: -8192173265020001217
+    second: Valla zona mendigos_21
+  - first:
+      213: 4567714885008135138
+    second: Valla zona mendigos_22
+  - first:
+      213: 2238145124959587252
+    second: Valla zona mendigos_23
+  - first:
+      213: -8986654843334264469
+    second: Valla zona mendigos_24
+  - first:
+      213: -3846411352103188123
+    second: Valla zona mendigos_25
+  - first:
+      213: -346432801682797293
+    second: Valla zona mendigos_26
+  - first:
+      213: 7546763939613743253
+    second: Valla zona mendigos_27
+  - first:
+      213: 7722326124083271633
+    second: Valla zona mendigos_28
+  - first:
+      213: -3831489534750144019
+    second: Valla zona mendigos_29
+  - first:
+      213: 554403729921441810
+    second: Valla zona mendigos_30
+  - first:
+      213: 7909335936446283937
+    second: Valla zona mendigos_31
+  - first:
+      213: 149311971901578586
+    second: Valla zona mendigos_32
+  - first:
+      213: 4033864802669434313
+    second: Valla zona mendigos_33
+  - first:
+      213: 8259461100426605314
+    second: Valla zona mendigos_34
+  - first:
+      213: 4291338807831915500
+    second: Valla zona mendigos_35
+  - first:
+      213: -8898733129402538238
+    second: Valla zona mendigos_36
+  - first:
+      213: -1325007561836355903
+    second: Valla zona mendigos_37
+  - first:
+      213: -3228583746445482886
+    second: Valla zona mendigos_38
+  - first:
+      213: 8440323052583053502
+    second: Valla zona mendigos_39
+  - first:
+      213: 4688681017770209163
+    second: Valla zona mendigos_40
+  - first:
+      213: 7617365531085306516
+    second: Valla zona mendigos_41
+  - first:
+      213: 4486335017704693005
+    second: Valla zona mendigos_42
+  - first:
+      213: 3482917775530142076
+    second: Valla zona mendigos_43
+  - first:
+      213: -5859226972405643180
+    second: Valla zona mendigos_44
+  - first:
+      213: 5000569120471132101
+    second: Valla zona mendigos_45
+  - first:
+      213: 4321140214403402034
+    second: Valla zona mendigos_46
+  - first:
+      213: -346044565047892606
+    second: Valla zona mendigos_47
+  - first:
+      213: 5303772593103245044
+    second: Valla zona mendigos_48
+  - first:
+      213: -9213790870620377516
+    second: Valla zona mendigos_49
+  - first:
+      213: -2747290461677930252
+    second: Valla zona mendigos_50
+  - first:
+      213: -7570869891983340105
+    second: Valla zona mendigos_51
+  - first:
+      213: -6903508627204239029
+    second: Valla zona mendigos_52
+  - first:
+      213: 7979090664323942566
+    second: Valla zona mendigos_53
+  - first:
+      213: -4142145982838276767
+    second: Valla zona mendigos_54
+  - first:
+      213: 6533180800746659731
+    second: Valla zona mendigos_55
+  - first:
+      213: -9128399831585084792
+    second: Valla zona mendigos_56
+  - first:
+      213: -3749625728341257
+    second: Valla zona mendigos_57
+  - first:
+      213: -6956341174084960270
+    second: Valla zona mendigos_58
+  - first:
+      213: 8370521778000217087
+    second: Valla zona mendigos_59
+  - first:
+      213: -4426124498850558780
+    second: Valla zona mendigos_60
+  - first:
+      213: -1227225703781825628
+    second: Valla zona mendigos_61
+  - first:
+      213: 3957294262034079262
+    second: Valla zona mendigos_62
+  - first:
+      213: -320928067476674539
+    second: Valla zona mendigos_63
+  - first:
+      213: 4472125629644204516
+    second: Valla zona mendigos_64
+  - first:
+      213: -4921252596174761972
+    second: Valla zona mendigos_65
+  - first:
+      213: -290274305619201296
+    second: Valla zona mendigos_66
+  - first:
+      213: -4290811350814732751
+    second: Valla zona mendigos_67
+  - first:
+      213: 1785521899481314242
+    second: Valla zona mendigos_68
+  - first:
+      213: -8056054058341532070
+    second: Valla zona mendigos_69
+  - first:
+      213: -2234987393400926852
+    second: Valla zona mendigos_70
+  - first:
+      213: 7514112426043564202
+    second: Valla zona mendigos_71
+  - first:
+      213: -2467175590957911875
+    second: Valla zona mendigos_72
+  - first:
+      213: -9002899326755083428
+    second: Valla zona mendigos_73
+  - first:
+      213: 8641010701575889971
+    second: Valla zona mendigos_74
+  - first:
+      213: -2812383731316076477
+    second: Valla zona mendigos_75
+  - first:
+      213: -6570037321493274061
+    second: Valla zona mendigos_76
+  - first:
+      213: -7734809273122566434
+    second: Valla zona mendigos_77
+  - first:
+      213: -1658927387105158255
+    second: Valla zona mendigos_78
+  - first:
+      213: -6437392623197076142
+    second: Valla zona mendigos_79
+  - first:
+      213: 6399547394678330972
+    second: Valla zona mendigos_80
+  - first:
+      213: -686679841398370572
+    second: Valla zona mendigos_81
+  - first:
+      213: -4794547027311092126
+    second: Valla zona mendigos_82
+  - first:
+      213: -1882236382533536840
+    second: Valla zona mendigos_83
+  - first:
+      213: 582312878947444449
+    second: Valla zona mendigos_84
+  - first:
+      213: -1980165333335071747
+    second: Valla zona mendigos_85
+  - first:
+      213: -7966705286753163339
+    second: Valla zona mendigos_86
+  - first:
+      213: 6358034430520902335
+    second: Valla zona mendigos_87
+  - first:
+      213: 6840810554463726937
+    second: Valla zona mendigos_88
+  - first:
+      213: 3810401877318242653
+    second: Valla zona mendigos_89
+  - first:
+      213: 4671921568092176749
+    second: Valla zona mendigos_90
+  - first:
+      213: -7207064406910523683
+    second: Valla zona mendigos_91
+  - first:
+      213: 2933748324814585681
+    second: Valla zona mendigos_92
+  - first:
+      213: 3561593296395920048
+    second: Valla zona mendigos_93
+  - first:
+      213: -2416667528115217877
+    second: Valla zona mendigos_94
+  - first:
+      213: -2254599470840584127
+    second: Valla zona mendigos_95
+  - first:
+      213: -1997323625283555536
+    second: Valla zona mendigos_96
+  - first:
+      213: 3244088584976905967
+    second: Valla zona mendigos_97
+  - first:
+      213: -4346279069581249798
+    second: Valla zona mendigos_98
+  - first:
+      213: 4362633321319116454
+    second: Valla zona mendigos_99
+  - first:
+      213: 845609869139073484
+    second: Valla zona mendigos_100
+  - first:
+      213: -751718717612949367
+    second: Valla zona mendigos_101
+  - first:
+      213: -3184241823777404365
+    second: Valla zona mendigos_102
+  - first:
+      213: 4722393288911200322
+    second: Valla zona mendigos_103
+  - first:
+      213: 358364766329903035
+    second: Valla zona mendigos_104
+  - first:
+      213: 5522179890983751722
+    second: Valla zona mendigos_105
+  - first:
+      213: 6956268343082996444
+    second: Valla zona mendigos_106
+  - first:
+      213: -4686636735411082518
+    second: Valla zona mendigos_107
+  - first:
+      213: -8284796825040323241
+    second: Valla zona mendigos_108
+  - first:
+      213: -8454747535834658361
+    second: Valla zona mendigos_109
+  - first:
+      213: 3966452063395448702
+    second: Valla zona mendigos_110
+  - first:
+      213: -3562309704559722439
+    second: Valla zona mendigos_111
+  - first:
+      213: -7642599640725812536
+    second: Valla zona mendigos_112
+  - first:
+      213: -4864150235184448486
+    second: Valla zona mendigos_113
+  - first:
+      213: -279596836611717105
+    second: Valla zona mendigos_114
+  - first:
+      213: 110707480453135156
+    second: Valla zona mendigos_115
+  - first:
+      213: 5989768426134651146
+    second: Valla zona mendigos_116
+  - first:
+      213: -7207167697263747957
+    second: Valla zona mendigos_117
+  - first:
+      213: 1715761328872570249
+    second: Valla zona mendigos_118
+  - first:
+      213: -5588256338928264251
+    second: Valla zona mendigos_119
+  - first:
+      213: -1814780784102700900
+    second: Valla zona mendigos_120
+  - first:
+      213: -8355258555567387498
+    second: Valla zona mendigos_121
+  - first:
+      213: -8124393645467946574
+    second: Valla zona mendigos_122
+  - first:
+      213: -8297236612808158599
+    second: Valla zona mendigos_123
+  - first:
+      213: -7862176648464752280
+    second: Valla zona mendigos_124
+  - first:
+      213: -5534513027757402276
+    second: Valla zona mendigos_125
+  - first:
+      213: 7957416556654252135
+    second: Valla zona mendigos_126
+  - first:
+      213: -7568027206232441419
+    second: Valla zona mendigos_127
+  - first:
+      213: 835245668503415129
+    second: Valla zona mendigos_128
+  - first:
+      213: 5719968010929358670
+    second: Valla zona mendigos_129
+  - first:
+      213: 8199526274104076597
+    second: Valla zona mendigos_130
+  - first:
+      213: -3910102497982373937
+    second: Valla zona mendigos_131
+  - first:
+      213: 237262296288106437
+    second: Valla zona mendigos_132
+  - first:
+      213: 5286809300955535905
+    second: Valla zona mendigos_133
+  - first:
+      213: -9164335338838185277
+    second: Valla zona mendigos_134
+  - first:
+      213: -708636568162399110
+    second: Valla zona mendigos_135
+  - first:
+      213: 6324615067979340968
+    second: Valla zona mendigos_136
+  - first:
+      213: 76021746712154161
+    second: Valla zona mendigos_137
+  - first:
+      213: 3874963299195458489
+    second: Valla zona mendigos_138
+  - first:
+      213: 8001053802095665955
+    second: Valla zona mendigos_139
+  - first:
+      213: -9184158969952821116
+    second: Valla zona mendigos_140
+  - first:
+      213: -690792090543004061
+    second: Valla zona mendigos_141
+  - first:
+      213: -8613317973947891341
+    second: Valla zona mendigos_142
+  - first:
+      213: -5855790599404926952
+    second: Valla zona mendigos_143
+  - first:
+      213: -637462771127652783
+    second: Valla zona mendigos_144
+  - first:
+      213: -4448500745263453664
+    second: Valla zona mendigos_145
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 159
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Valla zona mendigos_0
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 5921
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7492332bc77cf2c90800000000000000
+      internalID: -7192310741507823289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_1
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 5879
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14530fc476b5ee460800000000000000
+      internalID: 7272850947480499521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_2
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 5931
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b3d97601866d0ed0800000000000000
+      internalID: -2446186318246849616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_3
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 5806
+        width: 35
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35c98383796a9000800000000000000
+      internalID: 43463091262440765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_4
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 5877
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00b4049152f61cf0800000000000000
+      internalID: -281771494474469363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_5
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 5738
+        width: 78
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db922d4e769035310800000000000000
+      internalID: 1392467051612875197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_6
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 5828
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a7f67185c775c090800000000000000
+      internalID: -8014868271671609440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 5841
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b017b87d1d25d7380800000000000000
+      internalID: -8971923821434277621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_8
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 5801
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ad6e18668ba84f0800000000000000
+      internalID: -825644831263499670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_9
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 5824
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a19af4d205725ff0800000000000000
+      internalID: -48847990924078688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5755
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1607c399c7dbe82a0800000000000000
+      internalID: -6733236050027843487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_11
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 5239
+        width: 351
+        height: 565
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957fd78e38f95c880800000000000000
+      internalID: -8591285325249251495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_12
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 5734
+        width: 54
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45eae1201224bebc0800000000000000
+      internalID: -3752833154946257324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_13
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 5661
+        width: 27
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a88013646497d30800000000000000
+      internalID: 4429648975779891871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_14
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 5770
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0919f722b9cc0fa50800000000000000
+      internalID: 6552962424494854544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_15
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 5713
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314bc212103885430800000000000000
+      internalID: 3771908728797574163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_16
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 5712
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd2b788e035700900800000000000000
+      internalID: 648647199261438687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_17
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 5728
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b41304520aac820800000000000000
+      internalID: 2939337788663876457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_18
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 5686
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aebd199c8d11080e0800000000000000
+      internalID: -2269794589402342422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_19
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 5694
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d813014ede1a281e0800000000000000
+      internalID: -2197015625097793139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_20
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 5666
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f04b075386c5940800000000000000
+      internalID: 5286214641359523679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_21
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 5674
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f34e708c1dd8f4e80800000000000000
+      internalID: -8192173265020001217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_22
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 5678
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e39c24bc78c36f30800000000000000
+      internalID: 4567714885008135138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_23
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 5683
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb0df8022d7f0f10800000000000000
+      internalID: 2238145124959587252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_24
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 5674
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b697408880df84380800000000000000
+      internalID: -8986654843334264469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_25
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 5647
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5690cd1214dce9ac0800000000000000
+      internalID: -3846411352103188123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_26
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 5637
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d472dc339313bf0800000000000000
+      internalID: -346432801682797293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_27
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 5645
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 598976091dd7bb860800000000000000
+      internalID: 7546763939613743253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_28
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 5654
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7d3b9f1b63b2b60800000000000000
+      internalID: 7722326124083271633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_29
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 5553
+        width: 32
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de947987190d3dac0800000000000000
+      internalID: -3831489534750144019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_30
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 5631
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2108e184143a1b700800000000000000
+      internalID: 554403729921441810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_31
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 5624
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0cc15f02b93cd60800000000000000
+      internalID: 7909335936446283937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_32
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 5600
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d18e58276721200800000000000000
+      internalID: 149311971901578586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_33
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 5628
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5101b6aaa2bf730800000000000000
+      internalID: 4033864802669434313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_34
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 5626
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203b51f3c108f9270800000000000000
+      internalID: 8259461100426605314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_35
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 5621
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb6ba3c8e5ed8b30800000000000000
+      internalID: 4291338807831915500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_36
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 5616
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20726f6cd59518480800000000000000
+      internalID: -8898733129402538238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_37
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 5594
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce990884a0ac9de0800000000000000
+      internalID: -1325007561836355903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_38
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 5598
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7464893034c133d0800000000000000
+      internalID: -3228583746445482886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_39
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 5570
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8e0caf81d022570800000000000000
+      internalID: 8440323052583053502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_40
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2534
+        width: 2625
+        height: 3063
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f6f414b8a811140800000000000000
+      internalID: 4688681017770209163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_41
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 5550
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49af4ac879156b960800000000000000
+      internalID: 7617365531085306516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_42
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 5549
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d1fa1dde9a24e30800000000000000
+      internalID: 4486335017704693005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_43
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 5509
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c792e58734fc55030800000000000000
+      internalID: 3482917775530142076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_44
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 5537
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458cf53bc18dfaea0800000000000000
+      internalID: -5859226972405643180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_45
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 5518
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c72874fe17956540800000000000000
+      internalID: 5000569120471132101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_46
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 5477
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2398b207126c7fb30800000000000000
+      internalID: 4321140214403402034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_47
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 5510
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285addf2d4a923bf0800000000000000
+      internalID: -346044565047892606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_48
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 5460
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe0f55a219ca9940800000000000000
+      internalID: 5303772593103245044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_49
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 5504
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e6fe9150a022080800000000000000
+      internalID: -9213790870620377516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_50
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 5495
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f83ed081e9afd9d0800000000000000
+      internalID: -2747290461677930252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_51
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 5489
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd02a702fddee690800000000000000
+      internalID: -7570869891983340105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_52
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 5303
+        width: 28
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4195abda7fc130a0800000000000000
+      internalID: -6903508627204239029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_53
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 5473
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a80aa52fac6bbe60800000000000000
+      internalID: 7979090664323942566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_54
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 5462
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16dfc15bc242486c0800000000000000
+      internalID: -4142145982838276767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_55
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 5479
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f18e1f2558aaa50800000000000000
+      internalID: 6533180800746659731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_56
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 5442
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88aa2aea7b8615180800000000000000
+      internalID: -9128399831585084792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_57
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 5460
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7faeb6a3cbda2fff0800000000000000
+      internalID: -3749625728341257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_58
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 5449
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fffd36fe8c167f90800000000000000
+      internalID: -6956341174084960270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_59
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 5437
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff3cf5a45311a2470800000000000000
+      internalID: 8370521778000217087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_60
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 5460
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cccb5a083f3392c0800000000000000
+      internalID: -4426124498850558780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_61
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 5454
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a30bda79b408fee0800000000000000
+      internalID: -1227225703781825628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_62
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 5431
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e9b382a222be630800000000000000
+      internalID: 3957294262034079262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_63
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 5428
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 518a99b7f95db8bf0800000000000000
+      internalID: -320928067476674539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_64
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 5442
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9ecd9d09e201e30800000000000000
+      internalID: 4472125629644204516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_65
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 5444
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00d80376d234bbb0800000000000000
+      internalID: -4921252596174761972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_66
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 5441
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f2f4269e0db8fbf0800000000000000
+      internalID: -290274305619201296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_67
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 5412
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e49746fc9f374c0800000000000000
+      internalID: -4290811350814732751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_68
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 5430
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3b34d15b277c810800000000000000
+      internalID: 1785521899481314242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_69
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 5415
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e75394485233090800000000000000
+      internalID: -8056054058341532070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_70
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 5418
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d8cd2aecabbf0e0800000000000000
+      internalID: -2234987393400926852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_71
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 5406
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa0eca4a07d774860800000000000000
+      internalID: 7514112426043564202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_72
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 5413
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db070762fd4d2cdd0800000000000000
+      internalID: -2467175590957911875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_73
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 5395
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5be82003c64f0380800000000000000
+      internalID: -9002899326755083428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_74
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 5400
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334a7c773790be770800000000000000
+      internalID: 8641010701575889971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_75
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 5401
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34051d2a5e768f8d0800000000000000
+      internalID: -2812383731316076477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_76
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 5387
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 332a55b9dd982d4a0800000000000000
+      internalID: -6570037321493274061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_77
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 5386
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edec12662ff68a490800000000000000
+      internalID: -7734809273122566434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_78
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 5393
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b1e6fa45e4af8e0800000000000000
+      internalID: -1658927387105158255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_79
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 5379
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2554e961489c9a6a0800000000000000
+      internalID: -6437392623197076142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_80
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 5324
+        width: 17
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56141ff272cfc850800000000000000
+      internalID: 6399547394678330972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_81
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 5375
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe470b825c6876f0800000000000000
+      internalID: -686679841398370572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_82
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 5375
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e973a91e8567db0800000000000000
+      internalID: -4794547027311092126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_83
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 5379
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3b5cb8bf3f0e5e0800000000000000
+      internalID: -1882236382533536840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_84
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 5367
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e62cc96a7ac41800800000000000000
+      internalID: 582312878947444449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_85
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 5352
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df32506ee1a0584e0800000000000000
+      internalID: -1980165333335071747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_86
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 5354
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b7e9d840c3907190800000000000000
+      internalID: -7966705286753163339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_87
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 5354
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2c6e4d0a64c3850800000000000000
+      internalID: 6358034430520902335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_88
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 5360
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95dad8284f07fee50800000000000000
+      internalID: 6840810554463726937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_89
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 5358
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51190da15441e430800000000000000
+      internalID: 3810401877318242653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_90
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 5348
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61ce9cc9eff5d040800000000000000
+      internalID: 4671921568092176749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_91
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 5346
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6acb84b1d5bfb90800000000000000
+      internalID: -7207064406910523683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_92
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 5356
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f78f8ce84c6b820800000000000000
+      internalID: 2933748324814585681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_93
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 5345
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b26712ab325d6130800000000000000
+      internalID: 3561593296395920048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_94
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 5335
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a987eefa5467ed0800000000000000
+      internalID: -2416667528115217877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_95
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 5352
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14863c50abd06b0e0800000000000000
+      internalID: -2254599470840584127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_96
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 5344
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f6a7dbeb41844e0800000000000000
+      internalID: -1997323625283555536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_97
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 5343
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe6b27f4161550d20800000000000000
+      internalID: 3244088584976905967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_98
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 5340
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af2f4eab63aeea3c0800000000000000
+      internalID: -4346279069581249798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_99
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 5332
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae228a34ef2b8c30800000000000000
+      internalID: 4362633321319116454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_100
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 5337
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9599c12b53cbb00800000000000000
+      internalID: 845609869139073484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_101
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 5246
+        width: 46
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9800ba12fcb5195f0800000000000000
+      internalID: -751718717612949367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_102
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 5298
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a4ece9eec4fc3d0800000000000000
+      internalID: -3184241823777404365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_103
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 5325
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240ad3b0daf498140800000000000000
+      internalID: 4722393288911200322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_104
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 5299
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb71c153bda29f400800000000000000
+      internalID: 358364766329903035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_105
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 5321
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2054e36a59b2ac40800000000000000
+      internalID: 5522179890983751722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_106
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 5317
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2d1cfb331a98060800000000000000
+      internalID: 6956268343082996444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_107
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 5312
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeaa68258b8b5feb0800000000000000
+      internalID: -4686636735411082518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_108
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 5307
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75dff2fae2d760d80800000000000000
+      internalID: -8284796825040323241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_109
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 5300
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c947fc49e3baaa80800000000000000
+      internalID: -8454747535834658361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_110
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 5310
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e770d41f22bab0730800000000000000
+      internalID: 3966452063395448702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_111
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 5292
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9308ac79232209ec0800000000000000
+      internalID: -3562309704559722439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_112
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 5286
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca82067e1800f590800000000000000
+      internalID: -7642599640725812536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_113
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 5292
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1cb2b9e1211f7cb0800000000000000
+      internalID: -4864150235184448486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_114
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 5268
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f088f61982cae1cf0800000000000000
+      internalID: -279596836611717105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_115
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 5294
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b336eeddf498100800000000000000
+      internalID: 110707480453135156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_116
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 5266
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a014b9ef5aeef1350800000000000000
+      internalID: 5989768426134651146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_117
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 5261
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c9cef1a2ffafb90800000000000000
+      internalID: -7207167697263747957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_118
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 5255
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d3dce86db9fc710800000000000000
+      internalID: 1715761328872570249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_119
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 5261
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb1b54b7768272b0800000000000000
+      internalID: -5588256338928264251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_120
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 5258
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c988a52fd7a90d6e0800000000000000
+      internalID: -1814780784102700900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_121
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 5232
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69cccdc9c982c0c80800000000000000
+      internalID: -8355258555567387498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_122
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 5236
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1317a360b504f80800000000000000
+      internalID: -8124393645467946574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_123
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 5243
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9725434e24b4adc80800000000000000
+      internalID: -8297236612808158599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_124
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 5134
+        width: 51
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86123ea6effe3e290800000000000000
+      internalID: -7862176648464752280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_125
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 5222
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c579fbf69b57133b0800000000000000
+      internalID: -5534513027757402276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_126
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 5146
+        width: 27
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7605035b23c6e6e60800000000000000
+      internalID: 7957416556654252135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_127
+      rect:
+        serializedVersion: 2
+        x: 2996
+        y: 4988
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bdf5026a57f8f690800000000000000
+      internalID: -7568027206232441419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_128
+      rect:
+        serializedVersion: 2
+        x: 3081
+        y: 4936
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959645b9283679b00800000000000000
+      internalID: 835245668503415129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_129
+      rect:
+        serializedVersion: 2
+        x: 3163
+        y: 4885
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47ca0aa998616f40800000000000000
+      internalID: 5719968010929358670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_130
+      rect:
+        serializedVersion: 2
+        x: 3248
+        y: 4833
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 539a47e04b19ac170800000000000000
+      internalID: 8199526274104076597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_131
+      rect:
+        serializedVersion: 2
+        x: 3322
+        y: 4793
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf9464ae768cb9c0800000000000000
+      internalID: -3910102497982373937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_132
+      rect:
+        serializedVersion: 2
+        x: 3407
+        y: 4742
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c798d82dccea4300800000000000000
+      internalID: 237262296288106437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_133
+      rect:
+        serializedVersion: 2
+        x: 3016
+        y: 4706
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a9faa6c058e5940800000000000000
+      internalID: 5286809300955535905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_134
+      rect:
+        serializedVersion: 2
+        x: 3018
+        y: 4716
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3caadf5609db1d080800000000000000
+      internalID: -9164335338838185277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_135
+      rect:
+        serializedVersion: 2
+        x: 3005
+        y: 4668
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c04d7bbca6a26f0800000000000000
+      internalID: -708636568162399110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_136
+      rect:
+        serializedVersion: 2
+        x: 3015
+        y: 4693
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8acddf325eb85c750800000000000000
+      internalID: 6324615067979340968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_137
+      rect:
+        serializedVersion: 2
+        x: 3022
+        y: 4692
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1309bf730651e0100800000000000000
+      internalID: 76021746712154161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_138
+      rect:
+        serializedVersion: 2
+        x: 3489
+        y: 4693
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b398361792a6c530800000000000000
+      internalID: 3874963299195458489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_139
+      rect:
+        serializedVersion: 2
+        x: 3021
+        y: 4679
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32363b6aa04790f60800000000000000
+      internalID: 8001053802095665955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_140
+      rect:
+        serializedVersion: 2
+        x: 3102
+        y: 4662
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 480ae3b93105b8080800000000000000
+      internalID: -9184158969952821116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_141
+      rect:
+        serializedVersion: 2
+        x: 2826
+        y: 0
+        width: 7137
+        height: 4657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 366e88de040d966f0800000000000000
+      internalID: -690792090543004061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_142
+      rect:
+        serializedVersion: 2
+        x: 3018
+        y: 4656
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371495120f8577880800000000000000
+      internalID: -8613317973947891341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_143
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 4472
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818c563a97d0cbea0800000000000000
+      internalID: -5855790599404926952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_144
+      rect:
+        serializedVersion: 2
+        x: 10010
+        y: 888
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e6661bcf64727f0800000000000000
+      internalID: -637462771127652783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla zona mendigos_145
+      rect:
+        serializedVersion: 2
+        x: 10081
+        y: 833
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ae28f2420c342c0800000000000000
+      internalID: -4448500745263453664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Valla zona mendigos_0: -7192310741507823289
+      Valla zona mendigos_1: 7272850947480499521
+      Valla zona mendigos_10: -6733236050027843487
+      Valla zona mendigos_100: 845609869139073484
+      Valla zona mendigos_101: -751718717612949367
+      Valla zona mendigos_102: -3184241823777404365
+      Valla zona mendigos_103: 4722393288911200322
+      Valla zona mendigos_104: 358364766329903035
+      Valla zona mendigos_105: 5522179890983751722
+      Valla zona mendigos_106: 6956268343082996444
+      Valla zona mendigos_107: -4686636735411082518
+      Valla zona mendigos_108: -8284796825040323241
+      Valla zona mendigos_109: -8454747535834658361
+      Valla zona mendigos_11: -8591285325249251495
+      Valla zona mendigos_110: 3966452063395448702
+      Valla zona mendigos_111: -3562309704559722439
+      Valla zona mendigos_112: -7642599640725812536
+      Valla zona mendigos_113: -4864150235184448486
+      Valla zona mendigos_114: -279596836611717105
+      Valla zona mendigos_115: 110707480453135156
+      Valla zona mendigos_116: 5989768426134651146
+      Valla zona mendigos_117: -7207167697263747957
+      Valla zona mendigos_118: 1715761328872570249
+      Valla zona mendigos_119: -5588256338928264251
+      Valla zona mendigos_12: -3752833154946257324
+      Valla zona mendigos_120: -1814780784102700900
+      Valla zona mendigos_121: -8355258555567387498
+      Valla zona mendigos_122: -8124393645467946574
+      Valla zona mendigos_123: -8297236612808158599
+      Valla zona mendigos_124: -7862176648464752280
+      Valla zona mendigos_125: -5534513027757402276
+      Valla zona mendigos_126: 7957416556654252135
+      Valla zona mendigos_127: -7568027206232441419
+      Valla zona mendigos_128: 835245668503415129
+      Valla zona mendigos_129: 5719968010929358670
+      Valla zona mendigos_13: 4429648975779891871
+      Valla zona mendigos_130: 8199526274104076597
+      Valla zona mendigos_131: -3910102497982373937
+      Valla zona mendigos_132: 237262296288106437
+      Valla zona mendigos_133: 5286809300955535905
+      Valla zona mendigos_134: -9164335338838185277
+      Valla zona mendigos_135: -708636568162399110
+      Valla zona mendigos_136: 6324615067979340968
+      Valla zona mendigos_137: 76021746712154161
+      Valla zona mendigos_138: 3874963299195458489
+      Valla zona mendigos_139: 8001053802095665955
+      Valla zona mendigos_14: 6552962424494854544
+      Valla zona mendigos_140: -9184158969952821116
+      Valla zona mendigos_141: -690792090543004061
+      Valla zona mendigos_142: -8613317973947891341
+      Valla zona mendigos_143: -5855790599404926952
+      Valla zona mendigos_144: -637462771127652783
+      Valla zona mendigos_145: -4448500745263453664
+      Valla zona mendigos_15: 3771908728797574163
+      Valla zona mendigos_16: 648647199261438687
+      Valla zona mendigos_17: 2939337788663876457
+      Valla zona mendigos_18: -2269794589402342422
+      Valla zona mendigos_19: -2197015625097793139
+      Valla zona mendigos_2: -2446186318246849616
+      Valla zona mendigos_20: 5286214641359523679
+      Valla zona mendigos_21: -8192173265020001217
+      Valla zona mendigos_22: 4567714885008135138
+      Valla zona mendigos_23: 2238145124959587252
+      Valla zona mendigos_24: -8986654843334264469
+      Valla zona mendigos_25: -3846411352103188123
+      Valla zona mendigos_26: -346432801682797293
+      Valla zona mendigos_27: 7546763939613743253
+      Valla zona mendigos_28: 7722326124083271633
+      Valla zona mendigos_29: -3831489534750144019
+      Valla zona mendigos_3: 43463091262440765
+      Valla zona mendigos_30: 554403729921441810
+      Valla zona mendigos_31: 7909335936446283937
+      Valla zona mendigos_32: 149311971901578586
+      Valla zona mendigos_33: 4033864802669434313
+      Valla zona mendigos_34: 8259461100426605314
+      Valla zona mendigos_35: 4291338807831915500
+      Valla zona mendigos_36: -8898733129402538238
+      Valla zona mendigos_37: -1325007561836355903
+      Valla zona mendigos_38: -3228583746445482886
+      Valla zona mendigos_39: 8440323052583053502
+      Valla zona mendigos_4: -281771494474469363
+      Valla zona mendigos_40: 4688681017770209163
+      Valla zona mendigos_41: 7617365531085306516
+      Valla zona mendigos_42: 4486335017704693005
+      Valla zona mendigos_43: 3482917775530142076
+      Valla zona mendigos_44: -5859226972405643180
+      Valla zona mendigos_45: 5000569120471132101
+      Valla zona mendigos_46: 4321140214403402034
+      Valla zona mendigos_47: -346044565047892606
+      Valla zona mendigos_48: 5303772593103245044
+      Valla zona mendigos_49: -9213790870620377516
+      Valla zona mendigos_5: 1392467051612875197
+      Valla zona mendigos_50: -2747290461677930252
+      Valla zona mendigos_51: -7570869891983340105
+      Valla zona mendigos_52: -6903508627204239029
+      Valla zona mendigos_53: 7979090664323942566
+      Valla zona mendigos_54: -4142145982838276767
+      Valla zona mendigos_55: 6533180800746659731
+      Valla zona mendigos_56: -9128399831585084792
+      Valla zona mendigos_57: -3749625728341257
+      Valla zona mendigos_58: -6956341174084960270
+      Valla zona mendigos_59: 8370521778000217087
+      Valla zona mendigos_6: -8014868271671609440
+      Valla zona mendigos_60: -4426124498850558780
+      Valla zona mendigos_61: -1227225703781825628
+      Valla zona mendigos_62: 3957294262034079262
+      Valla zona mendigos_63: -320928067476674539
+      Valla zona mendigos_64: 4472125629644204516
+      Valla zona mendigos_65: -4921252596174761972
+      Valla zona mendigos_66: -290274305619201296
+      Valla zona mendigos_67: -4290811350814732751
+      Valla zona mendigos_68: 1785521899481314242
+      Valla zona mendigos_69: -8056054058341532070
+      Valla zona mendigos_7: -8971923821434277621
+      Valla zona mendigos_70: -2234987393400926852
+      Valla zona mendigos_71: 7514112426043564202
+      Valla zona mendigos_72: -2467175590957911875
+      Valla zona mendigos_73: -9002899326755083428
+      Valla zona mendigos_74: 8641010701575889971
+      Valla zona mendigos_75: -2812383731316076477
+      Valla zona mendigos_76: -6570037321493274061
+      Valla zona mendigos_77: -7734809273122566434
+      Valla zona mendigos_78: -1658927387105158255
+      Valla zona mendigos_79: -6437392623197076142
+      Valla zona mendigos_8: -825644831263499670
+      Valla zona mendigos_80: 6399547394678330972
+      Valla zona mendigos_81: -686679841398370572
+      Valla zona mendigos_82: -4794547027311092126
+      Valla zona mendigos_83: -1882236382533536840
+      Valla zona mendigos_84: 582312878947444449
+      Valla zona mendigos_85: -1980165333335071747
+      Valla zona mendigos_86: -7966705286753163339
+      Valla zona mendigos_87: 6358034430520902335
+      Valla zona mendigos_88: 6840810554463726937
+      Valla zona mendigos_89: 3810401877318242653
+      Valla zona mendigos_9: -48847990924078688
+      Valla zona mendigos_90: 4671921568092176749
+      Valla zona mendigos_91: -7207064406910523683
+      Valla zona mendigos_92: 2933748324814585681
+      Valla zona mendigos_93: 3561593296395920048
+      Valla zona mendigos_94: -2416667528115217877
+      Valla zona mendigos_95: -2254599470840584127
+      Valla zona mendigos_96: -1997323625283555536
+      Valla zona mendigos_97: 3244088584976905967
+      Valla zona mendigos_98: -4346279069581249798
+      Valla zona mendigos_99: 4362633321319116454
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

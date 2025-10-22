@@ -1,0 +1,5863 @@
+fileFormatVersion: 2
+guid: 037a7c1e20467bf499afe253e72f52df
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5626054746024373233
+    second: Edificio central derecho__0
+  - first:
+      213: 4335309468158346817
+    second: Edificio central derecho__1
+  - first:
+      213: -6976209564037788619
+    second: Edificio central derecho__2
+  - first:
+      213: 3874459967675102612
+    second: Edificio central derecho__3
+  - first:
+      213: -3573567743999793292
+    second: Edificio central derecho__4
+  - first:
+      213: 2967514699603131016
+    second: Edificio central derecho__5
+  - first:
+      213: -3836957003093132592
+    second: Edificio central derecho__6
+  - first:
+      213: -8581549688728019370
+    second: Edificio central derecho__7
+  - first:
+      213: 2680402215311754977
+    second: Edificio central derecho__8
+  - first:
+      213: -6490382782529161615
+    second: Edificio central derecho__9
+  - first:
+      213: 3458403817817815551
+    second: Edificio central derecho__10
+  - first:
+      213: 2396904706017256848
+    second: Edificio central derecho__11
+  - first:
+      213: -4260857550845121556
+    second: Edificio central derecho__12
+  - first:
+      213: -6398023512349530087
+    second: Edificio central derecho__13
+  - first:
+      213: 7334478817016108674
+    second: Edificio central derecho__14
+  - first:
+      213: 536276651897910287
+    second: Edificio central derecho__15
+  - first:
+      213: -446121217952486451
+    second: Edificio central derecho__16
+  - first:
+      213: -2424797873603991023
+    second: Edificio central derecho__17
+  - first:
+      213: -8106582528359270796
+    second: Edificio central derecho__18
+  - first:
+      213: -1831200390381388081
+    second: Edificio central derecho__19
+  - first:
+      213: -4591711819353336534
+    second: Edificio central derecho__20
+  - first:
+      213: -3057678662074043788
+    second: Edificio central derecho__21
+  - first:
+      213: -1150270181947215208
+    second: Edificio central derecho__22
+  - first:
+      213: 5819103229542117430
+    second: Edificio central derecho__23
+  - first:
+      213: -8506511638540580687
+    second: Edificio central derecho__24
+  - first:
+      213: -3641154193817208688
+    second: Edificio central derecho__25
+  - first:
+      213: 7829589619702477071
+    second: Edificio central derecho__26
+  - first:
+      213: 3049861534176325520
+    second: Edificio central derecho__27
+  - first:
+      213: 8483736833307432636
+    second: Edificio central derecho__28
+  - first:
+      213: -8413359515647268455
+    second: Edificio central derecho__29
+  - first:
+      213: -3379602506245072658
+    second: Edificio central derecho__30
+  - first:
+      213: -8828013614716183629
+    second: Edificio central derecho__31
+  - first:
+      213: 9109320968971727901
+    second: Edificio central derecho__32
+  - first:
+      213: 1738129823164479256
+    second: Edificio central derecho__33
+  - first:
+      213: -1884408159554983817
+    second: Edificio central derecho__34
+  - first:
+      213: -1010829776016882321
+    second: Edificio central derecho__35
+  - first:
+      213: -4587243392499061225
+    second: Edificio central derecho__36
+  - first:
+      213: -7654900610650599309
+    second: Edificio central derecho__37
+  - first:
+      213: -5797428996330039941
+    second: Edificio central derecho__38
+  - first:
+      213: -4063958549695480815
+    second: Edificio central derecho__39
+  - first:
+      213: -5591678836269999821
+    second: Edificio central derecho__40
+  - first:
+      213: 5028921885314464429
+    second: Edificio central derecho__41
+  - first:
+      213: -6307791976482771760
+    second: Edificio central derecho__42
+  - first:
+      213: -8070506127654210082
+    second: Edificio central derecho__43
+  - first:
+      213: 8783198382962671038
+    second: Edificio central derecho__44
+  - first:
+      213: -403675995301535545
+    second: Edificio central derecho__45
+  - first:
+      213: 7629028407796465450
+    second: Edificio central derecho__46
+  - first:
+      213: 1075295167358413882
+    second: Edificio central derecho__47
+  - first:
+      213: 5150060148069357123
+    second: Edificio central derecho__48
+  - first:
+      213: -8350013611632952133
+    second: Edificio central derecho__49
+  - first:
+      213: -1926281265493781672
+    second: Edificio central derecho__50
+  - first:
+      213: -5437361351692088339
+    second: Edificio central derecho__51
+  - first:
+      213: 9212396611338106584
+    second: Edificio central derecho__52
+  - first:
+      213: -236678122622726972
+    second: Edificio central derecho__53
+  - first:
+      213: 235011416603302807
+    second: Edificio central derecho__54
+  - first:
+      213: 2144041445290623595
+    second: Edificio central derecho__55
+  - first:
+      213: -5357929500569182400
+    second: Edificio central derecho__56
+  - first:
+      213: 8530450695326959974
+    second: Edificio central derecho__57
+  - first:
+      213: 7442781583055394990
+    second: Edificio central derecho__58
+  - first:
+      213: -6617722556605967844
+    second: Edificio central derecho__59
+  - first:
+      213: -8348458682469084159
+    second: Edificio central derecho__60
+  - first:
+      213: 3794131821354777889
+    second: Edificio central derecho__61
+  - first:
+      213: -1893579979532804960
+    second: Edificio central derecho__62
+  - first:
+      213: 5224443903679187122
+    second: Edificio central derecho__63
+  - first:
+      213: 5070527987078774234
+    second: Edificio central derecho__64
+  - first:
+      213: -6179410102089576047
+    second: Edificio central derecho__65
+  - first:
+      213: -4353405438692157769
+    second: Edificio central derecho__66
+  - first:
+      213: 2188373355756484783
+    second: Edificio central derecho__67
+  - first:
+      213: 1535535076542493783
+    second: Edificio central derecho__68
+  - first:
+      213: 3699046730594412844
+    second: Edificio central derecho__69
+  - first:
+      213: 623956835936445384
+    second: Edificio central derecho__70
+  - first:
+      213: 5494863447380955743
+    second: Edificio central derecho__71
+  - first:
+      213: -4605430150228168003
+    second: Edificio central derecho__72
+  - first:
+      213: -575349736522512315
+    second: Edificio central derecho__73
+  - first:
+      213: 8861908519952664087
+    second: Edificio central derecho__74
+  - first:
+      213: 6798552177785327405
+    second: Edificio central derecho__75
+  - first:
+      213: 1447624875925664656
+    second: Edificio central derecho__76
+  - first:
+      213: -8695706487792450805
+    second: Edificio central derecho__77
+  - first:
+      213: 2560563147814051480
+    second: Edificio central derecho__78
+  - first:
+      213: -912213094902404564
+    second: Edificio central derecho__79
+  - first:
+      213: -4042599884163821877
+    second: Edificio central derecho__80
+  - first:
+      213: 897590235420908686
+    second: Edificio central derecho__81
+  - first:
+      213: -4572382806248140309
+    second: Edificio central derecho__82
+  - first:
+      213: 4514921339637007395
+    second: Edificio central derecho__83
+  - first:
+      213: -4327060954881080703
+    second: Edificio central derecho__84
+  - first:
+      213: 797863906968178869
+    second: Edificio central derecho__85
+  - first:
+      213: -3398008455101500847
+    second: Edificio central derecho__86
+  - first:
+      213: -1734065315392080103
+    second: Edificio central derecho__87
+  - first:
+      213: 5918386866504772060
+    second: Edificio central derecho__88
+  - first:
+      213: -4070190921815149459
+    second: Edificio central derecho__89
+  - first:
+      213: -9199157907926610010
+    second: Edificio central derecho__90
+  - first:
+      213: 5041942333481936334
+    second: Edificio central derecho__91
+  - first:
+      213: 5784947000302802753
+    second: Edificio central derecho__92
+  - first:
+      213: 2766025879471496477
+    second: Edificio central derecho__93
+  - first:
+      213: 9025538474914308335
+    second: Edificio central derecho__94
+  - first:
+      213: 621957632940219614
+    second: Edificio central derecho__95
+  - first:
+      213: 6999609682901662085
+    second: Edificio central derecho__96
+  - first:
+      213: -8004652183199381245
+    second: Edificio central derecho__97
+  - first:
+      213: 2680097632604197316
+    second: Edificio central derecho__98
+  - first:
+      213: 7276021824827842900
+    second: Edificio central derecho__99
+  - first:
+      213: -2911782522329453189
+    second: Edificio central derecho__100
+  - first:
+      213: 139094386392125212
+    second: Edificio central derecho__101
+  - first:
+      213: 2328243565799263039
+    second: Edificio central derecho__102
+  - first:
+      213: -2106188447745978480
+    second: Edificio central derecho__103
+  - first:
+      213: 538852060656153808
+    second: Edificio central derecho__104
+  - first:
+      213: -7132853230651582898
+    second: Edificio central derecho__105
+  - first:
+      213: -132266695680205839
+    second: Edificio central derecho__106
+  - first:
+      213: -5266217580938864421
+    second: Edificio central derecho__107
+  - first:
+      213: 8593871891704012383
+    second: Edificio central derecho__108
+  - first:
+      213: -3079466544772585046
+    second: Edificio central derecho__109
+  - first:
+      213: -907795641036367027
+    second: Edificio central derecho__110
+  - first:
+      213: 5358633475923110992
+    second: Edificio central derecho__111
+  - first:
+      213: 7484471752150557325
+    second: Edificio central derecho__112
+  - first:
+      213: -6721339075696078207
+    second: Edificio central derecho__113
+  - first:
+      213: 5683350099680301112
+    second: Edificio central derecho__114
+  - first:
+      213: -900753636704279638
+    second: Edificio central derecho__115
+  - first:
+      213: 2986826906537706311
+    second: Edificio central derecho__116
+  - first:
+      213: -4526341024051187252
+    second: Edificio central derecho__117
+  - first:
+      213: -7196829570004240406
+    second: Edificio central derecho__118
+  - first:
+      213: -5330056155627773005
+    second: Edificio central derecho__119
+  - first:
+      213: 3878677917871176511
+    second: Edificio central derecho__120
+  - first:
+      213: 8967769855336689658
+    second: Edificio central derecho__121
+  - first:
+      213: 8185722549087734462
+    second: Edificio central derecho__122
+  - first:
+      213: 6953620291709643466
+    second: Edificio central derecho__123
+  - first:
+      213: 6111180682432860757
+    second: Edificio central derecho__124
+  - first:
+      213: 2621270254149419133
+    second: Edificio central derecho__125
+  - first:
+      213: -6348333079338173140
+    second: Edificio central derecho__126
+  - first:
+      213: 2168462329665855967
+    second: Edificio central derecho__127
+  - first:
+      213: 6492910881968015610
+    second: Edificio central derecho__128
+  - first:
+      213: -3306705105362315406
+    second: Edificio central derecho__129
+  - first:
+      213: 3385519071802677010
+    second: Edificio central derecho__130
+  - first:
+      213: 1543089825615986454
+    second: Edificio central derecho__131
+  - first:
+      213: 2876602460370013666
+    second: Edificio central derecho__132
+  - first:
+      213: 7754544955698431976
+    second: Edificio central derecho__133
+  - first:
+      213: 4050891198863182985
+    second: Edificio central derecho__134
+  - first:
+      213: -1544265439575966619
+    second: Edificio central derecho__135
+  - first:
+      213: -1039870234097733703
+    second: Edificio central derecho__136
+  - first:
+      213: -7152378427449782964
+    second: Edificio central derecho__137
+  - first:
+      213: 9008985526114764526
+    second: Edificio central derecho__138
+  - first:
+      213: 7769793647072527411
+    second: Edificio central derecho__139
+  - first:
+      213: 3548578854094027184
+    second: Edificio central derecho__140
+  - first:
+      213: -5245545832460289167
+    second: Edificio central derecho__141
+  - first:
+      213: 1479060921969811070
+    second: Edificio central derecho__142
+  - first:
+      213: 4210251799739670693
+    second: Edificio central derecho__143
+  - first:
+      213: -2066606256433347154
+    second: Edificio central derecho__144
+  - first:
+      213: 3768879737207757263
+    second: Edificio central derecho__145
+  - first:
+      213: 2939477365637212936
+    second: Edificio central derecho__146
+  - first:
+      213: -3066815526303892644
+    second: Edificio central derecho__147
+  - first:
+      213: 100935867844764089
+    second: Edificio central derecho__148
+  - first:
+      213: 7327539436529297933
+    second: Edificio central derecho__149
+  - first:
+      213: -2013275322649128740
+    second: Edificio central derecho__150
+  - first:
+      213: 7427197114226312151
+    second: Edificio central derecho__151
+  - first:
+      213: -6754630552480119406
+    second: Edificio central derecho__152
+  - first:
+      213: 1655759992072122412
+    second: Edificio central derecho__153
+  - first:
+      213: -2850377550296910111
+    second: Edificio central derecho__154
+  - first:
+      213: 7693277386834212021
+    second: Edificio central derecho__155
+  - first:
+      213: 1198428955640952933
+    second: Edificio central derecho__156
+  - first:
+      213: -3106711409209129240
+    second: Edificio central derecho__157
+  - first:
+      213: -1047158644666900305
+    second: Edificio central derecho__158
+  - first:
+      213: 1412354680250250104
+    second: Edificio central derecho__159
+  - first:
+      213: 2449336731685740560
+    second: Edificio central derecho__160
+  - first:
+      213: -1916605184410278276
+    second: Edificio central derecho__161
+  - first:
+      213: -3711508500143781730
+    second: Edificio central derecho__162
+  - first:
+      213: -5273015880786159616
+    second: Edificio central derecho__163
+  - first:
+      213: -1995384275943774564
+    second: Edificio central derecho__164
+  - first:
+      213: -7449159053744657207
+    second: Edificio central derecho__165
+  - first:
+      213: 9001430355355093908
+    second: Edificio central derecho__166
+  - first:
+      213: 6751505951345059302
+    second: Edificio central derecho__167
+  - first:
+      213: 4075179090524637109
+    second: Edificio central derecho__168
+  - first:
+      213: 1212172737366150332
+    second: Edificio central derecho__169
+  - first:
+      213: 6100857278893737210
+    second: Edificio central derecho__170
+  - first:
+      213: -328862042573236218
+    second: Edificio central derecho__171
+  - first:
+      213: -8029003514751785852
+    second: Edificio central derecho__172
+  - first:
+      213: 2594908854566377105
+    second: Edificio central derecho__173
+  - first:
+      213: -3963894141270894119
+    second: Edificio central derecho__174
+  - first:
+      213: 4027113096613239486
+    second: Edificio central derecho__175
+  - first:
+      213: 7793151288754285328
+    second: Edificio central derecho__176
+  - first:
+      213: -5563178498906685719
+    second: Edificio central derecho__177
+  - first:
+      213: 7448991723296692987
+    second: Edificio central derecho__178
+  - first:
+      213: 2023900166802805368
+    second: Edificio central derecho__179
+  - first:
+      213: 7833085698293106906
+    second: Edificio central derecho__180
+  - first:
+      213: -926831032721322438
+    second: Edificio central derecho__181
+  - first:
+      213: 1081109923950909112
+    second: Edificio central derecho__182
+  - first:
+      213: -4510929895581671827
+    second: Edificio central derecho__183
+  - first:
+      213: 4731500599223599529
+    second: Edificio central derecho__184
+  - first:
+      213: 5186855625124503666
+    second: Edificio central derecho__185
+  - first:
+      213: -3975905377495838361
+    second: Edificio central derecho__186
+  - first:
+      213: 8976310964759962289
+    second: Edificio central derecho__187
+  - first:
+      213: 342211334449963163
+    second: Edificio central derecho__188
+  - first:
+      213: 2536990230218688317
+    second: Edificio central derecho__189
+  - first:
+      213: 5785995583388707525
+    second: Edificio central derecho__190
+  - first:
+      213: 514461044253807490
+    second: Edificio central derecho__191
+  - first:
+      213: -5935271210305212629
+    second: Edificio central derecho__192
+  - first:
+      213: -5633911561274035453
+    second: Edificio central derecho__193
+  - first:
+      213: -7943397328253227986
+    second: Edificio central derecho__194
+  - first:
+      213: 6652822627240990387
+    second: Edificio central derecho__195
+  - first:
+      213: -287296058604515497
+    second: Edificio central derecho__196
+  - first:
+      213: 2873786457275197209
+    second: Edificio central derecho__197
+  - first:
+      213: 9019943018585221679
+    second: Edificio central derecho__198
+  - first:
+      213: -2123194011041804593
+    second: Edificio central derecho__199
+  - first:
+      213: -8082716798897721858
+    second: Edificio central derecho__200
+  - first:
+      213: 529179138604169063
+    second: Edificio central derecho__201
+  - first:
+      213: -8203590586921930542
+    second: Edificio central derecho__202
+  - first:
+      213: -6237199460953450755
+    second: Edificio central derecho__203
+  - first:
+      213: 4545164562536047686
+    second: Edificio central derecho__204
+  - first:
+      213: 2976128493701984145
+    second: Edificio central derecho__205
+  - first:
+      213: -1935861317771188060
+    second: Edificio central derecho__206
+  - first:
+      213: 6995226551056183620
+    second: Edificio central derecho__207
+  - first:
+      213: 3557254218165810765
+    second: Edificio central derecho__208
+  - first:
+      213: -3702000155388753698
+    second: Edificio central derecho__209
+  - first:
+      213: 4893345373509074140
+    second: Edificio central derecho__210
+  - first:
+      213: -8790484691832922531
+    second: Edificio central derecho__211
+  - first:
+      213: 7140127169507642073
+    second: Edificio central derecho__212
+  - first:
+      213: -2927101195657591922
+    second: Edificio central derecho__213
+  - first:
+      213: -4206494863143330156
+    second: Edificio central derecho__214
+  - first:
+      213: -8858974827166398558
+    second: Edificio central derecho__215
+  - first:
+      213: 7047034021782747441
+    second: Edificio central derecho__216
+  - first:
+      213: 6163859155029379068
+    second: Edificio central derecho__217
+  - first:
+      213: 1203052813223353740
+    second: Edificio central derecho__218
+  - first:
+      213: -2378960748245937364
+    second: Edificio central derecho__219
+  - first:
+      213: -4145599491279791814
+    second: Edificio central derecho__220
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 159
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Edificio central derecho__0
+      rect:
+        serializedVersion: 2
+        x: 8859
+        y: 8185
+        width: 42
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f041150440d3ce1b0800000000000000
+      internalID: -5626054746024373233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__1
+      rect:
+        serializedVersion: 2
+        x: 4929
+        y: 6278
+        width: 12
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14647f8edfc1a2c30800000000000000
+      internalID: 4335309468158346817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__2
+      rect:
+        serializedVersion: 2
+        x: 4964
+        y: 6137
+        width: 113
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c48d0fc568f2f90800000000000000
+      internalID: -6976209564037788619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__3
+      rect:
+        serializedVersion: 2
+        x: 5111
+        y: 6273
+        width: 18
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495feb510d8d4c530800000000000000
+      internalID: 3874459967675102612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__4
+      rect:
+        serializedVersion: 2
+        x: 4875
+        y: 6161
+        width: 68
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47729160213286ec0800000000000000
+      internalID: -3573567743999793292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__5
+      rect:
+        serializedVersion: 2
+        x: 4643
+        y: 6065
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a389f85eabe2920800000000000000
+      internalID: 2967514699603131016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__6
+      rect:
+        serializedVersion: 2
+        x: 4689
+        y: 6080
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dabf2c4fe360cac0800000000000000
+      internalID: -3836957003093132592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__7
+      rect:
+        serializedVersion: 2
+        x: 3766
+        y: 0
+        width: 5806
+        height: 6055
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e900d660638e880800000000000000
+      internalID: -8581549688728019370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__8
+      rect:
+        serializedVersion: 2
+        x: 4484
+        y: 6010
+        width: 97
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6c3da0d93b23520800000000000000
+      internalID: 2680402215311754977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__9
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 5763
+        width: 60
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176b90f2f378de5a0800000000000000
+      internalID: -6490382782529161615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__10
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 5835
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9b2eae2f7beff20800000000000000
+      internalID: 3458403817817815551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__11
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 5843
+        width: 60
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095ee9a7124834120800000000000000
+      internalID: 2396904706017256848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__12
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 5796
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cebe55be1a46ed4c0800000000000000
+      internalID: -4260857550845121556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__13
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 5804
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9182fc18387a537a0800000000000000
+      internalID: -6398023512349530087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__14
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 5776
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2865fd4df9d49c560800000000000000
+      internalID: 7334478817016108674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__15
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 5782
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f04f5b906cc317700800000000000000
+      internalID: 536276651897910287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__16
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 5800
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb6d2dad1f0fc9f0800000000000000
+      internalID: -446121217952486451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__17
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 5770
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a26bb5e23695ed0800000000000000
+      internalID: -2424797873603991023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__18
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 5752
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 476f1c61422af7f80800000000000000
+      internalID: -8106582528359270796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__19
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 5662
+        width: 51
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fceb2c272f44696e0800000000000000
+      internalID: -1831200390381388081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__20
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 5720
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a255b70ad66f640c0800000000000000
+      internalID: -4591711819353336534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__21
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 5740
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 472f8c50571f095d0800000000000000
+      internalID: -3057678662074043788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__22
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 5739
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 892ff492d5b6900f0800000000000000
+      internalID: -1150270181947215208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__23
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 5730
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 630bf2c6e8b91c050800000000000000
+      internalID: 5819103229542117430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__24
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 5724
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b80013fbbcc2f980800000000000000
+      internalID: -8506511638540580687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__25
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 5719
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 098f9196d85087dc0800000000000000
+      internalID: -3641154193817208688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__26
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 5695
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01b373b64a48ac60800000000000000
+      internalID: 7829589619702477071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__27
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 5711
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f25be08e8435a20800000000000000
+      internalID: 3049861534176325520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__28
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 5720
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6df2d73b94cb570800000000000000
+      internalID: 8483736833307432636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__29
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 5721
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999213ea81ebd3b80800000000000000
+      internalID: -8413359515647268455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__30
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 5699
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee81e3d2d6d3911d0800000000000000
+      internalID: -3379602506245072658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__31
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 5691
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb9786e3689c7580800000000000000
+      internalID: -8828013614716183629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__32
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 5676
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14b394782fca6e70800000000000000
+      internalID: 9109320968971727901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__33
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 5701
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8173b3b7dd31f1810800000000000000
+      internalID: 1738129823164479256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__34
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 5687
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 778a0ed43cc39d5e0800000000000000
+      internalID: -1884408159554983817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__35
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 5697
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f654020acafc8f1f0800000000000000
+      internalID: -1010829776016882321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__36
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 5702
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ee5d35076d650c0800000000000000
+      internalID: -4587243392499061225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__37
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 5662
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3701047b37454c590800000000000000
+      internalID: -7654900610650599309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__38
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 5545
+        width: 88
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75d23f3b056b8fa0800000000000000
+      internalID: -5797428996330039941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__39
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 5641
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c3d771b3be997c0800000000000000
+      internalID: -4063958549695480815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__40
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 5621
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3399e0279bd5662b0800000000000000
+      internalID: -5591678836269999821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__41
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 5595
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa3b517fc15ac540800000000000000
+      internalID: 5028921885314464429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__42
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 5612
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc6fa41e983678a0800000000000000
+      internalID: -6307791976482771760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__43
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 5596
+        width: 27
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5be8faf6dcfff80800000000000000
+      internalID: -8070506127654210082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__44
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 5554
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd7648d46034e970800000000000000
+      internalID: 8783198382962671038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__45
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 5561
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c023bf22dad56af0800000000000000
+      internalID: -403675995301535545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__46
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 5563
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f7214aae0cfd960800000000000000
+      internalID: 7629028407796465450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__47
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 5535
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ca71fe1473cee00800000000000000
+      internalID: 1075295167358413882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__48
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 5515
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 346d1912b60b87740800000000000000
+      internalID: 5150060148069357123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__49
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 5520
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbcf0f84cdace1c80800000000000000
+      internalID: -8350013611632952133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__50
+      rect:
+        serializedVersion: 2
+        x: 2732
+        y: 5107
+        width: 61
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853d0c815697445e0800000000000000
+      internalID: -1926281265493781672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__51
+      rect:
+        serializedVersion: 2
+        x: 2793
+        y: 5179
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb84f4b8ac9a84b0800000000000000
+      internalID: -5437361351692088339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__52
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 5187
+        width: 60
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6f1dc98e109df70800000000000000
+      internalID: 9212396611338106584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__53
+      rect:
+        serializedVersion: 2
+        x: 2791
+        y: 5139
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc47fe508627bcf0800000000000000
+      internalID: -236678122622726972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__54
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 5147
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b1dc463ade24300800000000000000
+      internalID: 235011416603302807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__55
+      rect:
+        serializedVersion: 2
+        x: 2809
+        y: 5118
+        width: 75
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b62434ab55a21cd10800000000000000
+      internalID: 2144041445290623595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__56
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 4970
+        width: 73
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04fdcfab18fc4a5b0800000000000000
+      internalID: -5357929500569182400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__57
+      rect:
+        serializedVersion: 2
+        x: 2932
+        y: 5144
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66982fc06bf326670800000000000000
+      internalID: 8530450695326959974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__58
+      rect:
+        serializedVersion: 2
+        x: 2950
+        y: 5122
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea816de8a621a4760800000000000000
+      internalID: 7442781583055394990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__59
+      rect:
+        serializedVersion: 2
+        x: 2868
+        y: 5096
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c12596f95602924a0800000000000000
+      internalID: -6617722556605967844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__60
+      rect:
+        serializedVersion: 2
+        x: 2805
+        y: 5078
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10497617f01542c80800000000000000
+      internalID: -8348458682469084159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__61
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 5064
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d7bd21ac677a430800000000000000
+      internalID: 3794131821354777889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__62
+      rect:
+        serializedVersion: 2
+        x: 2818
+        y: 5083
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0acd72e8a07a8b5e0800000000000000
+      internalID: -1893579979532804960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__63
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 5030
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8c0c3dc04f08840800000000000000
+      internalID: 5224443903679187122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__64
+      rect:
+        serializedVersion: 2
+        x: 2793
+        y: 5069
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: addb185e6522e5640800000000000000
+      internalID: 5070527987078774234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__65
+      rect:
+        serializedVersion: 2
+        x: 2793
+        y: 5062
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1919d7780435e3aa0800000000000000
+      internalID: -6179410102089576047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__66
+      rect:
+        serializedVersion: 2
+        x: 2813
+        y: 5020
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6108f91d89593c0800000000000000
+      internalID: -4353405438692157769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__67
+      rect:
+        serializedVersion: 2
+        x: 2845
+        y: 5054
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa87bc9f8f9ae5e10800000000000000
+      internalID: 2188373355756484783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__68
+      rect:
+        serializedVersion: 2
+        x: 2804
+        y: 5043
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 754b77934015f4510800000000000000
+      internalID: 1535535076542493783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__69
+      rect:
+        serializedVersion: 2
+        x: 2809
+        y: 5035
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2966a03767a55330800000000000000
+      internalID: 3699046730594412844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__70
+      rect:
+        serializedVersion: 2
+        x: 2845
+        y: 5045
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c32b29bf6db8a800800000000000000
+      internalID: 623956835936445384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__71
+      rect:
+        serializedVersion: 2
+        x: 2851
+        y: 5023
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f529b6e313da14c40800000000000000
+      internalID: 5494863447380955743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__72
+      rect:
+        serializedVersion: 2
+        x: 2914
+        y: 5040
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2b6c1dda93610c0800000000000000
+      internalID: -4605430150228168003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__73
+      rect:
+        serializedVersion: 2
+        x: 2930
+        y: 5046
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54806f48672f308f0800000000000000
+      internalID: -575349736522512315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__74
+      rect:
+        serializedVersion: 2
+        x: 2867
+        y: 5006
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71649c3b8d2dbfa70800000000000000
+      internalID: 8861908519952664087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__75
+      rect:
+        serializedVersion: 2
+        x: 3351
+        y: 4962
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f4ad77f2f495e50800000000000000
+      internalID: 6798552177785327405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__76
+      rect:
+        serializedVersion: 2
+        x: 2852
+        y: 4985
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0937191a72ff61410800000000000000
+      internalID: 1447624875925664656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__77
+      rect:
+        serializedVersion: 2
+        x: 2865
+        y: 4965
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b03421c6505a25780800000000000000
+      internalID: -8695706487792450805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__78
+      rect:
+        serializedVersion: 2
+        x: 2897
+        y: 4964
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e9962dd92f88320800000000000000
+      internalID: 2560563147814051480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__79
+      rect:
+        serializedVersion: 2
+        x: 2875
+        y: 4939
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ae1e6f50b2753f0800000000000000
+      internalID: -912213094902404564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__80
+      rect:
+        serializedVersion: 2
+        x: 2879
+        y: 4956
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce416fe2dcc5e7c0800000000000000
+      internalID: -4042599884163821877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__81
+      rect:
+        serializedVersion: 2
+        x: 2899
+        y: 4920
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c5f104091e47c00800000000000000
+      internalID: 897590235420908686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__82
+      rect:
+        serializedVersion: 2
+        x: 2951
+        y: 4919
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1d9703012ab80c0800000000000000
+      internalID: -4572382806248140309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__83
+      rect:
+        serializedVersion: 2
+        x: 3476
+        y: 4813
+        width: 96
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32405ed890938ae30800000000000000
+      internalID: 4514921339637007395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__84
+      rect:
+        serializedVersion: 2
+        x: 2914
+        y: 4889
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182c9debcf033f3c0800000000000000
+      internalID: -4327060954881080703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__85
+      rect:
+        serializedVersion: 2
+        x: 2936
+        y: 4898
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b091f10ff4921b00800000000000000
+      internalID: 797863906968178869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__86
+      rect:
+        serializedVersion: 2
+        x: 2941
+        y: 4904
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 152b6e14059d7d0d0800000000000000
+      internalID: -3398008455101500847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__87
+      rect:
+        serializedVersion: 2
+        x: 2952
+        y: 4900
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 917baba78cc5fe7e0800000000000000
+      internalID: -1734065315392080103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__88
+      rect:
+        serializedVersion: 2
+        x: 2978
+        y: 4906
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9aa558f75522250800000000000000
+      internalID: 5918386866504772060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__89
+      rect:
+        serializedVersion: 2
+        x: 2931
+        y: 4878
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d643031ebe6c387c0800000000000000
+      internalID: -4070190921815149459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__90
+      rect:
+        serializedVersion: 2
+        x: 2951
+        y: 4858
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af0f493f96065080800000000000000
+      internalID: -9199157907926610010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__91
+      rect:
+        serializedVersion: 2
+        x: 3644
+        y: 4736
+        width: 80
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5e135c6d398f540800000000000000
+      internalID: 5041942333481936334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__92
+      rect:
+        serializedVersion: 2
+        x: 11924
+        y: 3873
+        width: 60
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 147928595a2484050800000000000000
+      internalID: 5784947000302802753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__93
+      rect:
+        serializedVersion: 2
+        x: 11974
+        y: 3849
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d9f61e1e5e26620800000000000000
+      internalID: 2766025879471496477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__94
+      rect:
+        serializedVersion: 2
+        x: 11990
+        y: 3788
+        width: 61
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe063ef6c67214d70800000000000000
+      internalID: 9025538474914308335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__95
+      rect:
+        serializedVersion: 2
+        x: 11795
+        y: 3820
+        width: 57
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc9eb00c23a1a800800000000000000
+      internalID: 621957632940219614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__96
+      rect:
+        serializedVersion: 2
+        x: 11913
+        y: 3818
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589fcbbcbeb932160800000000000000
+      internalID: 6999609682901662085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__97
+      rect:
+        serializedVersion: 2
+        x: 11939
+        y: 3797
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30988d5ff33c9e090800000000000000
+      internalID: -8004652183199381245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__98
+      rect:
+        serializedVersion: 2
+        x: 11971
+        y: 3833
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c11dbad89e913520800000000000000
+      internalID: 2680097632604197316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__99
+      rect:
+        serializedVersion: 2
+        x: 11982
+        y: 3825
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4516ad6bc4f99f460800000000000000
+      internalID: 7276021824827842900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__100
+      rect:
+        serializedVersion: 2
+        x: 11791
+        y: 3655
+        width: 72
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7dac5529354797d0800000000000000
+      internalID: -2911782522329453189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__101
+      rect:
+        serializedVersion: 2
+        x: 11828
+        y: 3799
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f47238b992ee100800000000000000
+      internalID: 139094386392125212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__102
+      rect:
+        serializedVersion: 2
+        x: 11899
+        y: 3781
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3bcd0200359f4020800000000000000
+      internalID: 2328243565799263039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__103
+      rect:
+        serializedVersion: 2
+        x: 11917
+        y: 3760
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09fc11e04c055c2e0800000000000000
+      internalID: -2106188447745978480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__104
+      rect:
+        serializedVersion: 2
+        x: 11947
+        y: 3768
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4b5ed18136a7700800000000000000
+      internalID: 538852060656153808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__105
+      rect:
+        serializedVersion: 2
+        x: 11960
+        y: 3750
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e46d30837c3030d90800000000000000
+      internalID: -7132853230651582898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__106
+      rect:
+        serializedVersion: 2
+        x: 11966
+        y: 3764
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fbdd5c14281a2ef0800000000000000
+      internalID: -132266695680205839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__107
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 3721
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8d8320303aae6b0800000000000000
+      internalID: -5266217580938864421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__108
+      rect:
+        serializedVersion: 2
+        x: 11884
+        y: 3749
+        width: 35
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e5b3604f0934770800000000000000
+      internalID: 8593871891704012383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__109
+      rect:
+        serializedVersion: 2
+        x: 11924
+        y: 3740
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa961254e798345d0800000000000000
+      internalID: -3079466544772585046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__110
+      rect:
+        serializedVersion: 2
+        x: 11933
+        y: 3724
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b11679cacd663f0800000000000000
+      internalID: -907795641036367027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__111
+      rect:
+        serializedVersion: 2
+        x: 11975
+        y: 3752
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ce9ed41c0bd5a40800000000000000
+      internalID: 5358633475923110992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__112
+      rect:
+        serializedVersion: 2
+        x: 11982
+        y: 3748
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d822166776f2ed760800000000000000
+      internalID: 7484471752150557325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__113
+      rect:
+        serializedVersion: 2
+        x: 11841
+        y: 3731
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182de2ac8b109b2a0800000000000000
+      internalID: -6721339075696078207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__114
+      rect:
+        serializedVersion: 2
+        x: 11861
+        y: 3716
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83010a1ddc05fde40800000000000000
+      internalID: 5683350099680301112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__115
+      rect:
+        serializedVersion: 2
+        x: 11888
+        y: 3728
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3a91ef651ef73f0800000000000000
+      internalID: -900753636704279638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__116
+      rect:
+        serializedVersion: 2
+        x: 11889
+        y: 3691
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74342c12f37537920800000000000000
+      internalID: 2986826906537706311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__117
+      rect:
+        serializedVersion: 2
+        x: 11925
+        y: 3730
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1b629f1d43f21c0800000000000000
+      internalID: -4526341024051187252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__118
+      rect:
+        serializedVersion: 2
+        x: 11949
+        y: 3706
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae7bed2f2a9bf1c90800000000000000
+      internalID: -7196829570004240406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__119
+      rect:
+        serializedVersion: 2
+        x: 11971
+        y: 3728
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b32ce29a26d706b0800000000000000
+      internalID: -5330056155627773005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__120
+      rect:
+        serializedVersion: 2
+        x: 11910
+        y: 3706
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3bfcd42405d3d530800000000000000
+      internalID: 3878677917871176511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__121
+      rect:
+        serializedVersion: 2
+        x: 11865
+        y: 3650
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: affacce8b2be37c70800000000000000
+      internalID: 8967769855336689658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__122
+      rect:
+        serializedVersion: 2
+        x: 11898
+        y: 3650
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba8740e947899170800000000000000
+      internalID: 8185722549087734462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__123
+      rect:
+        serializedVersion: 2
+        x: 11924
+        y: 3670
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca2d4e30d8308060800000000000000
+      internalID: 6953620291709643466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__124
+      rect:
+        serializedVersion: 2
+        x: 11884
+        y: 3625
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552d3a6c3764fc450800000000000000
+      internalID: 6111180682432860757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__125
+      rect:
+        serializedVersion: 2
+        x: 11894
+        y: 3641
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d70cfd6786f906420800000000000000
+      internalID: 2621270254149419133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__126
+      rect:
+        serializedVersion: 2
+        x: 11789
+        y: 3589
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2dbf2203b036e7a0800000000000000
+      internalID: -6348333079338173140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__127
+      rect:
+        serializedVersion: 2
+        x: 11809
+        y: 3591
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd1ac84fffce71e10800000000000000
+      internalID: 2168462329665855967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__128
+      rect:
+        serializedVersion: 2
+        x: 11819
+        y: 3586
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8c8f5db047b1a50800000000000000
+      internalID: 6492910881968015610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__129
+      rect:
+        serializedVersion: 2
+        x: 11821
+        y: 3559
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27798e1f9393c12d0800000000000000
+      internalID: -3306705105362315406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__130
+      rect:
+        serializedVersion: 2
+        x: 11840
+        y: 3584
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 217db1798a7cbfe20800000000000000
+      internalID: 3385519071802677010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__131
+      rect:
+        serializedVersion: 2
+        x: 11842
+        y: 3592
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f3c5055082a6510800000000000000
+      internalID: 1543089825615986454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__132
+      rect:
+        serializedVersion: 2
+        x: 11846
+        y: 3574
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed8e5262bebbe720800000000000000
+      internalID: 2876602460370013666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__133
+      rect:
+        serializedVersion: 2
+        x: 11818
+        y: 3544
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e7c3374d8dad9b60800000000000000
+      internalID: 7754544955698431976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__134
+      rect:
+        serializedVersion: 2
+        x: 10922
+        y: 3324
+        width: 60
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c0ff33518a73830800000000000000
+      internalID: 4050891198863182985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__135
+      rect:
+        serializedVersion: 2
+        x: 10976
+        y: 3316
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c792bb3caa19ae0800000000000000
+      internalID: -1544265439575966619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__136
+      rect:
+        serializedVersion: 2
+        x: 10985
+        y: 3238
+        width: 65
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf2a141883a191f0800000000000000
+      internalID: -1039870234097733703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__137
+      rect:
+        serializedVersion: 2
+        x: 10793
+        y: 3255
+        width: 57
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d40b417b5adbc90800000000000000
+      internalID: -7152378427449782964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__138
+      rect:
+        serializedVersion: 2
+        x: 10898
+        y: 3266
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6c4b6ba98560d70800000000000000
+      internalID: 9008985526114764526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__139
+      rect:
+        serializedVersion: 2
+        x: 10937
+        y: 3257
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33448d7e72ad3db60800000000000000
+      internalID: 7769793647072527411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__140
+      rect:
+        serializedVersion: 2
+        x: 10970
+        y: 3285
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b9bcb7aaa51f3130800000000000000
+      internalID: 3548578854094027184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__141
+      rect:
+        serializedVersion: 2
+        x: 10980
+        y: 3277
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b7c238bd31437b0800000000000000
+      internalID: -5245545832460289167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__142
+      rect:
+        serializedVersion: 2
+        x: 10789
+        y: 3143
+        width: 51
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e1c27721ea68410800000000000000
+      internalID: 1479060921969811070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__143
+      rect:
+        serializedVersion: 2
+        x: 10901
+        y: 3233
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0ae6a74b1dd6a30800000000000000
+      internalID: 4210251799739670693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__144
+      rect:
+        serializedVersion: 2
+        x: 10915
+        y: 3211
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5c0b22f80f153e0800000000000000
+      internalID: -2066606256433347154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__145
+      rect:
+        serializedVersion: 2
+        x: 10945
+        y: 3220
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc99f611720cd4430800000000000000
+      internalID: 3768879737207757263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__146
+      rect:
+        serializedVersion: 2
+        x: 10959
+        y: 3201
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b6b1c071f1bc820800000000000000
+      internalID: 2939477365637212936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__147
+      rect:
+        serializedVersion: 2
+        x: 10964
+        y: 3215
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5bf00b078b7075d0800000000000000
+      internalID: -3066815526303892644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__148
+      rect:
+        serializedVersion: 2
+        x: 10983
+        y: 3207
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b1abf313a8966100800000000000000
+      internalID: 100935867844764089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__149
+      rect:
+        serializedVersion: 2
+        x: 10882
+        y: 3202
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0aaef76b46a0b560800000000000000
+      internalID: 7327539436529297933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__150
+      rect:
+        serializedVersion: 2
+        x: 10908
+        y: 3201
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd05076c2c86f04e0800000000000000
+      internalID: -2013275322649128740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__151
+      rect:
+        serializedVersion: 2
+        x: 10922
+        y: 3192
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d30446ac64b21760800000000000000
+      internalID: 7427197114226312151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__152
+      rect:
+        serializedVersion: 2
+        x: 10931
+        y: 3159
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2950c62dc4bb242a0800000000000000
+      internalID: -6754630552480119406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__153
+      rect:
+        serializedVersion: 2
+        x: 10973
+        y: 3203
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2033c0b0f07af610800000000000000
+      internalID: 1655759992072122412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__154
+      rect:
+        serializedVersion: 2
+        x: 10980
+        y: 3199
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6fdce48bc6178d0800000000000000
+      internalID: -2850377550296910111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__155
+      rect:
+        serializedVersion: 2
+        x: 10840
+        y: 3183
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b47cc8c50304ca60800000000000000
+      internalID: 7693277386834212021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__156
+      rect:
+        serializedVersion: 2
+        x: 10859
+        y: 3168
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568758d19cca1a010800000000000000
+      internalID: 1198428955640952933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__157
+      rect:
+        serializedVersion: 2
+        x: 10860
+        y: 3180
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6cf62fe6eb2e4d0800000000000000
+      internalID: -3106711409209129240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__158
+      rect:
+        serializedVersion: 2
+        x: 10886
+        y: 3180
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa06621c2ceb771f0800000000000000
+      internalID: -1047158644666900305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__159
+      rect:
+        serializedVersion: 2
+        x: 10887
+        y: 3143
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8733d254911b99310800000000000000
+      internalID: 1412354680250250104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__160
+      rect:
+        serializedVersion: 2
+        x: 10923
+        y: 3182
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010e173c7cacdf120800000000000000
+      internalID: 2449336731685740560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__161
+      rect:
+        serializedVersion: 2
+        x: 10964
+        y: 3172
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76ad884db9d665e0800000000000000
+      internalID: -1916605184410278276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__162
+      rect:
+        serializedVersion: 2
+        x: 10970
+        y: 3180
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e98461cfea21e7cc0800000000000000
+      internalID: -3711508500143781730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__163
+      rect:
+        serializedVersion: 2
+        x: 10909
+        y: 3158
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0085fba7efb72d6b0800000000000000
+      internalID: -5273015880786159616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__164
+      rect:
+        serializedVersion: 2
+        x: 2954
+        y: 3065
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96a8f1b298fe44e0800000000000000
+      internalID: -1995384275943774564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__165
+      rect:
+        serializedVersion: 2
+        x: 10789
+        y: 3041
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc2a26de454f9890800000000000000
+      internalID: -7449159053744657207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__166
+      rect:
+        serializedVersion: 2
+        x: 10801
+        y: 3026
+        width: 88
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49bcb5177318bec70800000000000000
+      internalID: 9001430355355093908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__167
+      rect:
+        serializedVersion: 2
+        x: 10819
+        y: 3016
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5abd844ea22bd50800000000000000
+      internalID: 6751505951345059302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__168
+      rect:
+        serializedVersion: 2
+        x: 10833
+        y: 3042
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b702d6aac1fd8830800000000000000
+      internalID: 4075179090524637109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__169
+      rect:
+        serializedVersion: 2
+        x: 10838
+        y: 3035
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc4f19aea082d010800000000000000
+      internalID: 1212172737366150332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__170
+      rect:
+        serializedVersion: 2
+        x: 10856
+        y: 3077
+        width: 27
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af441d51f599aa450800000000000000
+      internalID: 6100857278893737210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__171
+      rect:
+        serializedVersion: 2
+        x: 10882
+        y: 3076
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6081054f6b5af6bf0800000000000000
+      internalID: -328862042573236218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__172
+      rect:
+        serializedVersion: 2
+        x: 10892
+        y: 3093
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4846bd2c7df339090800000000000000
+      internalID: -8029003514751785852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__173
+      rect:
+        serializedVersion: 2
+        x: 10896
+        y: 3102
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196d1f4dad7f20420800000000000000
+      internalID: 2594908854566377105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__174
+      rect:
+        serializedVersion: 2
+        x: 10922
+        y: 3122
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d9db46b74b6df8c0800000000000000
+      internalID: -3963894141270894119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__175
+      rect:
+        serializedVersion: 2
+        x: 10816
+        y: 2996
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba94f9560e23e730800000000000000
+      internalID: 4027113096613239486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__176
+      rect:
+        serializedVersion: 2
+        x: 9703
+        y: 2653
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ba317aec5d62c60800000000000000
+      internalID: 7793151288754285328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__177
+      rect:
+        serializedVersion: 2
+        x: 9721
+        y: 2645
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee739651ae9bc2b0800000000000000
+      internalID: -5563178498906685719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__178
+      rect:
+        serializedVersion: 2
+        x: 9730
+        y: 2573
+        width: 65
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa9ce18182206760800000000000000
+      internalID: 7448991723296692987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__179
+      rect:
+        serializedVersion: 2
+        x: 9538
+        y: 2601
+        width: 58
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87292278a76561c10800000000000000
+      internalID: 2023900166802805368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__180
+      rect:
+        serializedVersion: 2
+        x: 9571
+        y: 2579
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad804fde0f5b4bc60800000000000000
+      internalID: 7833085698293106906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__181
+      rect:
+        serializedVersion: 2
+        x: 9643
+        y: 2595
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e46d7161c3323f0800000000000000
+      internalID: -926831032721322438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__182
+      rect:
+        serializedVersion: 2
+        x: 9683
+        y: 2585
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b65e347fbfd00f00800000000000000
+      internalID: 1081109923950909112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__183
+      rect:
+        serializedVersion: 2
+        x: 9715
+        y: 2614
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e1a2fe825f561c0800000000000000
+      internalID: -4510929895581671827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__184
+      rect:
+        serializedVersion: 2
+        x: 9726
+        y: 2606
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a14547f9baa9a140800000000000000
+      internalID: 4731500599223599529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__185
+      rect:
+        serializedVersion: 2
+        x: 9535
+        y: 2436
+        width: 50
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27068ccb5b96bf740800000000000000
+      internalID: 5186855625124503666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__186
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 2562
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7619bc9df1fb2d8c0800000000000000
+      internalID: -3975905377495838361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__187
+      rect:
+        serializedVersion: 2
+        x: 9653
+        y: 2530
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b226ff8343429c70800000000000000
+      internalID: 8976310964759962289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__188
+      rect:
+        serializedVersion: 2
+        x: 9703
+        y: 2549
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b90a0044567cfb400800000000000000
+      internalID: 342211334449963163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__189
+      rect:
+        serializedVersion: 2
+        x: 9704
+        y: 2530
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3742de3c23353320800000000000000
+      internalID: 2536990230218688317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__190
+      rect:
+        serializedVersion: 2
+        x: 9709
+        y: 2544
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5caecdbd35cfb4050800000000000000
+      internalID: 5785995583388707525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__191
+      rect:
+        serializedVersion: 2
+        x: 9718
+        y: 2532
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2835681189bb32700800000000000000
+      internalID: 514461044253807490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__192
+      rect:
+        serializedVersion: 2
+        x: 9627
+        y: 2531
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2fa728d74ea1ada0800000000000000
+      internalID: -5935271210305212629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__193
+      rect:
+        serializedVersion: 2
+        x: 9668
+        y: 2520
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3037b46e84350d1b0800000000000000
+      internalID: -5633911561274035453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__194
+      rect:
+        serializedVersion: 2
+        x: 9682
+        y: 2505
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ceda3473263c190800000000000000
+      internalID: -7943397328253227986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__195
+      rect:
+        serializedVersion: 2
+        x: 9725
+        y: 2528
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6516a6ee2935c50800000000000000
+      internalID: 6652822627240990387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__196
+      rect:
+        serializedVersion: 2
+        x: 9585
+        y: 2512
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f0281c1c1530cf0800000000000000
+      internalID: -287296058604515497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__197
+      rect:
+        serializedVersion: 2
+        x: 9605
+        y: 2496
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91767329e8db1e720800000000000000
+      internalID: 2873786457275197209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__198
+      rect:
+        serializedVersion: 2
+        x: 9631
+        y: 2509
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a690db2664d2d70800000000000000
+      internalID: 9019943018585221679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__199
+      rect:
+        serializedVersion: 2
+        x: 9657
+        y: 2489
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcecd9ecb46e882e0800000000000000
+      internalID: -2123194011041804593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__200
+      rect:
+        serializedVersion: 2
+        x: 9669
+        y: 2511
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd6e9d35eb64df80800000000000000
+      internalID: -8082716798897721858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__201
+      rect:
+        serializedVersion: 2
+        x: 9693
+        y: 2486
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7677c037f95085700800000000000000
+      internalID: 529179138604169063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__202
+      rect:
+        serializedVersion: 2
+        x: 9716
+        y: 2509
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0b7cf53ddf62e80800000000000000
+      internalID: -8203590586921930542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__203
+      rect:
+        serializedVersion: 2
+        x: 9633
+        y: 2472
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df69c98e2240179a0800000000000000
+      internalID: -6237199460953450755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__204
+      rect:
+        serializedVersion: 2
+        x: 2811
+        y: 2446
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 644a7ab961ba31f30800000000000000
+      internalID: 4545164562536047686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__205
+      rect:
+        serializedVersion: 2
+        x: 9588
+        y: 2430
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f6609c8155d4920800000000000000
+      internalID: 2976128493701984145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__206
+      rect:
+        serializedVersion: 2
+        x: 9642
+        y: 2431
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a824db53607225e0800000000000000
+      internalID: -1935861317771188060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__207
+      rect:
+        serializedVersion: 2
+        x: 9668
+        y: 2451
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441b5136c79041160800000000000000
+      internalID: 6995226551056183620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__208
+      rect:
+        serializedVersion: 2
+        x: 9628
+        y: 2405
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4678814dd7ed5130800000000000000
+      internalID: 3557254218165810765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__209
+      rect:
+        serializedVersion: 2
+        x: 9638
+        y: 2422
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed8cc93097adf9cc0800000000000000
+      internalID: -3702000155388753698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__210
+      rect:
+        serializedVersion: 2
+        x: 9535
+        y: 2372
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc3f4fe0b7a8e340800000000000000
+      internalID: 4893345373509074140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__211
+      rect:
+        serializedVersion: 2
+        x: 9547
+        y: 2367
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e1acb2fbce10680800000000000000
+      internalID: -8790484691832922531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__212
+      rect:
+        serializedVersion: 2
+        x: 9583
+        y: 2364
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da4e95a4d3d61360800000000000000
+      internalID: 7140127169507642073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__213
+      rect:
+        serializedVersion: 2
+        x: 9586
+        y: 2372
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e83453398f8d067d0800000000000000
+      internalID: -2927101195657591922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__214
+      rect:
+        serializedVersion: 2
+        x: 9590
+        y: 2370
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e16dc75378f95c0800000000000000
+      internalID: -4206494863143330156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__215
+      rect:
+        serializedVersion: 2
+        x: 9594
+        y: 2351
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a78e90e4599e0580800000000000000
+      internalID: -8858974827166398558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__216
+      rect:
+        serializedVersion: 2
+        x: 9564
+        y: 2344
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 139f3742b181cc160800000000000000
+      internalID: 7047034021782747441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__217
+      rect:
+        serializedVersion: 2
+        x: 9562
+        y: 2325
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7c0157e3d6a8550800000000000000
+      internalID: 6163859155029379068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__218
+      rect:
+        serializedVersion: 2
+        x: 9570
+        y: 2330
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d563ad82a12b010800000000000000
+      internalID: 1203052813223353740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__219
+      rect:
+        serializedVersion: 2
+        x: 11789
+        y: 1750
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c231432cdcb3cfed0800000000000000
+      internalID: -2378960748245937364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio central derecho__220
+      rect:
+        serializedVersion: 2
+        x: 10787
+        y: 1202
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a395a3d1a3fd776c0800000000000000
+      internalID: -4145599491279791814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Edificio central derecho__0: -5626054746024373233
+      Edificio central derecho__1: 4335309468158346817
+      Edificio central derecho__10: 3458403817817815551
+      Edificio central derecho__100: -2911782522329453189
+      Edificio central derecho__101: 139094386392125212
+      Edificio central derecho__102: 2328243565799263039
+      Edificio central derecho__103: -2106188447745978480
+      Edificio central derecho__104: 538852060656153808
+      Edificio central derecho__105: -7132853230651582898
+      Edificio central derecho__106: -132266695680205839
+      Edificio central derecho__107: -5266217580938864421
+      Edificio central derecho__108: 8593871891704012383
+      Edificio central derecho__109: -3079466544772585046
+      Edificio central derecho__11: 2396904706017256848
+      Edificio central derecho__110: -907795641036367027
+      Edificio central derecho__111: 5358633475923110992
+      Edificio central derecho__112: 7484471752150557325
+      Edificio central derecho__113: -6721339075696078207
+      Edificio central derecho__114: 5683350099680301112
+      Edificio central derecho__115: -900753636704279638
+      Edificio central derecho__116: 2986826906537706311
+      Edificio central derecho__117: -4526341024051187252
+      Edificio central derecho__118: -7196829570004240406
+      Edificio central derecho__119: -5330056155627773005
+      Edificio central derecho__12: -4260857550845121556
+      Edificio central derecho__120: 3878677917871176511
+      Edificio central derecho__121: 8967769855336689658
+      Edificio central derecho__122: 8185722549087734462
+      Edificio central derecho__123: 6953620291709643466
+      Edificio central derecho__124: 6111180682432860757
+      Edificio central derecho__125: 2621270254149419133
+      Edificio central derecho__126: -6348333079338173140
+      Edificio central derecho__127: 2168462329665855967
+      Edificio central derecho__128: 6492910881968015610
+      Edificio central derecho__129: -3306705105362315406
+      Edificio central derecho__13: -6398023512349530087
+      Edificio central derecho__130: 3385519071802677010
+      Edificio central derecho__131: 1543089825615986454
+      Edificio central derecho__132: 2876602460370013666
+      Edificio central derecho__133: 7754544955698431976
+      Edificio central derecho__134: 4050891198863182985
+      Edificio central derecho__135: -1544265439575966619
+      Edificio central derecho__136: -1039870234097733703
+      Edificio central derecho__137: -7152378427449782964
+      Edificio central derecho__138: 9008985526114764526
+      Edificio central derecho__139: 7769793647072527411
+      Edificio central derecho__14: 7334478817016108674
+      Edificio central derecho__140: 3548578854094027184
+      Edificio central derecho__141: -5245545832460289167
+      Edificio central derecho__142: 1479060921969811070
+      Edificio central derecho__143: 4210251799739670693
+      Edificio central derecho__144: -2066606256433347154
+      Edificio central derecho__145: 3768879737207757263
+      Edificio central derecho__146: 2939477365637212936
+      Edificio central derecho__147: -3066815526303892644
+      Edificio central derecho__148: 100935867844764089
+      Edificio central derecho__149: 7327539436529297933
+      Edificio central derecho__15: 536276651897910287
+      Edificio central derecho__150: -2013275322649128740
+      Edificio central derecho__151: 7427197114226312151
+      Edificio central derecho__152: -6754630552480119406
+      Edificio central derecho__153: 1655759992072122412
+      Edificio central derecho__154: -2850377550296910111
+      Edificio central derecho__155: 7693277386834212021
+      Edificio central derecho__156: 1198428955640952933
+      Edificio central derecho__157: -3106711409209129240
+      Edificio central derecho__158: -1047158644666900305
+      Edificio central derecho__159: 1412354680250250104
+      Edificio central derecho__16: -446121217952486451
+      Edificio central derecho__160: 2449336731685740560
+      Edificio central derecho__161: -1916605184410278276
+      Edificio central derecho__162: -3711508500143781730
+      Edificio central derecho__163: -5273015880786159616
+      Edificio central derecho__164: -1995384275943774564
+      Edificio central derecho__165: -7449159053744657207
+      Edificio central derecho__166: 9001430355355093908
+      Edificio central derecho__167: 6751505951345059302
+      Edificio central derecho__168: 4075179090524637109
+      Edificio central derecho__169: 1212172737366150332
+      Edificio central derecho__17: -2424797873603991023
+      Edificio central derecho__170: 6100857278893737210
+      Edificio central derecho__171: -328862042573236218
+      Edificio central derecho__172: -8029003514751785852
+      Edificio central derecho__173: 2594908854566377105
+      Edificio central derecho__174: -3963894141270894119
+      Edificio central derecho__175: 4027113096613239486
+      Edificio central derecho__176: 7793151288754285328
+      Edificio central derecho__177: -5563178498906685719
+      Edificio central derecho__178: 7448991723296692987
+      Edificio central derecho__179: 2023900166802805368
+      Edificio central derecho__18: -8106582528359270796
+      Edificio central derecho__180: 7833085698293106906
+      Edificio central derecho__181: -926831032721322438
+      Edificio central derecho__182: 1081109923950909112
+      Edificio central derecho__183: -4510929895581671827
+      Edificio central derecho__184: 4731500599223599529
+      Edificio central derecho__185: 5186855625124503666
+      Edificio central derecho__186: -3975905377495838361
+      Edificio central derecho__187: 8976310964759962289
+      Edificio central derecho__188: 342211334449963163
+      Edificio central derecho__189: 2536990230218688317
+      Edificio central derecho__19: -1831200390381388081
+      Edificio central derecho__190: 5785995583388707525
+      Edificio central derecho__191: 514461044253807490
+      Edificio central derecho__192: -5935271210305212629
+      Edificio central derecho__193: -5633911561274035453
+      Edificio central derecho__194: -7943397328253227986
+      Edificio central derecho__195: 6652822627240990387
+      Edificio central derecho__196: -287296058604515497
+      Edificio central derecho__197: 2873786457275197209
+      Edificio central derecho__198: 9019943018585221679
+      Edificio central derecho__199: -2123194011041804593
+      Edificio central derecho__2: -6976209564037788619
+      Edificio central derecho__20: -4591711819353336534
+      Edificio central derecho__200: -8082716798897721858
+      Edificio central derecho__201: 529179138604169063
+      Edificio central derecho__202: -8203590586921930542
+      Edificio central derecho__203: -6237199460953450755
+      Edificio central derecho__204: 4545164562536047686
+      Edificio central derecho__205: 2976128493701984145
+      Edificio central derecho__206: -1935861317771188060
+      Edificio central derecho__207: 6995226551056183620
+      Edificio central derecho__208: 3557254218165810765
+      Edificio central derecho__209: -3702000155388753698
+      Edificio central derecho__21: -3057678662074043788
+      Edificio central derecho__210: 4893345373509074140
+      Edificio central derecho__211: -8790484691832922531
+      Edificio central derecho__212: 7140127169507642073
+      Edificio central derecho__213: -2927101195657591922
+      Edificio central derecho__214: -4206494863143330156
+      Edificio central derecho__215: -8858974827166398558
+      Edificio central derecho__216: 7047034021782747441
+      Edificio central derecho__217: 6163859155029379068
+      Edificio central derecho__218: 1203052813223353740
+      Edificio central derecho__219: -2378960748245937364
+      Edificio central derecho__22: -1150270181947215208
+      Edificio central derecho__220: -4145599491279791814
+      Edificio central derecho__23: 5819103229542117430
+      Edificio central derecho__24: -8506511638540580687
+      Edificio central derecho__25: -3641154193817208688
+      Edificio central derecho__26: 7829589619702477071
+      Edificio central derecho__27: 3049861534176325520
+      Edificio central derecho__28: 8483736833307432636
+      Edificio central derecho__29: -8413359515647268455
+      Edificio central derecho__3: 3874459967675102612
+      Edificio central derecho__30: -3379602506245072658
+      Edificio central derecho__31: -8828013614716183629
+      Edificio central derecho__32: 9109320968971727901
+      Edificio central derecho__33: 1738129823164479256
+      Edificio central derecho__34: -1884408159554983817
+      Edificio central derecho__35: -1010829776016882321
+      Edificio central derecho__36: -4587243392499061225
+      Edificio central derecho__37: -7654900610650599309
+      Edificio central derecho__38: -5797428996330039941
+      Edificio central derecho__39: -4063958549695480815
+      Edificio central derecho__4: -3573567743999793292
+      Edificio central derecho__40: -5591678836269999821
+      Edificio central derecho__41: 5028921885314464429
+      Edificio central derecho__42: -6307791976482771760
+      Edificio central derecho__43: -8070506127654210082
+      Edificio central derecho__44: 8783198382962671038
+      Edificio central derecho__45: -403675995301535545
+      Edificio central derecho__46: 7629028407796465450
+      Edificio central derecho__47: 1075295167358413882
+      Edificio central derecho__48: 5150060148069357123
+      Edificio central derecho__49: -8350013611632952133
+      Edificio central derecho__5: 2967514699603131016
+      Edificio central derecho__50: -1926281265493781672
+      Edificio central derecho__51: -5437361351692088339
+      Edificio central derecho__52: 9212396611338106584
+      Edificio central derecho__53: -236678122622726972
+      Edificio central derecho__54: 235011416603302807
+      Edificio central derecho__55: 2144041445290623595
+      Edificio central derecho__56: -5357929500569182400
+      Edificio central derecho__57: 8530450695326959974
+      Edificio central derecho__58: 7442781583055394990
+      Edificio central derecho__59: -6617722556605967844
+      Edificio central derecho__6: -3836957003093132592
+      Edificio central derecho__60: -8348458682469084159
+      Edificio central derecho__61: 3794131821354777889
+      Edificio central derecho__62: -1893579979532804960
+      Edificio central derecho__63: 5224443903679187122
+      Edificio central derecho__64: 5070527987078774234
+      Edificio central derecho__65: -6179410102089576047
+      Edificio central derecho__66: -4353405438692157769
+      Edificio central derecho__67: 2188373355756484783
+      Edificio central derecho__68: 1535535076542493783
+      Edificio central derecho__69: 3699046730594412844
+      Edificio central derecho__7: -8581549688728019370
+      Edificio central derecho__70: 623956835936445384
+      Edificio central derecho__71: 5494863447380955743
+      Edificio central derecho__72: -4605430150228168003
+      Edificio central derecho__73: -575349736522512315
+      Edificio central derecho__74: 8861908519952664087
+      Edificio central derecho__75: 6798552177785327405
+      Edificio central derecho__76: 1447624875925664656
+      Edificio central derecho__77: -8695706487792450805
+      Edificio central derecho__78: 2560563147814051480
+      Edificio central derecho__79: -912213094902404564
+      Edificio central derecho__8: 2680402215311754977
+      Edificio central derecho__80: -4042599884163821877
+      Edificio central derecho__81: 897590235420908686
+      Edificio central derecho__82: -4572382806248140309
+      Edificio central derecho__83: 4514921339637007395
+      Edificio central derecho__84: -4327060954881080703
+      Edificio central derecho__85: 797863906968178869
+      Edificio central derecho__86: -3398008455101500847
+      Edificio central derecho__87: -1734065315392080103
+      Edificio central derecho__88: 5918386866504772060
+      Edificio central derecho__89: -4070190921815149459
+      Edificio central derecho__9: -6490382782529161615
+      Edificio central derecho__90: -9199157907926610010
+      Edificio central derecho__91: 5041942333481936334
+      Edificio central derecho__92: 5784947000302802753
+      Edificio central derecho__93: 2766025879471496477
+      Edificio central derecho__94: 9025538474914308335
+      Edificio central derecho__95: 621957632940219614
+      Edificio central derecho__96: 6999609682901662085
+      Edificio central derecho__97: -8004652183199381245
+      Edificio central derecho__98: 2680097632604197316
+      Edificio central derecho__99: 7276021824827842900
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

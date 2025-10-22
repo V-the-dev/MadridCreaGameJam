@@ -1,0 +1,1131 @@
+fileFormatVersion: 2
+guid: dc60ad588386a4b42927e1f3e7765e3c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7218430238696869476
+    second: Valla casa rica 1_0
+  - first:
+      213: -1569794446252901528
+    second: Valla casa rica 1_1
+  - first:
+      213: -8145868427231356319
+    second: Valla casa rica 1_2
+  - first:
+      213: -3643772747496601027
+    second: Valla casa rica 1_3
+  - first:
+      213: 2439725010131570136
+    second: Valla casa rica 1_4
+  - first:
+      213: 4769224776181811002
+    second: Valla casa rica 1_5
+  - first:
+      213: -3501779035874410317
+    second: Valla casa rica 1_6
+  - first:
+      213: 8323417103819635914
+    second: Valla casa rica 1_7
+  - first:
+      213: 5406783431251411643
+    second: Valla casa rica 1_8
+  - first:
+      213: 3895121363993553353
+    second: Valla casa rica 1_9
+  - first:
+      213: 2785997809392055973
+    second: Valla casa rica 1_10
+  - first:
+      213: -1907886308312464943
+    second: Valla casa rica 1_11
+  - first:
+      213: 6029136056771318484
+    second: Valla casa rica 1_12
+  - first:
+      213: 9056132005292657147
+    second: Valla casa rica 1_13
+  - first:
+      213: -7086808059809407491
+    second: Valla casa rica 1_14
+  - first:
+      213: -3970838408432508231
+    second: Valla casa rica 1_15
+  - first:
+      213: -4403402227361663243
+    second: Valla casa rica 1_16
+  - first:
+      213: -1090992104537010836
+    second: Valla casa rica 1_17
+  - first:
+      213: 7828815657053683243
+    second: Valla casa rica 1_18
+  - first:
+      213: -4730801006800125533
+    second: Valla casa rica 1_19
+  - first:
+      213: 859219322891293030
+    second: Valla casa rica 1_20
+  - first:
+      213: -2323328985578670638
+    second: Valla casa rica 1_21
+  - first:
+      213: 2681006650359859157
+    second: Valla casa rica 1_22
+  - first:
+      213: 5437042329005297804
+    second: Valla casa rica 1_23
+  - first:
+      213: 5237506866908695198
+    second: Valla casa rica 1_24
+  - first:
+      213: 1110173915324314483
+    second: Valla casa rica 1_25
+  - first:
+      213: -2865476162426316336
+    second: Valla casa rica 1_26
+  - first:
+      213: -1914324900600722545
+    second: Valla casa rica 1_27
+  - first:
+      213: 6787727673046631090
+    second: Valla casa rica 1_28
+  - first:
+      213: 8353097898210888602
+    second: Valla casa rica 1_29
+  - first:
+      213: -2636162215308375356
+    second: Valla casa rica 1_30
+  - first:
+      213: -1075843723473311917
+    second: Valla casa rica 1_31
+  - first:
+      213: 7909722030112964858
+    second: Valla casa rica 1_32
+  - first:
+      213: -5732602620032698818
+    second: Valla casa rica 1_33
+  - first:
+      213: 5920706452591952120
+    second: Valla casa rica 1_34
+  - first:
+      213: 6960084256310715899
+    second: Valla casa rica 1_35
+  - first:
+      213: -3184886970118208487
+    second: Valla casa rica 1_36
+  - first:
+      213: -8683755535074576744
+    second: Valla casa rica 1_37
+  - first:
+      213: -8276386873471430835
+    second: Valla casa rica 1_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 159
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Valla casa rica 1_0
+      rect:
+        serializedVersion: 2
+        x: 2387
+        y: 2218
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c91f88a51fbf2db90800000000000000
+      internalID: -7218430238696869476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla casa rica 1_1
+      rect:
+        serializedVersion: 2
+        x: 2399
+        y: 2225
+        width: 117
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86bf6bca448f63ae0800000000000000
+      internalID: -1569794446252901528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla casa rica 1_2
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 2189
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a1ec7f2df04fe80800000000000000
+      internalID: -8145868427231356319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla casa rica 1_3
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 1820
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a473fddf7be6dc0800000000000000
+      internalID: -3643772747496601027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla casa rica 1_4
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 804
+        width: 1198
+        height: 1363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd478278f4abd120800000000000000
+      internalID: 2439725010131570136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla casa rica 1_5
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 1492
+        width: 20
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a370f4e5aa0bf2240800000000000000
+      internalID: 4769224776181811002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla casa rica 1_6
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 178
+        width: 1191
+        height: 1269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0cbc4258e276fc0800000000000000
+      internalID: -3501779035874410317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla casa rica 1_7
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 1206
+        width: 17
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc749ea1c7b28370800000000000000
+      internalID: 8323417103819635914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla casa rica 1_8
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 1123
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2453562e0c80b40800000000000000
+      internalID: 5406783431251411643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla casa rica 1_9
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 900
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9eed94e304e0630800000000000000
+      internalID: 3895121363993553353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla casa rica 1_10
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 903
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a674dd2f3ad9a620800000000000000
+      internalID: 2785997809392055973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla casa rica 1_11
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 900
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d14431d283d585e0800000000000000
+      internalID: -1907886308312464943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla casa rica 1_12
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 893
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d29a56cc4bcba350800000000000000
+      internalID: 6029136056771318484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla casa rica 1_13
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 882
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9c38ec318ddad70800000000000000
+      internalID: 9056132005292657147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla casa rica 1_14
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 848
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd5fabfd9996ad90800000000000000
+      internalID: -7086808059809407491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla casa rica 1_15
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 885
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b227e4818fb4e8c0800000000000000
+      internalID: -3970838408432508231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla casa rica 1_16
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 836
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f6b1f22109f3e2c0800000000000000
+      internalID: -4403402227361663243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla casa rica 1_17
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 816
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6dc05416740cd0f0800000000000000
+      internalID: -1090992104537010836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla casa rica 1_18
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 805
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e73ba7c5a85ac60800000000000000
+      internalID: 7828815657053683243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla casa rica 1_19
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 735
+        width: 67
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a14e969c81d85eb0800000000000000
+      internalID: -4730801006800125533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla casa rica 1_20
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 751
+        width: 61
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 661561dfb6f8ceb00800000000000000
+      internalID: 859219322891293030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla casa rica 1_21
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 812
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5f63ed890e1cfd0800000000000000
+      internalID: -2323328985578670638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla casa rica 1_22
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 790
+        width: 54
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7c82b0859d43520800000000000000
+      internalID: 2681006650359859157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla casa rica 1_23
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 779
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c809f190131447b40800000000000000
+      internalID: 5437042329005297804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla casa rica 1_24
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 783
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a03c6febc5fa840800000000000000
+      internalID: 5237506866908695198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla casa rica 1_25
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 785
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3737fc54b41286f00800000000000000
+      internalID: 1110173915324314483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla casa rica 1_26
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 105
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9da3abc98cb38d0800000000000000
+      internalID: -2865476162426316336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla casa rica 1_27
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 87
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b420b35a3fe65e0800000000000000
+      internalID: -1914324900600722545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla casa rica 1_28
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 88
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b288001b5ad23e50800000000000000
+      internalID: 6787727673046631090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla casa rica 1_29
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 34
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b0ce4284a2ce370800000000000000
+      internalID: 8353097898210888602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla casa rica 1_30
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 84
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cacc32ae687a6bd0800000000000000
+      internalID: -2636162215308375356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla casa rica 1_31
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 57
+        width: 53
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3572a8465d5d111f0800000000000000
+      internalID: -1075843723473311917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla casa rica 1_32
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 90
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af007f4674af4cd60800000000000000
+      internalID: 7909722030112964858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla casa rica 1_33
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 58
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e363a7a2a44b170b0800000000000000
+      internalID: -5732602620032698818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla casa rica 1_34
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 57
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f04b1e36239a2250800000000000000
+      internalID: 5920706452591952120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla casa rica 1_35
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 55
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf5603841cf279060800000000000000
+      internalID: 6960084256310715899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla casa rica 1_36
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 61
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9148558cc220dc3d0800000000000000
+      internalID: -3184886970118208487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla casa rica 1_37
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 57
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8963c8f695a1d7780800000000000000
+      internalID: -8683755535074576744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla casa rica 1_38
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 30
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f870f1dfd542d80800000000000000
+      internalID: -8276386873471430835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Valla casa rica 1_0: -7218430238696869476
+      Valla casa rica 1_1: -1569794446252901528
+      Valla casa rica 1_10: 2785997809392055973
+      Valla casa rica 1_11: -1907886308312464943
+      Valla casa rica 1_12: 6029136056771318484
+      Valla casa rica 1_13: 9056132005292657147
+      Valla casa rica 1_14: -7086808059809407491
+      Valla casa rica 1_15: -3970838408432508231
+      Valla casa rica 1_16: -4403402227361663243
+      Valla casa rica 1_17: -1090992104537010836
+      Valla casa rica 1_18: 7828815657053683243
+      Valla casa rica 1_19: -4730801006800125533
+      Valla casa rica 1_2: -8145868427231356319
+      Valla casa rica 1_20: 859219322891293030
+      Valla casa rica 1_21: -2323328985578670638
+      Valla casa rica 1_22: 2681006650359859157
+      Valla casa rica 1_23: 5437042329005297804
+      Valla casa rica 1_24: 5237506866908695198
+      Valla casa rica 1_25: 1110173915324314483
+      Valla casa rica 1_26: -2865476162426316336
+      Valla casa rica 1_27: -1914324900600722545
+      Valla casa rica 1_28: 6787727673046631090
+      Valla casa rica 1_29: 8353097898210888602
+      Valla casa rica 1_3: -3643772747496601027
+      Valla casa rica 1_30: -2636162215308375356
+      Valla casa rica 1_31: -1075843723473311917
+      Valla casa rica 1_32: 7909722030112964858
+      Valla casa rica 1_33: -5732602620032698818
+      Valla casa rica 1_34: 5920706452591952120
+      Valla casa rica 1_35: 6960084256310715899
+      Valla casa rica 1_36: -3184886970118208487
+      Valla casa rica 1_37: -8683755535074576744
+      Valla casa rica 1_38: -8276386873471430835
+      Valla casa rica 1_4: 2439725010131570136
+      Valla casa rica 1_5: 4769224776181811002
+      Valla casa rica 1_6: -3501779035874410317
+      Valla casa rica 1_7: 8323417103819635914
+      Valla casa rica 1_8: 5406783431251411643
+      Valla casa rica 1_9: 3895121363993553353
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

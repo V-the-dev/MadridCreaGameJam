@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: 832fb948b94640148a9080f0d0be3c1e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8055120180030693267
+    second: Valla Edificios fondo_0
+  - first:
+      213: -8131315229876337103
+    second: Valla Edificios fondo_1
+  - first:
+      213: 9168404639828657894
+    second: Valla Edificios fondo_2
+  - first:
+      213: 1206412531384761631
+    second: Valla Edificios fondo_3
+  - first:
+      213: 2132288480962329934
+    second: Valla Edificios fondo_4
+  - first:
+      213: 7133164684845828079
+    second: Valla Edificios fondo_5
+  - first:
+      213: -6209857891282743996
+    second: Valla Edificios fondo_6
+  - first:
+      213: 8646814268273036235
+    second: Valla Edificios fondo_7
+  - first:
+      213: 1619781112639311151
+    second: Valla Edificios fondo_8
+  - first:
+      213: 8456326964597076300
+    second: Valla Edificios fondo_9
+  - first:
+      213: -4366982504724476572
+    second: Valla Edificios fondo_10
+  - first:
+      213: 6980336095686956147
+    second: Valla Edificios fondo_11
+  - first:
+      213: -7948297505372132870
+    second: Valla Edificios fondo_12
+  - first:
+      213: 6278031762287000853
+    second: Valla Edificios fondo_13
+  - first:
+      213: -7318113730069102179
+    second: Valla Edificios fondo_14
+  - first:
+      213: -2321821401191921196
+    second: Valla Edificios fondo_15
+  - first:
+      213: 2062980706148599562
+    second: Valla Edificios fondo_16
+  - first:
+      213: 2737610586929795610
+    second: Valla Edificios fondo_17
+  - first:
+      213: -8275259079293208953
+    second: Valla Edificios fondo_18
+  - first:
+      213: 6313271202980129626
+    second: Valla Edificios fondo_19
+  - first:
+      213: 1820339895924554427
+    second: Valla Edificios fondo_20
+  - first:
+      213: -6355111735410359588
+    second: Valla Edificios fondo_21
+  - first:
+      213: 7674111060068175213
+    second: Valla Edificios fondo_22
+  - first:
+      213: 5490336788490482984
+    second: Valla Edificios fondo_23
+  - first:
+      213: -1010330021150412684
+    second: Valla Edificios fondo_24
+  - first:
+      213: 8931587017939831222
+    second: Valla Edificios fondo_25
+  - first:
+      213: 1178907934557761047
+    second: Valla Edificios fondo_26
+  - first:
+      213: -8848292443316539450
+    second: Valla Edificios fondo_27
+  - first:
+      213: -9142653463409253400
+    second: Valla Edificios fondo_28
+  - first:
+      213: 3311592610560529917
+    second: Valla Edificios fondo_29
+  - first:
+      213: -5952762823157286495
+    second: Valla Edificios fondo_30
+  - first:
+      213: -1786078507349035704
+    second: Valla Edificios fondo_31
+  - first:
+      213: 4633278880962516200
+    second: Valla Edificios fondo_32
+  - first:
+      213: 7553901756426857810
+    second: Valla Edificios fondo_33
+  - first:
+      213: -5570667851865730829
+    second: Valla Edificios fondo_34
+  - first:
+      213: 6638330898396105211
+    second: Valla Edificios fondo_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 159
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Valla Edificios fondo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 172
+        width: 1017
+        height: 1053
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f5fc9302989cf60800000000000000
+      internalID: 8055120180030693267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla Edificios fondo_1
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1046
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1364f7641e3c72f80800000000000000
+      internalID: -8131315229876337103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla Edificios fondo_2
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 1008
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6c7029177bc3f70800000000000000
+      internalID: 9168404639828657894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla Edificios fondo_3
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 767
+        width: 24
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1db4c13ec90eb010800000000000000
+      internalID: 1206412531384761631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla Edificios fondo_4
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 854
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4dba6a7319679d10800000000000000
+      internalID: 2132288480962329934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla Edificios fondo_5
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 702
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe7c89cdc771ef260800000000000000
+      internalID: 7133164684845828079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla Edificios fondo_6
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 755
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d8f6c262722d9a0800000000000000
+      internalID: -6209857891282743996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla Edificios fondo_7
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 134
+        width: 108
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb8133a3c7aff770800000000000000
+      internalID: 8646814268273036235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla Edificios fondo_8
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 720
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2dc0c8075e9a7610800000000000000
+      internalID: 1619781112639311151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla Edificios fondo_9
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 707
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41bd5d1298ea5570800000000000000
+      internalID: 8456326964597076300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla Edificios fondo_10
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 706
+        width: 8
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d4d899c8c5563c0800000000000000
+      internalID: -4366982504724476572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla Edificios fondo_11
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 691
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374124412b22fd060800000000000000
+      internalID: 6980336095686956147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla Edificios fondo_12
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 698
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9ab2fd789f1b190800000000000000
+      internalID: -7948297505372132870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla Edificios fondo_13
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 668
+        width: 10
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d7cb710ac002750800000000000000
+      internalID: 6278031762287000853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla Edificios fondo_14
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 686
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d918255e556d07a90800000000000000
+      internalID: -7318113730069102179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla Edificios fondo_15
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 670
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d94e06bcbb37cfd0800000000000000
+      internalID: -2321821401191921196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla Edificios fondo_16
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 629
+        width: 100
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07c878a50e21ac10800000000000000
+      internalID: 2062980706148599562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla Edificios fondo_17
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 167
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a129c470352fdf520800000000000000
+      internalID: 2737610586929795610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla Edificios fondo_18
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 77
+        width: 59
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786f66a26bf582d80800000000000000
+      internalID: -8275259079293208953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla Edificios fondo_19
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 174
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b6550c5be3d9750800000000000000
+      internalID: 6313271202980129626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla Edificios fondo_20
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 149
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbafd03ad75234910800000000000000
+      internalID: 1820339895924554427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla Edificios fondo_21
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 21
+        width: 36
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd203f62c8b1ec7a0800000000000000
+      internalID: -6355111735410359588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla Edificios fondo_22
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 137
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d8246995bef7a60800000000000000
+      internalID: 7674111060068175213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla Edificios fondo_23
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 130
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825fb375838913c40800000000000000
+      internalID: 5490336788490482984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla Edificios fondo_24
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 136
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 470ba6fd2369af1f0800000000000000
+      internalID: -1010330021150412684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla Edificios fondo_25
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 131
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b94bcc321f53fb70800000000000000
+      internalID: 8931587017939831222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla Edificios fondo_26
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 0
+        width: 191
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e643635825c5010800000000000000
+      internalID: 1178907934557761047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla Edificios fondo_27
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 127
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf285f27ec843580800000000000000
+      internalID: -8848292443316539450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla Edificios fondo_28
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 31
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e32ff86d15ce1180800000000000000
+      internalID: -9142653463409253400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla Edificios fondo_29
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 24
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5d4490fe325fd20800000000000000
+      internalID: 3311592610560529917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla Edificios fondo_30
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 0
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a9fe8d50c9836da0800000000000000
+      internalID: -5952762823157286495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla Edificios fondo_31
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 0
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84530848f039637e0800000000000000
+      internalID: -1786078507349035704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla Edificios fondo_32
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 13
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e417151896bc4040800000000000000
+      internalID: 4633278880962516200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla Edificios fondo_33
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 15
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25da50c00a9d4d860800000000000000
+      internalID: 7553901756426857810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla Edificios fondo_34
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 5
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f0dad77a1301b2b0800000000000000
+      internalID: -5570667851865730829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla Edificios fondo_35
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 1
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9466cd7c6102c50800000000000000
+      internalID: 6638330898396105211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Valla Edificios fondo_0: 8055120180030693267
+      Valla Edificios fondo_1: -8131315229876337103
+      Valla Edificios fondo_10: -4366982504724476572
+      Valla Edificios fondo_11: 6980336095686956147
+      Valla Edificios fondo_12: -7948297505372132870
+      Valla Edificios fondo_13: 6278031762287000853
+      Valla Edificios fondo_14: -7318113730069102179
+      Valla Edificios fondo_15: -2321821401191921196
+      Valla Edificios fondo_16: 2062980706148599562
+      Valla Edificios fondo_17: 2737610586929795610
+      Valla Edificios fondo_18: -8275259079293208953
+      Valla Edificios fondo_19: 6313271202980129626
+      Valla Edificios fondo_2: 9168404639828657894
+      Valla Edificios fondo_20: 1820339895924554427
+      Valla Edificios fondo_21: -6355111735410359588
+      Valla Edificios fondo_22: 7674111060068175213
+      Valla Edificios fondo_23: 5490336788490482984
+      Valla Edificios fondo_24: -1010330021150412684
+      Valla Edificios fondo_25: 8931587017939831222
+      Valla Edificios fondo_26: 1178907934557761047
+      Valla Edificios fondo_27: -8848292443316539450
+      Valla Edificios fondo_28: -9142653463409253400
+      Valla Edificios fondo_29: 3311592610560529917
+      Valla Edificios fondo_3: 1206412531384761631
+      Valla Edificios fondo_30: -5952762823157286495
+      Valla Edificios fondo_31: -1786078507349035704
+      Valla Edificios fondo_32: 4633278880962516200
+      Valla Edificios fondo_33: 7553901756426857810
+      Valla Edificios fondo_34: -5570667851865730829
+      Valla Edificios fondo_35: 6638330898396105211
+      Valla Edificios fondo_4: 2132288480962329934
+      Valla Edificios fondo_5: 7133164684845828079
+      Valla Edificios fondo_6: -6209857891282743996
+      Valla Edificios fondo_7: 8646814268273036235
+      Valla Edificios fondo_8: 1619781112639311151
+      Valla Edificios fondo_9: 8456326964597076300
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

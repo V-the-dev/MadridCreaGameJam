@@ -1,0 +1,1963 @@
+fileFormatVersion: 2
+guid: 41b2eab149fe5d94fb61aeba5360d5dd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8831045579452046505
+    second: "Edifico Detr\xE1s venta Azar_0"
+  - first:
+      213: 1296772331438558725
+    second: "Edifico Detr\xE1s venta Azar_1"
+  - first:
+      213: 5958229667796022019
+    second: "Edifico Detr\xE1s venta Azar_2"
+  - first:
+      213: 1820605948761290377
+    second: "Edifico Detr\xE1s venta Azar_3"
+  - first:
+      213: 1443155720054452723
+    second: "Edifico Detr\xE1s venta Azar_4"
+  - first:
+      213: -2631034929034480346
+    second: "Edifico Detr\xE1s venta Azar_5"
+  - first:
+      213: -6002258653581311185
+    second: "Edifico Detr\xE1s venta Azar_6"
+  - first:
+      213: -4511876187070514696
+    second: "Edifico Detr\xE1s venta Azar_7"
+  - first:
+      213: 612207232285557923
+    second: "Edifico Detr\xE1s venta Azar_8"
+  - first:
+      213: 5915142456542272599
+    second: "Edifico Detr\xE1s venta Azar_9"
+  - first:
+      213: 5709874307764383575
+    second: "Edifico Detr\xE1s venta Azar_10"
+  - first:
+      213: 5525839888701729655
+    second: "Edifico Detr\xE1s venta Azar_11"
+  - first:
+      213: 2044544438918245250
+    second: "Edifico Detr\xE1s venta Azar_12"
+  - first:
+      213: 6146262167656464096
+    second: "Edifico Detr\xE1s venta Azar_13"
+  - first:
+      213: 6486231897510550854
+    second: "Edifico Detr\xE1s venta Azar_14"
+  - first:
+      213: 8563603366826738640
+    second: "Edifico Detr\xE1s venta Azar_15"
+  - first:
+      213: 8607516132611696039
+    second: "Edifico Detr\xE1s venta Azar_16"
+  - first:
+      213: -6298943680229788646
+    second: "Edifico Detr\xE1s venta Azar_17"
+  - first:
+      213: -9057802176532862105
+    second: "Edifico Detr\xE1s venta Azar_18"
+  - first:
+      213: -1904572188157381921
+    second: "Edifico Detr\xE1s venta Azar_19"
+  - first:
+      213: -5311944641303625901
+    second: "Edifico Detr\xE1s venta Azar_20"
+  - first:
+      213: -8363717979657436223
+    second: "Edifico Detr\xE1s venta Azar_21"
+  - first:
+      213: -1034450723140522027
+    second: "Edifico Detr\xE1s venta Azar_22"
+  - first:
+      213: 7736532402313969151
+    second: "Edifico Detr\xE1s venta Azar_23"
+  - first:
+      213: 3019459425135498102
+    second: "Edifico Detr\xE1s venta Azar_24"
+  - first:
+      213: 943909678505253873
+    second: "Edifico Detr\xE1s venta Azar_25"
+  - first:
+      213: -8720252460077205212
+    second: "Edifico Detr\xE1s venta Azar_26"
+  - first:
+      213: -1601370355658958142
+    second: "Edifico Detr\xE1s venta Azar_27"
+  - first:
+      213: -82602252077236229
+    second: "Edifico Detr\xE1s venta Azar_28"
+  - first:
+      213: -4330727270423152077
+    second: "Edifico Detr\xE1s venta Azar_29"
+  - first:
+      213: 6463282122247580719
+    second: "Edifico Detr\xE1s venta Azar_30"
+  - first:
+      213: -2213785571664073339
+    second: "Edifico Detr\xE1s venta Azar_31"
+  - first:
+      213: -8274031212602575089
+    second: "Edifico Detr\xE1s venta Azar_32"
+  - first:
+      213: -1992073771851203618
+    second: "Edifico Detr\xE1s venta Azar_33"
+  - first:
+      213: -6338175651820368427
+    second: "Edifico Detr\xE1s venta Azar_34"
+  - first:
+      213: 4832422112397192293
+    second: "Edifico Detr\xE1s venta Azar_35"
+  - first:
+      213: 8776524431619932081
+    second: "Edifico Detr\xE1s venta Azar_36"
+  - first:
+      213: 7014509362994458193
+    second: "Edifico Detr\xE1s venta Azar_37"
+  - first:
+      213: 4177175183082890759
+    second: "Edifico Detr\xE1s venta Azar_38"
+  - first:
+      213: -5382177798498268666
+    second: "Edifico Detr\xE1s venta Azar_39"
+  - first:
+      213: 7736545215537935626
+    second: "Edifico Detr\xE1s venta Azar_40"
+  - first:
+      213: -3717502227991276543
+    second: "Edifico Detr\xE1s venta Azar_41"
+  - first:
+      213: -8668577520286559653
+    second: "Edifico Detr\xE1s venta Azar_42"
+  - first:
+      213: -4956342334400684670
+    second: "Edifico Detr\xE1s venta Azar_43"
+  - first:
+      213: -3832208931480413948
+    second: "Edifico Detr\xE1s venta Azar_44"
+  - first:
+      213: 1268104701445321562
+    second: "Edifico Detr\xE1s venta Azar_45"
+  - first:
+      213: -4266466522890947629
+    second: "Edifico Detr\xE1s venta Azar_46"
+  - first:
+      213: 4541676134882370970
+    second: "Edifico Detr\xE1s venta Azar_47"
+  - first:
+      213: -6640259653140091440
+    second: "Edifico Detr\xE1s venta Azar_48"
+  - first:
+      213: -6784436157909597929
+    second: "Edifico Detr\xE1s venta Azar_49"
+  - first:
+      213: -1043876516843683044
+    second: "Edifico Detr\xE1s venta Azar_50"
+  - first:
+      213: -6434154163454494284
+    second: "Edifico Detr\xE1s venta Azar_51"
+  - first:
+      213: -9037544973494534456
+    second: "Edifico Detr\xE1s venta Azar_52"
+  - first:
+      213: -8798813585458778191
+    second: "Edifico Detr\xE1s venta Azar_53"
+  - first:
+      213: 1802973151847235286
+    second: "Edifico Detr\xE1s venta Azar_54"
+  - first:
+      213: 1930767227790955366
+    second: "Edifico Detr\xE1s venta Azar_55"
+  - first:
+      213: 5432858225361526393
+    second: "Edifico Detr\xE1s venta Azar_56"
+  - first:
+      213: -7524170101762144257
+    second: "Edifico Detr\xE1s venta Azar_57"
+  - first:
+      213: -543025922431109800
+    second: "Edifico Detr\xE1s venta Azar_58"
+  - first:
+      213: -434688474687093291
+    second: "Edifico Detr\xE1s venta Azar_59"
+  - first:
+      213: -7407753539042332668
+    second: "Edifico Detr\xE1s venta Azar_60"
+  - first:
+      213: 8243856379397431821
+    second: "Edifico Detr\xE1s venta Azar_61"
+  - first:
+      213: 8642657713803044590
+    second: "Edifico Detr\xE1s venta Azar_62"
+  - first:
+      213: -1143661524196334773
+    second: "Edifico Detr\xE1s venta Azar_63"
+  - first:
+      213: -4089293996294123310
+    second: "Edifico Detr\xE1s venta Azar_64"
+  - first:
+      213: 1746518584962167430
+    second: "Edifico Detr\xE1s venta Azar_65"
+  - first:
+      213: -373147163472151065
+    second: "Edifico Detr\xE1s venta Azar_66"
+  - first:
+      213: -6464078507093186371
+    second: "Edifico Detr\xE1s venta Azar_67"
+  - first:
+      213: -1878728075320323785
+    second: "Edifico Detr\xE1s venta Azar_68"
+  - first:
+      213: 4279573698365263291
+    second: "Edifico Detr\xE1s venta Azar_69"
+  - first:
+      213: 2440218502861640630
+    second: "Edifico Detr\xE1s venta Azar_70"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 159
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Edifico Detr\xE1s venta Azar_0"
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 6519
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9acd5866a2d2e8a70800000000000000
+      internalID: 8831045579452046505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Edifico Detr\xE1s venta Azar_1"
+      rect:
+        serializedVersion: 2
+        x: 3296
+        y: 0
+        width: 3466
+        height: 7577
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e43f9909f0ff110800000000000000
+      internalID: 1296772331438558725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Edifico Detr\xE1s venta Azar_2"
+      rect:
+        serializedVersion: 2
+        x: 2931
+        y: 6033
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303fc279052efa250800000000000000
+      internalID: 5958229667796022019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Edifico Detr\xE1s venta Azar_3"
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 4429
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98631e3e677144910800000000000000
+      internalID: 1820605948761290377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Edifico Detr\xE1s venta Azar_4"
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 4453
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f13b613b7e170410800000000000000
+      internalID: 1443155720054452723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Edifico Detr\xE1s venta Azar_5"
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 4474
+        width: 54
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 625314ffbafac7bd0800000000000000
+      internalID: -2631034929034480346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Edifico Detr\xE1s venta Azar_6"
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 4403
+        width: 95
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f23854f4e81b3bca0800000000000000
+      internalID: -6002258653581311185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Edifico Detr\xE1s venta Azar_7"
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 4393
+        width: 13
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f93e1743889261c0800000000000000
+      internalID: -4511876187070514696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Edifico Detr\xE1s venta Azar_8"
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 4277
+        width: 75
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a44e41fb3ffe7800800000000000000
+      internalID: 612207232285557923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Edifico Detr\xE1s venta Azar_9"
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 4383
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c980679bec61250800000000000000
+      internalID: 5915142456542272599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Edifico Detr\xE1s venta Azar_10"
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 4380
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75fec624e6c8d3f40800000000000000
+      internalID: 5709874307764383575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Edifico Detr\xE1s venta Azar_11"
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 4374
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b20c30a1abfac40800000000000000
+      internalID: 5525839888701729655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Edifico Detr\xE1s venta Azar_12"
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 4368
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28be831b55eaf5c10800000000000000
+      internalID: 2044544438918245250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Edifico Detr\xE1s venta Azar_13"
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 4363
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eef59f80e8eb4550800000000000000
+      internalID: 6146262167656464096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Edifico Detr\xE1s venta Azar_14"
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 4365
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d9ce59b89b30a50800000000000000
+      internalID: 6486231897510550854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Edifico Detr\xE1s venta Azar_15"
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 4346
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d30c05e3e708d670800000000000000
+      internalID: 8563603366826738640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Edifico Detr\xE1s venta Azar_16"
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 4339
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a5a3ca615a047770800000000000000
+      internalID: 8607516132611696039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Edifico Detr\xE1s venta Azar_17"
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 4342
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1436b79818a598a0800000000000000
+      internalID: -6298943680229788646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Edifico Detr\xE1s venta Azar_18"
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 4326
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76baff529e83c4280800000000000000
+      internalID: -9057802176532862105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Edifico Detr\xE1s venta Azar_19"
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 4357
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd27acb8fa99195e0800000000000000
+      internalID: -1904572188157381921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Edifico Detr\xE1s venta Azar_20"
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 4348
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35fbe8c1e7e2846b0800000000000000
+      internalID: -5311944641303625901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Edifico Detr\xE1s venta Azar_21"
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 4335
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c388f47fca1eeb80800000000000000
+      internalID: -8363717979657436223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Edifico Detr\xE1s venta Azar_22"
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 4344
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df209d4c84e4a1f0800000000000000
+      internalID: -1034450723140522027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Edifico Detr\xE1s venta Azar_23"
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 4349
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd3931ea3fad5b60800000000000000
+      internalID: 7736532402313969151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Edifico Detr\xE1s venta Azar_24"
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 4322
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67318e0795647e920800000000000000
+      internalID: 3019459425135498102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Edifico Detr\xE1s venta Azar_25"
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 4295
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fbdb5ff9d0791d00800000000000000
+      internalID: 943909678505253873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Edifico Detr\xE1s venta Azar_26"
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 4274
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4293f55e6907bf680800000000000000
+      internalID: -8720252460077205212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Edifico Detr\xE1s venta Azar_27"
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 4281
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca5b1d552ac6c9e0800000000000000
+      internalID: -1601370355658958142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Edifico Detr\xE1s venta Azar_28"
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 4254
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfff94b70b98adef0800000000000000
+      internalID: -82602252077236229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Edifico Detr\xE1s venta Azar_29"
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 4269
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ab4532e7a26e3c0800000000000000
+      internalID: -4330727270423152077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Edifico Detr\xE1s venta Azar_30"
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 4210
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c23b3a8d032b950800000000000000
+      internalID: 6463282122247580719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Edifico Detr\xE1s venta Azar_31"
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 4188
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58de31070cd0741e0800000000000000
+      internalID: -2213785571664073339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Edifico Detr\xE1s venta Azar_32"
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 4220
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f073458237cbc2d80800000000000000
+      internalID: -8274031212602575089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Edifico Detr\xE1s venta Azar_33"
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 4218
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edbbf6e757bba54e0800000000000000
+      internalID: -1992073771851203618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Edifico Detr\xE1s venta Azar_34"
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 4226
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd873563d64a08a0800000000000000
+      internalID: -6338175651820368427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Edifico Detr\xE1s venta Azar_35"
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 4183
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c6d26de46301340800000000000000
+      internalID: 4832422112397192293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Edifico Detr\xE1s venta Azar_36"
+      rect:
+        serializedVersion: 2
+        x: 2301
+        y: 3943
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf3e35787a7cc970800000000000000
+      internalID: 8776524431619932081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Edifico Detr\xE1s venta Azar_37"
+      rect:
+        serializedVersion: 2
+        x: 2355
+        y: 3967
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15eafe6e91b885160800000000000000
+      internalID: 7014509362994458193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Edifico Detr\xE1s venta Azar_38"
+      rect:
+        serializedVersion: 2
+        x: 2361
+        y: 3988
+        width: 54
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 706ab3882be48f930800000000000000
+      internalID: 4177175183082890759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Edifico Detr\xE1s venta Azar_39"
+      rect:
+        serializedVersion: 2
+        x: 2330
+        y: 3917
+        width: 95
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a448aeec9ae45b0800000000000000
+      internalID: -5382177798498268666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Edifico Detr\xE1s venta Azar_40"
+      rect:
+        serializedVersion: 2
+        x: 2423
+        y: 3907
+        width: 13
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05f2e032eabd5b60800000000000000
+      internalID: 7736545215537935626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Edifico Detr\xE1s venta Azar_41"
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 3791
+        width: 75
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1045bd87b67c86cc0800000000000000
+      internalID: -3717502227991276543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Edifico Detr\xE1s venta Azar_42"
+      rect:
+        serializedVersion: 2
+        x: 2367
+        y: 3897
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5212636ca603b780800000000000000
+      internalID: -8668577520286559653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Edifico Detr\xE1s venta Azar_43"
+      rect:
+        serializedVersion: 2
+        x: 2377
+        y: 3894
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d11dc18e8873bb0800000000000000
+      internalID: -4956342334400684670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Edifico Detr\xE1s venta Azar_44"
+      rect:
+        serializedVersion: 2
+        x: 2411
+        y: 3888
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 409d70ed74241dac0800000000000000
+      internalID: -3832208931480413948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Edifico Detr\xE1s venta Azar_45"
+      rect:
+        serializedVersion: 2
+        x: 2355
+        y: 3882
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53b6abd186399110800000000000000
+      internalID: 1268104701445321562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Edifico Detr\xE1s venta Azar_46"
+      rect:
+        serializedVersion: 2
+        x: 2355
+        y: 3877
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d33df85d477ac4c0800000000000000
+      internalID: -4266466522890947629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Edifico Detr\xE1s venta Azar_47"
+      rect:
+        serializedVersion: 2
+        x: 2364
+        y: 3879
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a956880c166470f30800000000000000
+      internalID: 4541676134882370970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Edifico Detr\xE1s venta Azar_48"
+      rect:
+        serializedVersion: 2
+        x: 2365
+        y: 3860
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dde93ee60f09d3a0800000000000000
+      internalID: -6640259653140091440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Edifico Detr\xE1s venta Azar_49"
+      rect:
+        serializedVersion: 2
+        x: 2369
+        y: 3853
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7118b768247d8d1a0800000000000000
+      internalID: -6784436157909597929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Edifico Detr\xE1s venta Azar_50"
+      rect:
+        serializedVersion: 2
+        x: 2372
+        y: 3856
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c130920b6d76381f0800000000000000
+      internalID: -1043876516843683044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Edifico Detr\xE1s venta Azar_51"
+      rect:
+        serializedVersion: 2
+        x: 2387
+        y: 3840
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9b131c0ea45b6a0800000000000000
+      internalID: -6434154163454494284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Edifico Detr\xE1s venta Azar_52"
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 3871
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cebd35cab0349280800000000000000
+      internalID: -9037544973494534456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Edifico Detr\xE1s venta Azar_53"
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 3862
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf29d189a554e580800000000000000
+      internalID: -8798813585458778191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Edifico Detr\xE1s venta Azar_54"
+      rect:
+        serializedVersion: 2
+        x: 2418
+        y: 3849
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6debb6f6782750910800000000000000
+      internalID: 1802973151847235286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Edifico Detr\xE1s venta Azar_55"
+      rect:
+        serializedVersion: 2
+        x: 2462
+        y: 3858
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663127460967bca10800000000000000
+      internalID: 1930767227790955366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Edifico Detr\xE1s venta Azar_56"
+      rect:
+        serializedVersion: 2
+        x: 2477
+        y: 3863
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e9bbd75c3656b40800000000000000
+      internalID: 5432858225361526393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Edifico Detr\xE1s venta Azar_57"
+      rect:
+        serializedVersion: 2
+        x: 2420
+        y: 3836
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff74ade3827c49790800000000000000
+      internalID: -7524170101762144257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Edifico Detr\xE1s venta Azar_58"
+      rect:
+        serializedVersion: 2
+        x: 2407
+        y: 3809
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8553aa5fcc8c678f0800000000000000
+      internalID: -543025922431109800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Edifico Detr\xE1s venta Azar_59"
+      rect:
+        serializedVersion: 2
+        x: 2419
+        y: 3788
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5c156a22da7f9f0800000000000000
+      internalID: -434688474687093291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Edifico Detr\xE1s venta Azar_60"
+      rect:
+        serializedVersion: 2
+        x: 2431
+        y: 3795
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4003db9776f523990800000000000000
+      internalID: -7407753539042332668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Edifico Detr\xE1s venta Azar_61"
+      rect:
+        serializedVersion: 2
+        x: 2428
+        y: 3768
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02625103bf086270800000000000000
+      internalID: 8243856379397431821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Edifico Detr\xE1s venta Azar_62"
+      rect:
+        serializedVersion: 2
+        x: 2431
+        y: 3783
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee625826663e0f770800000000000000
+      internalID: 8642657713803044590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Edifico Detr\xE1s venta Azar_63"
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 3724
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43eef237e5e020f0800000000000000
+      internalID: -1143661524196334773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Edifico Detr\xE1s venta Azar_64"
+      rect:
+        serializedVersion: 2
+        x: 2477
+        y: 3702
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d050c0c6c8ef37c0800000000000000
+      internalID: -4089293996294123310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Edifico Detr\xE1s venta Azar_65"
+      rect:
+        serializedVersion: 2
+        x: 2479
+        y: 3734
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682b94a4661ec3810800000000000000
+      internalID: 1746518584962167430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Edifico Detr\xE1s venta Azar_66"
+      rect:
+        serializedVersion: 2
+        x: 2481
+        y: 3732
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed3c40c1a052daf0800000000000000
+      internalID: -373147163472151065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Edifico Detr\xE1s venta Azar_67"
+      rect:
+        serializedVersion: 2
+        x: 2521
+        y: 3740
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db8297098dafa46a0800000000000000
+      internalID: -6464078507093186371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Edifico Detr\xE1s venta Azar_68"
+      rect:
+        serializedVersion: 2
+        x: 2495
+        y: 3697
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7319af8f4ca6de5e0800000000000000
+      internalID: -1878728075320323785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Edifico Detr\xE1s venta Azar_69"
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 2593
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd8a21ca99146b30800000000000000
+      internalID: 4279573698365263291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Edifico Detr\xE1s venta Azar_70"
+      rect:
+        serializedVersion: 2
+        x: 2498
+        y: 2107
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b3576dacc56dd120800000000000000
+      internalID: 2440218502861640630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Edifico Detr\xE1s venta Azar_0": 8831045579452046505
+      "Edifico Detr\xE1s venta Azar_1": 1296772331438558725
+      "Edifico Detr\xE1s venta Azar_10": 5709874307764383575
+      "Edifico Detr\xE1s venta Azar_11": 5525839888701729655
+      "Edifico Detr\xE1s venta Azar_12": 2044544438918245250
+      "Edifico Detr\xE1s venta Azar_13": 6146262167656464096
+      "Edifico Detr\xE1s venta Azar_14": 6486231897510550854
+      "Edifico Detr\xE1s venta Azar_15": 8563603366826738640
+      "Edifico Detr\xE1s venta Azar_16": 8607516132611696039
+      "Edifico Detr\xE1s venta Azar_17": -6298943680229788646
+      "Edifico Detr\xE1s venta Azar_18": -9057802176532862105
+      "Edifico Detr\xE1s venta Azar_19": -1904572188157381921
+      "Edifico Detr\xE1s venta Azar_2": 5958229667796022019
+      "Edifico Detr\xE1s venta Azar_20": -5311944641303625901
+      "Edifico Detr\xE1s venta Azar_21": -8363717979657436223
+      "Edifico Detr\xE1s venta Azar_22": -1034450723140522027
+      "Edifico Detr\xE1s venta Azar_23": 7736532402313969151
+      "Edifico Detr\xE1s venta Azar_24": 3019459425135498102
+      "Edifico Detr\xE1s venta Azar_25": 943909678505253873
+      "Edifico Detr\xE1s venta Azar_26": -8720252460077205212
+      "Edifico Detr\xE1s venta Azar_27": -1601370355658958142
+      "Edifico Detr\xE1s venta Azar_28": -82602252077236229
+      "Edifico Detr\xE1s venta Azar_29": -4330727270423152077
+      "Edifico Detr\xE1s venta Azar_3": 1820605948761290377
+      "Edifico Detr\xE1s venta Azar_30": 6463282122247580719
+      "Edifico Detr\xE1s venta Azar_31": -2213785571664073339
+      "Edifico Detr\xE1s venta Azar_32": -8274031212602575089
+      "Edifico Detr\xE1s venta Azar_33": -1992073771851203618
+      "Edifico Detr\xE1s venta Azar_34": -6338175651820368427
+      "Edifico Detr\xE1s venta Azar_35": 4832422112397192293
+      "Edifico Detr\xE1s venta Azar_36": 8776524431619932081
+      "Edifico Detr\xE1s venta Azar_37": 7014509362994458193
+      "Edifico Detr\xE1s venta Azar_38": 4177175183082890759
+      "Edifico Detr\xE1s venta Azar_39": -5382177798498268666
+      "Edifico Detr\xE1s venta Azar_4": 1443155720054452723
+      "Edifico Detr\xE1s venta Azar_40": 7736545215537935626
+      "Edifico Detr\xE1s venta Azar_41": -3717502227991276543
+      "Edifico Detr\xE1s venta Azar_42": -8668577520286559653
+      "Edifico Detr\xE1s venta Azar_43": -4956342334400684670
+      "Edifico Detr\xE1s venta Azar_44": -3832208931480413948
+      "Edifico Detr\xE1s venta Azar_45": 1268104701445321562
+      "Edifico Detr\xE1s venta Azar_46": -4266466522890947629
+      "Edifico Detr\xE1s venta Azar_47": 4541676134882370970
+      "Edifico Detr\xE1s venta Azar_48": -6640259653140091440
+      "Edifico Detr\xE1s venta Azar_49": -6784436157909597929
+      "Edifico Detr\xE1s venta Azar_5": -2631034929034480346
+      "Edifico Detr\xE1s venta Azar_50": -1043876516843683044
+      "Edifico Detr\xE1s venta Azar_51": -6434154163454494284
+      "Edifico Detr\xE1s venta Azar_52": -9037544973494534456
+      "Edifico Detr\xE1s venta Azar_53": -8798813585458778191
+      "Edifico Detr\xE1s venta Azar_54": 1802973151847235286
+      "Edifico Detr\xE1s venta Azar_55": 1930767227790955366
+      "Edifico Detr\xE1s venta Azar_56": 5432858225361526393
+      "Edifico Detr\xE1s venta Azar_57": -7524170101762144257
+      "Edifico Detr\xE1s venta Azar_58": -543025922431109800
+      "Edifico Detr\xE1s venta Azar_59": -434688474687093291
+      "Edifico Detr\xE1s venta Azar_6": -6002258653581311185
+      "Edifico Detr\xE1s venta Azar_60": -7407753539042332668
+      "Edifico Detr\xE1s venta Azar_61": 8243856379397431821
+      "Edifico Detr\xE1s venta Azar_62": 8642657713803044590
+      "Edifico Detr\xE1s venta Azar_63": -1143661524196334773
+      "Edifico Detr\xE1s venta Azar_64": -4089293996294123310
+      "Edifico Detr\xE1s venta Azar_65": 1746518584962167430
+      "Edifico Detr\xE1s venta Azar_66": -373147163472151065
+      "Edifico Detr\xE1s venta Azar_67": -6464078507093186371
+      "Edifico Detr\xE1s venta Azar_68": -1878728075320323785
+      "Edifico Detr\xE1s venta Azar_69": 4279573698365263291
+      "Edifico Detr\xE1s venta Azar_7": -4511876187070514696
+      "Edifico Detr\xE1s venta Azar_70": 2440218502861640630
+      "Edifico Detr\xE1s venta Azar_8": 612207232285557923
+      "Edifico Detr\xE1s venta Azar_9": 5915142456542272599
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

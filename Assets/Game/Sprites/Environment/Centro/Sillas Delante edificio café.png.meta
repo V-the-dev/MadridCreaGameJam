@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: 39cd9b580d2c4dd4ebe8abf3d60fc76c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8674743206773670889
+    second: "Sillas Delante edificio caf\xE9_0"
+  - first:
+      213: 5839858077570109970
+    second: "Sillas Delante edificio caf\xE9_1"
+  - first:
+      213: -6605259201303440752
+    second: "Sillas Delante edificio caf\xE9_2"
+  - first:
+      213: 1376172103049585917
+    second: "Sillas Delante edificio caf\xE9_3"
+  - first:
+      213: 5833796575412124476
+    second: "Sillas Delante edificio caf\xE9_4"
+  - first:
+      213: -2658369902788522332
+    second: "Sillas Delante edificio caf\xE9_5"
+  - first:
+      213: -4282944863607354712
+    second: "Sillas Delante edificio caf\xE9_6"
+  - first:
+      213: -1935678901069954654
+    second: "Sillas Delante edificio caf\xE9_7"
+  - first:
+      213: -7154118759981482312
+    second: "Sillas Delante edificio caf\xE9_8"
+  - first:
+      213: 5795337497723970348
+    second: "Sillas Delante edificio caf\xE9_9"
+  - first:
+      213: -7296016544774179362
+    second: "Sillas Delante edificio caf\xE9_10"
+  - first:
+      213: 638870324777096315
+    second: "Sillas Delante edificio caf\xE9_11"
+  - first:
+      213: 8711290010744673359
+    second: "Sillas Delante edificio caf\xE9_12"
+  - first:
+      213: -6469872889881916547
+    second: "Sillas Delante edificio caf\xE9_13"
+  - first:
+      213: -2340125659515934187
+    second: "Sillas Delante edificio caf\xE9_14"
+  - first:
+      213: 7761581998496326347
+    second: "Sillas Delante edificio caf\xE9_15"
+  - first:
+      213: 6325304891577931845
+    second: "Sillas Delante edificio caf\xE9_16"
+  - first:
+      213: -3581719963242936520
+    second: "Sillas Delante edificio caf\xE9_17"
+  - first:
+      213: 6537854795946104798
+    second: "Sillas Delante edificio caf\xE9_18"
+  - first:
+      213: 4566135492042052394
+    second: "Sillas Delante edificio caf\xE9_19"
+  - first:
+      213: 8570082634591825025
+    second: "Sillas Delante edificio caf\xE9_20"
+  - first:
+      213: -2263734933155951260
+    second: "Sillas Delante edificio caf\xE9_21"
+  - first:
+      213: -520156952072235464
+    second: "Sillas Delante edificio caf\xE9_22"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 159
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Sillas Delante edificio caf\xE9_0"
+      rect:
+        serializedVersion: 2
+        x: 2985
+        y: 2577
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71cb582a30f1d9780800000000000000
+      internalID: -8674743206773670889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sillas Delante edificio caf\xE9_1"
+      rect:
+        serializedVersion: 2
+        x: 2987
+        y: 1894
+        width: 1302
+        height: 1135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212134c0bf75b0150800000000000000
+      internalID: 5839858077570109970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sillas Delante edificio caf\xE9_2"
+      rect:
+        serializedVersion: 2
+        x: 4601
+        y: 2183
+        width: 124
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0929de8a0c76554a0800000000000000
+      internalID: -6605259201303440752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sillas Delante edificio caf\xE9_3"
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 937
+        width: 733
+        height: 898
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4a2188c35291310800000000000000
+      internalID: 1376172103049585917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sillas Delante edificio caf\xE9_4"
+      rect:
+        serializedVersion: 2
+        x: 2544
+        y: 1597
+        width: 548
+        height: 508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b7459931fc5f050800000000000000
+      internalID: 5833796575412124476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sillas Delante edificio caf\xE9_5"
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 1334
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae43b678a29b1bd0800000000000000
+      internalID: -2658369902788522332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sillas Delante edificio caf\xE9_6"
+      rect:
+        serializedVersion: 2
+        x: 3967
+        y: 1247
+        width: 146
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa891ca65cef84c0800000000000000
+      internalID: -4282944863607354712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sillas Delante edificio caf\xE9_7"
+      rect:
+        serializedVersion: 2
+        x: 3851
+        y: 1262
+        width: 15
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a1c18e8b461325e0800000000000000
+      internalID: -1935678901069954654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sillas Delante edificio caf\xE9_8"
+      rect:
+        serializedVersion: 2
+        x: 3972
+        y: 1248
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be785654e677bc90800000000000000
+      internalID: -7154118759981482312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sillas Delante edificio caf\xE9_9"
+      rect:
+        serializedVersion: 2
+        x: 3973
+        y: 1226
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23a659cfbc2d6050800000000000000
+      internalID: 5795337497723970348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sillas Delante edificio caf\xE9_10"
+      rect:
+        serializedVersion: 2
+        x: 3978
+        y: 1246
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5bc55cb975fba90800000000000000
+      internalID: -7296016544774179362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sillas Delante edificio caf\xE9_11"
+      rect:
+        serializedVersion: 2
+        x: 3975
+        y: 1207
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7490edec29bdd800800000000000000
+      internalID: 638870324777096315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sillas Delante edificio caf\xE9_12"
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 323
+        width: 886
+        height: 827
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4458d14c18b4e870800000000000000
+      internalID: 8711290010744673359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sillas Delante edificio caf\xE9_13"
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 739
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b88a0b2e46636a0800000000000000
+      internalID: -6469872889881916547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sillas Delante edificio caf\xE9_14"
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 773
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51aa6c67c14368fd0800000000000000
+      internalID: -2340125659515934187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sillas Delante edificio caf\xE9_15"
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 744
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2a07b74bda6bb60800000000000000
+      internalID: 7761581998496326347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sillas Delante edificio caf\xE9_16"
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 28
+        width: 684
+        height: 701
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5481b86394ff7c750800000000000000
+      internalID: 6325304891577931845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sillas Delante edificio caf\xE9_17"
+      rect:
+        serializedVersion: 2
+        x: 2474
+        y: 57
+        width: 15
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837caf19bac2b4ec0800000000000000
+      internalID: -3581719963242936520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sillas Delante edificio caf\xE9_18"
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 42
+        width: 146
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed793714c402bba50800000000000000
+      internalID: 6537854795946104798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sillas Delante edificio caf\xE9_19"
+      rect:
+        serializedVersion: 2
+        x: 2595
+        y: 43
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a23587f990c2e5f30800000000000000
+      internalID: 4566135492042052394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sillas Delante edificio caf\xE9_20"
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 21
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ce69affbc0fe670800000000000000
+      internalID: 8570082634591825025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sillas Delante edificio caf\xE9_21"
+      rect:
+        serializedVersion: 2
+        x: 2601
+        y: 41
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46dc89372199590e0800000000000000
+      internalID: -2263734933155951260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sillas Delante edificio caf\xE9_22"
+      rect:
+        serializedVersion: 2
+        x: 2598
+        y: 2
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 836d84c020808c8f0800000000000000
+      internalID: -520156952072235464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Sillas Delante edificio caf\xE9_0": -8674743206773670889
+      "Sillas Delante edificio caf\xE9_1": 5839858077570109970
+      "Sillas Delante edificio caf\xE9_10": -7296016544774179362
+      "Sillas Delante edificio caf\xE9_11": 638870324777096315
+      "Sillas Delante edificio caf\xE9_12": 8711290010744673359
+      "Sillas Delante edificio caf\xE9_13": -6469872889881916547
+      "Sillas Delante edificio caf\xE9_14": -2340125659515934187
+      "Sillas Delante edificio caf\xE9_15": 7761581998496326347
+      "Sillas Delante edificio caf\xE9_16": 6325304891577931845
+      "Sillas Delante edificio caf\xE9_17": -3581719963242936520
+      "Sillas Delante edificio caf\xE9_18": 6537854795946104798
+      "Sillas Delante edificio caf\xE9_19": 4566135492042052394
+      "Sillas Delante edificio caf\xE9_2": -6605259201303440752
+      "Sillas Delante edificio caf\xE9_20": 8570082634591825025
+      "Sillas Delante edificio caf\xE9_21": -2263734933155951260
+      "Sillas Delante edificio caf\xE9_22": -520156952072235464
+      "Sillas Delante edificio caf\xE9_3": 1376172103049585917
+      "Sillas Delante edificio caf\xE9_4": 5833796575412124476
+      "Sillas Delante edificio caf\xE9_5": -2658369902788522332
+      "Sillas Delante edificio caf\xE9_6": -4282944863607354712
+      "Sillas Delante edificio caf\xE9_7": -1935678901069954654
+      "Sillas Delante edificio caf\xE9_8": -7154118759981482312
+      "Sillas Delante edificio caf\xE9_9": 5795337497723970348
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

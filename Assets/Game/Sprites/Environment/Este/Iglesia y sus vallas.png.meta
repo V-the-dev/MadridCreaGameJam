@@ -1,0 +1,871 @@
+fileFormatVersion: 2
+guid: a00831e65a6de0d44a023b9a40c1890e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3579097938792393131
+    second: Iglesia y sus vallas_0
+  - first:
+      213: -4858099019524490721
+    second: Iglesia y sus vallas_1
+  - first:
+      213: 3108600424357270555
+    second: Iglesia y sus vallas_2
+  - first:
+      213: 8121176517461244052
+    second: Iglesia y sus vallas_3
+  - first:
+      213: 3960116598683469337
+    second: Iglesia y sus vallas_4
+  - first:
+      213: -2463287084542155851
+    second: Iglesia y sus vallas_5
+  - first:
+      213: -2540991318203181180
+    second: Iglesia y sus vallas_6
+  - first:
+      213: -6374234701456975059
+    second: Iglesia y sus vallas_7
+  - first:
+      213: 1819328852261178457
+    second: Iglesia y sus vallas_8
+  - first:
+      213: -4635336130393641084
+    second: Iglesia y sus vallas_9
+  - first:
+      213: -4823387824948952186
+    second: Iglesia y sus vallas_10
+  - first:
+      213: 627369912096572186
+    second: Iglesia y sus vallas_11
+  - first:
+      213: -4521097559716154836
+    second: Iglesia y sus vallas_12
+  - first:
+      213: -9196265138745636166
+    second: Iglesia y sus vallas_13
+  - first:
+      213: 1492518182221838013
+    second: Iglesia y sus vallas_14
+  - first:
+      213: -1042841881611799923
+    second: Iglesia y sus vallas_15
+  - first:
+      213: 3133682287487429384
+    second: Iglesia y sus vallas_16
+  - first:
+      213: -2778220947178690036
+    second: Iglesia y sus vallas_17
+  - first:
+      213: -5281432612295043707
+    second: Iglesia y sus vallas_18
+  - first:
+      213: -2817468183206531452
+    second: Iglesia y sus vallas_19
+  - first:
+      213: 4125084267867353343
+    second: Iglesia y sus vallas_20
+  - first:
+      213: 8759554845058315932
+    second: Iglesia y sus vallas_21
+  - first:
+      213: -1977582897260727362
+    second: Iglesia y sus vallas_22
+  - first:
+      213: 3969738526819920224
+    second: Iglesia y sus vallas_23
+  - first:
+      213: 5216053865295957995
+    second: Iglesia y sus vallas_24
+  - first:
+      213: -4054040348621735447
+    second: Iglesia y sus vallas_25
+  - first:
+      213: -322320877942262637
+    second: Iglesia y sus vallas_26
+  - first:
+      213: -7129891841094694316
+    second: Iglesia y sus vallas_27
+  - first:
+      213: 6112829500722337459
+    second: Iglesia y sus vallas_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 159
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Iglesia y sus vallas_0
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 2563
+        width: 87
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9ad0acc928ba130800000000000000
+      internalID: 3579097938792393131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iglesia y sus vallas_1
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 18
+        width: 6815
+        height: 7441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ab1995ea0949cb0800000000000000
+      internalID: -4858099019524490721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iglesia y sus vallas_2
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 2605
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14917aad97f32b20800000000000000
+      internalID: 3108600424357270555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iglesia y sus vallas_3
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 2593
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4987589c30734b070800000000000000
+      internalID: 8121176517461244052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iglesia y sus vallas_4
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 2528
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91608ad901925f630800000000000000
+      internalID: 3960116598683469337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iglesia y sus vallas_5
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 2490
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3ae0a9275a0ddd0800000000000000
+      internalID: -2463287084542155851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iglesia y sus vallas_6
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2527
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487d52ddbd59cbcd0800000000000000
+      internalID: -2540991318203181180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iglesia y sus vallas_7
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 2510
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b50b8af4b2a87a0800000000000000
+      internalID: -6374234701456975059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iglesia y sus vallas_8
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 2336
+        width: 321
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c85a0b3fd8f3910800000000000000
+      internalID: 1819328852261178457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iglesia y sus vallas_9
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 2423
+        width: 128
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f6a55395afbafb0800000000000000
+      internalID: -4635336130393641084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iglesia y sus vallas_10
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 2498
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68349ff1452ef0db0800000000000000
+      internalID: -4823387824948952186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iglesia y sus vallas_11
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 2490
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a13c8417c9dd4b800800000000000000
+      internalID: 627369912096572186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iglesia y sus vallas_12
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 2482
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c22bb3629b5d141c0800000000000000
+      internalID: -4521097559716154836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iglesia y sus vallas_13
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 2360
+        width: 133
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba02c8849d406080800000000000000
+      internalID: -9196265138745636166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iglesia y sus vallas_14
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 2465
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db6f428016d76b410800000000000000
+      internalID: 1492518182221838013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iglesia y sus vallas_15
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 2465
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d82f0a975d41781f0800000000000000
+      internalID: -1042841881611799923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iglesia y sus vallas_16
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 2458
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b2f9000731d7b20800000000000000
+      internalID: 3133682287487429384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iglesia y sus vallas_17
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 2464
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a6dd7a4c6c179d0800000000000000
+      internalID: -2778220947178690036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iglesia y sus vallas_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2364
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5859df6750594b6b0800000000000000
+      internalID: -5281432612295043707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iglesia y sus vallas_19
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 2399
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e620e6d9756e8d0800000000000000
+      internalID: -2817468183206531452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iglesia y sus vallas_20
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 2378
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff039c6394e3f3930800000000000000
+      internalID: 4125084267867353343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iglesia y sus vallas_21
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 2333
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96b042b8b0309970800000000000000
+      internalID: 8759554845058315932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iglesia y sus vallas_22
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 2353
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb3f2e625d63e84e0800000000000000
+      internalID: -1977582897260727362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iglesia y sus vallas_23
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 2337
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069a8465828571730800000000000000
+      internalID: 3969738526819920224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iglesia y sus vallas_24
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 2239
+        width: 140
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: befc44aca55236840800000000000000
+      internalID: 5216053865295957995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iglesia y sus vallas_25
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 2300
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9fc4b38c72db7c0800000000000000
+      internalID: -4054040348621735447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iglesia y sus vallas_26
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 2021
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3943f868ed2e68bf0800000000000000
+      internalID: -322320877942262637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iglesia y sus vallas_27
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1987
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a489475298d0d90800000000000000
+      internalID: -7129891841094694316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iglesia y sus vallas_28
+      rect:
+        serializedVersion: 2
+        x: 4941
+        y: 0
+        width: 50
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b655133b0225d450800000000000000
+      internalID: 6112829500722337459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Iglesia y sus vallas_0: 3579097938792393131
+      Iglesia y sus vallas_1: -4858099019524490721
+      Iglesia y sus vallas_10: -4823387824948952186
+      Iglesia y sus vallas_11: 627369912096572186
+      Iglesia y sus vallas_12: -4521097559716154836
+      Iglesia y sus vallas_13: -9196265138745636166
+      Iglesia y sus vallas_14: 1492518182221838013
+      Iglesia y sus vallas_15: -1042841881611799923
+      Iglesia y sus vallas_16: 3133682287487429384
+      Iglesia y sus vallas_17: -2778220947178690036
+      Iglesia y sus vallas_18: -5281432612295043707
+      Iglesia y sus vallas_19: -2817468183206531452
+      Iglesia y sus vallas_2: 3108600424357270555
+      Iglesia y sus vallas_20: 4125084267867353343
+      Iglesia y sus vallas_21: 8759554845058315932
+      Iglesia y sus vallas_22: -1977582897260727362
+      Iglesia y sus vallas_23: 3969738526819920224
+      Iglesia y sus vallas_24: 5216053865295957995
+      Iglesia y sus vallas_25: -4054040348621735447
+      Iglesia y sus vallas_26: -322320877942262637
+      Iglesia y sus vallas_27: -7129891841094694316
+      Iglesia y sus vallas_28: 6112829500722337459
+      Iglesia y sus vallas_3: 8121176517461244052
+      Iglesia y sus vallas_4: 3960116598683469337
+      Iglesia y sus vallas_5: -2463287084542155851
+      Iglesia y sus vallas_6: -2540991318203181180
+      Iglesia y sus vallas_7: -6374234701456975059
+      Iglesia y sus vallas_8: 1819328852261178457
+      Iglesia y sus vallas_9: -4635336130393641084
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

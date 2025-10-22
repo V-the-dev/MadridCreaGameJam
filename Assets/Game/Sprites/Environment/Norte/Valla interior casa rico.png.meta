@@ -1,0 +1,793 @@
+fileFormatVersion: 2
+guid: cf443721c971f094c951c468eb7ada8e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6179185716063634791
+    second: Valla interior casa rico_0
+  - first:
+      213: -8309980008142000946
+    second: Valla interior casa rico_1
+  - first:
+      213: -9177899280478077675
+    second: Valla interior casa rico_2
+  - first:
+      213: 4178474127527400357
+    second: Valla interior casa rico_3
+  - first:
+      213: -951642777244609237
+    second: Valla interior casa rico_4
+  - first:
+      213: -6158853524382338598
+    second: Valla interior casa rico_5
+  - first:
+      213: 712307839229904837
+    second: Valla interior casa rico_6
+  - first:
+      213: 5321935449985939902
+    second: Valla interior casa rico_7
+  - first:
+      213: 1048240176288375573
+    second: Valla interior casa rico_8
+  - first:
+      213: -5723063492735783033
+    second: Valla interior casa rico_9
+  - first:
+      213: -6332940626643854488
+    second: Valla interior casa rico_10
+  - first:
+      213: 7382366107611068706
+    second: Valla interior casa rico_11
+  - first:
+      213: -3257601526453930252
+    second: Valla interior casa rico_12
+  - first:
+      213: 5736172026398669233
+    second: Valla interior casa rico_13
+  - first:
+      213: -8556938243253832205
+    second: Valla interior casa rico_14
+  - first:
+      213: 1482246114281462143
+    second: Valla interior casa rico_15
+  - first:
+      213: 7342157930755764578
+    second: Valla interior casa rico_16
+  - first:
+      213: 6222181691211377517
+    second: Valla interior casa rico_17
+  - first:
+      213: 1840492539781930095
+    second: Valla interior casa rico_18
+  - first:
+      213: -4715581156585259712
+    second: Valla interior casa rico_19
+  - first:
+      213: -4899823389652441542
+    second: Valla interior casa rico_20
+  - first:
+      213: 6437780221861957578
+    second: Valla interior casa rico_21
+  - first:
+      213: 1472135751087457954
+    second: Valla interior casa rico_22
+  - first:
+      213: -75021765275109016
+    second: Valla interior casa rico_23
+  - first:
+      213: 5860803419764003696
+    second: Valla interior casa rico_24
+  - first:
+      213: -1043864283134261531
+    second: Valla interior casa rico_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 159
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Valla interior casa rico_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2752
+        width: 112
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99afbd8745f1f3aa0800000000000000
+      internalID: -6179185716063634791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla interior casa rico_1
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 2748
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc2914f5350dac80800000000000000
+      internalID: -8309980008142000946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla interior casa rico_2
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 2721
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d7ac22b3d81a080800000000000000
+      internalID: -9177899280478077675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla interior casa rico_3
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 2587
+        width: 22
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a35e6a941cecf930800000000000000
+      internalID: 4178474127527400357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla interior casa rico_4
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 2531
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25d445afe51bc2f0800000000000000
+      internalID: -951642777244609237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla interior casa rico_5
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 2592
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1378fb95b578aa0800000000000000
+      internalID: -6158853524382338598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla interior casa rico_6
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 2535
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c74600b430a2e900800000000000000
+      internalID: 712307839229904837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla interior casa rico_7
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 2538
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb978fd48105bd940800000000000000
+      internalID: 5321935449985939902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla interior casa rico_8
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 2506
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51326f2f2e81c8e00800000000000000
+      internalID: 1048240176288375573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla interior casa rico_9
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 2478
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f2a7053189390b0800000000000000
+      internalID: -5723063492735783033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla interior casa rico_10
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 2497
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86bd04dad00ec18a0800000000000000
+      internalID: -6332940626643854488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla interior casa rico_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 147
+        width: 3493
+        height: 2328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2297a068cde637660800000000000000
+      internalID: 7382366107611068706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla interior casa rico_12
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 2472
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f671f3dbacaac2d0800000000000000
+      internalID: -3257601526453930252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla interior casa rico_13
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 2436
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b97604011afa9f40800000000000000
+      internalID: 5736172026398669233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla interior casa rico_14
+      rect:
+        serializedVersion: 2
+        x: 3393
+        y: 79
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f576ed1106af3980800000000000000
+      internalID: -8556938243253832205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla interior casa rico_15
+      rect:
+        serializedVersion: 2
+        x: 3435
+        y: 98
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f791377dcfef19410800000000000000
+      internalID: 1482246114281462143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla interior casa rico_16
+      rect:
+        serializedVersion: 2
+        x: 3247
+        y: 79
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261b383dcb594e560800000000000000
+      internalID: 7342157930755764578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla interior casa rico_17
+      rect:
+        serializedVersion: 2
+        x: 3367
+        y: 59
+        width: 51
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6be7981841a95650800000000000000
+      internalID: 6222181691211377517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla interior casa rico_18
+      rect:
+        serializedVersion: 2
+        x: 3408
+        y: 29
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c557da63eba8910800000000000000
+      internalID: 1840492539781930095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla interior casa rico_19
+      rect:
+        serializedVersion: 2
+        x: 3421
+        y: 76
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04db53c1ce3ee8eb0800000000000000
+      internalID: -4715581156585259712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla interior casa rico_20
+      rect:
+        serializedVersion: 2
+        x: 3455
+        y: 53
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36ad956694500cb0800000000000000
+      internalID: -4899823389652441542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla interior casa rico_21
+      rect:
+        serializedVersion: 2
+        x: 3319
+        y: 48
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf0e12c007975950800000000000000
+      internalID: 6437780221861957578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla interior casa rico_22
+      rect:
+        serializedVersion: 2
+        x: 3332
+        y: 46
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a688b87aa31e6410800000000000000
+      internalID: 1472135751087457954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla interior casa rico_23
+      rect:
+        serializedVersion: 2
+        x: 3382
+        y: 50
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 869ba5a1a1875fef0800000000000000
+      internalID: -75021765275109016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla interior casa rico_24
+      rect:
+        serializedVersion: 2
+        x: 3455
+        y: 52
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0739d6d88a1c55150800000000000000
+      internalID: 5860803419764003696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla interior casa rico_25
+      rect:
+        serializedVersion: 2
+        x: 3419
+        y: 24
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e6801217f27381f0800000000000000
+      internalID: -1043864283134261531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Valla interior casa rico_0: -6179185716063634791
+      Valla interior casa rico_1: -8309980008142000946
+      Valla interior casa rico_10: -6332940626643854488
+      Valla interior casa rico_11: 7382366107611068706
+      Valla interior casa rico_12: -3257601526453930252
+      Valla interior casa rico_13: 5736172026398669233
+      Valla interior casa rico_14: -8556938243253832205
+      Valla interior casa rico_15: 1482246114281462143
+      Valla interior casa rico_16: 7342157930755764578
+      Valla interior casa rico_17: 6222181691211377517
+      Valla interior casa rico_18: 1840492539781930095
+      Valla interior casa rico_19: -4715581156585259712
+      Valla interior casa rico_2: -9177899280478077675
+      Valla interior casa rico_20: -4899823389652441542
+      Valla interior casa rico_21: 6437780221861957578
+      Valla interior casa rico_22: 1472135751087457954
+      Valla interior casa rico_23: -75021765275109016
+      Valla interior casa rico_24: 5860803419764003696
+      Valla interior casa rico_25: -1043864283134261531
+      Valla interior casa rico_3: 4178474127527400357
+      Valla interior casa rico_4: -951642777244609237
+      Valla interior casa rico_5: -6158853524382338598
+      Valla interior casa rico_6: 712307839229904837
+      Valla interior casa rico_7: 5321935449985939902
+      Valla interior casa rico_8: 1048240176288375573
+      Valla interior casa rico_9: -5723063492735783033
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

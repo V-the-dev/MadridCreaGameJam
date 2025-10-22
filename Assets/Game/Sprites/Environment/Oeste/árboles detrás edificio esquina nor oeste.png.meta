@@ -1,0 +1,2249 @@
+fileFormatVersion: 2
+guid: 1423816ca41c0434084abab87a6adc2f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7185673052342301174
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_0"
+  - first:
+      213: 5639758087926413654
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_1"
+  - first:
+      213: 8363435680235472818
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_2"
+  - first:
+      213: 4546801638334389382
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_3"
+  - first:
+      213: 1334044518970266634
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_4"
+  - first:
+      213: 1158275007336658721
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_5"
+  - first:
+      213: -4175574003692751578
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_6"
+  - first:
+      213: 2952535228937078520
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_7"
+  - first:
+      213: -1860826760460144696
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_8"
+  - first:
+      213: -8118952415240434602
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_9"
+  - first:
+      213: -1226767991519535719
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_10"
+  - first:
+      213: 7811018737570665116
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_11"
+  - first:
+      213: 926935495212133319
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_12"
+  - first:
+      213: -5480315342570159939
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_13"
+  - first:
+      213: -1626789524296495218
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_14"
+  - first:
+      213: -8455370339479107917
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_15"
+  - first:
+      213: 5379050402620829128
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_16"
+  - first:
+      213: 4136097501106576034
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_17"
+  - first:
+      213: -3566966400181878038
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_18"
+  - first:
+      213: -4355130413977121816
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_19"
+  - first:
+      213: -7982655370365894548
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_20"
+  - first:
+      213: -2554952493510944732
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_21"
+  - first:
+      213: -6535655734858350855
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_22"
+  - first:
+      213: -8743554799047174295
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_23"
+  - first:
+      213: -1400053138002807882
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_24"
+  - first:
+      213: -854084192213672296
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_25"
+  - first:
+      213: -7091273221327328315
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_26"
+  - first:
+      213: -3949595918281487809
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_27"
+  - first:
+      213: 8147930793715475203
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_28"
+  - first:
+      213: -3809610961210097533
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_29"
+  - first:
+      213: -1669663113903528386
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_30"
+  - first:
+      213: 7031174609887933875
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_31"
+  - first:
+      213: -838587134857992582
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_32"
+  - first:
+      213: 7850541418208235395
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_33"
+  - first:
+      213: -4815945681760437642
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_34"
+  - first:
+      213: 7347768714010980965
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_35"
+  - first:
+      213: 652317196000927745
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_36"
+  - first:
+      213: -592856228589463715
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_37"
+  - first:
+      213: -6979744463833012086
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_38"
+  - first:
+      213: 5174541503205885425
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_39"
+  - first:
+      213: -7564779224561269662
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_40"
+  - first:
+      213: -2590790942208282493
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_41"
+  - first:
+      213: 4941551676896699109
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_42"
+  - first:
+      213: 4532289873599321248
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_43"
+  - first:
+      213: 7528008812522740507
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_44"
+  - first:
+      213: -4220408683446824873
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_45"
+  - first:
+      213: -8591245382198894657
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_46"
+  - first:
+      213: -1812000941254728001
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_47"
+  - first:
+      213: 1770970733674794003
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_48"
+  - first:
+      213: -9170582430004019648
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_49"
+  - first:
+      213: 4778383214643915288
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_50"
+  - first:
+      213: 5774782433215405201
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_51"
+  - first:
+      213: 8319110310773981351
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_52"
+  - first:
+      213: 312343211712793388
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_53"
+  - first:
+      213: 8567406416278334154
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_54"
+  - first:
+      213: 5086915060603979498
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_55"
+  - first:
+      213: 6212174704643136637
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_56"
+  - first:
+      213: 3782199220951214136
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_57"
+  - first:
+      213: 2874728470075345209
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_58"
+  - first:
+      213: 8190008165810629241
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_59"
+  - first:
+      213: -1281364828173817540
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_60"
+  - first:
+      213: 2132998691487016102
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_61"
+  - first:
+      213: -6430954449902628735
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_62"
+  - first:
+      213: 6781551314835416396
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_63"
+  - first:
+      213: 7970204538899000586
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_64"
+  - first:
+      213: 3738976206414207012
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_65"
+  - first:
+      213: 8481615650347925032
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_66"
+  - first:
+      213: 7712180123168909127
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_67"
+  - first:
+      213: -8775922050741938980
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_68"
+  - first:
+      213: 4244674137155056243
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_69"
+  - first:
+      213: 4883192340522295312
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_70"
+  - first:
+      213: 8991918047839347936
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_71"
+  - first:
+      213: -7726911472032458799
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_72"
+  - first:
+      213: 3984551145418761321
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_73"
+  - first:
+      213: 1403173655486205084
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_74"
+  - first:
+      213: 70898444665345031
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_75"
+  - first:
+      213: -340366083663785317
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_76"
+  - first:
+      213: -5226900743191707621
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_77"
+  - first:
+      213: -1001906357852105538
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_78"
+  - first:
+      213: 619137881323561798
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_79"
+  - first:
+      213: 5892493852189679019
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_80"
+  - first:
+      213: -3675478834469586256
+    second: "\xE1rboles detr\xE1s edificio esquina nor oeste_81"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 159
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_0"
+      rect:
+        serializedVersion: 2
+        x: 3787
+        y: 4873
+        width: 2375
+        height: 1142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1b5fcd193a8b360800000000000000
+      internalID: 7185673052342301174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_1"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 193
+        height: 826
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6597df9a912744e40800000000000000
+      internalID: 5639758087926413654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_2"
+      rect:
+        serializedVersion: 2
+        x: 8929
+        y: 1232
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b743469074e01470800000000000000
+      internalID: 8363435680235472818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_3"
+      rect:
+        serializedVersion: 2
+        x: 8946
+        y: 1239
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68cd515000c791f30800000000000000
+      internalID: 4546801638334389382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_4"
+      rect:
+        serializedVersion: 2
+        x: 8947
+        y: 1252
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0497c30c6a738210800000000000000
+      internalID: 1334044518970266634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_5"
+      rect:
+        serializedVersion: 2
+        x: 8950
+        y: 1153
+        width: 3543
+        height: 2118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127b38c7bf4031010800000000000000
+      internalID: 1158275007336658721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_6"
+      rect:
+        serializedVersion: 2
+        x: 8963
+        y: 1251
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 625b98811916d06c0800000000000000
+      internalID: -4175574003692751578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_7"
+      rect:
+        serializedVersion: 2
+        x: 8942
+        y: 1224
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f60f93c52389f820800000000000000
+      internalID: 2952535228937078520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_8"
+      rect:
+        serializedVersion: 2
+        x: 8946
+        y: 1230
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf6b32abe30d26e0800000000000000
+      internalID: -1860826760460144696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_9"
+      rect:
+        serializedVersion: 2
+        x: 8960
+        y: 1221
+        width: 43
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c4b4d5bcfa35f80800000000000000
+      internalID: -8118952415240434602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_10"
+      rect:
+        serializedVersion: 2
+        x: 8924
+        y: 1216
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d98abe205a9fee0800000000000000
+      internalID: -1226767991519535719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_11"
+      rect:
+        serializedVersion: 2
+        x: 8954
+        y: 1123
+        width: 37
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92d1d24820566c60800000000000000
+      internalID: 7811018737570665116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_12"
+      rect:
+        serializedVersion: 2
+        x: 8881
+        y: 1113
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cbe1d9fbe22ddc00800000000000000
+      internalID: 926935495212133319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_13"
+      rect:
+        serializedVersion: 2
+        x: 8889
+        y: 1111
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db08bfc5b3202f3b0800000000000000
+      internalID: -5480315342570159939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_14"
+      rect:
+        serializedVersion: 2
+        x: 8898
+        y: 1122
+        width: 23
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f0bf7fb8b7c69e0800000000000000
+      internalID: -1626789524296495218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_15"
+      rect:
+        serializedVersion: 2
+        x: 9154
+        y: 1153
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b649f6897d78aa80800000000000000
+      internalID: -8455370339479107917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_16"
+      rect:
+        serializedVersion: 2
+        x: 9213
+        y: 1153
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cde22d77d936aa40800000000000000
+      internalID: 5379050402620829128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_17"
+      rect:
+        serializedVersion: 2
+        x: 9331
+        y: 1153
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa96d563ce566930800000000000000
+      internalID: 4136097501106576034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_18"
+      rect:
+        serializedVersion: 2
+        x: 9361
+        y: 1153
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae2c76725f69f7ec0800000000000000
+      internalID: -3566966400181878038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_19"
+      rect:
+        serializedVersion: 2
+        x: 9377
+        y: 1153
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ebc46486f77f83c0800000000000000
+      internalID: -4355130413977121816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_20"
+      rect:
+        serializedVersion: 2
+        x: 8871
+        y: 914
+        width: 96
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c600afc0c39e73190800000000000000
+      internalID: -7982655370365894548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_21"
+      rect:
+        serializedVersion: 2
+        x: 8893
+        y: 1095
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428184e6e3cfa8cd0800000000000000
+      internalID: -2554952493510944732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_22"
+      rect:
+        serializedVersion: 2
+        x: 8959
+        y: 1102
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fef58d8cbfac45a0800000000000000
+      internalID: -6535655734858350855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_23"
+      rect:
+        serializedVersion: 2
+        x: 8959
+        y: 1092
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96791a05c37a8a680800000000000000
+      internalID: -8743554799047174295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_24"
+      rect:
+        serializedVersion: 2
+        x: 8960
+        y: 1079
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b3fbaab613029ce0800000000000000
+      internalID: -1400053138002807882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_25"
+      rect:
+        serializedVersion: 2
+        x: 8965
+        y: 1064
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89ed3dac3fea524f0800000000000000
+      internalID: -854084192213672296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_26"
+      rect:
+        serializedVersion: 2
+        x: 8969
+        y: 1052
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb6b8d839cb69d90800000000000000
+      internalID: -7091273221327328315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_27"
+      rect:
+        serializedVersion: 2
+        x: 8838
+        y: 1003
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3acf7c20773039c0800000000000000
+      internalID: -3949595918281487809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_28"
+      rect:
+        serializedVersion: 2
+        x: 8956
+        y: 1032
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303a0e523e3431170800000000000000
+      internalID: 8147930793715475203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_29"
+      rect:
+        serializedVersion: 2
+        x: 8877
+        y: 1004
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38043a4d30b812bc0800000000000000
+      internalID: -3809610961210097533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_30"
+      rect:
+        serializedVersion: 2
+        x: 8885
+        y: 994
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3625318e3a24d8e0800000000000000
+      internalID: -1669663113903528386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_31"
+      rect:
+        serializedVersion: 2
+        x: 8888
+        y: 1006
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b5bd101e00c39160800000000000000
+      internalID: 7031174609887933875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_32"
+      rect:
+        serializedVersion: 2
+        x: 9032
+        y: 973
+        width: 63
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76a391a17dbc54f0800000000000000
+      internalID: -838587134857992582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_33"
+      rect:
+        serializedVersion: 2
+        x: 8843
+        y: 983
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f0bce63d9b2fc60800000000000000
+      internalID: 7850541418208235395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_34"
+      rect:
+        serializedVersion: 2
+        x: 8841
+        y: 925
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ab71d1be25a2db0800000000000000
+      internalID: -4815945681760437642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_35"
+      rect:
+        serializedVersion: 2
+        x: 8845
+        y: 948
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5627a5a17b488f560800000000000000
+      internalID: 7347768714010980965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_36"
+      rect:
+        serializedVersion: 2
+        x: 8884
+        y: 953
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 100a38c980f7d0900800000000000000
+      internalID: 652317196000927745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_37"
+      rect:
+        serializedVersion: 2
+        x: 8906
+        y: 940
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d571c04b660c5c7f0800000000000000
+      internalID: -592856228589463715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_38"
+      rect:
+        serializedVersion: 2
+        x: 8919
+        y: 952
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88eb32f367f22f90800000000000000
+      internalID: -6979744463833012086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_39"
+      rect:
+        serializedVersion: 2
+        x: 8878
+        y: 913
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f54a1ec41aafc740800000000000000
+      internalID: 5174541503205885425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_40"
+      rect:
+        serializedVersion: 2
+        x: 8920
+        y: 940
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26445cb0061840790800000000000000
+      internalID: -7564779224561269662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_41"
+      rect:
+        serializedVersion: 2
+        x: 8863
+        y: 914
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380306a5d59ab0cd0800000000000000
+      internalID: -2590790942208282493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_42"
+      rect:
+        serializedVersion: 2
+        x: 8872
+        y: 931
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e2e9a4911be39440800000000000000
+      internalID: 4941551676896699109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_43"
+      rect:
+        serializedVersion: 2
+        x: 8912
+        y: 929
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4dcfe70ade5ee30800000000000000
+      internalID: 4532289873599321248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_44"
+      rect:
+        serializedVersion: 2
+        x: 8921
+        y: 922
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b9d60412cd87860800000000000000
+      internalID: 7528008812522740507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_45"
+      rect:
+        serializedVersion: 2
+        x: 8806
+        y: 885
+        width: 54
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7509d20c9a81e65c0800000000000000
+      internalID: -4220408683446824873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_46"
+      rect:
+        serializedVersion: 2
+        x: 8852
+        y: 924
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbfd1dfd7d3c5c880800000000000000
+      internalID: -8591245382198894657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_47"
+      rect:
+        serializedVersion: 2
+        x: 8853
+        y: 879
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb6a6db8eba7ad6e0800000000000000
+      internalID: -1812000941254728001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_48"
+      rect:
+        serializedVersion: 2
+        x: 8874
+        y: 893
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c8c40df70c39810800000000000000
+      internalID: 1770970733674794003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_49"
+      rect:
+        serializedVersion: 2
+        x: 8905
+        y: 896
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04efb242edb8bb080800000000000000
+      internalID: -9170582430004019648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_50"
+      rect:
+        serializedVersion: 2
+        x: 8907
+        y: 900
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a2a8d773a305240800000000000000
+      internalID: 4778383214643915288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_51"
+      rect:
+        serializedVersion: 2
+        x: 8805
+        y: 812
+        width: 68
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c58f2e606242050800000000000000
+      internalID: 5774782433215405201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_52"
+      rect:
+        serializedVersion: 2
+        x: 8807
+        y: 887
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a009f840ca637370800000000000000
+      internalID: 8319110310773981351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_53"
+      rect:
+        serializedVersion: 2
+        x: 8870
+        y: 810
+        width: 64
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b45260f7aa55400800000000000000
+      internalID: 312343211712793388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_54"
+      rect:
+        serializedVersion: 2
+        x: 8931
+        y: 878
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca2ca85eba85e670800000000000000
+      internalID: 8567406416278334154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_55"
+      rect:
+        serializedVersion: 2
+        x: 8939
+        y: 881
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae682e5cb4a589640800000000000000
+      internalID: 5086915060603979498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_56"
+      rect:
+        serializedVersion: 2
+        x: 8787
+        y: 870
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7cdbe8faf3163650800000000000000
+      internalID: 6212174704643136637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_57"
+      rect:
+        serializedVersion: 2
+        x: 8797
+        y: 860
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8386e8a07221d7430800000000000000
+      internalID: 3782199220951214136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_58"
+      rect:
+        serializedVersion: 2
+        x: 8812
+        y: 867
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9390b84005615e720800000000000000
+      internalID: 2874728470075345209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_59"
+      rect:
+        serializedVersion: 2
+        x: 8931
+        y: 864
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ae0b6c801c8a170800000000000000
+      internalID: 8190008165810629241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_60"
+      rect:
+        serializedVersion: 2
+        x: 8766
+        y: 825
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c39250d4a7da73ee0800000000000000
+      internalID: -1281364828173817540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_61"
+      rect:
+        serializedVersion: 2
+        x: 8777
+        y: 830
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4e470420fe99d10800000000000000
+      internalID: 2132998691487016102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_62"
+      rect:
+        serializedVersion: 2
+        x: 8789
+        y: 839
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18016de1009a0c6a0800000000000000
+      internalID: -6430954449902628735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_63"
+      rect:
+        serializedVersion: 2
+        x: 8437
+        y: 0
+        width: 437
+        height: 829
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4529da9df8ec1e50800000000000000
+      internalID: 6781551314835416396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_64"
+      rect:
+        serializedVersion: 2
+        x: 8850
+        y: 762
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0de748dccadb9e60800000000000000
+      internalID: 7970204538899000586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_65"
+      rect:
+        serializedVersion: 2
+        x: 8862
+        y: 814
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428d4febc0383e330800000000000000
+      internalID: 3738976206414207012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_66"
+      rect:
+        serializedVersion: 2
+        x: 9092
+        y: 808
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82eb1681f70c4b570800000000000000
+      internalID: 8481615650347925032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_67"
+      rect:
+        serializedVersion: 2
+        x: 9095
+        y: 741
+        width: 46
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747af4d06fa270b60800000000000000
+      internalID: 7712180123168909127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_68"
+      rect:
+        serializedVersion: 2
+        x: 8859
+        y: 769
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd452054469a53680800000000000000
+      internalID: -8775922050741938980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_69"
+      rect:
+        serializedVersion: 2
+        x: 8999
+        y: 743
+        width: 98
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3723a6473ac18ea30800000000000000
+      internalID: 4244674137155056243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_70"
+      rect:
+        serializedVersion: 2
+        x: 9054
+        y: 778
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0106dbabf8594c340800000000000000
+      internalID: 4883192340522295312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_71"
+      rect:
+        serializedVersion: 2
+        x: 8858
+        y: 753
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e463e2c2d5b9cc70800000000000000
+      internalID: 8991918047839347936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_72"
+      rect:
+        serializedVersion: 2
+        x: 8897
+        y: 753
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d75d9284fe74c490800000000000000
+      internalID: -7726911472032458799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_73"
+      rect:
+        serializedVersion: 2
+        x: 8969
+        y: 736
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964af0cd728fb4730800000000000000
+      internalID: 3984551145418761321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_74"
+      rect:
+        serializedVersion: 2
+        x: 9471
+        y: 715
+        width: 79
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c017d5103197310800000000000000
+      internalID: 1403173655486205084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_75"
+      rect:
+        serializedVersion: 2
+        x: 8667
+        y: 0
+        width: 2220
+        height: 733
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 704d76182c1ebf000800000000000000
+      internalID: 70898444665345031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_76"
+      rect:
+        serializedVersion: 2
+        x: 8887
+        y: 724
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9211a9a9d6c64bf0800000000000000
+      internalID: -340366083663785317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_77"
+      rect:
+        serializedVersion: 2
+        x: 8900
+        y: 723
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1045d5a7715677b0800000000000000
+      internalID: -5226900743191707621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_78"
+      rect:
+        serializedVersion: 2
+        x: 8975
+        y: 728
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb41502d9738812f0800000000000000
+      internalID: -1001906357852105538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_79"
+      rect:
+        serializedVersion: 2
+        x: 8985
+        y: 721
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 643674b6f9e979800800000000000000
+      internalID: 619137881323561798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_80"
+      rect:
+        serializedVersion: 2
+        x: 10898
+        y: 219
+        width: 73
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad50f450f756c150800000000000000
+      internalID: 5892493852189679019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE1rboles detr\xE1s edificio esquina nor oeste_81"
+      rect:
+        serializedVersion: 2
+        x: 10830
+        y: 0
+        width: 268
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba39fb39731efcc0800000000000000
+      internalID: -3675478834469586256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_0": 7185673052342301174
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_1": 5639758087926413654
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_10": -1226767991519535719
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_11": 7811018737570665116
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_12": 926935495212133319
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_13": -5480315342570159939
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_14": -1626789524296495218
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_15": -8455370339479107917
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_16": 5379050402620829128
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_17": 4136097501106576034
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_18": -3566966400181878038
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_19": -4355130413977121816
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_2": 8363435680235472818
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_20": -7982655370365894548
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_21": -2554952493510944732
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_22": -6535655734858350855
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_23": -8743554799047174295
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_24": -1400053138002807882
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_25": -854084192213672296
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_26": -7091273221327328315
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_27": -3949595918281487809
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_28": 8147930793715475203
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_29": -3809610961210097533
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_3": 4546801638334389382
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_30": -1669663113903528386
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_31": 7031174609887933875
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_32": -838587134857992582
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_33": 7850541418208235395
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_34": -4815945681760437642
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_35": 7347768714010980965
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_36": 652317196000927745
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_37": -592856228589463715
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_38": -6979744463833012086
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_39": 5174541503205885425
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_4": 1334044518970266634
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_40": -7564779224561269662
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_41": -2590790942208282493
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_42": 4941551676896699109
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_43": 4532289873599321248
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_44": 7528008812522740507
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_45": -4220408683446824873
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_46": -8591245382198894657
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_47": -1812000941254728001
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_48": 1770970733674794003
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_49": -9170582430004019648
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_5": 1158275007336658721
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_50": 4778383214643915288
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_51": 5774782433215405201
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_52": 8319110310773981351
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_53": 312343211712793388
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_54": 8567406416278334154
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_55": 5086915060603979498
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_56": 6212174704643136637
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_57": 3782199220951214136
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_58": 2874728470075345209
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_59": 8190008165810629241
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_6": -4175574003692751578
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_60": -1281364828173817540
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_61": 2132998691487016102
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_62": -6430954449902628735
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_63": 6781551314835416396
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_64": 7970204538899000586
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_65": 3738976206414207012
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_66": 8481615650347925032
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_67": 7712180123168909127
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_68": -8775922050741938980
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_69": 4244674137155056243
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_7": 2952535228937078520
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_70": 4883192340522295312
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_71": 8991918047839347936
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_72": -7726911472032458799
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_73": 3984551145418761321
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_74": 1403173655486205084
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_75": 70898444665345031
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_76": -340366083663785317
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_77": -5226900743191707621
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_78": -1001906357852105538
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_79": 619137881323561798
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_8": -1860826760460144696
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_80": 5892493852189679019
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_81": -3675478834469586256
+      "\xE1rboles detr\xE1s edificio esquina nor oeste_9": -8118952415240434602
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

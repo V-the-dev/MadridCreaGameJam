@@ -1,0 +1,1079 @@
+fileFormatVersion: 2
+guid: 9b1d9f56b522e63449327bd2e0afc69a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6356781216790822667
+    second: Valla derecha puente_0
+  - first:
+      213: -1142195111734398189
+    second: Valla derecha puente_1
+  - first:
+      213: -6046570734525894988
+    second: Valla derecha puente_2
+  - first:
+      213: 4317762237407165308
+    second: Valla derecha puente_3
+  - first:
+      213: -1633147714210549935
+    second: Valla derecha puente_4
+  - first:
+      213: 7063450247194044201
+    second: Valla derecha puente_5
+  - first:
+      213: -6375253979704415156
+    second: Valla derecha puente_6
+  - first:
+      213: 8306242801155269537
+    second: Valla derecha puente_7
+  - first:
+      213: 1172081721468388286
+    second: Valla derecha puente_8
+  - first:
+      213: -6348265653789598753
+    second: Valla derecha puente_9
+  - first:
+      213: -8442333538313448520
+    second: Valla derecha puente_10
+  - first:
+      213: 1234059034428652940
+    second: Valla derecha puente_11
+  - first:
+      213: -3653905712051638439
+    second: Valla derecha puente_12
+  - first:
+      213: -7482186345855258498
+    second: Valla derecha puente_13
+  - first:
+      213: -4225625543004040042
+    second: Valla derecha puente_14
+  - first:
+      213: -1467355363008360606
+    second: Valla derecha puente_15
+  - first:
+      213: 7677056479375100384
+    second: Valla derecha puente_16
+  - first:
+      213: -8280539745300281545
+    second: Valla derecha puente_17
+  - first:
+      213: 4146542133558124276
+    second: Valla derecha puente_18
+  - first:
+      213: -1253413997955693932
+    second: Valla derecha puente_19
+  - first:
+      213: 475377162286770478
+    second: Valla derecha puente_20
+  - first:
+      213: -2801039892503415915
+    second: Valla derecha puente_21
+  - first:
+      213: 1753480506010169913
+    second: Valla derecha puente_22
+  - first:
+      213: -5640400584341715932
+    second: Valla derecha puente_23
+  - first:
+      213: 2937814686115081002
+    second: Valla derecha puente_24
+  - first:
+      213: -1780413979121032646
+    second: Valla derecha puente_25
+  - first:
+      213: 808804069710669106
+    second: Valla derecha puente_26
+  - first:
+      213: 3449096816245655503
+    second: Valla derecha puente_27
+  - first:
+      213: 6327138569629614876
+    second: Valla derecha puente_28
+  - first:
+      213: 8817094041264795675
+    second: Valla derecha puente_29
+  - first:
+      213: 7556419333093334398
+    second: Valla derecha puente_30
+  - first:
+      213: -7589498173985307776
+    second: Valla derecha puente_31
+  - first:
+      213: 4866659941934848122
+    second: Valla derecha puente_32
+  - first:
+      213: -3122507210465001231
+    second: Valla derecha puente_33
+  - first:
+      213: -217251351903047256
+    second: Valla derecha puente_34
+  - first:
+      213: -7600441494529542143
+    second: Valla derecha puente_35
+  - first:
+      213: -2726639489473710488
+    second: Valla derecha puente_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 159
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Valla derecha puente_0
+      rect:
+        serializedVersion: 2
+        x: 5017
+        y: 6068
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f31b546d2d73850800000000000000
+      internalID: 6356781216790822667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla derecha puente_1
+      rect:
+        serializedVersion: 2
+        x: 5107
+        y: 6026
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31332e4f89b1620f0800000000000000
+      internalID: -1142195111734398189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla derecha puente_2
+      rect:
+        serializedVersion: 2
+        x: 5502
+        y: 6078
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4beaf4bf3f3461ca0800000000000000
+      internalID: -6046570734525894988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla derecha puente_3
+      rect:
+        serializedVersion: 2
+        x: 5101
+        y: 5953
+        width: 35
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7bff31e0e5cbeb30800000000000000
+      internalID: 4317762237407165308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla derecha puente_4
+      rect:
+        serializedVersion: 2
+        x: 5586
+        y: 6024
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f2db48ec4e559e0800000000000000
+      internalID: -1633147714210549935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla derecha puente_5
+      rect:
+        serializedVersion: 2
+        x: 4983
+        y: 5885
+        width: 78
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92765a8739a660260800000000000000
+      internalID: 7063450247194044201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla derecha puente_6
+      rect:
+        serializedVersion: 2
+        x: 5183
+        y: 5975
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ca2d2784c8687a0800000000000000
+      internalID: -6375253979704415156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla derecha puente_7
+      rect:
+        serializedVersion: 2
+        x: 5183
+        y: 5988
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3610db1d3b54370800000000000000
+      internalID: 8306242801155269537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla derecha puente_8
+      rect:
+        serializedVersion: 2
+        x: 5193
+        y: 5948
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb30adf9d12144010800000000000000
+      internalID: 1172081721468388286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla derecha puente_9
+      rect:
+        serializedVersion: 2
+        x: 5667
+        y: 5971
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdbde0eb50e66e7a0800000000000000
+      internalID: -6348265653789598753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla derecha puente_10
+      rect:
+        serializedVersion: 2
+        x: 4958
+        y: 5902
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3d575506ec6da80800000000000000
+      internalID: -8442333538313448520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla derecha puente_11
+      rect:
+        serializedVersion: 2
+        x: 5037
+        y: 5666
+        width: 328
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d3bfa4722402110800000000000000
+      internalID: 1234059034428652940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla derecha puente_12
+      rect:
+        serializedVersion: 2
+        x: 5085
+        y: 5881
+        width: 54
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f24663d18ba4dc0800000000000000
+      internalID: -3653905712051638439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla derecha puente_13
+      rect:
+        serializedVersion: 2
+        x: 5274
+        y: 5808
+        width: 27
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70f408292fe92890800000000000000
+      internalID: -7482186345855258498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla derecha puente_14
+      rect:
+        serializedVersion: 2
+        x: 5751
+        y: 5917
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6945d6bf4ff8b55c0800000000000000
+      internalID: -4225625543004040042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla derecha puente_15
+      rect:
+        serializedVersion: 2
+        x: 5002
+        y: 5860
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f4f9c5218e2abe0800000000000000
+      internalID: -1467355363008360606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla derecha puente_16
+      rect:
+        serializedVersion: 2
+        x: 5020
+        y: 5859
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e983c571326a8a60800000000000000
+      internalID: 7677056479375100384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla derecha puente_17
+      rect:
+        serializedVersion: 2
+        x: 5824
+        y: 5875
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7378fdc49fc951d80800000000000000
+      internalID: -8280539745300281545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla derecha puente_18
+      rect:
+        serializedVersion: 2
+        x: 5021
+        y: 5833
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe1ce4e91a7b8930800000000000000
+      internalID: 4146542133558124276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla derecha puente_19
+      rect:
+        serializedVersion: 2
+        x: 5021
+        y: 5841
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49249571c9afa9ee0800000000000000
+      internalID: -1253413997955693932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla derecha puente_20
+      rect:
+        serializedVersion: 2
+        x: 5432
+        y: 5842
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29af6ca201e89600800000000000000
+      internalID: 475377162286770478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla derecha puente_21
+      rect:
+        serializedVersion: 2
+        x: 5435
+        y: 5848
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593b2adee05b029d0800000000000000
+      internalID: -2801039892503415915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla derecha puente_22
+      rect:
+        serializedVersion: 2
+        x: 5437
+        y: 5836
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932fe49da3d955810800000000000000
+      internalID: 1753480506010169913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla derecha puente_23
+      rect:
+        serializedVersion: 2
+        x: 5038
+        y: 5825
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424086b7d8549b1b0800000000000000
+      internalID: -5640400584341715932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla derecha puente_24
+      rect:
+        serializedVersion: 2
+        x: 5352
+        y: 5830
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ba0dd44e635c820800000000000000
+      internalID: 2937814686115081002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla derecha puente_25
+      rect:
+        serializedVersion: 2
+        x: 5424
+        y: 5833
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32e9554be2ba47e0800000000000000
+      internalID: -1780413979121032646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla derecha puente_26
+      rect:
+        serializedVersion: 2
+        x: 5435
+        y: 5810
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235aef32403793b00800000000000000
+      internalID: 808804069710669106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla derecha puente_27
+      rect:
+        serializedVersion: 2
+        x: 5032
+        y: 5821
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc7c040c747addf20800000000000000
+      internalID: 3449096816245655503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla derecha puente_28
+      rect:
+        serializedVersion: 2
+        x: 5908
+        y: 5821
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c134277a1038ec750800000000000000
+      internalID: 6327138569629614876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla derecha puente_29
+      rect:
+        serializedVersion: 2
+        x: 5021
+        y: 5797
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b103dc8c05c9c5a70800000000000000
+      internalID: 8817094041264795675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla derecha puente_30
+      rect:
+        serializedVersion: 2
+        x: 5032
+        y: 5784
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d1cea095bcdd860800000000000000
+      internalID: 7556419333093334398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla derecha puente_31
+      rect:
+        serializedVersion: 2
+        x: 5525
+        y: 5805
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08341242f9faca690800000000000000
+      internalID: -7589498173985307776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla derecha puente_32
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 0
+        width: 7058
+        height: 5799
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7856a9be69d98340800000000000000
+      internalID: 4866659941934848122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla derecha puente_33
+      rect:
+        serializedVersion: 2
+        x: 7094
+        y: 5281
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f043af5c30aaa4d0800000000000000
+      internalID: -3122507210465001231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla derecha puente_34
+      rect:
+        serializedVersion: 2
+        x: 7134
+        y: 5064
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a178d6eb0b2cfcf0800000000000000
+      internalID: -217251351903047256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla derecha puente_35
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 0
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1087d66cabec58690800000000000000
+      internalID: -7600441494529542143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla derecha puente_36
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 2
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866fd57a4d7092ad0800000000000000
+      internalID: -2726639489473710488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Valla derecha puente_0: 6356781216790822667
+      Valla derecha puente_1: -1142195111734398189
+      Valla derecha puente_10: -8442333538313448520
+      Valla derecha puente_11: 1234059034428652940
+      Valla derecha puente_12: -3653905712051638439
+      Valla derecha puente_13: -7482186345855258498
+      Valla derecha puente_14: -4225625543004040042
+      Valla derecha puente_15: -1467355363008360606
+      Valla derecha puente_16: 7677056479375100384
+      Valla derecha puente_17: -8280539745300281545
+      Valla derecha puente_18: 4146542133558124276
+      Valla derecha puente_19: -1253413997955693932
+      Valla derecha puente_2: -6046570734525894988
+      Valla derecha puente_20: 475377162286770478
+      Valla derecha puente_21: -2801039892503415915
+      Valla derecha puente_22: 1753480506010169913
+      Valla derecha puente_23: -5640400584341715932
+      Valla derecha puente_24: 2937814686115081002
+      Valla derecha puente_25: -1780413979121032646
+      Valla derecha puente_26: 808804069710669106
+      Valla derecha puente_27: 3449096816245655503
+      Valla derecha puente_28: 6327138569629614876
+      Valla derecha puente_29: 8817094041264795675
+      Valla derecha puente_3: 4317762237407165308
+      Valla derecha puente_30: 7556419333093334398
+      Valla derecha puente_31: -7589498173985307776
+      Valla derecha puente_32: 4866659941934848122
+      Valla derecha puente_33: -3122507210465001231
+      Valla derecha puente_34: -217251351903047256
+      Valla derecha puente_35: -7600441494529542143
+      Valla derecha puente_36: -2726639489473710488
+      Valla derecha puente_4: -1633147714210549935
+      Valla derecha puente_5: 7063450247194044201
+      Valla derecha puente_6: -6375253979704415156
+      Valla derecha puente_7: 8306242801155269537
+      Valla derecha puente_8: 1172081721468388286
+      Valla derecha puente_9: -6348265653789598753
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

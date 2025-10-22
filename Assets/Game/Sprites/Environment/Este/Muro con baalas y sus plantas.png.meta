@@ -1,0 +1,1079 @@
+fileFormatVersion: 2
+guid: 11b47bf064888274dacee8b606762d41
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4658261263746319522
+    second: Muro con baalas y sus plantas_0
+  - first:
+      213: 440136186969474205
+    second: Muro con baalas y sus plantas_1
+  - first:
+      213: -6021172065971339575
+    second: Muro con baalas y sus plantas_2
+  - first:
+      213: 4007976832495165369
+    second: Muro con baalas y sus plantas_3
+  - first:
+      213: -6426437566849469141
+    second: Muro con baalas y sus plantas_4
+  - first:
+      213: 6302294495076205841
+    second: Muro con baalas y sus plantas_5
+  - first:
+      213: 7336294403301275721
+    second: Muro con baalas y sus plantas_6
+  - first:
+      213: 2592565838439213369
+    second: Muro con baalas y sus plantas_7
+  - first:
+      213: -7492344637175317282
+    second: Muro con baalas y sus plantas_8
+  - first:
+      213: -1815053282860370658
+    second: Muro con baalas y sus plantas_9
+  - first:
+      213: 4621691824745866713
+    second: Muro con baalas y sus plantas_10
+  - first:
+      213: 1908673269717505598
+    second: Muro con baalas y sus plantas_11
+  - first:
+      213: -6767357786551752226
+    second: Muro con baalas y sus plantas_12
+  - first:
+      213: 3198927529108937611
+    second: Muro con baalas y sus plantas_13
+  - first:
+      213: 6458109372910694143
+    second: Muro con baalas y sus plantas_14
+  - first:
+      213: -950798348555313590
+    second: Muro con baalas y sus plantas_15
+  - first:
+      213: 1844425467519820871
+    second: Muro con baalas y sus plantas_16
+  - first:
+      213: 2243063009975793754
+    second: Muro con baalas y sus plantas_17
+  - first:
+      213: -3865925151599268428
+    second: Muro con baalas y sus plantas_18
+  - first:
+      213: -2861969965447391143
+    second: Muro con baalas y sus plantas_19
+  - first:
+      213: -3603732752460315914
+    second: Muro con baalas y sus plantas_20
+  - first:
+      213: -2446866433387143106
+    second: Muro con baalas y sus plantas_21
+  - first:
+      213: 7918581199213887873
+    second: Muro con baalas y sus plantas_22
+  - first:
+      213: -4856152052490735504
+    second: Muro con baalas y sus plantas_23
+  - first:
+      213: -1497071579775162227
+    second: Muro con baalas y sus plantas_24
+  - first:
+      213: 1560869711579699603
+    second: Muro con baalas y sus plantas_25
+  - first:
+      213: 7441947200209517174
+    second: Muro con baalas y sus plantas_26
+  - first:
+      213: -3324489099508946535
+    second: Muro con baalas y sus plantas_27
+  - first:
+      213: 5753268392451833312
+    second: Muro con baalas y sus plantas_28
+  - first:
+      213: 8032816124462724049
+    second: Muro con baalas y sus plantas_29
+  - first:
+      213: 7329447553273756637
+    second: Muro con baalas y sus plantas_30
+  - first:
+      213: 3589147730749152345
+    second: Muro con baalas y sus plantas_31
+  - first:
+      213: 8895353453860979242
+    second: Muro con baalas y sus plantas_32
+  - first:
+      213: 7887728910615973930
+    second: Muro con baalas y sus plantas_33
+  - first:
+      213: -8118121466766133507
+    second: Muro con baalas y sus plantas_34
+  - first:
+      213: 887357144554302331
+    second: Muro con baalas y sus plantas_35
+  - first:
+      213: -7218193868137361331
+    second: Muro con baalas y sus plantas_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 159
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Muro con baalas y sus plantas_0
+      rect:
+        serializedVersion: 2
+        x: 3994
+        y: 4855
+        width: 418
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b3077af088a5fb0800000000000000
+      internalID: -4658261263746319522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muro con baalas y sus plantas_1
+      rect:
+        serializedVersion: 2
+        x: 4069
+        y: 5203
+        width: 253
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d944c15b78dab1600800000000000000
+      internalID: 440136186969474205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muro con baalas y sus plantas_2
+      rect:
+        serializedVersion: 2
+        x: 3872
+        y: 5090
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cef54458ef707ca0800000000000000
+      internalID: -6021172065971339575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muro con baalas y sus plantas_3
+      rect:
+        serializedVersion: 2
+        x: 3882
+        y: 5096
+        width: 104
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf9ed8a1b13f9730800000000000000
+      internalID: 4007976832495165369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muro con baalas y sus plantas_4
+      rect:
+        serializedVersion: 2
+        x: 3811
+        y: 5055
+        width: 62
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2536b8e415b0d6a0800000000000000
+      internalID: -6426437566849469141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muro con baalas y sus plantas_5
+      rect:
+        serializedVersion: 2
+        x: 3721
+        y: 5003
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 115cae8c37f367750800000000000000
+      internalID: 6302294495076205841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muro con baalas y sus plantas_6
+      rect:
+        serializedVersion: 2
+        x: 3756
+        y: 5023
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9487574f3e0cfc560800000000000000
+      internalID: 7336294403301275721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muro con baalas y sus plantas_7
+      rect:
+        serializedVersion: 2
+        x: 3670
+        y: 4974
+        width: 50
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9396bf0e4e4aaf320800000000000000
+      internalID: 2592565838439213369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muro con baalas y sus plantas_8
+      rect:
+        serializedVersion: 2
+        x: 3959
+        y: 4987
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edcbc56af38d50890800000000000000
+      internalID: -7492344637175317282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muro con baalas y sus plantas_9
+      rect:
+        serializedVersion: 2
+        x: 3969
+        y: 4993
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1573b2e7a2afc6e0800000000000000
+      internalID: -1815053282860370658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muro con baalas y sus plantas_10
+      rect:
+        serializedVersion: 2
+        x: 3401
+        y: 4819
+        width: 270
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d5ed435a3c832040800000000000000
+      internalID: 4621691824745866713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muro con baalas y sus plantas_11
+      rect:
+        serializedVersion: 2
+        x: 3898
+        y: 4952
+        width: 62
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e369bc9e938fc7a10800000000000000
+      internalID: 1908673269717505598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muro con baalas y sus plantas_12
+      rect:
+        serializedVersion: 2
+        x: 3808
+        y: 4900
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed9eb98b2f38512a0800000000000000
+      internalID: -6767357786551752226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muro con baalas y sus plantas_13
+      rect:
+        serializedVersion: 2
+        x: 3843
+        y: 4920
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b91ca93afd46c20800000000000000
+      internalID: 3198927529108937611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muro con baalas y sus plantas_14
+      rect:
+        serializedVersion: 2
+        x: 3488
+        y: 4716
+        width: 270
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe66f41240df9950800000000000000
+      internalID: 6458109372910694143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muro con baalas y sus plantas_15
+      rect:
+        serializedVersion: 2
+        x: 3757
+        y: 4871
+        width: 50
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e155580f51ec2f0800000000000000
+      internalID: -950798348555313590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muro con baalas y sus plantas_16
+      rect:
+        serializedVersion: 2
+        x: 3330
+        y: 4778
+        width: 68
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744e336c037b89910800000000000000
+      internalID: 1844425467519820871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muro con baalas y sus plantas_17
+      rect:
+        serializedVersion: 2
+        x: 4289
+        y: 4508
+        width: 125
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58fc6e5ce5f02f10800000000000000
+      internalID: 2243063009975793754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muro con baalas y sus plantas_18
+      rect:
+        serializedVersion: 2
+        x: 2897
+        y: 4528
+        width: 278
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd6da2ae89795ac0800000000000000
+      internalID: -3865925151599268428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muro con baalas y sus plantas_19
+      rect:
+        serializedVersion: 2
+        x: 3417
+        y: 4675
+        width: 68
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958dba3da7d3848d0800000000000000
+      internalID: -2861969965447391143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muro con baalas y sus plantas_20
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1835
+        width: 2010
+        height: 1548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f28920b728fcfdc0800000000000000
+      internalID: -3603732752460315914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muro con baalas y sus plantas_21
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 996
+        width: 4572
+        height: 3594
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30e12161fbfa0ed0800000000000000
+      internalID: -2446866433387143106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muro con baalas y sus plantas_22
+      rect:
+        serializedVersion: 2
+        x: 5005
+        y: 161
+        width: 2716
+        height: 2218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1810b3075a374ed60800000000000000
+      internalID: 7918581199213887873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muro con baalas y sus plantas_23
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 923
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0707100ff6b7b9cb0800000000000000
+      internalID: -4856152052490735504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muro con baalas y sus plantas_24
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 905
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d882b2c7455593be0800000000000000
+      internalID: -1497071579775162227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muro con baalas y sus plantas_25
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 906
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 399df5b9bb259a510800000000000000
+      internalID: 1560869711579699603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muro con baalas y sus plantas_26
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 852
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a73b9ac8b174760800000000000000
+      internalID: 7441947200209517174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muro con baalas y sus plantas_27
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 902
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9996c1427ca0dd1d0800000000000000
+      internalID: -3324489099508946535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muro con baalas y sus plantas_28
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 875
+        width: 53
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0edf29dee17b7df40800000000000000
+      internalID: 5753268392451833312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muro con baalas y sus plantas_29
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 908
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d371ac94bb4a7f60800000000000000
+      internalID: 8032816124462724049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muro con baalas y sus plantas_30
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 876
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddbfcb477bd67b560800000000000000
+      internalID: 7329447553273756637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muro con baalas y sus plantas_31
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 875
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95cd3b158d63fc130800000000000000
+      internalID: 3589147730749152345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muro con baalas y sus plantas_32
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 873
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a228de036d4a27b70800000000000000
+      internalID: 8895353453860979242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muro con baalas y sus plantas_33
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 879
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2018d937a7d67d60800000000000000
+      internalID: 7887728910615973930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muro con baalas y sus plantas_34
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 875
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df67ee1a983a65f80800000000000000
+      internalID: -8118121466766133507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muro con baalas y sus plantas_35
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 848
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b601e1f96805c00800000000000000
+      internalID: 887357144554302331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muro con baalas y sus plantas_36
+      rect:
+        serializedVersion: 2
+        x: 5436
+        y: 142
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4015c9abe2d3db90800000000000000
+      internalID: -7218193868137361331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Muro con baalas y sus plantas_0: -4658261263746319522
+      Muro con baalas y sus plantas_1: 440136186969474205
+      Muro con baalas y sus plantas_10: 4621691824745866713
+      Muro con baalas y sus plantas_11: 1908673269717505598
+      Muro con baalas y sus plantas_12: -6767357786551752226
+      Muro con baalas y sus plantas_13: 3198927529108937611
+      Muro con baalas y sus plantas_14: 6458109372910694143
+      Muro con baalas y sus plantas_15: -950798348555313590
+      Muro con baalas y sus plantas_16: 1844425467519820871
+      Muro con baalas y sus plantas_17: 2243063009975793754
+      Muro con baalas y sus plantas_18: -3865925151599268428
+      Muro con baalas y sus plantas_19: -2861969965447391143
+      Muro con baalas y sus plantas_2: -6021172065971339575
+      Muro con baalas y sus plantas_20: -3603732752460315914
+      Muro con baalas y sus plantas_21: -2446866433387143106
+      Muro con baalas y sus plantas_22: 7918581199213887873
+      Muro con baalas y sus plantas_23: -4856152052490735504
+      Muro con baalas y sus plantas_24: -1497071579775162227
+      Muro con baalas y sus plantas_25: 1560869711579699603
+      Muro con baalas y sus plantas_26: 7441947200209517174
+      Muro con baalas y sus plantas_27: -3324489099508946535
+      Muro con baalas y sus plantas_28: 5753268392451833312
+      Muro con baalas y sus plantas_29: 8032816124462724049
+      Muro con baalas y sus plantas_3: 4007976832495165369
+      Muro con baalas y sus plantas_30: 7329447553273756637
+      Muro con baalas y sus plantas_31: 3589147730749152345
+      Muro con baalas y sus plantas_32: 8895353453860979242
+      Muro con baalas y sus plantas_33: 7887728910615973930
+      Muro con baalas y sus plantas_34: -8118121466766133507
+      Muro con baalas y sus plantas_35: 887357144554302331
+      Muro con baalas y sus plantas_36: -7218193868137361331
+      Muro con baalas y sus plantas_4: -6426437566849469141
+      Muro con baalas y sus plantas_5: 6302294495076205841
+      Muro con baalas y sus plantas_6: 7336294403301275721
+      Muro con baalas y sus plantas_7: 2592565838439213369
+      Muro con baalas y sus plantas_8: -7492344637175317282
+      Muro con baalas y sus plantas_9: -1815053282860370658
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

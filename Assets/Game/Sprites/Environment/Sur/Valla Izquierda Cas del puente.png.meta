@@ -1,0 +1,793 @@
+fileFormatVersion: 2
+guid: 5d289e7a6ff00dc44866062627aaba0e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2515060731535270451
+    second: Valla Izquierda Cas del puente_0
+  - first:
+      213: -8176109448904591163
+    second: Valla Izquierda Cas del puente_1
+  - first:
+      213: -3198961049596059921
+    second: Valla Izquierda Cas del puente_2
+  - first:
+      213: 7615026768636815757
+    second: Valla Izquierda Cas del puente_3
+  - first:
+      213: -5507813425947834862
+    second: Valla Izquierda Cas del puente_4
+  - first:
+      213: 307595671083078183
+    second: Valla Izquierda Cas del puente_5
+  - first:
+      213: -5115964972626316845
+    second: Valla Izquierda Cas del puente_6
+  - first:
+      213: -2810959635043951156
+    second: Valla Izquierda Cas del puente_7
+  - first:
+      213: 9049671924307428469
+    second: Valla Izquierda Cas del puente_8
+  - first:
+      213: 1495593609272799208
+    second: Valla Izquierda Cas del puente_9
+  - first:
+      213: 7057829969148272177
+    second: Valla Izquierda Cas del puente_10
+  - first:
+      213: 3380739326290872995
+    second: Valla Izquierda Cas del puente_11
+  - first:
+      213: 454792520929586921
+    second: Valla Izquierda Cas del puente_12
+  - first:
+      213: -690279135034039443
+    second: Valla Izquierda Cas del puente_13
+  - first:
+      213: 3268171329370023359
+    second: Valla Izquierda Cas del puente_14
+  - first:
+      213: -6716555312329199409
+    second: Valla Izquierda Cas del puente_15
+  - first:
+      213: -1391788562144328053
+    second: Valla Izquierda Cas del puente_16
+  - first:
+      213: 1473623979550459174
+    second: Valla Izquierda Cas del puente_17
+  - first:
+      213: -6719537844698438882
+    second: Valla Izquierda Cas del puente_18
+  - first:
+      213: -1700158794878450066
+    second: Valla Izquierda Cas del puente_19
+  - first:
+      213: 2179820973187893887
+    second: Valla Izquierda Cas del puente_20
+  - first:
+      213: 5395522035132734833
+    second: Valla Izquierda Cas del puente_21
+  - first:
+      213: -3648406296817246376
+    second: Valla Izquierda Cas del puente_22
+  - first:
+      213: 180085298824848540
+    second: Valla Izquierda Cas del puente_23
+  - first:
+      213: -360805027998446112
+    second: Valla Izquierda Cas del puente_24
+  - first:
+      213: 5482575345277995036
+    second: Valla Izquierda Cas del puente_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 159
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Valla Izquierda Cas del puente_0
+      rect:
+        serializedVersion: 2
+        x: 2996
+        y: 3220
+        width: 2235
+        height: 1934
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 332a1b3f86a47e220800000000000000
+      internalID: 2515060731535270451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla Izquierda Cas del puente_1
+      rect:
+        serializedVersion: 2
+        x: 3112
+        y: 5125
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8b35d66cf988e80800000000000000
+      internalID: -8176109448904591163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla Izquierda Cas del puente_2
+      rect:
+        serializedVersion: 2
+        x: 3131
+        y: 5117
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee148ccfd10b93d0800000000000000
+      internalID: -3198961049596059921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla Izquierda Cas del puente_3
+      rect:
+        serializedVersion: 2
+        x: 3176
+        y: 5089
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8920bbff720ea960800000000000000
+      internalID: 7615026768636815757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla Izquierda Cas del puente_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2039
+        width: 1486
+        height: 1521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2168049eed05093b0800000000000000
+      internalID: -5507813425947834862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla Izquierda Cas del puente_5
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 3523
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722da5512acc44400800000000000000
+      internalID: 307595671083078183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla Izquierda Cas del puente_6
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 3531
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1744386f07009b0800000000000000
+      internalID: -5115964972626316845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla Izquierda Cas del puente_7
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 3495
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd5e33ea177df8d0800000000000000
+      internalID: -2810959635043951156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla Izquierda Cas del puente_8
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 3505
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5748b2efaa4e69d70800000000000000
+      internalID: 9049671924307428469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla Izquierda Cas del puente_9
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 3497
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8efac01b67a61c410800000000000000
+      internalID: 1495593609272799208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla Izquierda Cas del puente_10
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 3469
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e503486f272f160800000000000000
+      internalID: 7057829969148272177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla Izquierda Cas del puente_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2074
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aac2cd518ccaee20800000000000000
+      internalID: 3380739326290872995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla Izquierda Cas del puente_12
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 147
+        width: 4472
+        height: 3301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee2380636fbf4600800000000000000
+      internalID: 454792520929586921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla Izquierda Cas del puente_13
+      rect:
+        serializedVersion: 2
+        x: 5679
+        y: 84
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63ae60b8c2ab66f0800000000000000
+      internalID: -690279135034039443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla Izquierda Cas del puente_14
+      rect:
+        serializedVersion: 2
+        x: 5821
+        y: 81
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb567303280ea5d20800000000000000
+      internalID: 3268171329370023359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla Izquierda Cas del puente_15
+      rect:
+        serializedVersion: 2
+        x: 5862
+        y: 96
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0fa5e77800ac2a0800000000000000
+      internalID: -6716555312329199409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla Izquierda Cas del puente_16
+      rect:
+        serializedVersion: 2
+        x: 5748
+        y: 57
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b868fee3daf5face0800000000000000
+      internalID: -1391788562144328053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla Izquierda Cas del puente_17
+      rect:
+        serializedVersion: 2
+        x: 5795
+        y: 58
+        width: 49
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6254a99a33d537410800000000000000
+      internalID: 1473623979550459174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla Izquierda Cas del puente_18
+      rect:
+        serializedVersion: 2
+        x: 5835
+        y: 32
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13a4ff8ee76fb2a0800000000000000
+      internalID: -6719537844698438882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla Izquierda Cas del puente_19
+      rect:
+        serializedVersion: 2
+        x: 5847
+        y: 78
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6683897592d768e0800000000000000
+      internalID: -1700158794878450066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla Izquierda Cas del puente_20
+      rect:
+        serializedVersion: 2
+        x: 5880
+        y: 54
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a8fcc30a7404e10800000000000000
+      internalID: 2179820973187893887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla Izquierda Cas del puente_21
+      rect:
+        serializedVersion: 2
+        x: 5752
+        y: 53
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d11e944beb0ea40800000000000000
+      internalID: 5395522035132734833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla Izquierda Cas del puente_22
+      rect:
+        serializedVersion: 2
+        x: 5759
+        y: 51
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85fd8e99dc14e5dc0800000000000000
+      internalID: -3648406296817246376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla Izquierda Cas del puente_23
+      rect:
+        serializedVersion: 2
+        x: 5808
+        y: 54
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c94a9b900aacf7200800000000000000
+      internalID: 180085298824848540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla Izquierda Cas del puente_24
+      rect:
+        serializedVersion: 2
+        x: 5880
+        y: 53
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed4af81db92efaf0800000000000000
+      internalID: -360805027998446112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valla Izquierda Cas del puente_25
+      rect:
+        serializedVersion: 2
+        x: 5844
+        y: 28
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c180c958a35061c40800000000000000
+      internalID: 5482575345277995036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Valla Izquierda Cas del puente_0: 2515060731535270451
+      Valla Izquierda Cas del puente_1: -8176109448904591163
+      Valla Izquierda Cas del puente_10: 7057829969148272177
+      Valla Izquierda Cas del puente_11: 3380739326290872995
+      Valla Izquierda Cas del puente_12: 454792520929586921
+      Valla Izquierda Cas del puente_13: -690279135034039443
+      Valla Izquierda Cas del puente_14: 3268171329370023359
+      Valla Izquierda Cas del puente_15: -6716555312329199409
+      Valla Izquierda Cas del puente_16: -1391788562144328053
+      Valla Izquierda Cas del puente_17: 1473623979550459174
+      Valla Izquierda Cas del puente_18: -6719537844698438882
+      Valla Izquierda Cas del puente_19: -1700158794878450066
+      Valla Izquierda Cas del puente_2: -3198961049596059921
+      Valla Izquierda Cas del puente_20: 2179820973187893887
+      Valla Izquierda Cas del puente_21: 5395522035132734833
+      Valla Izquierda Cas del puente_22: -3648406296817246376
+      Valla Izquierda Cas del puente_23: 180085298824848540
+      Valla Izquierda Cas del puente_24: -360805027998446112
+      Valla Izquierda Cas del puente_25: 5482575345277995036
+      Valla Izquierda Cas del puente_3: 7615026768636815757
+      Valla Izquierda Cas del puente_4: -5507813425947834862
+      Valla Izquierda Cas del puente_5: 307595671083078183
+      Valla Izquierda Cas del puente_6: -5115964972626316845
+      Valla Izquierda Cas del puente_7: -2810959635043951156
+      Valla Izquierda Cas del puente_8: 9049671924307428469
+      Valla Izquierda Cas del puente_9: 1495593609272799208
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

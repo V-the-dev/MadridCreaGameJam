@@ -1,0 +1,793 @@
+fileFormatVersion: 2
+guid: 30aa2663fd7bdb845bc8fe93684fe280
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1209838628085913880
+    second: "l\xE1pidas y cruces_0"
+  - first:
+      213: 4859952715286765272
+    second: "l\xE1pidas y cruces_1"
+  - first:
+      213: -1301100466122747070
+    second: "l\xE1pidas y cruces_2"
+  - first:
+      213: 127138120418324389
+    second: "l\xE1pidas y cruces_3"
+  - first:
+      213: 8064373934097182209
+    second: "l\xE1pidas y cruces_4"
+  - first:
+      213: 3159922307987356069
+    second: "l\xE1pidas y cruces_5"
+  - first:
+      213: 5061520097093922164
+    second: "l\xE1pidas y cruces_6"
+  - first:
+      213: 5772949938992122859
+    second: "l\xE1pidas y cruces_7"
+  - first:
+      213: 3456969680556111050
+    second: "l\xE1pidas y cruces_8"
+  - first:
+      213: 3778325538157475946
+    second: "l\xE1pidas y cruces_9"
+  - first:
+      213: 3091652899650409783
+    second: "l\xE1pidas y cruces_10"
+  - first:
+      213: 8530556824606126628
+    second: "l\xE1pidas y cruces_11"
+  - first:
+      213: -2971700523082345396
+    second: "l\xE1pidas y cruces_12"
+  - first:
+      213: -6656133102590769360
+    second: "l\xE1pidas y cruces_13"
+  - first:
+      213: -1185284989304796113
+    second: "l\xE1pidas y cruces_14"
+  - first:
+      213: -8532808371367445967
+    second: "l\xE1pidas y cruces_15"
+  - first:
+      213: -394942942662413032
+    second: "l\xE1pidas y cruces_16"
+  - first:
+      213: -3663872703667929637
+    second: "l\xE1pidas y cruces_17"
+  - first:
+      213: 1134023899857264960
+    second: "l\xE1pidas y cruces_18"
+  - first:
+      213: 3522881595670417085
+    second: "l\xE1pidas y cruces_19"
+  - first:
+      213: -4427564842110893436
+    second: "l\xE1pidas y cruces_20"
+  - first:
+      213: -560303412953446646
+    second: "l\xE1pidas y cruces_21"
+  - first:
+      213: 4665425672246519403
+    second: "l\xE1pidas y cruces_22"
+  - first:
+      213: -5850036611828504795
+    second: "l\xE1pidas y cruces_23"
+  - first:
+      213: 8690030273432488412
+    second: "l\xE1pidas y cruces_24"
+  - first:
+      213: 2785175104553759418
+    second: "l\xE1pidas y cruces_25"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 159
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "l\xE1pidas y cruces_0"
+      rect:
+        serializedVersion: 2
+        x: 2815
+        y: 2394
+        width: 242
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6a4618d2ac53fe0800000000000000
+      internalID: -1209838628085913880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "l\xE1pidas y cruces_1"
+      rect:
+        serializedVersion: 2
+        x: 3557
+        y: 1973
+        width: 300
+        height: 599
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dedcd3de35027340800000000000000
+      internalID: 4859952715286765272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "l\xE1pidas y cruces_2"
+      rect:
+        serializedVersion: 2
+        x: 3960
+        y: 2211
+        width: 267
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24398a3050091fde0800000000000000
+      internalID: -1301100466122747070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "l\xE1pidas y cruces_3"
+      rect:
+        serializedVersion: 2
+        x: 4257
+        y: 2473
+        width: 294
+        height: 521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5afe1f8627fa3c100800000000000000
+      internalID: 127138120418324389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "l\xE1pidas y cruces_4"
+      rect:
+        serializedVersion: 2
+        x: 4350
+        y: 2453
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e28cdbd596aef60800000000000000
+      internalID: 8064373934097182209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "l\xE1pidas y cruces_5"
+      rect:
+        serializedVersion: 2
+        x: 2728
+        y: 2242
+        width: 94
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a93b6dd89c4adb20800000000000000
+      internalID: 3159922307987356069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "l\xE1pidas y cruces_6"
+      rect:
+        serializedVersion: 2
+        x: 2194
+        y: 2014
+        width: 82
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47da8c216b12e3640800000000000000
+      internalID: 5061520097093922164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "l\xE1pidas y cruces_7"
+      rect:
+        serializedVersion: 2
+        x: 2274
+        y: 1562
+        width: 224
+        height: 634
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb0db31263ad1050800000000000000
+      internalID: 5772949938992122859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "l\xE1pidas y cruces_8"
+      rect:
+        serializedVersion: 2
+        x: 4602
+        y: 1777
+        width: 284
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac4b7d0db9f99ff20800000000000000
+      internalID: 3456969680556111050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "l\xE1pidas y cruces_9"
+      rect:
+        serializedVersion: 2
+        x: 3684
+        y: 1928
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68b9abfe0f4f6430800000000000000
+      internalID: 3778325538157475946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "l\xE1pidas y cruces_10"
+      rect:
+        serializedVersion: 2
+        x: 3714
+        y: 1966
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73518749ee1c7ea20800000000000000
+      internalID: 3091652899650409783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "l\xE1pidas y cruces_11"
+      rect:
+        serializedVersion: 2
+        x: 3686
+        y: 1948
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 422bee23c30a26670800000000000000
+      internalID: 8530556824606126628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "l\xE1pidas y cruces_12"
+      rect:
+        serializedVersion: 2
+        x: 2494
+        y: 1852
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4495d67e1662c6d0800000000000000
+      internalID: -2971700523082345396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "l\xE1pidas y cruces_13"
+      rect:
+        serializedVersion: 2
+        x: 2535
+        y: 1758
+        width: 87
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 037cb5a753aa0a3a0800000000000000
+      internalID: -6656133102590769360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "l\xE1pidas y cruces_14"
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 1297
+        width: 285
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c82e605950d8fe0800000000000000
+      internalID: -1185284989304796113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "l\xE1pidas y cruces_15"
+      rect:
+        serializedVersion: 2
+        x: 4749
+        y: 1752
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13af928beff559980800000000000000
+      internalID: -8532808371367445967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "l\xE1pidas y cruces_16"
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1112
+        width: 224
+        height: 634
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8153f047c71e48af0800000000000000
+      internalID: -394942942662413032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "l\xE1pidas y cruces_17"
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 1244
+        width: 321
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd7f93203f472dc0800000000000000
+      internalID: -3663872703667929637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "l\xE1pidas y cruces_18"
+      rect:
+        serializedVersion: 2
+        x: 4742
+        y: 1723
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041abc58abcdcbf00800000000000000
+      internalID: 1134023899857264960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "l\xE1pidas y cruces_19"
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 1202
+        width: 52
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe42bf652ac3e030800000000000000
+      internalID: 3522881595670417085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "l\xE1pidas y cruces_20"
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 1268
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482c8fdfb312e82c0800000000000000
+      internalID: -4427564842110893436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "l\xE1pidas y cruces_21"
+      rect:
+        serializedVersion: 2
+        x: 2248
+        y: 871
+        width: 300
+        height: 624
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a078878b3076938f0800000000000000
+      internalID: -560303412953446646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "l\xE1pidas y cruces_22"
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 549
+        width: 321
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66ed303eebeeb040800000000000000
+      internalID: 4665425672246519403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "l\xE1pidas y cruces_23"
+      rect:
+        serializedVersion: 2
+        x: 2382
+        y: 851
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527aee442be70dea0800000000000000
+      internalID: -5850036611828504795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "l\xE1pidas y cruces_24"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 45
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9855fed70399870800000000000000
+      internalID: 8690030273432488412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "l\xE1pidas y cruces_25"
+      rect:
+        serializedVersion: 2
+        x: 2462
+        y: 0
+        width: 224
+        height: 639
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab23038400ee6a620800000000000000
+      internalID: 2785175104553759418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "l\xE1pidas y cruces_0": -1209838628085913880
+      "l\xE1pidas y cruces_1": 4859952715286765272
+      "l\xE1pidas y cruces_10": 3091652899650409783
+      "l\xE1pidas y cruces_11": 8530556824606126628
+      "l\xE1pidas y cruces_12": -2971700523082345396
+      "l\xE1pidas y cruces_13": -6656133102590769360
+      "l\xE1pidas y cruces_14": -1185284989304796113
+      "l\xE1pidas y cruces_15": -8532808371367445967
+      "l\xE1pidas y cruces_16": -394942942662413032
+      "l\xE1pidas y cruces_17": -3663872703667929637
+      "l\xE1pidas y cruces_18": 1134023899857264960
+      "l\xE1pidas y cruces_19": 3522881595670417085
+      "l\xE1pidas y cruces_2": -1301100466122747070
+      "l\xE1pidas y cruces_20": -4427564842110893436
+      "l\xE1pidas y cruces_21": -560303412953446646
+      "l\xE1pidas y cruces_22": 4665425672246519403
+      "l\xE1pidas y cruces_23": -5850036611828504795
+      "l\xE1pidas y cruces_24": 8690030273432488412
+      "l\xE1pidas y cruces_25": 2785175104553759418
+      "l\xE1pidas y cruces_3": 127138120418324389
+      "l\xE1pidas y cruces_4": 8064373934097182209
+      "l\xE1pidas y cruces_5": 3159922307987356069
+      "l\xE1pidas y cruces_6": 5061520097093922164
+      "l\xE1pidas y cruces_7": 5772949938992122859
+      "l\xE1pidas y cruces_8": 3456969680556111050
+      "l\xE1pidas y cruces_9": 3778325538157475946
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

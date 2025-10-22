@@ -1,0 +1,1989 @@
+fileFormatVersion: 2
+guid: 4d3e90110e772254fbd49e6ac0283707
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7841576394217656002
+    second: "Casas detr\xE1s iglesia_0"
+  - first:
+      213: -8122840921974665677
+    second: "Casas detr\xE1s iglesia_1"
+  - first:
+      213: -6159328566494456785
+    second: "Casas detr\xE1s iglesia_2"
+  - first:
+      213: 988200946092753000
+    second: "Casas detr\xE1s iglesia_3"
+  - first:
+      213: 8934003631986143609
+    second: "Casas detr\xE1s iglesia_4"
+  - first:
+      213: -8878363017563843735
+    second: "Casas detr\xE1s iglesia_5"
+  - first:
+      213: 2400059945584407092
+    second: "Casas detr\xE1s iglesia_6"
+  - first:
+      213: 7625565075389476199
+    second: "Casas detr\xE1s iglesia_7"
+  - first:
+      213: 6447143246899340935
+    second: "Casas detr\xE1s iglesia_8"
+  - first:
+      213: -4666011275590879697
+    second: "Casas detr\xE1s iglesia_9"
+  - first:
+      213: -1025265712674041428
+    second: "Casas detr\xE1s iglesia_10"
+  - first:
+      213: -5590894227185489779
+    second: "Casas detr\xE1s iglesia_11"
+  - first:
+      213: -2517853858595142607
+    second: "Casas detr\xE1s iglesia_12"
+  - first:
+      213: 4197733642261996189
+    second: "Casas detr\xE1s iglesia_13"
+  - first:
+      213: -887020907939679440
+    second: "Casas detr\xE1s iglesia_14"
+  - first:
+      213: -8027905410659404050
+    second: "Casas detr\xE1s iglesia_15"
+  - first:
+      213: -5412518849597439906
+    second: "Casas detr\xE1s iglesia_16"
+  - first:
+      213: -6657178021527186725
+    second: "Casas detr\xE1s iglesia_17"
+  - first:
+      213: -39831408068592325
+    second: "Casas detr\xE1s iglesia_18"
+  - first:
+      213: 3183561845901658277
+    second: "Casas detr\xE1s iglesia_19"
+  - first:
+      213: -2813925268188519893
+    second: "Casas detr\xE1s iglesia_20"
+  - first:
+      213: -8067758970055475169
+    second: "Casas detr\xE1s iglesia_21"
+  - first:
+      213: 3237379362066181427
+    second: "Casas detr\xE1s iglesia_22"
+  - first:
+      213: -3050788919451861979
+    second: "Casas detr\xE1s iglesia_23"
+  - first:
+      213: -5430691228990982108
+    second: "Casas detr\xE1s iglesia_24"
+  - first:
+      213: 3021876578646227491
+    second: "Casas detr\xE1s iglesia_25"
+  - first:
+      213: 5805086896154720792
+    second: "Casas detr\xE1s iglesia_26"
+  - first:
+      213: -5911791055938514664
+    second: "Casas detr\xE1s iglesia_27"
+  - first:
+      213: 5424095778868625749
+    second: "Casas detr\xE1s iglesia_28"
+  - first:
+      213: 117078160008213163
+    second: "Casas detr\xE1s iglesia_29"
+  - first:
+      213: -6008988506105214542
+    second: "Casas detr\xE1s iglesia_30"
+  - first:
+      213: 3107451986758094079
+    second: "Casas detr\xE1s iglesia_31"
+  - first:
+      213: 4102916390530765765
+    second: "Casas detr\xE1s iglesia_32"
+  - first:
+      213: -3921938198841956251
+    second: "Casas detr\xE1s iglesia_33"
+  - first:
+      213: 878207942586078033
+    second: "Casas detr\xE1s iglesia_34"
+  - first:
+      213: 5010805560482774965
+    second: "Casas detr\xE1s iglesia_35"
+  - first:
+      213: -1974337979120362515
+    second: "Casas detr\xE1s iglesia_36"
+  - first:
+      213: -4695403347982988648
+    second: "Casas detr\xE1s iglesia_37"
+  - first:
+      213: 4095854234924623218
+    second: "Casas detr\xE1s iglesia_38"
+  - first:
+      213: -2649120666353330844
+    second: "Casas detr\xE1s iglesia_39"
+  - first:
+      213: 6101073058002098231
+    second: "Casas detr\xE1s iglesia_40"
+  - first:
+      213: 2139485051588710487
+    second: "Casas detr\xE1s iglesia_41"
+  - first:
+      213: 137722429580722225
+    second: "Casas detr\xE1s iglesia_42"
+  - first:
+      213: 5911661003450061549
+    second: "Casas detr\xE1s iglesia_43"
+  - first:
+      213: -1530658443269236657
+    second: "Casas detr\xE1s iglesia_44"
+  - first:
+      213: -6195054626859926903
+    second: "Casas detr\xE1s iglesia_45"
+  - first:
+      213: -3823466309266544233
+    second: "Casas detr\xE1s iglesia_46"
+  - first:
+      213: 8902115215445931983
+    second: "Casas detr\xE1s iglesia_47"
+  - first:
+      213: 120530748092137488
+    second: "Casas detr\xE1s iglesia_48"
+  - first:
+      213: 7312441467626665370
+    second: "Casas detr\xE1s iglesia_49"
+  - first:
+      213: 9206714934114060093
+    second: "Casas detr\xE1s iglesia_50"
+  - first:
+      213: 2579329206371738921
+    second: "Casas detr\xE1s iglesia_51"
+  - first:
+      213: 3089694806982788688
+    second: "Casas detr\xE1s iglesia_52"
+  - first:
+      213: -3013675168177281029
+    second: "Casas detr\xE1s iglesia_53"
+  - first:
+      213: -8850383988554398614
+    second: "Casas detr\xE1s iglesia_54"
+  - first:
+      213: 1372364267927021473
+    second: "Casas detr\xE1s iglesia_55"
+  - first:
+      213: 605669265742613970
+    second: "Casas detr\xE1s iglesia_56"
+  - first:
+      213: -1025003388215197746
+    second: "Casas detr\xE1s iglesia_57"
+  - first:
+      213: 3409688775137802427
+    second: "Casas detr\xE1s iglesia_58"
+  - first:
+      213: 8121603067189555722
+    second: "Casas detr\xE1s iglesia_59"
+  - first:
+      213: 4265197009121994479
+    second: "Casas detr\xE1s iglesia_60"
+  - first:
+      213: 9029276426068907902
+    second: "Casas detr\xE1s iglesia_61"
+  - first:
+      213: 4376863050009190596
+    second: "Casas detr\xE1s iglesia_62"
+  - first:
+      213: -5393109803184425858
+    second: "Casas detr\xE1s iglesia_63"
+  - first:
+      213: -9215853015248523248
+    second: "Casas detr\xE1s iglesia_64"
+  - first:
+      213: -5759225035861460403
+    second: "Casas detr\xE1s iglesia_65"
+  - first:
+      213: -694049862386005137
+    second: "Casas detr\xE1s iglesia_66"
+  - first:
+      213: -4288943319052595469
+    second: "Casas detr\xE1s iglesia_67"
+  - first:
+      213: -5178212835590826846
+    second: "Casas detr\xE1s iglesia_68"
+  - first:
+      213: 5906267944893128015
+    second: "Casas detr\xE1s iglesia_69"
+  - first:
+      213: -3615998293962815995
+    second: "Casas detr\xE1s iglesia_70"
+  - first:
+      213: 1301135934721164607
+    second: "Casas detr\xE1s iglesia_71"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 159
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Casas detr\xE1s iglesia_0"
+      rect:
+        serializedVersion: 2
+        x: 4206
+        y: 8297
+        width: 37
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e31719fd0df1d2390800000000000000
+      internalID: -7841576394217656002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Casas detr\xE1s iglesia_1"
+      rect:
+        serializedVersion: 2
+        x: 4290
+        y: 6644
+        width: 2472
+        height: 915
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e81b6d73fd54f80800000000000000
+      internalID: -8122840921974665677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Casas detr\xE1s iglesia_2"
+      rect:
+        serializedVersion: 2
+        x: 6151
+        y: 6243
+        width: 611
+        height: 1127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f249e236d4ba58aa0800000000000000
+      internalID: -6159328566494456785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Casas detr\xE1s iglesia_3"
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 4429
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8604096568bc6bd00800000000000000
+      internalID: 988200946092753000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Casas detr\xE1s iglesia_4"
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 4453
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971759a08f4fbfb70800000000000000
+      internalID: 8934003631986143609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Casas detr\xE1s iglesia_5"
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 4474
+        width: 54
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 963542700e7b9c480800000000000000
+      internalID: -8878363017563843735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Casas detr\xE1s iglesia_6"
+      rect:
+        serializedVersion: 2
+        x: 3296
+        y: 0
+        width: 3466
+        height: 6228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 432b330fdc9be4120800000000000000
+      internalID: 2400059945584407092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Casas detr\xE1s iglesia_7"
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 4403
+        width: 95
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76de63ab80373d960800000000000000
+      internalID: 7625565075389476199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Casas detr\xE1s iglesia_8"
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 4393
+        width: 13
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7866e77ef9ad87950800000000000000
+      internalID: 6447143246899340935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Casas detr\xE1s iglesia_9"
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 4277
+        width: 75
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f263078677ffe3fb0800000000000000
+      internalID: -4666011275590879697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Casas detr\xE1s iglesia_10"
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 4383
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca11da3344685c1f0800000000000000
+      internalID: -1025265712674041428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Casas detr\xE1s iglesia_11"
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 4380
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88a3db72572962b0800000000000000
+      internalID: -5590894227185489779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Casas detr\xE1s iglesia_12"
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 4374
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134071a7149ce0dd0800000000000000
+      internalID: -2517853858595142607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Casas detr\xE1s iglesia_13"
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 4368
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d92abb0d188514a30800000000000000
+      internalID: 4197733642261996189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Casas detr\xE1s iglesia_14"
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 4363
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03339e11f2ba0b3f0800000000000000
+      internalID: -887020907939679440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Casas detr\xE1s iglesia_15"
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 4365
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6b53b0096279090800000000000000
+      internalID: -8027905410659404050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Casas detr\xE1s iglesia_16"
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 4346
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5083a578ced2e4b0800000000000000
+      internalID: -5412518849597439906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Casas detr\xE1s iglesia_17"
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 4339
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd295545cd3fc93a0800000000000000
+      internalID: -6657178021527186725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Casas detr\xE1s iglesia_18"
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 4342
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3dfa2f9b8d727ff0800000000000000
+      internalID: -39831408068592325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Casas detr\xE1s iglesia_19"
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 4326
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a88471b1a84e2c20800000000000000
+      internalID: 3183561845901658277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Casas detr\xE1s iglesia_20"
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 4357
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b22a02d90ede2f8d0800000000000000
+      internalID: -2813925268188519893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Casas detr\xE1s iglesia_21"
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 4348
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f104f5826ff890090800000000000000
+      internalID: -8067758970055475169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Casas detr\xE1s iglesia_22"
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 4335
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33da22f906b7dec20800000000000000
+      internalID: 3237379362066181427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Casas detr\xE1s iglesia_23"
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 4344
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52cbf5b34ab69a5d0800000000000000
+      internalID: -3050788919451861979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Casas detr\xE1s iglesia_24"
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 4349
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428b92ba91f42a4b0800000000000000
+      internalID: -5430691228990982108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Casas detr\xE1s iglesia_25"
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 4322
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32af749dcbcdfe920800000000000000
+      internalID: 3021876578646227491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Casas detr\xE1s iglesia_26"
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 4295
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ab39f76cfcf8050800000000000000
+      internalID: 5805086896154720792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Casas detr\xE1s iglesia_27"
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 4274
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811147c4b5915fda0800000000000000
+      internalID: -5911791055938514664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Casas detr\xE1s iglesia_28"
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 4281
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 551092f6f52464b40800000000000000
+      internalID: 5424095778868625749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Casas detr\xE1s iglesia_29"
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 4254
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2fe3a57f1ff9100800000000000000
+      internalID: 117078160008213163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Casas detr\xE1s iglesia_30"
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 4269
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b9813a6ac8cb9ca0800000000000000
+      internalID: -6008988506105214542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Casas detr\xE1s iglesia_31"
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 4210
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc4c433e13ef1b20800000000000000
+      internalID: 3107451986758094079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Casas detr\xE1s iglesia_32"
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 4188
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c3d6b018bc70f830800000000000000
+      internalID: 4102916390530765765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Casas detr\xE1s iglesia_33"
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 4220
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5686dfaccf97299c0800000000000000
+      internalID: -3921938198841956251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Casas detr\xE1s iglesia_34"
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 4218
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15315c88875003c00800000000000000
+      internalID: 878207942586078033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Casas detr\xE1s iglesia_35"
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 4226
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bfb02fdb15f98540800000000000000
+      internalID: 5010805560482774965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Casas detr\xE1s iglesia_36"
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 4183
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: debd7f7811eb994e0800000000000000
+      internalID: -1974337979120362515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Casas detr\xE1s iglesia_37"
+      rect:
+        serializedVersion: 2
+        x: 2301
+        y: 3943
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a4b46488396deb0800000000000000
+      internalID: -4695403347982988648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Casas detr\xE1s iglesia_38"
+      rect:
+        serializedVersion: 2
+        x: 2355
+        y: 3967
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2752674d9b567d830800000000000000
+      internalID: 4095854234924623218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Casas detr\xE1s iglesia_39"
+      rect:
+        serializedVersion: 2
+        x: 2361
+        y: 3988
+        width: 54
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4651dd22ace6c3bd0800000000000000
+      internalID: -2649120666353330844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Casas detr\xE1s iglesia_40"
+      rect:
+        serializedVersion: 2
+        x: 2330
+        y: 3917
+        width: 95
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738dbe21f9d5ba450800000000000000
+      internalID: 6101073058002098231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Casas detr\xE1s iglesia_41"
+      rect:
+        serializedVersion: 2
+        x: 2423
+        y: 3907
+        width: 13
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7501436a15af0bd10800000000000000
+      internalID: 2139485051588710487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Casas detr\xE1s iglesia_42"
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 3791
+        width: 75
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13043cce1d949e100800000000000000
+      internalID: 137722429580722225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Casas detr\xE1s iglesia_43"
+      rect:
+        serializedVersion: 2
+        x: 2367
+        y: 3897
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de29b2f7c507a0250800000000000000
+      internalID: 5911661003450061549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Casas detr\xE1s iglesia_44"
+      rect:
+        serializedVersion: 2
+        x: 2377
+        y: 3894
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f481c70714202cae0800000000000000
+      internalID: -1530658443269236657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Casas detr\xE1s iglesia_45"
+      rect:
+        serializedVersion: 2
+        x: 2411
+        y: 3888
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98abfd1c3aeb60aa0800000000000000
+      internalID: -6195054626859926903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Casas detr\xE1s iglesia_46"
+      rect:
+        serializedVersion: 2
+        x: 2355
+        y: 3882
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7996e7936a150fac0800000000000000
+      internalID: -3823466309266544233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Casas detr\xE1s iglesia_47"
+      rect:
+        serializedVersion: 2
+        x: 2355
+        y: 3877
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc7314e7f9aaa8b70800000000000000
+      internalID: 8902115215445931983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Casas detr\xE1s iglesia_48"
+      rect:
+        serializedVersion: 2
+        x: 2364
+        y: 3879
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0104b88a3163ca100800000000000000
+      internalID: 120530748092137488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Casas detr\xE1s iglesia_49"
+      rect:
+        serializedVersion: 2
+        x: 2365
+        y: 3860
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9539b695c20b7560800000000000000
+      internalID: 7312441467626665370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Casas detr\xE1s iglesia_50"
+      rect:
+        serializedVersion: 2
+        x: 2369
+        y: 3853
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37072c0472d4cf70800000000000000
+      internalID: 9206714934114060093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Casas detr\xE1s iglesia_51"
+      rect:
+        serializedVersion: 2
+        x: 2372
+        y: 3856
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925e3905f3e9bc320800000000000000
+      internalID: 2579329206371738921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Casas detr\xE1s iglesia_52"
+      rect:
+        serializedVersion: 2
+        x: 2387
+        y: 3840
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056049a9e0dc0ea20800000000000000
+      internalID: 3089694806982788688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Casas detr\xE1s iglesia_53"
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 3871
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf7a064d6664d26d0800000000000000
+      internalID: -3013675168177281029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Casas detr\xE1s iglesia_54"
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 3862
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64096c57ae1d2580800000000000000
+      internalID: -8850383988554398614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Casas detr\xE1s iglesia_55"
+      rect:
+        serializedVersion: 2
+        x: 2418
+        y: 3849
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7aa34d70e9b0310800000000000000
+      internalID: 1372364267927021473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Casas detr\xE1s iglesia_56"
+      rect:
+        serializedVersion: 2
+        x: 2462
+        y: 3858
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ddc5fbfcf4c76800800000000000000
+      internalID: 605669265742613970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Casas detr\xE1s iglesia_57"
+      rect:
+        serializedVersion: 2
+        x: 2477
+        y: 3863
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf7cdf59d476c1f0800000000000000
+      internalID: -1025003388215197746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Casas detr\xE1s iglesia_58"
+      rect:
+        serializedVersion: 2
+        x: 2420
+        y: 3836
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8b9bc20e5a15f20800000000000000
+      internalID: 3409688775137802427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Casas detr\xE1s iglesia_59"
+      rect:
+        serializedVersion: 2
+        x: 2407
+        y: 3809
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a027e82a5fab5b070800000000000000
+      internalID: 8121603067189555722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Casas detr\xE1s iglesia_60"
+      rect:
+        serializedVersion: 2
+        x: 2419
+        y: 3788
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe666c1f416013b30800000000000000
+      internalID: 4265197009121994479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Casas detr\xE1s iglesia_61"
+      rect:
+        serializedVersion: 2
+        x: 2431
+        y: 3795
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7755a2021f6e4d70800000000000000
+      internalID: 9029276426068907902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Casas detr\xE1s iglesia_62"
+      rect:
+        serializedVersion: 2
+        x: 2428
+        y: 3768
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0a45e11cdbdbc30800000000000000
+      internalID: 4376863050009190596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Casas detr\xE1s iglesia_63"
+      rect:
+        serializedVersion: 2
+        x: 2431
+        y: 3783
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74f38a3533d725b0800000000000000
+      internalID: -5393109803184425858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Casas detr\xE1s iglesia_64"
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 3724
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01036e3a286ba1080800000000000000
+      internalID: -9215853015248523248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Casas detr\xE1s iglesia_65"
+      rect:
+        serializedVersion: 2
+        x: 2477
+        y: 3702
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4af0f3f75f1310b0800000000000000
+      internalID: -5759225035861460403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Casas detr\xE1s iglesia_66"
+      rect:
+        serializedVersion: 2
+        x: 2479
+        y: 3734
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6bc210d35d3e56f0800000000000000
+      internalID: -694049862386005137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Casas detr\xE1s iglesia_67"
+      rect:
+        serializedVersion: 2
+        x: 2481
+        y: 3732
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fec51e66cc9a74c0800000000000000
+      internalID: -4288943319052595469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Casas detr\xE1s iglesia_68"
+      rect:
+        serializedVersion: 2
+        x: 2521
+        y: 3740
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a49d338cda4328b0800000000000000
+      internalID: -5178212835590826846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Casas detr\xE1s iglesia_69"
+      rect:
+        serializedVersion: 2
+        x: 2495
+        y: 3697
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d91a3376747f150800000000000000
+      internalID: 5906267944893128015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Casas detr\xE1s iglesia_70"
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 2593
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5068de3c5b461ddc0800000000000000
+      internalID: -3615998293962815995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Casas detr\xE1s iglesia_71"
+      rect:
+        serializedVersion: 2
+        x: 2498
+        y: 2107
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f350d892d309e0210800000000000000
+      internalID: 1301135934721164607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Casas detr\xE1s iglesia_0": -7841576394217656002
+      "Casas detr\xE1s iglesia_1": -8122840921974665677
+      "Casas detr\xE1s iglesia_10": -1025265712674041428
+      "Casas detr\xE1s iglesia_11": -5590894227185489779
+      "Casas detr\xE1s iglesia_12": -2517853858595142607
+      "Casas detr\xE1s iglesia_13": 4197733642261996189
+      "Casas detr\xE1s iglesia_14": -887020907939679440
+      "Casas detr\xE1s iglesia_15": -8027905410659404050
+      "Casas detr\xE1s iglesia_16": -5412518849597439906
+      "Casas detr\xE1s iglesia_17": -6657178021527186725
+      "Casas detr\xE1s iglesia_18": -39831408068592325
+      "Casas detr\xE1s iglesia_19": 3183561845901658277
+      "Casas detr\xE1s iglesia_2": -6159328566494456785
+      "Casas detr\xE1s iglesia_20": -2813925268188519893
+      "Casas detr\xE1s iglesia_21": -8067758970055475169
+      "Casas detr\xE1s iglesia_22": 3237379362066181427
+      "Casas detr\xE1s iglesia_23": -3050788919451861979
+      "Casas detr\xE1s iglesia_24": -5430691228990982108
+      "Casas detr\xE1s iglesia_25": 3021876578646227491
+      "Casas detr\xE1s iglesia_26": 5805086896154720792
+      "Casas detr\xE1s iglesia_27": -5911791055938514664
+      "Casas detr\xE1s iglesia_28": 5424095778868625749
+      "Casas detr\xE1s iglesia_29": 117078160008213163
+      "Casas detr\xE1s iglesia_3": 988200946092753000
+      "Casas detr\xE1s iglesia_30": -6008988506105214542
+      "Casas detr\xE1s iglesia_31": 3107451986758094079
+      "Casas detr\xE1s iglesia_32": 4102916390530765765
+      "Casas detr\xE1s iglesia_33": -3921938198841956251
+      "Casas detr\xE1s iglesia_34": 878207942586078033
+      "Casas detr\xE1s iglesia_35": 5010805560482774965
+      "Casas detr\xE1s iglesia_36": -1974337979120362515
+      "Casas detr\xE1s iglesia_37": -4695403347982988648
+      "Casas detr\xE1s iglesia_38": 4095854234924623218
+      "Casas detr\xE1s iglesia_39": -2649120666353330844
+      "Casas detr\xE1s iglesia_4": 8934003631986143609
+      "Casas detr\xE1s iglesia_40": 6101073058002098231
+      "Casas detr\xE1s iglesia_41": 2139485051588710487
+      "Casas detr\xE1s iglesia_42": 137722429580722225
+      "Casas detr\xE1s iglesia_43": 5911661003450061549
+      "Casas detr\xE1s iglesia_44": -1530658443269236657
+      "Casas detr\xE1s iglesia_45": -6195054626859926903
+      "Casas detr\xE1s iglesia_46": -3823466309266544233
+      "Casas detr\xE1s iglesia_47": 8902115215445931983
+      "Casas detr\xE1s iglesia_48": 120530748092137488
+      "Casas detr\xE1s iglesia_49": 7312441467626665370
+      "Casas detr\xE1s iglesia_5": -8878363017563843735
+      "Casas detr\xE1s iglesia_50": 9206714934114060093
+      "Casas detr\xE1s iglesia_51": 2579329206371738921
+      "Casas detr\xE1s iglesia_52": 3089694806982788688
+      "Casas detr\xE1s iglesia_53": -3013675168177281029
+      "Casas detr\xE1s iglesia_54": -8850383988554398614
+      "Casas detr\xE1s iglesia_55": 1372364267927021473
+      "Casas detr\xE1s iglesia_56": 605669265742613970
+      "Casas detr\xE1s iglesia_57": -1025003388215197746
+      "Casas detr\xE1s iglesia_58": 3409688775137802427
+      "Casas detr\xE1s iglesia_59": 8121603067189555722
+      "Casas detr\xE1s iglesia_6": 2400059945584407092
+      "Casas detr\xE1s iglesia_60": 4265197009121994479
+      "Casas detr\xE1s iglesia_61": 9029276426068907902
+      "Casas detr\xE1s iglesia_62": 4376863050009190596
+      "Casas detr\xE1s iglesia_63": -5393109803184425858
+      "Casas detr\xE1s iglesia_64": -9215853015248523248
+      "Casas detr\xE1s iglesia_65": -5759225035861460403
+      "Casas detr\xE1s iglesia_66": -694049862386005137
+      "Casas detr\xE1s iglesia_67": -4288943319052595469
+      "Casas detr\xE1s iglesia_68": -5178212835590826846
+      "Casas detr\xE1s iglesia_69": 5906267944893128015
+      "Casas detr\xE1s iglesia_7": 7625565075389476199
+      "Casas detr\xE1s iglesia_70": -3615998293962815995
+      "Casas detr\xE1s iglesia_71": 1301135934721164607
+      "Casas detr\xE1s iglesia_8": 6447143246899340935
+      "Casas detr\xE1s iglesia_9": -4666011275590879697
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

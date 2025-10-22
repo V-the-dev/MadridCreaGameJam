@@ -1,0 +1,1989 @@
+fileFormatVersion: 2
+guid: c1332aa2d18785246a779119f9e6faf0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2719912255798355724
+    second: Edificio Juegos de Azar Superior__0
+  - first:
+      213: -2074141236135589476
+    second: Edificio Juegos de Azar Superior__1
+  - first:
+      213: 6798219854485218102
+    second: Edificio Juegos de Azar Superior__2
+  - first:
+      213: -2550750463072202599
+    second: Edificio Juegos de Azar Superior__3
+  - first:
+      213: -396138443198831636
+    second: Edificio Juegos de Azar Superior__4
+  - first:
+      213: 6511889743815694244
+    second: Edificio Juegos de Azar Superior__5
+  - first:
+      213: -672889624570019812
+    second: Edificio Juegos de Azar Superior__6
+  - first:
+      213: 6698587361422637036
+    second: Edificio Juegos de Azar Superior__7
+  - first:
+      213: -5043026442272355938
+    second: Edificio Juegos de Azar Superior__8
+  - first:
+      213: -3019633757790891621
+    second: Edificio Juegos de Azar Superior__9
+  - first:
+      213: -6149171308176869434
+    second: Edificio Juegos de Azar Superior__10
+  - first:
+      213: -6597866496432356612
+    second: Edificio Juegos de Azar Superior__11
+  - first:
+      213: 8493442521771320536
+    second: Edificio Juegos de Azar Superior__12
+  - first:
+      213: 3724694952457363896
+    second: Edificio Juegos de Azar Superior__13
+  - first:
+      213: -686600223545966503
+    second: Edificio Juegos de Azar Superior__14
+  - first:
+      213: 2506520005849578861
+    second: Edificio Juegos de Azar Superior__15
+  - first:
+      213: 4141700824631688884
+    second: Edificio Juegos de Azar Superior__16
+  - first:
+      213: 1966436999873691411
+    second: Edificio Juegos de Azar Superior__17
+  - first:
+      213: -3097704620798936479
+    second: Edificio Juegos de Azar Superior__18
+  - first:
+      213: -8484581385387199771
+    second: Edificio Juegos de Azar Superior__19
+  - first:
+      213: -1128089051557918294
+    second: Edificio Juegos de Azar Superior__20
+  - first:
+      213: -3893891301803591593
+    second: Edificio Juegos de Azar Superior__21
+  - first:
+      213: -3366235000851177144
+    second: Edificio Juegos de Azar Superior__22
+  - first:
+      213: -8153670574336765439
+    second: Edificio Juegos de Azar Superior__23
+  - first:
+      213: -5493678995356923135
+    second: Edificio Juegos de Azar Superior__24
+  - first:
+      213: -5075865861331454875
+    second: Edificio Juegos de Azar Superior__25
+  - first:
+      213: -8283865226432309536
+    second: Edificio Juegos de Azar Superior__26
+  - first:
+      213: -3641890832861316687
+    second: Edificio Juegos de Azar Superior__27
+  - first:
+      213: -4948353194932561439
+    second: Edificio Juegos de Azar Superior__28
+  - first:
+      213: -6618036334122350267
+    second: Edificio Juegos de Azar Superior__29
+  - first:
+      213: 8928111743859912807
+    second: Edificio Juegos de Azar Superior__30
+  - first:
+      213: -9049494833791868417
+    second: Edificio Juegos de Azar Superior__31
+  - first:
+      213: -6847435191024588993
+    second: Edificio Juegos de Azar Superior__32
+  - first:
+      213: -5537318636908926100
+    second: Edificio Juegos de Azar Superior__33
+  - first:
+      213: -3947353213284601163
+    second: Edificio Juegos de Azar Superior__34
+  - first:
+      213: 2616131442987041215
+    second: Edificio Juegos de Azar Superior__35
+  - first:
+      213: -3194401382788358450
+    second: Edificio Juegos de Azar Superior__36
+  - first:
+      213: 8278113699594732312
+    second: Edificio Juegos de Azar Superior__37
+  - first:
+      213: 479817187418865065
+    second: Edificio Juegos de Azar Superior__38
+  - first:
+      213: 6311522795646591480
+    second: Edificio Juegos de Azar Superior__39
+  - first:
+      213: -5549310668957856100
+    second: Edificio Juegos de Azar Superior__40
+  - first:
+      213: 8973552313317414749
+    second: Edificio Juegos de Azar Superior__41
+  - first:
+      213: 4703783229780840673
+    second: Edificio Juegos de Azar Superior__42
+  - first:
+      213: -4313481345091457586
+    second: Edificio Juegos de Azar Superior__43
+  - first:
+      213: 8281540744923029599
+    second: Edificio Juegos de Azar Superior__44
+  - first:
+      213: 6327581202311542201
+    second: Edificio Juegos de Azar Superior__45
+  - first:
+      213: 7451444322043453584
+    second: Edificio Juegos de Azar Superior__46
+  - first:
+      213: -4955419607120184296
+    second: Edificio Juegos de Azar Superior__47
+  - first:
+      213: 1173491078799675948
+    second: Edificio Juegos de Azar Superior__48
+  - first:
+      213: -742179553911508387
+    second: Edificio Juegos de Azar Superior__49
+  - first:
+      213: 8529685724810289222
+    second: Edificio Juegos de Azar Superior__50
+  - first:
+      213: -7961185819697686862
+    second: Edificio Juegos de Azar Superior__51
+  - first:
+      213: -1153778524562229326
+    second: Edificio Juegos de Azar Superior__52
+  - first:
+      213: 3999080776585439148
+    second: Edificio Juegos de Azar Superior__53
+  - first:
+      213: 3228462611179077226
+    second: Edificio Juegos de Azar Superior__54
+  - first:
+      213: -5921797012073100246
+    second: Edificio Juegos de Azar Superior__55
+  - first:
+      213: -8172037412069916045
+    second: Edificio Juegos de Azar Superior__56
+  - first:
+      213: 8588205948978001319
+    second: Edificio Juegos de Azar Superior__57
+  - first:
+      213: 8107085703976239513
+    second: Edificio Juegos de Azar Superior__58
+  - first:
+      213: -7582569414400924844
+    second: Edificio Juegos de Azar Superior__59
+  - first:
+      213: 8245593283020022665
+    second: Edificio Juegos de Azar Superior__60
+  - first:
+      213: 1707750137769309371
+    second: Edificio Juegos de Azar Superior__61
+  - first:
+      213: 3295294958033105972
+    second: Edificio Juegos de Azar Superior__62
+  - first:
+      213: -5043054675687755409
+    second: Edificio Juegos de Azar Superior__63
+  - first:
+      213: 622469688171649657
+    second: Edificio Juegos de Azar Superior__64
+  - first:
+      213: -3960702810581093563
+    second: Edificio Juegos de Azar Superior__65
+  - first:
+      213: -1531972983945533578
+    second: Edificio Juegos de Azar Superior__66
+  - first:
+      213: 5685062137790379845
+    second: Edificio Juegos de Azar Superior__67
+  - first:
+      213: -5088996891141001343
+    second: Edificio Juegos de Azar Superior__68
+  - first:
+      213: -7475154254180445307
+    second: Edificio Juegos de Azar Superior__69
+  - first:
+      213: 4583596526515126778
+    second: Edificio Juegos de Azar Superior__70
+  - first:
+      213: -6697186820113523776
+    second: Edificio Juegos de Azar Superior__71
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 159
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Edificio Juegos de Azar Superior__0
+      rect:
+        serializedVersion: 2
+        x: 4206
+        y: 7848
+        width: 37
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07a71339c11fb520800000000000000
+      internalID: 2719912255798355724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Juegos de Azar Superior__1
+      rect:
+        serializedVersion: 2
+        x: 4321
+        y: 6132
+        width: 1575
+        height: 941
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c990626f88b2733e0800000000000000
+      internalID: -2074141236135589476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Juegos de Azar Superior__2
+      rect:
+        serializedVersion: 2
+        x: 3296
+        y: 0
+        width: 2600
+        height: 5082
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 633699b60f0285e50800000000000000
+      internalID: 6798219854485218102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Juegos de Azar Superior__3
+      rect:
+        serializedVersion: 2
+        x: 4239
+        y: 5071
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9901be1e7f9e99cd0800000000000000
+      internalID: -2550750463072202599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Juegos de Azar Superior__4
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 3980
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3e14b4f22a08af0800000000000000
+      internalID: -396138443198831636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Juegos de Azar Superior__5
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 4004
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7d4a47831ee5a50800000000000000
+      internalID: 6511889743815694244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Juegos de Azar Superior__6
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 4025
+        width: 54
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c10457a937a69a6f0800000000000000
+      internalID: -672889624570019812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Juegos de Azar Superior__7
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 3954
+        width: 95
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7748ee6b926fc50800000000000000
+      internalID: 6698587361422637036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Juegos de Azar Superior__8
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 3944
+        width: 13
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99447b7b22930ab0800000000000000
+      internalID: -5043026442272355938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Juegos de Azar Superior__9
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 3828
+        width: 75
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b919813981b1816d0800000000000000
+      internalID: -3019633757790891621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Juegos de Azar Superior__10
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 3934
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c7f7116641c9aaa0800000000000000
+      internalID: -6149171308176869434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Juegos de Azar Superior__11
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 3931
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2c2b4e06baf64a0800000000000000
+      internalID: -6597866496432356612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Juegos de Azar Superior__12
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 3925
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4a06e29f4ced570800000000000000
+      internalID: 8493442521771320536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Juegos de Azar Superior__13
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 3919
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b169e13356c0b330800000000000000
+      internalID: 3724694952457363896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Juegos de Azar Superior__14
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 3914
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950c6d40cb4b876f0800000000000000
+      internalID: -686600223545966503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Juegos de Azar Superior__15
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 3916
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6df21b4aa2f8c220800000000000000
+      internalID: 2506520005849578861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Juegos de Azar Superior__16
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 3897
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be3d12d4f64a7930800000000000000
+      internalID: 4141700824631688884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Juegos de Azar Superior__17
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 3890
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ff7a268003a4b10800000000000000
+      internalID: 1966436999873691411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Juegos de Azar Superior__18
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 3893
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a713a4f0eb205d0800000000000000
+      internalID: -3097704620798936479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Juegos de Azar Superior__19
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 3877
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e2ba18ee26b04a80800000000000000
+      internalID: -8484581385387199771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Juegos de Azar Superior__20
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 3908
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa902e60cf83850f0800000000000000
+      internalID: -1128089051557918294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Juegos de Azar Superior__21
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 3899
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7587302ed7e16f9c0800000000000000
+      internalID: -3893891301803591593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Juegos de Azar Superior__22
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 3886
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84167cf0a1bb841d0800000000000000
+      internalID: -3366235000851177144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Juegos de Azar Superior__23
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 3895
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1021a1900d758de80800000000000000
+      internalID: -8153670574336765439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Juegos de Azar Superior__24
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 3900
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10bc9bb7f0882c3b0800000000000000
+      internalID: -5493678995356923135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Juegos de Azar Superior__25
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 3873
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5647ec764e6ee89b0800000000000000
+      internalID: -5075865861331454875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Juegos de Azar Superior__26
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 3846
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e69a43677cc90d80800000000000000
+      internalID: -8283865226432309536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Juegos de Azar Superior__27
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 3825
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b9bc844597657dc0800000000000000
+      internalID: -3641890832861316687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Juegos de Azar Superior__28
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 3832
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e910e89cfae35bb0800000000000000
+      internalID: -4948353194932561439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Juegos de Azar Superior__29
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 3805
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 549420a94030824a0800000000000000
+      internalID: -6618036334122350267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Juegos de Azar Superior__30
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 3820
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76073cfe35607eb70800000000000000
+      internalID: 8928111743859912807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Juegos de Azar Superior__31
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 3761
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff16a1b156cb96280800000000000000
+      internalID: -9049494833791868417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Juegos de Azar Superior__32
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 3739
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37687819f509f0a0800000000000000
+      internalID: -6847435191024588993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Juegos de Azar Superior__33
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 3771
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ba4e6a90e7723b0800000000000000
+      internalID: -5537318636908926100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Juegos de Azar Superior__34
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 3769
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2bc2f9a2f2839c0800000000000000
+      internalID: -3947353213284601163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Juegos de Azar Superior__35
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 3777
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb109f0cfad5e4420800000000000000
+      internalID: 2616131442987041215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Juegos de Azar Superior__36
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 3734
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece12e4fdd43ba3d0800000000000000
+      internalID: -3194401382788358450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Juegos de Azar Superior__37
+      rect:
+        serializedVersion: 2
+        x: 2301
+        y: 3494
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81383aaec84c1e270800000000000000
+      internalID: 8278113699594732312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Juegos de Azar Superior__38
+      rect:
+        serializedVersion: 2
+        x: 2355
+        y: 3518
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad7a359037a8a600800000000000000
+      internalID: 479817187418865065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Juegos de Azar Superior__39
+      rect:
+        serializedVersion: 2
+        x: 2361
+        y: 3539
+        width: 54
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1ab42fa88079750800000000000000
+      internalID: 6311522795646591480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Juegos de Azar Superior__40
+      rect:
+        serializedVersion: 2
+        x: 2330
+        y: 3468
+        width: 95
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e4b7c1953ecf2b0800000000000000
+      internalID: -5549310668957856100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Juegos de Azar Superior__41
+      rect:
+        serializedVersion: 2
+        x: 2423
+        y: 3458
+        width: 13
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d575ba8f846788c70800000000000000
+      internalID: 8973552313317414749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Juegos de Azar Superior__42
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 3342
+        width: 75
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0d68ffce1374140800000000000000
+      internalID: 4703783229780840673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Juegos de Azar Superior__43
+      rect:
+        serializedVersion: 2
+        x: 2367
+        y: 3448
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecdac88029f6324c0800000000000000
+      internalID: -4313481345091457586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Juegos de Azar Superior__44
+      rect:
+        serializedVersion: 2
+        x: 2377
+        y: 3445
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50af061e61fde270800000000000000
+      internalID: 8281540744923029599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Juegos de Azar Superior__45
+      rect:
+        serializedVersion: 2
+        x: 2411
+        y: 3439
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5f73b149510d750800000000000000
+      internalID: 6327581202311542201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Juegos de Azar Superior__46
+      rect:
+        serializedVersion: 2
+        x: 2355
+        y: 3433
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0906007a129d86760800000000000000
+      internalID: 7451444322043453584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Juegos de Azar Superior__47
+      rect:
+        serializedVersion: 2
+        x: 2355
+        y: 3428
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c789c4f10da3bb0800000000000000
+      internalID: -4955419607120184296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Juegos de Azar Superior__48
+      rect:
+        serializedVersion: 2
+        x: 2364
+        y: 3430
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c22d1f23be3194010800000000000000
+      internalID: 1173491078799675948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Juegos de Azar Superior__49
+      rect:
+        serializedVersion: 2
+        x: 2365
+        y: 3411
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d52fb81c0af33b5f0800000000000000
+      internalID: -742179553911508387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Juegos de Azar Superior__50
+      rect:
+        serializedVersion: 2
+        x: 2369
+        y: 3404
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 640a90979f78f5670800000000000000
+      internalID: 8529685724810289222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Juegos de Azar Superior__51
+      rect:
+        serializedVersion: 2
+        x: 2372
+        y: 3407
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b6da0a5daf248190800000000000000
+      internalID: -7961185819697686862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Juegos de Azar Superior__52
+      rect:
+        serializedVersion: 2
+        x: 2387
+        y: 3391
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b77efd7b84fcffe0800000000000000
+      internalID: -1153778524562229326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Juegos de Azar Superior__53
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 3422
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7e77c37c69f7730800000000000000
+      internalID: 3999080776585439148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Juegos de Azar Superior__54
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 3413
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e75f5c3adcdcc20800000000000000
+      internalID: 3228462611179077226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Juegos de Azar Superior__55
+      rect:
+        serializedVersion: 2
+        x: 2418
+        y: 3400
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2cc9671efc81dda0800000000000000
+      internalID: -5921797012073100246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Juegos de Azar Superior__56
+      rect:
+        serializedVersion: 2
+        x: 2462
+        y: 3409
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372ce526547179e80800000000000000
+      internalID: -8172037412069916045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Juegos de Azar Superior__57
+      rect:
+        serializedVersion: 2
+        x: 2477
+        y: 3414
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a5fabeeecf6f2770800000000000000
+      internalID: 8588205948978001319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Juegos de Azar Superior__58
+      rect:
+        serializedVersion: 2
+        x: 2420
+        y: 3387
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991c62d9e77228070800000000000000
+      internalID: 8107085703976239513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Juegos de Azar Superior__59
+      rect:
+        serializedVersion: 2
+        x: 2407
+        y: 3360
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45324e1ba4d45c690800000000000000
+      internalID: -7582569414400924844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Juegos de Azar Superior__60
+      rect:
+        serializedVersion: 2
+        x: 2419
+        y: 3339
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98361c4676b3e6270800000000000000
+      internalID: 8245593283020022665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Juegos de Azar Superior__61
+      rect:
+        serializedVersion: 2
+        x: 2431
+        y: 3346
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb43dd6c3b523b710800000000000000
+      internalID: 1707750137769309371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Juegos de Azar Superior__62
+      rect:
+        serializedVersion: 2
+        x: 2428
+        y: 3319
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 434f2bb1e4d3bbd20800000000000000
+      internalID: 3295294958033105972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Juegos de Azar Superior__63
+      rect:
+        serializedVersion: 2
+        x: 2431
+        y: 3334
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6132c0ed78730ab0800000000000000
+      internalID: -5043054675687755409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Juegos de Azar Superior__64
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 3275
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a5be622e473a800800000000000000
+      internalID: 622469688171649657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Juegos de Azar Superior__65
+      rect:
+        serializedVersion: 2
+        x: 2477
+        y: 3253
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5433c6a47c1c809c0800000000000000
+      internalID: -3960702810581093563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Juegos de Azar Superior__66
+      rect:
+        serializedVersion: 2
+        x: 2479
+        y: 3285
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6776e6610b65dbae0800000000000000
+      internalID: -1531972983945533578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Juegos de Azar Superior__67
+      rect:
+        serializedVersion: 2
+        x: 2481
+        y: 3283
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 547b401c4e565ee40800000000000000
+      internalID: 5685062137790379845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Juegos de Azar Superior__68
+      rect:
+        serializedVersion: 2
+        x: 2521
+        y: 3291
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f29784a404069b0800000000000000
+      internalID: -5088996891141001343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Juegos de Azar Superior__69
+      rect:
+        serializedVersion: 2
+        x: 2495
+        y: 3248
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58313569fcae24890800000000000000
+      internalID: -7475154254180445307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Juegos de Azar Superior__70
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 2144
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af106a481c43c9f30800000000000000
+      internalID: 4583596526515126778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Juegos de Azar Superior__71
+      rect:
+        serializedVersion: 2
+        x: 2498
+        y: 1658
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb94b00210de03a0800000000000000
+      internalID: -6697186820113523776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Edificio Juegos de Azar Superior__0: 2719912255798355724
+      Edificio Juegos de Azar Superior__1: -2074141236135589476
+      Edificio Juegos de Azar Superior__10: -6149171308176869434
+      Edificio Juegos de Azar Superior__11: -6597866496432356612
+      Edificio Juegos de Azar Superior__12: 8493442521771320536
+      Edificio Juegos de Azar Superior__13: 3724694952457363896
+      Edificio Juegos de Azar Superior__14: -686600223545966503
+      Edificio Juegos de Azar Superior__15: 2506520005849578861
+      Edificio Juegos de Azar Superior__16: 4141700824631688884
+      Edificio Juegos de Azar Superior__17: 1966436999873691411
+      Edificio Juegos de Azar Superior__18: -3097704620798936479
+      Edificio Juegos de Azar Superior__19: -8484581385387199771
+      Edificio Juegos de Azar Superior__2: 6798219854485218102
+      Edificio Juegos de Azar Superior__20: -1128089051557918294
+      Edificio Juegos de Azar Superior__21: -3893891301803591593
+      Edificio Juegos de Azar Superior__22: -3366235000851177144
+      Edificio Juegos de Azar Superior__23: -8153670574336765439
+      Edificio Juegos de Azar Superior__24: -5493678995356923135
+      Edificio Juegos de Azar Superior__25: -5075865861331454875
+      Edificio Juegos de Azar Superior__26: -8283865226432309536
+      Edificio Juegos de Azar Superior__27: -3641890832861316687
+      Edificio Juegos de Azar Superior__28: -4948353194932561439
+      Edificio Juegos de Azar Superior__29: -6618036334122350267
+      Edificio Juegos de Azar Superior__3: -2550750463072202599
+      Edificio Juegos de Azar Superior__30: 8928111743859912807
+      Edificio Juegos de Azar Superior__31: -9049494833791868417
+      Edificio Juegos de Azar Superior__32: -6847435191024588993
+      Edificio Juegos de Azar Superior__33: -5537318636908926100
+      Edificio Juegos de Azar Superior__34: -3947353213284601163
+      Edificio Juegos de Azar Superior__35: 2616131442987041215
+      Edificio Juegos de Azar Superior__36: -3194401382788358450
+      Edificio Juegos de Azar Superior__37: 8278113699594732312
+      Edificio Juegos de Azar Superior__38: 479817187418865065
+      Edificio Juegos de Azar Superior__39: 6311522795646591480
+      Edificio Juegos de Azar Superior__4: -396138443198831636
+      Edificio Juegos de Azar Superior__40: -5549310668957856100
+      Edificio Juegos de Azar Superior__41: 8973552313317414749
+      Edificio Juegos de Azar Superior__42: 4703783229780840673
+      Edificio Juegos de Azar Superior__43: -4313481345091457586
+      Edificio Juegos de Azar Superior__44: 8281540744923029599
+      Edificio Juegos de Azar Superior__45: 6327581202311542201
+      Edificio Juegos de Azar Superior__46: 7451444322043453584
+      Edificio Juegos de Azar Superior__47: -4955419607120184296
+      Edificio Juegos de Azar Superior__48: 1173491078799675948
+      Edificio Juegos de Azar Superior__49: -742179553911508387
+      Edificio Juegos de Azar Superior__5: 6511889743815694244
+      Edificio Juegos de Azar Superior__50: 8529685724810289222
+      Edificio Juegos de Azar Superior__51: -7961185819697686862
+      Edificio Juegos de Azar Superior__52: -1153778524562229326
+      Edificio Juegos de Azar Superior__53: 3999080776585439148
+      Edificio Juegos de Azar Superior__54: 3228462611179077226
+      Edificio Juegos de Azar Superior__55: -5921797012073100246
+      Edificio Juegos de Azar Superior__56: -8172037412069916045
+      Edificio Juegos de Azar Superior__57: 8588205948978001319
+      Edificio Juegos de Azar Superior__58: 8107085703976239513
+      Edificio Juegos de Azar Superior__59: -7582569414400924844
+      Edificio Juegos de Azar Superior__6: -672889624570019812
+      Edificio Juegos de Azar Superior__60: 8245593283020022665
+      Edificio Juegos de Azar Superior__61: 1707750137769309371
+      Edificio Juegos de Azar Superior__62: 3295294958033105972
+      Edificio Juegos de Azar Superior__63: -5043054675687755409
+      Edificio Juegos de Azar Superior__64: 622469688171649657
+      Edificio Juegos de Azar Superior__65: -3960702810581093563
+      Edificio Juegos de Azar Superior__66: -1531972983945533578
+      Edificio Juegos de Azar Superior__67: 5685062137790379845
+      Edificio Juegos de Azar Superior__68: -5088996891141001343
+      Edificio Juegos de Azar Superior__69: -7475154254180445307
+      Edificio Juegos de Azar Superior__7: 6698587361422637036
+      Edificio Juegos de Azar Superior__70: 4583596526515126778
+      Edificio Juegos de Azar Superior__71: -6697186820113523776
+      Edificio Juegos de Azar Superior__8: -5043026442272355938
+      Edificio Juegos de Azar Superior__9: -3019633757790891621
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

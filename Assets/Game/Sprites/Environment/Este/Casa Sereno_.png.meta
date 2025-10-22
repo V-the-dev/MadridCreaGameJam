@@ -1,0 +1,6799 @@
+fileFormatVersion: 2
+guid: 2a8e2442cd9a482469c6083c66d8911a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9172212441452176272
+    second: Casa Sereno__0
+  - first:
+      213: 2263548114016932569
+    second: Casa Sereno__1
+  - first:
+      213: -2723468469666328672
+    second: Casa Sereno__2
+  - first:
+      213: -1598427698199023595
+    second: Casa Sereno__3
+  - first:
+      213: 4557352226724897486
+    second: Casa Sereno__4
+  - first:
+      213: -3651232469261275342
+    second: Casa Sereno__5
+  - first:
+      213: -3119356933307238398
+    second: Casa Sereno__6
+  - first:
+      213: -9137322411359863296
+    second: Casa Sereno__7
+  - first:
+      213: -2134204869592399849
+    second: Casa Sereno__8
+  - first:
+      213: 8771838185886207836
+    second: Casa Sereno__9
+  - first:
+      213: 8540432911287443201
+    second: Casa Sereno__10
+  - first:
+      213: 7094401298068275718
+    second: Casa Sereno__11
+  - first:
+      213: 1932243131902001877
+    second: Casa Sereno__12
+  - first:
+      213: 7064150708877964502
+    second: Casa Sereno__13
+  - first:
+      213: -160632553901046123
+    second: Casa Sereno__14
+  - first:
+      213: -3410308984727221030
+    second: Casa Sereno__15
+  - first:
+      213: 8705192998959199713
+    second: Casa Sereno__16
+  - first:
+      213: -7051244593334842425
+    second: Casa Sereno__17
+  - first:
+      213: -6715932054393068531
+    second: Casa Sereno__18
+  - first:
+      213: 2233132574730127701
+    second: Casa Sereno__19
+  - first:
+      213: -6437377619088098277
+    second: Casa Sereno__20
+  - first:
+      213: -172244670192743247
+    second: Casa Sereno__21
+  - first:
+      213: -3665201487908724277
+    second: Casa Sereno__22
+  - first:
+      213: -1353590174788856299
+    second: Casa Sereno__23
+  - first:
+      213: 6493533533556115384
+    second: Casa Sereno__24
+  - first:
+      213: 8356019119944951731
+    second: Casa Sereno__25
+  - first:
+      213: 3865321411570072679
+    second: Casa Sereno__26
+  - first:
+      213: 6610350269042674170
+    second: Casa Sereno__27
+  - first:
+      213: -1971619358662643522
+    second: Casa Sereno__28
+  - first:
+      213: 4294087108890512534
+    second: Casa Sereno__29
+  - first:
+      213: 2841012363756693304
+    second: Casa Sereno__30
+  - first:
+      213: 5899159949074175745
+    second: Casa Sereno__31
+  - first:
+      213: 2583495362011105214
+    second: Casa Sereno__32
+  - first:
+      213: -2860472840520623505
+    second: Casa Sereno__33
+  - first:
+      213: -4212603656675787510
+    second: Casa Sereno__34
+  - first:
+      213: -2439511592097640329
+    second: Casa Sereno__35
+  - first:
+      213: 4337462596369652104
+    second: Casa Sereno__36
+  - first:
+      213: -6901373823554867597
+    second: Casa Sereno__37
+  - first:
+      213: 8096053195338225328
+    second: Casa Sereno__38
+  - first:
+      213: 3655795372884279044
+    second: Casa Sereno__39
+  - first:
+      213: 5048000531677173827
+    second: Casa Sereno__40
+  - first:
+      213: -2388327195816452661
+    second: Casa Sereno__41
+  - first:
+      213: -2495571834975895875
+    second: Casa Sereno__42
+  - first:
+      213: 5468432527974744189
+    second: Casa Sereno__43
+  - first:
+      213: 1033542415598695032
+    second: Casa Sereno__44
+  - first:
+      213: 8629335325674663175
+    second: Casa Sereno__45
+  - first:
+      213: 8064633478157316879
+    second: Casa Sereno__46
+  - first:
+      213: -4045020556309495561
+    second: Casa Sereno__47
+  - first:
+      213: 3286714828254820706
+    second: Casa Sereno__48
+  - first:
+      213: -2407305762726337779
+    second: Casa Sereno__49
+  - first:
+      213: 2671553535995152768
+    second: Casa Sereno__50
+  - first:
+      213: 4175093300644832549
+    second: Casa Sereno__51
+  - first:
+      213: -8037887486578893157
+    second: Casa Sereno__52
+  - first:
+      213: -8826052164486813801
+    second: Casa Sereno__53
+  - first:
+      213: -1987851864280505156
+    second: Casa Sereno__54
+  - first:
+      213: -1797741393642193485
+    second: Casa Sereno__55
+  - first:
+      213: 3092553491790398667
+    second: Casa Sereno__56
+  - first:
+      213: -4229872736559015839
+    second: Casa Sereno__57
+  - first:
+      213: -3563661136975063034
+    second: Casa Sereno__58
+  - first:
+      213: -5697527839044547570
+    second: Casa Sereno__59
+  - first:
+      213: 933103586592045683
+    second: Casa Sereno__60
+  - first:
+      213: -2758323951299233809
+    second: Casa Sereno__61
+  - first:
+      213: -7055216557470867818
+    second: Casa Sereno__62
+  - first:
+      213: -6844834749451947688
+    second: Casa Sereno__63
+  - first:
+      213: 1244139166957156210
+    second: Casa Sereno__64
+  - first:
+      213: 7426080798397589231
+    second: Casa Sereno__65
+  - first:
+      213: 7442480361190179669
+    second: Casa Sereno__66
+  - first:
+      213: 8846057157329735348
+    second: Casa Sereno__67
+  - first:
+      213: -6581071704320510857
+    second: Casa Sereno__68
+  - first:
+      213: 497364935862957459
+    second: Casa Sereno__69
+  - first:
+      213: 2132845725258861551
+    second: Casa Sereno__70
+  - first:
+      213: -2955074033491850346
+    second: Casa Sereno__71
+  - first:
+      213: -6860446569823879689
+    second: Casa Sereno__72
+  - first:
+      213: 5930318437216242317
+    second: Casa Sereno__73
+  - first:
+      213: 8894081784342617472
+    second: Casa Sereno__74
+  - first:
+      213: 3030139829290531507
+    second: Casa Sereno__75
+  - first:
+      213: 6116797802341862400
+    second: Casa Sereno__76
+  - first:
+      213: 2984463037096252722
+    second: Casa Sereno__77
+  - first:
+      213: 2996937248738439726
+    second: Casa Sereno__78
+  - first:
+      213: -515238369948185809
+    second: Casa Sereno__79
+  - first:
+      213: 8120798000916732575
+    second: Casa Sereno__80
+  - first:
+      213: 7778379481707377878
+    second: Casa Sereno__81
+  - first:
+      213: 6815220255486784002
+    second: Casa Sereno__82
+  - first:
+      213: 6027540250382809707
+    second: Casa Sereno__83
+  - first:
+      213: -2437434920984645331
+    second: Casa Sereno__84
+  - first:
+      213: -6382414801730676734
+    second: Casa Sereno__85
+  - first:
+      213: -12086145818954060
+    second: Casa Sereno__86
+  - first:
+      213: 2014253774598819566
+    second: Casa Sereno__87
+  - first:
+      213: -6056440540290833457
+    second: Casa Sereno__88
+  - first:
+      213: 5972173203577128141
+    second: Casa Sereno__89
+  - first:
+      213: 2243207728048745582
+    second: Casa Sereno__90
+  - first:
+      213: 2422885541616509040
+    second: Casa Sereno__91
+  - first:
+      213: -2085036898431391627
+    second: Casa Sereno__92
+  - first:
+      213: 7260974988919304681
+    second: Casa Sereno__93
+  - first:
+      213: 8024902149222452109
+    second: Casa Sereno__94
+  - first:
+      213: 466766017123017512
+    second: Casa Sereno__95
+  - first:
+      213: 5883258165320593202
+    second: Casa Sereno__96
+  - first:
+      213: -5386786643867305139
+    second: Casa Sereno__97
+  - first:
+      213: 398190922403189469
+    second: Casa Sereno__98
+  - first:
+      213: -7370656157100072940
+    second: Casa Sereno__99
+  - first:
+      213: 7473857685590713557
+    second: Casa Sereno__100
+  - first:
+      213: -935244658472596122
+    second: Casa Sereno__101
+  - first:
+      213: 7405185536821003089
+    second: Casa Sereno__102
+  - first:
+      213: 7755452500443053122
+    second: Casa Sereno__103
+  - first:
+      213: -2374107902411434072
+    second: Casa Sereno__104
+  - first:
+      213: 1394929578423989769
+    second: Casa Sereno__105
+  - first:
+      213: 7212115526404716537
+    second: Casa Sereno__106
+  - first:
+      213: -3673796463019949707
+    second: Casa Sereno__107
+  - first:
+      213: 1832188410590711073
+    second: Casa Sereno__108
+  - first:
+      213: 7649116623892467864
+    second: Casa Sereno__109
+  - first:
+      213: -8703111061940668543
+    second: Casa Sereno__110
+  - first:
+      213: 4608313394968990215
+    second: Casa Sereno__111
+  - first:
+      213: 3445693105941970182
+    second: Casa Sereno__112
+  - first:
+      213: -5980883256513285475
+    second: Casa Sereno__113
+  - first:
+      213: -3285431870800203260
+    second: Casa Sereno__114
+  - first:
+      213: 4312774571111726180
+    second: Casa Sereno__115
+  - first:
+      213: 6966334614220731253
+    second: Casa Sereno__116
+  - first:
+      213: -6435445863318166990
+    second: Casa Sereno__117
+  - first:
+      213: 6954350901607889912
+    second: Casa Sereno__118
+  - first:
+      213: 3056488097579516827
+    second: Casa Sereno__119
+  - first:
+      213: 5143636884989724759
+    second: Casa Sereno__120
+  - first:
+      213: -7833579922387645010
+    second: Casa Sereno__121
+  - first:
+      213: 8711324701435942851
+    second: Casa Sereno__122
+  - first:
+      213: -5194649946278616306
+    second: Casa Sereno__123
+  - first:
+      213: 1237273542159630457
+    second: Casa Sereno__124
+  - first:
+      213: 8648573883031779279
+    second: Casa Sereno__125
+  - first:
+      213: 7871037474928494572
+    second: Casa Sereno__126
+  - first:
+      213: -446096736764085330
+    second: Casa Sereno__127
+  - first:
+      213: 836616041118217207
+    second: Casa Sereno__128
+  - first:
+      213: -5352180365147597
+    second: Casa Sereno__129
+  - first:
+      213: 9097073667395803165
+    second: Casa Sereno__130
+  - first:
+      213: 4844806074708354320
+    second: Casa Sereno__131
+  - first:
+      213: 8847006960882168296
+    second: Casa Sereno__132
+  - first:
+      213: 8984336179017216553
+    second: Casa Sereno__133
+  - first:
+      213: -39265460743152768
+    second: Casa Sereno__134
+  - first:
+      213: -7637562087271219847
+    second: Casa Sereno__135
+  - first:
+      213: 2681719434024335640
+    second: Casa Sereno__136
+  - first:
+      213: 5885130493285937222
+    second: Casa Sereno__137
+  - first:
+      213: -5545593620127129608
+    second: Casa Sereno__138
+  - first:
+      213: -382225254518802468
+    second: Casa Sereno__139
+  - first:
+      213: 1868552825114367570
+    second: Casa Sereno__140
+  - first:
+      213: -9029097155841803460
+    second: Casa Sereno__141
+  - first:
+      213: -4324639573864171926
+    second: Casa Sereno__142
+  - first:
+      213: 8870641028300510698
+    second: Casa Sereno__143
+  - first:
+      213: -6725311410112409429
+    second: Casa Sereno__144
+  - first:
+      213: 7026072461772372378
+    second: Casa Sereno__145
+  - first:
+      213: -5135563985396705661
+    second: Casa Sereno__146
+  - first:
+      213: 3917067753433196290
+    second: Casa Sereno__147
+  - first:
+      213: 4629869541262422247
+    second: Casa Sereno__148
+  - first:
+      213: 894007765281096373
+    second: Casa Sereno__149
+  - first:
+      213: 3613242895523576379
+    second: Casa Sereno__150
+  - first:
+      213: 7155356270345290865
+    second: Casa Sereno__151
+  - first:
+      213: -1870090985289339587
+    second: Casa Sereno__152
+  - first:
+      213: 1458983661354102109
+    second: Casa Sereno__153
+  - first:
+      213: 8061365047637275839
+    second: Casa Sereno__154
+  - first:
+      213: -5850165399888449138
+    second: Casa Sereno__155
+  - first:
+      213: 5229219630806664132
+    second: Casa Sereno__156
+  - first:
+      213: -294060879225473091
+    second: Casa Sereno__157
+  - first:
+      213: 3672994876413699774
+    second: Casa Sereno__158
+  - first:
+      213: 750752663307676341
+    second: Casa Sereno__159
+  - first:
+      213: 7583300009250640128
+    second: Casa Sereno__160
+  - first:
+      213: 6488042437670834784
+    second: Casa Sereno__161
+  - first:
+      213: -614338589081382525
+    second: Casa Sereno__162
+  - first:
+      213: 5466400054617908868
+    second: Casa Sereno__163
+  - first:
+      213: 4723445559135746231
+    second: Casa Sereno__164
+  - first:
+      213: 6654184490333791551
+    second: Casa Sereno__165
+  - first:
+      213: -8477781544214330725
+    second: Casa Sereno__166
+  - first:
+      213: 1993188771553283852
+    second: Casa Sereno__167
+  - first:
+      213: -7402669342681200157
+    second: Casa Sereno__168
+  - first:
+      213: 3916684284876656876
+    second: Casa Sereno__169
+  - first:
+      213: 8702063872790820511
+    second: Casa Sereno__170
+  - first:
+      213: 3856018964167560378
+    second: Casa Sereno__171
+  - first:
+      213: 4617436512357944564
+    second: Casa Sereno__172
+  - first:
+      213: -6349913623931782218
+    second: Casa Sereno__173
+  - first:
+      213: 3922348543922707903
+    second: Casa Sereno__174
+  - first:
+      213: 7355348255635558887
+    second: Casa Sereno__175
+  - first:
+      213: 2892621131763000571
+    second: Casa Sereno__176
+  - first:
+      213: 7281833593177648752
+    second: Casa Sereno__177
+  - first:
+      213: -1097181929998929947
+    second: Casa Sereno__178
+  - first:
+      213: 8776088051058079571
+    second: Casa Sereno__179
+  - first:
+      213: 863221625631500220
+    second: Casa Sereno__180
+  - first:
+      213: 4619676972700706131
+    second: Casa Sereno__181
+  - first:
+      213: -4062487798836871905
+    second: Casa Sereno__182
+  - first:
+      213: -5849178635317060747
+    second: Casa Sereno__183
+  - first:
+      213: 7754900799843649109
+    second: Casa Sereno__184
+  - first:
+      213: -7215763881273375093
+    second: Casa Sereno__185
+  - first:
+      213: -4857793153569580798
+    second: Casa Sereno__186
+  - first:
+      213: -7940552489168557545
+    second: Casa Sereno__187
+  - first:
+      213: -2452844077118726360
+    second: Casa Sereno__188
+  - first:
+      213: 6757052686560447483
+    second: Casa Sereno__189
+  - first:
+      213: 6108483140575800473
+    second: Casa Sereno__190
+  - first:
+      213: 1683605136641230987
+    second: Casa Sereno__191
+  - first:
+      213: -2640414477995729284
+    second: Casa Sereno__192
+  - first:
+      213: 2652532532402412052
+    second: Casa Sereno__193
+  - first:
+      213: -7966652709548912486
+    second: Casa Sereno__194
+  - first:
+      213: -640170278534316451
+    second: Casa Sereno__195
+  - first:
+      213: -2021011567808933966
+    second: Casa Sereno__196
+  - first:
+      213: -4370283789330969371
+    second: Casa Sereno__197
+  - first:
+      213: -6072396987287617977
+    second: Casa Sereno__198
+  - first:
+      213: 1787807322389681736
+    second: Casa Sereno__199
+  - first:
+      213: 836126382652001842
+    second: Casa Sereno__200
+  - first:
+      213: 3981446128257887935
+    second: Casa Sereno__201
+  - first:
+      213: 3198034525688769134
+    second: Casa Sereno__202
+  - first:
+      213: 5362275481528439811
+    second: Casa Sereno__203
+  - first:
+      213: -2622291754764586607
+    second: Casa Sereno__204
+  - first:
+      213: -6358750096204779943
+    second: Casa Sereno__205
+  - first:
+      213: 7160004550356656940
+    second: Casa Sereno__206
+  - first:
+      213: 3197706563860084539
+    second: Casa Sereno__207
+  - first:
+      213: -2290672681992279178
+    second: Casa Sereno__208
+  - first:
+      213: 7540191981721697690
+    second: Casa Sereno__209
+  - first:
+      213: -207521360218156620
+    second: Casa Sereno__210
+  - first:
+      213: 8278487622589427004
+    second: Casa Sereno__211
+  - first:
+      213: 1184340379498780238
+    second: Casa Sereno__212
+  - first:
+      213: 3157174939730105043
+    second: Casa Sereno__213
+  - first:
+      213: 8410964651027187929
+    second: Casa Sereno__214
+  - first:
+      213: 5395551325767934651
+    second: Casa Sereno__215
+  - first:
+      213: 5178516122460512931
+    second: Casa Sereno__216
+  - first:
+      213: -5174322400111367676
+    second: Casa Sereno__217
+  - first:
+      213: 3095794948417262361
+    second: Casa Sereno__218
+  - first:
+      213: 4613853428274285074
+    second: Casa Sereno__219
+  - first:
+      213: -151685169040194773
+    second: Casa Sereno__220
+  - first:
+      213: 3054586140303537954
+    second: Casa Sereno__221
+  - first:
+      213: -9084052268537880490
+    second: Casa Sereno__222
+  - first:
+      213: 6023216556679696064
+    second: Casa Sereno__223
+  - first:
+      213: -5793948572772095627
+    second: Casa Sereno__224
+  - first:
+      213: 3844065498599851292
+    second: Casa Sereno__225
+  - first:
+      213: -7576195036039807002
+    second: Casa Sereno__226
+  - first:
+      213: -8488278323913360407
+    second: Casa Sereno__227
+  - first:
+      213: 3113105264847364262
+    second: Casa Sereno__228
+  - first:
+      213: 7127732228112515603
+    second: Casa Sereno__229
+  - first:
+      213: -958549117186653301
+    second: Casa Sereno__230
+  - first:
+      213: -7079267817965088763
+    second: Casa Sereno__231
+  - first:
+      213: -3719026111964238373
+    second: Casa Sereno__232
+  - first:
+      213: 3443586440361341794
+    second: Casa Sereno__233
+  - first:
+      213: -677853965785939130
+    second: Casa Sereno__234
+  - first:
+      213: -3849830124624318917
+    second: Casa Sereno__235
+  - first:
+      213: 8024244283891024558
+    second: Casa Sereno__236
+  - first:
+      213: -9065294194450122851
+    second: Casa Sereno__237
+  - first:
+      213: 7102903591140383941
+    second: Casa Sereno__238
+  - first:
+      213: 3755862770804032216
+    second: Casa Sereno__239
+  - first:
+      213: 4152243100954860495
+    second: Casa Sereno__240
+  - first:
+      213: 1409572523501589316
+    second: Casa Sereno__241
+  - first:
+      213: 7878175954052994169
+    second: Casa Sereno__242
+  - first:
+      213: -5521209083153775366
+    second: Casa Sereno__243
+  - first:
+      213: 6457301390732167522
+    second: Casa Sereno__244
+  - first:
+      213: 6757375932107812029
+    second: Casa Sereno__245
+  - first:
+      213: 7464944190103417379
+    second: Casa Sereno__246
+  - first:
+      213: -8362031997280431867
+    second: Casa Sereno__247
+  - first:
+      213: 6593398525506836106
+    second: Casa Sereno__248
+  - first:
+      213: 2586630818391260479
+    second: Casa Sereno__249
+  - first:
+      213: 8375765121119605703
+    second: Casa Sereno__250
+  - first:
+      213: -9010902336492026821
+    second: Casa Sereno__251
+  - first:
+      213: -5459928682542943275
+    second: Casa Sereno__252
+  - first:
+      213: 7650478090431545977
+    second: Casa Sereno__253
+  - first:
+      213: 7945457554850369254
+    second: Casa Sereno__254
+  - first:
+      213: 6512002214353177854
+    second: Casa Sereno__255
+  - first:
+      213: 4110159283609468044
+    second: Casa Sereno__256
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 159
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Casa Sereno__0
+      rect:
+        serializedVersion: 2
+        x: 3283
+        y: 5104
+        width: 60
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093ec297e9e3a4f70800000000000000
+      internalID: 9172212441452176272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__1
+      rect:
+        serializedVersion: 2
+        x: 3342
+        y: 5181
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d21cf3540db96f10800000000000000
+      internalID: 2263548114016932569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__2
+      rect:
+        serializedVersion: 2
+        x: 3351
+        y: 5189
+        width: 60
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0afcf8c3bdb443ad0800000000000000
+      internalID: -2723468469666328672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__3
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 0
+        width: 5671
+        height: 6809
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 510b3b13a7e31d9e0800000000000000
+      internalID: -1598427698199023595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__4
+      rect:
+        serializedVersion: 2
+        x: 3341
+        y: 5142
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec2e54e44b7fe3f30800000000000000
+      internalID: 4557352226724897486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__5
+      rect:
+        serializedVersion: 2
+        x: 3344
+        y: 5100
+        width: 57
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f2f4d0a67345dc0800000000000000
+      internalID: -3651232469261275342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__6
+      rect:
+        serializedVersion: 2
+        x: 3350
+        y: 5150
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208f19e6561d5b4d0800000000000000
+      internalID: -3119356933307238398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__7
+      rect:
+        serializedVersion: 2
+        x: 3399
+        y: 5128
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00efda0bda5b13180800000000000000
+      internalID: -9137322411359863296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__8
+      rect:
+        serializedVersion: 2
+        x: 3482
+        y: 5146
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71049068af7c162e0800000000000000
+      internalID: -2134204869592399849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__9
+      rect:
+        serializedVersion: 2
+        x: 3490
+        y: 5114
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f44f8da54dbb970800000000000000
+      internalID: 8771838185886207836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__10
+      rect:
+        serializedVersion: 2
+        x: 3362
+        y: 5085
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10fd751db76b58670800000000000000
+      internalID: 8540432911287443201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__11
+      rect:
+        serializedVersion: 2
+        x: 3383
+        y: 5085
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6020e619460647260800000000000000
+      internalID: 7094401298068275718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__12
+      rect:
+        serializedVersion: 2
+        x: 3418
+        y: 5094
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d205b814e4b0da10800000000000000
+      internalID: 1932243131902001877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__13
+      rect:
+        serializedVersion: 2
+        x: 3508
+        y: 5089
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d4be7a64a7e80260800000000000000
+      internalID: 7064150708877964502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__14
+      rect:
+        serializedVersion: 2
+        x: 3519
+        y: 5108
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5964d551b8155cdf0800000000000000
+      internalID: -160632553901046123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__15
+      rect:
+        serializedVersion: 2
+        x: 3531
+        y: 5044
+        width: 10
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adcc2070c062ca0d0800000000000000
+      internalID: -3410308984727221030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__16
+      rect:
+        serializedVersion: 2
+        x: 3333
+        y: 5063
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e53e2419ee0fc870800000000000000
+      internalID: 8705192998959199713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__17
+      rect:
+        serializedVersion: 2
+        x: 3355
+        y: 5041
+        width: 59
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb02e5c662f42e90800000000000000
+      internalID: -7051244593334842425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__18
+      rect:
+        serializedVersion: 2
+        x: 3405
+        y: 5081
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d04ed3a01673cc2a0800000000000000
+      internalID: -6715932054393068531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__19
+      rect:
+        serializedVersion: 2
+        x: 3491
+        y: 5067
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 559842dbe3eadfe10800000000000000
+      internalID: 2233132574730127701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__20
+      rect:
+        serializedVersion: 2
+        x: 3515
+        y: 5075
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c34318927d9a6a0800000000000000
+      internalID: -6437377619088098277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__21
+      rect:
+        serializedVersion: 2
+        x: 3406
+        y: 5067
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc05b292601c9df0800000000000000
+      internalID: -172244670192743247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__22
+      rect:
+        serializedVersion: 2
+        x: 3415
+        y: 5066
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1a7f27aa6922dc0800000000000000
+      internalID: -3665201487908724277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__23
+      rect:
+        serializedVersion: 2
+        x: 3427
+        y: 5073
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516504c58e4173de0800000000000000
+      internalID: -1353590174788856299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__24
+      rect:
+        serializedVersion: 2
+        x: 3446
+        y: 5067
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b703b4385aad1a50800000000000000
+      internalID: 6493533533556115384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__25
+      rect:
+        serializedVersion: 2
+        x: 3505
+        y: 5056
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7e0b41e1b86f370800000000000000
+      internalID: 8356019119944951731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__26
+      rect:
+        serializedVersion: 2
+        x: 3455
+        y: 5025
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c785f285164a530800000000000000
+      internalID: 3865321411570072679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__27
+      rect:
+        serializedVersion: 2
+        x: 3481
+        y: 5048
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9423beb8eacbb50800000000000000
+      internalID: 6610350269042674170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__28
+      rect:
+        serializedVersion: 2
+        x: 3495
+        y: 5061
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb031aea3a663a4e0800000000000000
+      internalID: -1971619358662643522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__29
+      rect:
+        serializedVersion: 2
+        x: 3279
+        y: 4949
+        width: 65
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69cc0087979a79b30800000000000000
+      internalID: 4294087108890512534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__30
+      rect:
+        serializedVersion: 2
+        x: 3340
+        y: 5026
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837e53841bd4d6720800000000000000
+      internalID: 2841012363756693304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__31
+      rect:
+        serializedVersion: 2
+        x: 3347
+        y: 5045
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10717c5f7b60ed150800000000000000
+      internalID: 5899159949074175745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__32
+      rect:
+        serializedVersion: 2
+        x: 3357
+        y: 5029
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb78a83085b6ad320800000000000000
+      internalID: 2583495362011105214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__33
+      rect:
+        serializedVersion: 2
+        x: 3379
+        y: 5021
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a9d136b1f8d48d0800000000000000
+      internalID: -2860472840520623505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__34
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 5017
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0df3582b43d985c0800000000000000
+      internalID: -4212603656675787510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__35
+      rect:
+        serializedVersion: 2
+        x: 3416
+        y: 5021
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 770929fc12d152ed0800000000000000
+      internalID: -2439511592097640329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__36
+      rect:
+        serializedVersion: 2
+        x: 3439
+        y: 5045
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88918232043c13c30800000000000000
+      internalID: 4337462596369652104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__37
+      rect:
+        serializedVersion: 2
+        x: 3508
+        y: 5027
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e25d092156930a0800000000000000
+      internalID: -6901373823554867597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__38
+      rect:
+        serializedVersion: 2
+        x: 3346
+        y: 4995
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b61dc68c75fa5070800000000000000
+      internalID: 8096053195338225328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__39
+      rect:
+        serializedVersion: 2
+        x: 3392
+        y: 5001
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40fb84cb58efbb230800000000000000
+      internalID: 3655795372884279044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__40
+      rect:
+        serializedVersion: 2
+        x: 3435
+        y: 5008
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 348d994fcb91e0640800000000000000
+      internalID: 5048000531677173827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__41
+      rect:
+        serializedVersion: 2
+        x: 3444
+        y: 4996
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd94fdb115faded0800000000000000
+      internalID: -2388327195816452661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__42
+      rect:
+        serializedVersion: 2
+        x: 3498
+        y: 5003
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbebac063a2fd5dd0800000000000000
+      internalID: -2495571834975895875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__43
+      rect:
+        serializedVersion: 2
+        x: 3515
+        y: 5000
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7040244966c3eb40800000000000000
+      internalID: 5468432527974744189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__44
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 5007
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8723f0ed951e75e00800000000000000
+      internalID: 1033542415598695032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__45
+      rect:
+        serializedVersion: 2
+        x: 3530
+        y: 4997
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d619e22ce81c770800000000000000
+      internalID: 8629335325674663175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__46
+      rect:
+        serializedVersion: 2
+        x: 3538
+        y: 5004
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f033a4d8b655bef60800000000000000
+      internalID: 8064633478157316879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__47
+      rect:
+        serializedVersion: 2
+        x: 3334
+        y: 4953
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f005084c333dd7c0800000000000000
+      internalID: -4045020556309495561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__48
+      rect:
+        serializedVersion: 2
+        x: 3364
+        y: 4986
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2693328f8b1cc9d20800000000000000
+      internalID: 3286714828254820706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__49
+      rect:
+        serializedVersion: 2
+        x: 3380
+        y: 4994
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0322fac928879ed0800000000000000
+      internalID: -2407305762726337779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__50
+      rect:
+        serializedVersion: 2
+        x: 3387
+        y: 4964
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0890e6759c3431520800000000000000
+      internalID: 2671553535995152768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__51
+      rect:
+        serializedVersion: 2
+        x: 3414
+        y: 4990
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5256c018c39e0f930800000000000000
+      internalID: 4175093300644832549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__52
+      rect:
+        serializedVersion: 2
+        x: 3426
+        y: 4985
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e58e1eaefa37090800000000000000
+      internalID: -8037887486578893157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__53
+      rect:
+        serializedVersion: 2
+        x: 3437
+        y: 4966
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79722be9150938580800000000000000
+      internalID: -8826052164486813801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__54
+      rect:
+        serializedVersion: 2
+        x: 3461
+        y: 4981
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb46673f24bb964e0800000000000000
+      internalID: -1987851864280505156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__55
+      rect:
+        serializedVersion: 2
+        x: 3485
+        y: 4982
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bdf0f13ab32d07e0800000000000000
+      internalID: -1797741393642193485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__56
+      rect:
+        serializedVersion: 2
+        x: 3503
+        y: 4984
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc48f070405faea20800000000000000
+      internalID: 3092553491790398667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__57
+      rect:
+        serializedVersion: 2
+        x: 3368
+        y: 4977
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1685a4c28297c45c0800000000000000
+      internalID: -4229872736559015839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__58
+      rect:
+        serializedVersion: 2
+        x: 3409
+        y: 4957
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6089cb6b3155b8ec0800000000000000
+      internalID: -3563661136975063034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__59
+      rect:
+        serializedVersion: 2
+        x: 3420
+        y: 4983
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0cc9dffd905ee0b0800000000000000
+      internalID: -5697527839044547570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__60
+      rect:
+        serializedVersion: 2
+        x: 3432
+        y: 4980
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a3679a4cc03fc00800000000000000
+      internalID: 933103586592045683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__61
+      rect:
+        serializedVersion: 2
+        x: 3473
+        y: 4979
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe77b530bf678b9d0800000000000000
+      internalID: -2758323951299233809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__62
+      rect:
+        serializedVersion: 2
+        x: 3490
+        y: 4959
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e9e7ecbe5d61e90800000000000000
+      internalID: -7055216557470867818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__63
+      rect:
+        serializedVersion: 2
+        x: 3507
+        y: 4969
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851baa49f034201a0800000000000000
+      internalID: -6844834749451947688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__64
+      rect:
+        serializedVersion: 2
+        x: 3429
+        y: 4967
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277b1a90bf1144110800000000000000
+      internalID: 1244139166957156210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__65
+      rect:
+        serializedVersion: 2
+        x: 3517
+        y: 4947
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe666dd142dbe0760800000000000000
+      internalID: 7426080798397589231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__66
+      rect:
+        serializedVersion: 2
+        x: 3420
+        y: 4938
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553cf80e470094760800000000000000
+      internalID: 7442480361190179669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__67
+      rect:
+        serializedVersion: 2
+        x: 3429
+        y: 4957
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bec07dbd1283ca70800000000000000
+      internalID: 8846057157329735348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__68
+      rect:
+        serializedVersion: 2
+        x: 3515
+        y: 4954
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774f99627265ba4a0800000000000000
+      internalID: -6581071704320510857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__69
+      rect:
+        serializedVersion: 2
+        x: 3351
+        y: 4887
+        width: 59
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 395b8d526cef6e600800000000000000
+      internalID: 497364935862957459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__70
+      rect:
+        serializedVersion: 2
+        x: 3358
+        y: 4931
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: febc3c603e3699d10800000000000000
+      internalID: 2132845725258861551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__71
+      rect:
+        serializedVersion: 2
+        x: 3379
+        y: 4931
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69bccbcb2d77df6d0800000000000000
+      internalID: -2955074033491850346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__72
+      rect:
+        serializedVersion: 2
+        x: 3394
+        y: 4927
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fdb915613ccac0a0800000000000000
+      internalID: -6860446569823879689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__73
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 4922
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a493fc239bc4250800000000000000
+      internalID: 5930318437216242317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__74
+      rect:
+        serializedVersion: 2
+        x: 3493
+        y: 4936
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d930f82402e6b70800000000000000
+      internalID: 8894081784342617472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__75
+      rect:
+        serializedVersion: 2
+        x: 3527
+        y: 4925
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3baff90de183d0a20800000000000000
+      internalID: 3030139829290531507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__76
+      rect:
+        serializedVersion: 2
+        x: 3329
+        y: 4909
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c0a7b613b33e450800000000000000
+      internalID: 6116797802341862400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__77
+      rect:
+        serializedVersion: 2
+        x: 3402
+        y: 4913
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235d763e151fa6920800000000000000
+      internalID: 2984463037096252722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__78
+      rect:
+        serializedVersion: 2
+        x: 3411
+        y: 4912
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e22f03d9c82479920800000000000000
+      internalID: 2996937248738439726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__79
+      rect:
+        serializedVersion: 2
+        x: 3423
+        y: 4919
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b4690be6189d8f0800000000000000
+      internalID: -515238369948185809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__80
+      rect:
+        serializedVersion: 2
+        x: 3442
+        y: 4913
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a185981ced2b070800000000000000
+      internalID: 8120798000916732575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__81
+      rect:
+        serializedVersion: 2
+        x: 3479
+        y: 4891
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d4fa5f4dea52fb60800000000000000
+      internalID: 7778379481707377878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__82
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 4902
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 202365ab6b6849e50800000000000000
+      internalID: 6815220255486784002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__83
+      rect:
+        serializedVersion: 2
+        x: 3511
+        y: 4920
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6abf652cef16a350800000000000000
+      internalID: 6027540250382809707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__84
+      rect:
+        serializedVersion: 2
+        x: 3512
+        y: 4918
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21f39b7add7c2ed0800000000000000
+      internalID: -2437434920984645331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__85
+      rect:
+        serializedVersion: 2
+        x: 3531
+        y: 4890
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208d5a5ad8b1d67a0800000000000000
+      internalID: -6382414801730676734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__86
+      rect:
+        serializedVersion: 2
+        x: 3451
+        y: 4871
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6f1c3e6bf05dff0800000000000000
+      internalID: -12086145818954060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__87
+      rect:
+        serializedVersion: 2
+        x: 3470
+        y: 4905
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeec372d22114fb10800000000000000
+      internalID: 2014253774598819566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__88
+      rect:
+        serializedVersion: 2
+        x: 3470
+        y: 4890
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3a0b0ca6333fba0800000000000000
+      internalID: -6056440540290833457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__89
+      rect:
+        serializedVersion: 2
+        x: 3350
+        y: 4891
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc4425003eb61e250800000000000000
+      internalID: 5972173203577128141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__90
+      rect:
+        serializedVersion: 2
+        x: 3367
+        y: 4886
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ca1cb2b89712f10800000000000000
+      internalID: 2243207728048745582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__91
+      rect:
+        serializedVersion: 2
+        x: 3396
+        y: 4871
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0706b772091df9120800000000000000
+      internalID: 2422885541616509040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__92
+      rect:
+        serializedVersion: 2
+        x: 3435
+        y: 4891
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5782a65ecf57013e0800000000000000
+      internalID: -2085036898431391627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__93
+      rect:
+        serializedVersion: 2
+        x: 3481
+        y: 4877
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1f789384a24c460800000000000000
+      internalID: 7260974988919304681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__94
+      rect:
+        serializedVersion: 2
+        x: 3507
+        y: 4895
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b4ca9acfd2e5f60800000000000000
+      internalID: 8024902149222452109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__95
+      rect:
+        serializedVersion: 2
+        x: 3356
+        y: 4876
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82367d338394a7600800000000000000
+      internalID: 466766017123017512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__96
+      rect:
+        serializedVersion: 2
+        x: 3412
+        y: 4863
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23fa9d9612885a150800000000000000
+      internalID: 5883258165320593202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__97
+      rect:
+        serializedVersion: 2
+        x: 3505
+        y: 4847
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b787b761a4e35b0800000000000000
+      internalID: -5386786643867305139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__98
+      rect:
+        serializedVersion: 2
+        x: 3375
+        y: 4867
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd290a2c888a68500800000000000000
+      internalID: 398190922403189469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__99
+      rect:
+        serializedVersion: 2
+        x: 3494
+        y: 4858
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 410218ac64b26b990800000000000000
+      internalID: -7370656157100072940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__100
+      rect:
+        serializedVersion: 2
+        x: 3431
+        y: 4854
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4257387f978b760800000000000000
+      internalID: 7473857685590713557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__101
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 4843
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66dc8a130f75503f0800000000000000
+      internalID: -935244658472596122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__102
+      rect:
+        serializedVersion: 2
+        x: 3399
+        y: 4833
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153831ae20184c660800000000000000
+      internalID: 7405185536821003089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__103
+      rect:
+        serializedVersion: 2
+        x: 3406
+        y: 4805
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24cb25185f6e0ab60800000000000000
+      internalID: 7755452500443053122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__104
+      rect:
+        serializedVersion: 2
+        x: 3416
+        y: 4830
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7915af0797d0fd0800000000000000
+      internalID: -2374107902411434072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__105
+      rect:
+        serializedVersion: 2
+        x: 3428
+        y: 4826
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906b5a89f09cb5310800000000000000
+      internalID: 1394929578423989769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__106
+      rect:
+        serializedVersion: 2
+        x: 3433
+        y: 4809
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f7be6e1cd4961460800000000000000
+      internalID: 7212115526404716537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__107
+      rect:
+        serializedVersion: 2
+        x: 3458
+        y: 4827
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5710c9cd49d040dc0800000000000000
+      internalID: -3673796463019949707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__108
+      rect:
+        serializedVersion: 2
+        x: 3481
+        y: 4833
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12dc8dee6ad3d6910800000000000000
+      internalID: 1832188410590711073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__109
+      rect:
+        serializedVersion: 2
+        x: 3496
+        y: 4822
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89055acea0f172a60800000000000000
+      internalID: 7649116623892467864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__110
+      rect:
+        serializedVersion: 2
+        x: 3503
+        y: 4818
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 187f048a996583780800000000000000
+      internalID: -8703111061940668543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__111
+      rect:
+        serializedVersion: 2
+        x: 3425
+        y: 4813
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7021dc8ed9404ff30800000000000000
+      internalID: 4608313394968990215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__112
+      rect:
+        serializedVersion: 2
+        x: 3421
+        y: 4784
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60dfea0bf9f81df20800000000000000
+      internalID: 3445693105941970182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__113
+      rect:
+        serializedVersion: 2
+        x: 3425
+        y: 4804
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d92b174cd52affca0800000000000000
+      internalID: -5980883256513285475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__114
+      rect:
+        serializedVersion: 2
+        x: 3448
+        y: 4767
+        width: 65
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402f437de1dc762d0800000000000000
+      internalID: -3285431870800203260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__115
+      rect:
+        serializedVersion: 2
+        x: 3473
+        y: 4737
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46cb3735f9d0adb30800000000000000
+      internalID: 4312774571111726180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__116
+      rect:
+        serializedVersion: 2
+        x: 3512
+        y: 4757
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57372232c646da060800000000000000
+      internalID: 6966334614220731253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__117
+      rect:
+        serializedVersion: 2
+        x: 3460
+        y: 4751
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232e9a17514b0b6a0800000000000000
+      internalID: -6435445863318166990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__118
+      rect:
+        serializedVersion: 2
+        x: 3466
+        y: 4743
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fb71cd9c41d28060800000000000000
+      internalID: 6954350901607889912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__119
+      rect:
+        serializedVersion: 2
+        x: 3477
+        y: 4722
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93cf641bb3da6a20800000000000000
+      internalID: 3056488097579516827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__120
+      rect:
+        serializedVersion: 2
+        x: 3497
+        y: 4743
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 758c867ae7ed16740800000000000000
+      internalID: 5143636884989724759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__121
+      rect:
+        serializedVersion: 2
+        x: 3527
+        y: 4739
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eadc37e8098894390800000000000000
+      internalID: -7833579922387645010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__122
+      rect:
+        serializedVersion: 2
+        x: 3493
+        y: 4706
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7dc2059a7d4e870800000000000000
+      internalID: 8711324701435942851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__123
+      rect:
+        serializedVersion: 2
+        x: 3506
+        y: 4682
+        width: 17
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e03af837565e8e7b0800000000000000
+      internalID: -5194649946278616306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__124
+      rect:
+        serializedVersion: 2
+        x: 3473
+        y: 3065
+        width: 73
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9700a623bbdab2110800000000000000
+      internalID: 1237273542159630457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__125
+      rect:
+        serializedVersion: 2
+        x: 3501
+        y: 2913
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc774dfdf18e50870800000000000000
+      internalID: 8648573883031779279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__126
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 1805
+        width: 60
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce786e281ea8b3d60800000000000000
+      internalID: 7871037474928494572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__127
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 1877
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab37b5a1652fc9f0800000000000000
+      internalID: -446096736764085330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__128
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 1885
+        width: 60
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3be385bd14c9b00800000000000000
+      internalID: 836616041118217207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__129
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 1838
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 332cf86683cfceff0800000000000000
+      internalID: -5352180365147597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__130
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 1846
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18dfa85d4c4f3e70800000000000000
+      internalID: 9097073667395803165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__131
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 1818
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01565a0c4753c3340800000000000000
+      internalID: 4844806074708354320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__132
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 1824
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e13acc15f1e6ca70800000000000000
+      internalID: 8847006960882168296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__133
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 1842
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 922f20d5726ceac70800000000000000
+      internalID: 8984336179017216553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__134
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 1812
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b56708540847ff0800000000000000
+      internalID: -39265460743152768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__135
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 1794
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d35364fbde10690800000000000000
+      internalID: -7637562087271219847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__136
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 1704
+        width: 51
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 819384ced91673520800000000000000
+      internalID: 2681719434024335640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__137
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 1762
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 640b02db00f2ca150800000000000000
+      internalID: 5885130493285937222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__138
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 1782
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff56abfbf71a03b0800000000000000
+      internalID: -5545593620127129608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__139
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 1781
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd73938f72012baf0800000000000000
+      internalID: -382225254518802468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__140
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 1772
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2569ef8f4ee6ee910800000000000000
+      internalID: 1868552825114367570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__141
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 1766
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b3f8799f332b280800000000000000
+      internalID: -9029097155841803460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__142
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 1761
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66ba32783bcbf3c0800000000000000
+      internalID: -4324639573864171926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__143
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 1737
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae59bdd3409da1b70800000000000000
+      internalID: 8870641028300510698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__144
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 1753
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba05e5c97e4eaa2a0800000000000000
+      internalID: -6725311410112409429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__145
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 1762
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99b812adaf918160800000000000000
+      internalID: 7026072461772372378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__146
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1763
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386d321c3cfcab8b0800000000000000
+      internalID: -5135563985396705661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__147
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 1741
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207e5844e583c5630800000000000000
+      internalID: 3917067753433196290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__148
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 1733
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0f85351d9904040800000000000000
+      internalID: 4629869541262422247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__149
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 1718
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2450c6357286c00800000000000000
+      internalID: 894007765281096373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__150
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 1743
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3af2ea0541d42230800000000000000
+      internalID: 3613242895523576379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__151
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 1729
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1748b4ffd9eec4360800000000000000
+      internalID: 7155356270345290865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__152
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 1739
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d2b24382a1c06e0800000000000000
+      internalID: -1870090985289339587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__153
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 1744
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d2c14f8e95f3410800000000000000
+      internalID: 1458983661354102109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__154
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 1704
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb47b25ccc8bfdf60800000000000000
+      internalID: 8061365047637275839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__155
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 1587
+        width: 88
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e813e56709900dea0800000000000000
+      internalID: -5850165399888449138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__156
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 1683
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c30bb27c8be19840800000000000000
+      internalID: 5229219630806664132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__157
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1663
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db73d6730394bebf0800000000000000
+      internalID: -294060879225473091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__158
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 1637
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb6e776316919f230800000000000000
+      internalID: 3672994876413699774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__159
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 1654
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bae1a2d1953b6a00800000000000000
+      internalID: 750752663307676341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__160
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 1638
+        width: 27
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001d99c2e2b4d3960800000000000000
+      internalID: 7583300009250640128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__161
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 1596
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0629701d8382a0a50800000000000000
+      internalID: 6488042437670834784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__162
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 1603
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3815df1ee4e6977f0800000000000000
+      internalID: -614338589081382525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__163
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 1605
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4862daf23ed8cdb40800000000000000
+      internalID: 5466400054617908868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__164
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 1577
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8be2cc5bc0d8140800000000000000
+      internalID: 4723445559135746231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__165
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 1557
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f356240e989685c50800000000000000
+      internalID: 6654184490333791551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__166
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 1562
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b920ebd4a9ed85a80800000000000000
+      internalID: -8477781544214330725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__167
+      rect:
+        serializedVersion: 2
+        x: 3831
+        y: 1326
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f0bba90aa39ab10800000000000000
+      internalID: 1993188771553283852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__168
+      rect:
+        serializedVersion: 2
+        x: 3802
+        y: 1278
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e900df247f644990800000000000000
+      internalID: -7402669342681200157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__169
+      rect:
+        serializedVersion: 2
+        x: 2732
+        y: 1149
+        width: 61
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce09d690b9bda5630800000000000000
+      internalID: 3916684284876656876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__170
+      rect:
+        serializedVersion: 2
+        x: 2793
+        y: 1221
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96f47e9cf0f3c870800000000000000
+      internalID: 8702063872790820511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__171
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 1229
+        width: 60
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc806e51d4538530800000000000000
+      internalID: 3856018964167560378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__172
+      rect:
+        serializedVersion: 2
+        x: 2791
+        y: 1181
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc83043b0e641040800000000000000
+      internalID: 4617436512357944564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__173
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 1189
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bbf12bc33390e7a0800000000000000
+      internalID: -6349913623931782218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__174
+      rect:
+        serializedVersion: 2
+        x: 2809
+        y: 1160
+        width: 75
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd98cd183bfe6630800000000000000
+      internalID: 3922348543922707903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__175
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 1012
+        width: 73
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e15278a442731660800000000000000
+      internalID: 7355348255635558887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__176
+      rect:
+        serializedVersion: 2
+        x: 2932
+        y: 1186
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf4a584f797a42820800000000000000
+      internalID: 2892621131763000571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__177
+      rect:
+        serializedVersion: 2
+        x: 2950
+        y: 1164
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e2cda72154e0560800000000000000
+      internalID: 7281833593177648752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__178
+      rect:
+        serializedVersion: 2
+        x: 2868
+        y: 1138
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5efaf6809d606c0f0800000000000000
+      internalID: -1097181929998929947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__179
+      rect:
+        serializedVersion: 2
+        x: 2805
+        y: 1120
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357fdd0b59deac970800000000000000
+      internalID: 8776088051058079571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__180
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 1106
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb76336be77cafb00800000000000000
+      internalID: 863221625631500220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__181
+      rect:
+        serializedVersion: 2
+        x: 2818
+        y: 1125
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355a0e60bb36c1040800000000000000
+      internalID: 4619676972700706131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__182
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 1072
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d38f5fed42f97c0800000000000000
+      internalID: -4062487798836871905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__183
+      rect:
+        serializedVersion: 2
+        x: 2793
+        y: 1111
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b5f1e750b83dea0800000000000000
+      internalID: -5849178635317060747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__184
+      rect:
+        serializedVersion: 2
+        x: 2793
+        y: 1104
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 556c213b031fe9b60800000000000000
+      internalID: 7754900799843649109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__185
+      rect:
+        serializedVersion: 2
+        x: 2813
+        y: 1062
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b864b911bf47cdb90800000000000000
+      internalID: -7215763881273375093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__186
+      rect:
+        serializedVersion: 2
+        x: 2845
+        y: 1096
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20919215dd6a59cb0800000000000000
+      internalID: -4857793153569580798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__187
+      rect:
+        serializedVersion: 2
+        x: 2804
+        y: 1085
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71aa3caf49d7dc190800000000000000
+      internalID: -7940552489168557545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__188
+      rect:
+        serializedVersion: 2
+        x: 2809
+        y: 1077
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82fdaedbe4fb5fdd0800000000000000
+      internalID: -2452844077118726360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__189
+      rect:
+        serializedVersion: 2
+        x: 2845
+        y: 1087
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfbc8073e9fd5cd50800000000000000
+      internalID: 6757052686560447483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__190
+      rect:
+        serializedVersion: 2
+        x: 2851
+        y: 1065
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99cab7e5d01b5c450800000000000000
+      internalID: 6108483140575800473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__191
+      rect:
+        serializedVersion: 2
+        x: 2914
+        y: 1082
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88068f93fd5d5710800000000000000
+      internalID: 1683605136641230987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__192
+      rect:
+        serializedVersion: 2
+        x: 2930
+        y: 1088
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e1443950d5b5bd0800000000000000
+      internalID: -2640414477995729284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__193
+      rect:
+        serializedVersion: 2
+        x: 2867
+        y: 1048
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a5305d840bfc420800000000000000
+      internalID: 2652532532402412052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__194
+      rect:
+        serializedVersion: 2
+        x: 3351
+        y: 1004
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a901f6ed193c07190800000000000000
+      internalID: -7966652709548912486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__195
+      rect:
+        serializedVersion: 2
+        x: 2852
+        y: 1027
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ef2300688ad17f0800000000000000
+      internalID: -640170278534316451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__196
+      rect:
+        serializedVersion: 2
+        x: 2865
+        y: 1007
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf0bc5dface3f3e0800000000000000
+      internalID: -2021011567808933966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__197
+      rect:
+        serializedVersion: 2
+        x: 2897
+        y: 1006
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec87416c02a953c0800000000000000
+      internalID: -4370283789330969371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__198
+      rect:
+        serializedVersion: 2
+        x: 2875
+        y: 981
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74eb19dec138abba0800000000000000
+      internalID: -6072396987287617977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__199
+      rect:
+        serializedVersion: 2
+        x: 2879
+        y: 998
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84611e999419fc810800000000000000
+      internalID: 1787807322389681736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__200
+      rect:
+        serializedVersion: 2
+        x: 2899
+        y: 962
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e0e49d3848a9b00800000000000000
+      internalID: 836126382652001842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__201
+      rect:
+        serializedVersion: 2
+        x: 2951
+        y: 961
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe6a27b820f04730800000000000000
+      internalID: 3981446128257887935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__202
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 808
+        width: 139
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a2d1b0573b16c20800000000000000
+      internalID: 3198034525688769134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__203
+      rect:
+        serializedVersion: 2
+        x: 2914
+        y: 937
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3041a40d321aa6a40800000000000000
+      internalID: 5362275481528439811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__204
+      rect:
+        serializedVersion: 2
+        x: 2926
+        y: 930
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19132d3ea8fbb9bd0800000000000000
+      internalID: -2622291754764586607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__205
+      rect:
+        serializedVersion: 2
+        x: 2933
+        y: 948
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95eab344a7e21c7a0800000000000000
+      internalID: -6358750096204779943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__206
+      rect:
+        serializedVersion: 2
+        x: 2950
+        y: 931
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23603604327d5360800000000000000
+      internalID: 7160004550356656940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__207
+      rect:
+        serializedVersion: 2
+        x: 2978
+        y: 932
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37b0da7d29806c20800000000000000
+      internalID: 3197706563860084539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__208
+      rect:
+        serializedVersion: 2
+        x: 2931
+        y: 915
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ba82d0555e530e0800000000000000
+      internalID: -2290672681992279178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__209
+      rect:
+        serializedVersion: 2
+        x: 2959
+        y: 875
+        width: 17
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d35c068a424a860800000000000000
+      internalID: 7540191981721697690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__210
+      rect:
+        serializedVersion: 2
+        x: 2946
+        y: 900
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b114e02c6cbe1df0800000000000000
+      internalID: -207521360218156620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__211
+      rect:
+        serializedVersion: 2
+        x: 3644
+        y: 778
+        width: 80
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3d29e5a1a813e270800000000000000
+      internalID: 8278487622589427004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__212
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 782
+        width: 61
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e461d2ddc4f9f6010800000000000000
+      internalID: 1184340379498780238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__213
+      rect:
+        serializedVersion: 2
+        x: 3389
+        y: 843
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2d06851e980db20800000000000000
+      internalID: 3157174939730105043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__214
+      rect:
+        serializedVersion: 2
+        x: 3395
+        y: 867
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8c7d279cfb9b470800000000000000
+      internalID: 8410964651027187929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__215
+      rect:
+        serializedVersion: 2
+        x: 3444
+        y: 834
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb229cb0859d0ea40800000000000000
+      internalID: 5395551325767934651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__216
+      rect:
+        serializedVersion: 2
+        x: 3386
+        y: 819
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a264e6f9f8cdd740800000000000000
+      internalID: 5178516122460512931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__217
+      rect:
+        serializedVersion: 2
+        x: 3389
+        y: 791
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ae30c113d1138b0800000000000000
+      internalID: -5174322400111367676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__218
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 827
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9131cd57a1976fa20800000000000000
+      internalID: 3095794948417262361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__219
+      rect:
+        serializedVersion: 2
+        x: 3527
+        y: 823
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ac10e6f33b70040800000000000000
+      internalID: 4613853428274285074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__220
+      rect:
+        serializedVersion: 2
+        x: 3463
+        y: 775
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b230aa5742b15edf0800000000000000
+      internalID: -151685169040194773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__221
+      rect:
+        serializedVersion: 2
+        x: 3516
+        y: 649
+        width: 72
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 227bf9429e1146a20800000000000000
+      internalID: 3054586140303537954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__222
+      rect:
+        serializedVersion: 2
+        x: 3542
+        y: 793
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650e7b45796fee180800000000000000
+      internalID: -9084052268537880490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__223
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 758
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce0522cb83c69350800000000000000
+      internalID: 6023216556679696064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__224
+      rect:
+        serializedVersion: 2
+        x: 3403
+        y: 744
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 579a9018872c79fa0800000000000000
+      internalID: -5793948572772095627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__225
+      rect:
+        serializedVersion: 2
+        x: 3413
+        y: 762
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c150169443dd85530800000000000000
+      internalID: 3844065498599851292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__226
+      rect:
+        serializedVersion: 2
+        x: 3451
+        y: 754
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eff4cf41c2fbd690800000000000000
+      internalID: -7576195036039807002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__227
+      rect:
+        serializedVersion: 2
+        x: 3388
+        y: 746
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ebfe7456d3933a80800000000000000
+      internalID: -8488278323913360407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__228
+      rect:
+        serializedVersion: 2
+        x: 3388
+        y: 742
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a020a39eb8f33b20800000000000000
+      internalID: 3113105264847364262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__229
+      rect:
+        serializedVersion: 2
+        x: 3408
+        y: 718
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31200c672bacae260800000000000000
+      internalID: 7127732228112515603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__230
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 734
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83435218ac82b2f0800000000000000
+      internalID: -958549117186653301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__231
+      rect:
+        serializedVersion: 2
+        x: 3460
+        y: 743
+        width: 35
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50016585d6361cd90800000000000000
+      internalID: -7079267817965088763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__232
+      rect:
+        serializedVersion: 2
+        x: 3399
+        y: 722
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd28f5947d536cc0800000000000000
+      internalID: -3719026111964238373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__233
+      rect:
+        serializedVersion: 2
+        x: 3405
+        y: 700
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 263f6136f931acf20800000000000000
+      internalID: 3443586440361341794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__234
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 724
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6434db7d867c796f0800000000000000
+      internalID: -677853965785939130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__235
+      rect:
+        serializedVersion: 2
+        x: 3446
+        y: 702
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e6b2026e7a29ac0800000000000000
+      internalID: -3849830124624318917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__236
+      rect:
+        serializedVersion: 2
+        x: 3474
+        y: 710
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea2884479a7db5f60800000000000000
+      internalID: 8024244283891024558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__237
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 720
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97b36bc5fa913280800000000000000
+      internalID: -9065294194450122851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__238
+      rect:
+        serializedVersion: 2
+        x: 3526
+        y: 725
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ccd4cfee25929260800000000000000
+      internalID: 7102903591140383941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__239
+      rect:
+        serializedVersion: 2
+        x: 3462
+        y: 695
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d283e66a418f1430800000000000000
+      internalID: 3755862770804032216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__240
+      rect:
+        serializedVersion: 2
+        x: 3448
+        y: 664
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb1b7dc91bbf9930800000000000000
+      internalID: 4152243100954860495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__241
+      rect:
+        serializedVersion: 2
+        x: 3460
+        y: 645
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443967cedbecf8310800000000000000
+      internalID: 1409572523501589316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__242
+      rect:
+        serializedVersion: 2
+        x: 3469
+        y: 635
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9745a533a47e45d60800000000000000
+      internalID: 7878175954052994169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__243
+      rect:
+        serializedVersion: 2
+        x: 3473
+        y: 644
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af485fb6799b063b0800000000000000
+      internalID: -5521209083153775366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__244
+      rect:
+        serializedVersion: 2
+        x: 3483
+        y: 643
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2690a321761fc9950800000000000000
+      internalID: 6457301390732167522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__245
+      rect:
+        serializedVersion: 2
+        x: 3469
+        y: 615
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc6f0fab9507cd50800000000000000
+      internalID: 6757375932107812029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__246
+      rect:
+        serializedVersion: 2
+        x: 3512
+        y: 598
+        width: 49
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 322fa3f903fc89760800000000000000
+      internalID: 7464944190103417379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__247
+      rect:
+        serializedVersion: 2
+        x: 3513
+        y: 614
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50156a1d33814fb80800000000000000
+      internalID: -8362031997280431867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__248
+      rect:
+        serializedVersion: 2
+        x: 3496
+        y: 597
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a865b6f8605708b50800000000000000
+      internalID: 6593398525506836106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__249
+      rect:
+        serializedVersion: 2
+        x: 3560
+        y: 600
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3df947560f85e320800000000000000
+      internalID: 2586630818391260479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__250
+      rect:
+        serializedVersion: 2
+        x: 3509
+        y: 568
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3d07e3002bc3470800000000000000
+      internalID: 8375765121119605703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__251
+      rect:
+        serializedVersion: 2
+        x: 3515
+        y: 574
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b34c7a71118d2f280800000000000000
+      internalID: -9010902336492026821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__252
+      rect:
+        serializedVersion: 2
+        x: 3545
+        y: 569
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d3bf0a8acf6a34b0800000000000000
+      internalID: -5459928682542943275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__253
+      rect:
+        serializedVersion: 2
+        x: 3573
+        y: 570
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972c41e0a45fb2a60800000000000000
+      internalID: 7650478090431545977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__254
+      rect:
+        serializedVersion: 2
+        x: 3526
+        y: 553
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eeccce9c8fe34e60800000000000000
+      internalID: 7945457554850369254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__255
+      rect:
+        serializedVersion: 2
+        x: 3554
+        y: 513
+        width: 17
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc041b03874f5a50800000000000000
+      internalID: 6512002214353177854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa Sereno__256
+      rect:
+        serializedVersion: 2
+        x: 3542
+        y: 537
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8cf0d587183a0930800000000000000
+      internalID: 4110159283609468044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Casa Sereno__0: 9172212441452176272
+      Casa Sereno__1: 2263548114016932569
+      Casa Sereno__10: 8540432911287443201
+      Casa Sereno__100: 7473857685590713557
+      Casa Sereno__101: -935244658472596122
+      Casa Sereno__102: 7405185536821003089
+      Casa Sereno__103: 7755452500443053122
+      Casa Sereno__104: -2374107902411434072
+      Casa Sereno__105: 1394929578423989769
+      Casa Sereno__106: 7212115526404716537
+      Casa Sereno__107: -3673796463019949707
+      Casa Sereno__108: 1832188410590711073
+      Casa Sereno__109: 7649116623892467864
+      Casa Sereno__11: 7094401298068275718
+      Casa Sereno__110: -8703111061940668543
+      Casa Sereno__111: 4608313394968990215
+      Casa Sereno__112: 3445693105941970182
+      Casa Sereno__113: -5980883256513285475
+      Casa Sereno__114: -3285431870800203260
+      Casa Sereno__115: 4312774571111726180
+      Casa Sereno__116: 6966334614220731253
+      Casa Sereno__117: -6435445863318166990
+      Casa Sereno__118: 6954350901607889912
+      Casa Sereno__119: 3056488097579516827
+      Casa Sereno__12: 1932243131902001877
+      Casa Sereno__120: 5143636884989724759
+      Casa Sereno__121: -7833579922387645010
+      Casa Sereno__122: 8711324701435942851
+      Casa Sereno__123: -5194649946278616306
+      Casa Sereno__124: 1237273542159630457
+      Casa Sereno__125: 8648573883031779279
+      Casa Sereno__126: 7871037474928494572
+      Casa Sereno__127: -446096736764085330
+      Casa Sereno__128: 836616041118217207
+      Casa Sereno__129: -5352180365147597
+      Casa Sereno__13: 7064150708877964502
+      Casa Sereno__130: 9097073667395803165
+      Casa Sereno__131: 4844806074708354320
+      Casa Sereno__132: 8847006960882168296
+      Casa Sereno__133: 8984336179017216553
+      Casa Sereno__134: -39265460743152768
+      Casa Sereno__135: -7637562087271219847
+      Casa Sereno__136: 2681719434024335640
+      Casa Sereno__137: 5885130493285937222
+      Casa Sereno__138: -5545593620127129608
+      Casa Sereno__139: -382225254518802468
+      Casa Sereno__14: -160632553901046123
+      Casa Sereno__140: 1868552825114367570
+      Casa Sereno__141: -9029097155841803460
+      Casa Sereno__142: -4324639573864171926
+      Casa Sereno__143: 8870641028300510698
+      Casa Sereno__144: -6725311410112409429
+      Casa Sereno__145: 7026072461772372378
+      Casa Sereno__146: -5135563985396705661
+      Casa Sereno__147: 3917067753433196290
+      Casa Sereno__148: 4629869541262422247
+      Casa Sereno__149: 894007765281096373
+      Casa Sereno__15: -3410308984727221030
+      Casa Sereno__150: 3613242895523576379
+      Casa Sereno__151: 7155356270345290865
+      Casa Sereno__152: -1870090985289339587
+      Casa Sereno__153: 1458983661354102109
+      Casa Sereno__154: 8061365047637275839
+      Casa Sereno__155: -5850165399888449138
+      Casa Sereno__156: 5229219630806664132
+      Casa Sereno__157: -294060879225473091
+      Casa Sereno__158: 3672994876413699774
+      Casa Sereno__159: 750752663307676341
+      Casa Sereno__16: 8705192998959199713
+      Casa Sereno__160: 7583300009250640128
+      Casa Sereno__161: 6488042437670834784
+      Casa Sereno__162: -614338589081382525
+      Casa Sereno__163: 5466400054617908868
+      Casa Sereno__164: 4723445559135746231
+      Casa Sereno__165: 6654184490333791551
+      Casa Sereno__166: -8477781544214330725
+      Casa Sereno__167: 1993188771553283852
+      Casa Sereno__168: -7402669342681200157
+      Casa Sereno__169: 3916684284876656876
+      Casa Sereno__17: -7051244593334842425
+      Casa Sereno__170: 8702063872790820511
+      Casa Sereno__171: 3856018964167560378
+      Casa Sereno__172: 4617436512357944564
+      Casa Sereno__173: -6349913623931782218
+      Casa Sereno__174: 3922348543922707903
+      Casa Sereno__175: 7355348255635558887
+      Casa Sereno__176: 2892621131763000571
+      Casa Sereno__177: 7281833593177648752
+      Casa Sereno__178: -1097181929998929947
+      Casa Sereno__179: 8776088051058079571
+      Casa Sereno__18: -6715932054393068531
+      Casa Sereno__180: 863221625631500220
+      Casa Sereno__181: 4619676972700706131
+      Casa Sereno__182: -4062487798836871905
+      Casa Sereno__183: -5849178635317060747
+      Casa Sereno__184: 7754900799843649109
+      Casa Sereno__185: -7215763881273375093
+      Casa Sereno__186: -4857793153569580798
+      Casa Sereno__187: -7940552489168557545
+      Casa Sereno__188: -2452844077118726360
+      Casa Sereno__189: 6757052686560447483
+      Casa Sereno__19: 2233132574730127701
+      Casa Sereno__190: 6108483140575800473
+      Casa Sereno__191: 1683605136641230987
+      Casa Sereno__192: -2640414477995729284
+      Casa Sereno__193: 2652532532402412052
+      Casa Sereno__194: -7966652709548912486
+      Casa Sereno__195: -640170278534316451
+      Casa Sereno__196: -2021011567808933966
+      Casa Sereno__197: -4370283789330969371
+      Casa Sereno__198: -6072396987287617977
+      Casa Sereno__199: 1787807322389681736
+      Casa Sereno__2: -2723468469666328672
+      Casa Sereno__20: -6437377619088098277
+      Casa Sereno__200: 836126382652001842
+      Casa Sereno__201: 3981446128257887935
+      Casa Sereno__202: 3198034525688769134
+      Casa Sereno__203: 5362275481528439811
+      Casa Sereno__204: -2622291754764586607
+      Casa Sereno__205: -6358750096204779943
+      Casa Sereno__206: 7160004550356656940
+      Casa Sereno__207: 3197706563860084539
+      Casa Sereno__208: -2290672681992279178
+      Casa Sereno__209: 7540191981721697690
+      Casa Sereno__21: -172244670192743247
+      Casa Sereno__210: -207521360218156620
+      Casa Sereno__211: 8278487622589427004
+      Casa Sereno__212: 1184340379498780238
+      Casa Sereno__213: 3157174939730105043
+      Casa Sereno__214: 8410964651027187929
+      Casa Sereno__215: 5395551325767934651
+      Casa Sereno__216: 5178516122460512931
+      Casa Sereno__217: -5174322400111367676
+      Casa Sereno__218: 3095794948417262361
+      Casa Sereno__219: 4613853428274285074
+      Casa Sereno__22: -3665201487908724277
+      Casa Sereno__220: -151685169040194773
+      Casa Sereno__221: 3054586140303537954
+      Casa Sereno__222: -9084052268537880490
+      Casa Sereno__223: 6023216556679696064
+      Casa Sereno__224: -5793948572772095627
+      Casa Sereno__225: 3844065498599851292
+      Casa Sereno__226: -7576195036039807002
+      Casa Sereno__227: -8488278323913360407
+      Casa Sereno__228: 3113105264847364262
+      Casa Sereno__229: 7127732228112515603
+      Casa Sereno__23: -1353590174788856299
+      Casa Sereno__230: -958549117186653301
+      Casa Sereno__231: -7079267817965088763
+      Casa Sereno__232: -3719026111964238373
+      Casa Sereno__233: 3443586440361341794
+      Casa Sereno__234: -677853965785939130
+      Casa Sereno__235: -3849830124624318917
+      Casa Sereno__236: 8024244283891024558
+      Casa Sereno__237: -9065294194450122851
+      Casa Sereno__238: 7102903591140383941
+      Casa Sereno__239: 3755862770804032216
+      Casa Sereno__24: 6493533533556115384
+      Casa Sereno__240: 4152243100954860495
+      Casa Sereno__241: 1409572523501589316
+      Casa Sereno__242: 7878175954052994169
+      Casa Sereno__243: -5521209083153775366
+      Casa Sereno__244: 6457301390732167522
+      Casa Sereno__245: 6757375932107812029
+      Casa Sereno__246: 7464944190103417379
+      Casa Sereno__247: -8362031997280431867
+      Casa Sereno__248: 6593398525506836106
+      Casa Sereno__249: 2586630818391260479
+      Casa Sereno__25: 8356019119944951731
+      Casa Sereno__250: 8375765121119605703
+      Casa Sereno__251: -9010902336492026821
+      Casa Sereno__252: -5459928682542943275
+      Casa Sereno__253: 7650478090431545977
+      Casa Sereno__254: 7945457554850369254
+      Casa Sereno__255: 6512002214353177854
+      Casa Sereno__256: 4110159283609468044
+      Casa Sereno__26: 3865321411570072679
+      Casa Sereno__27: 6610350269042674170
+      Casa Sereno__28: -1971619358662643522
+      Casa Sereno__29: 4294087108890512534
+      Casa Sereno__3: -1598427698199023595
+      Casa Sereno__30: 2841012363756693304
+      Casa Sereno__31: 5899159949074175745
+      Casa Sereno__32: 2583495362011105214
+      Casa Sereno__33: -2860472840520623505
+      Casa Sereno__34: -4212603656675787510
+      Casa Sereno__35: -2439511592097640329
+      Casa Sereno__36: 4337462596369652104
+      Casa Sereno__37: -6901373823554867597
+      Casa Sereno__38: 8096053195338225328
+      Casa Sereno__39: 3655795372884279044
+      Casa Sereno__4: 4557352226724897486
+      Casa Sereno__40: 5048000531677173827
+      Casa Sereno__41: -2388327195816452661
+      Casa Sereno__42: -2495571834975895875
+      Casa Sereno__43: 5468432527974744189
+      Casa Sereno__44: 1033542415598695032
+      Casa Sereno__45: 8629335325674663175
+      Casa Sereno__46: 8064633478157316879
+      Casa Sereno__47: -4045020556309495561
+      Casa Sereno__48: 3286714828254820706
+      Casa Sereno__49: -2407305762726337779
+      Casa Sereno__5: -3651232469261275342
+      Casa Sereno__50: 2671553535995152768
+      Casa Sereno__51: 4175093300644832549
+      Casa Sereno__52: -8037887486578893157
+      Casa Sereno__53: -8826052164486813801
+      Casa Sereno__54: -1987851864280505156
+      Casa Sereno__55: -1797741393642193485
+      Casa Sereno__56: 3092553491790398667
+      Casa Sereno__57: -4229872736559015839
+      Casa Sereno__58: -3563661136975063034
+      Casa Sereno__59: -5697527839044547570
+      Casa Sereno__6: -3119356933307238398
+      Casa Sereno__60: 933103586592045683
+      Casa Sereno__61: -2758323951299233809
+      Casa Sereno__62: -7055216557470867818
+      Casa Sereno__63: -6844834749451947688
+      Casa Sereno__64: 1244139166957156210
+      Casa Sereno__65: 7426080798397589231
+      Casa Sereno__66: 7442480361190179669
+      Casa Sereno__67: 8846057157329735348
+      Casa Sereno__68: -6581071704320510857
+      Casa Sereno__69: 497364935862957459
+      Casa Sereno__7: -9137322411359863296
+      Casa Sereno__70: 2132845725258861551
+      Casa Sereno__71: -2955074033491850346
+      Casa Sereno__72: -6860446569823879689
+      Casa Sereno__73: 5930318437216242317
+      Casa Sereno__74: 8894081784342617472
+      Casa Sereno__75: 3030139829290531507
+      Casa Sereno__76: 6116797802341862400
+      Casa Sereno__77: 2984463037096252722
+      Casa Sereno__78: 2996937248738439726
+      Casa Sereno__79: -515238369948185809
+      Casa Sereno__8: -2134204869592399849
+      Casa Sereno__80: 8120798000916732575
+      Casa Sereno__81: 7778379481707377878
+      Casa Sereno__82: 6815220255486784002
+      Casa Sereno__83: 6027540250382809707
+      Casa Sereno__84: -2437434920984645331
+      Casa Sereno__85: -6382414801730676734
+      Casa Sereno__86: -12086145818954060
+      Casa Sereno__87: 2014253774598819566
+      Casa Sereno__88: -6056440540290833457
+      Casa Sereno__89: 5972173203577128141
+      Casa Sereno__9: 8771838185886207836
+      Casa Sereno__90: 2243207728048745582
+      Casa Sereno__91: 2422885541616509040
+      Casa Sereno__92: -2085036898431391627
+      Casa Sereno__93: 7260974988919304681
+      Casa Sereno__94: 8024902149222452109
+      Casa Sereno__95: 466766017123017512
+      Casa Sereno__96: 5883258165320593202
+      Casa Sereno__97: -5386786643867305139
+      Casa Sereno__98: 398190922403189469
+      Casa Sereno__99: -7370656157100072940
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

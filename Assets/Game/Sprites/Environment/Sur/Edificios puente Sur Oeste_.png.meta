@@ -1,0 +1,4745 @@
+fileFormatVersion: 2
+guid: 301e3147f7a2d1140ac6e64011f2161e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -274285780131683312
+    second: Edificios puente Sur Oeste__0
+  - first:
+      213: 2104309507492252327
+    second: Edificios puente Sur Oeste__1
+  - first:
+      213: 3169323558617207061
+    second: Edificios puente Sur Oeste__2
+  - first:
+      213: 1031804744571810925
+    second: Edificios puente Sur Oeste__3
+  - first:
+      213: 7028741503892150782
+    second: Edificios puente Sur Oeste__4
+  - first:
+      213: -7408208503843150091
+    second: Edificios puente Sur Oeste__5
+  - first:
+      213: 6160023133371851673
+    second: Edificios puente Sur Oeste__6
+  - first:
+      213: -136738080964976133
+    second: Edificios puente Sur Oeste__7
+  - first:
+      213: 489059335232648856
+    second: Edificios puente Sur Oeste__8
+  - first:
+      213: 1720882306019456807
+    second: Edificios puente Sur Oeste__9
+  - first:
+      213: 3925333757066517644
+    second: Edificios puente Sur Oeste__10
+  - first:
+      213: -4918743328062287113
+    second: Edificios puente Sur Oeste__11
+  - first:
+      213: 6740351423817521860
+    second: Edificios puente Sur Oeste__12
+  - first:
+      213: 1277933719978387075
+    second: Edificios puente Sur Oeste__13
+  - first:
+      213: -6216689633920540379
+    second: Edificios puente Sur Oeste__14
+  - first:
+      213: 2067541300282039363
+    second: Edificios puente Sur Oeste__15
+  - first:
+      213: 2150813889596275453
+    second: Edificios puente Sur Oeste__16
+  - first:
+      213: 8664621912691308522
+    second: Edificios puente Sur Oeste__17
+  - first:
+      213: 759855100385194314
+    second: Edificios puente Sur Oeste__18
+  - first:
+      213: -4232102796124773293
+    second: Edificios puente Sur Oeste__19
+  - first:
+      213: 3248667722520487099
+    second: Edificios puente Sur Oeste__20
+  - first:
+      213: 1190751095341609210
+    second: Edificios puente Sur Oeste__21
+  - first:
+      213: -2933267306161742809
+    second: Edificios puente Sur Oeste__22
+  - first:
+      213: -8381949277810670737
+    second: Edificios puente Sur Oeste__23
+  - first:
+      213: 8407931120819704829
+    second: Edificios puente Sur Oeste__24
+  - first:
+      213: 3792602119922255980
+    second: Edificios puente Sur Oeste__25
+  - first:
+      213: 100249728120523759
+    second: Edificios puente Sur Oeste__26
+  - first:
+      213: 2327753050756325685
+    second: Edificios puente Sur Oeste__27
+  - first:
+      213: -62925603762299921
+    second: Edificios puente Sur Oeste__28
+  - first:
+      213: -8905863993211861475
+    second: Edificios puente Sur Oeste__29
+  - first:
+      213: 936340673750420595
+    second: Edificios puente Sur Oeste__30
+  - first:
+      213: 4046110125065078847
+    second: Edificios puente Sur Oeste__31
+  - first:
+      213: -8031201517914180582
+    second: Edificios puente Sur Oeste__32
+  - first:
+      213: -152476266659059130
+    second: Edificios puente Sur Oeste__33
+  - first:
+      213: 1305233180324190018
+    second: Edificios puente Sur Oeste__34
+  - first:
+      213: -7954231761897861860
+    second: Edificios puente Sur Oeste__35
+  - first:
+      213: -7508329567025632043
+    second: Edificios puente Sur Oeste__36
+  - first:
+      213: 8771860502624622417
+    second: Edificios puente Sur Oeste__37
+  - first:
+      213: 3263237438978999132
+    second: Edificios puente Sur Oeste__38
+  - first:
+      213: -4993084711296964085
+    second: Edificios puente Sur Oeste__39
+  - first:
+      213: 4509761893658008883
+    second: Edificios puente Sur Oeste__40
+  - first:
+      213: 6351389347808812055
+    second: Edificios puente Sur Oeste__41
+  - first:
+      213: 7398986163639031268
+    second: Edificios puente Sur Oeste__42
+  - first:
+      213: -5544152007165324890
+    second: Edificios puente Sur Oeste__43
+  - first:
+      213: -2421824999944320351
+    second: Edificios puente Sur Oeste__44
+  - first:
+      213: 3607572765181969253
+    second: Edificios puente Sur Oeste__45
+  - first:
+      213: -5722869922016420846
+    second: Edificios puente Sur Oeste__46
+  - first:
+      213: -1584177710037869515
+    second: Edificios puente Sur Oeste__47
+  - first:
+      213: -2389243892244984743
+    second: Edificios puente Sur Oeste__48
+  - first:
+      213: 3903752187356270731
+    second: Edificios puente Sur Oeste__49
+  - first:
+      213: 1453122737250466003
+    second: Edificios puente Sur Oeste__50
+  - first:
+      213: -4808088341354359131
+    second: Edificios puente Sur Oeste__51
+  - first:
+      213: 34240316460177529
+    second: Edificios puente Sur Oeste__52
+  - first:
+      213: -2248703654120232983
+    second: Edificios puente Sur Oeste__53
+  - first:
+      213: 8288802938154301667
+    second: Edificios puente Sur Oeste__54
+  - first:
+      213: -5070569652614465462
+    second: Edificios puente Sur Oeste__55
+  - first:
+      213: -865893523791303113
+    second: Edificios puente Sur Oeste__56
+  - first:
+      213: -4258205337196591767
+    second: Edificios puente Sur Oeste__57
+  - first:
+      213: -6861755866490150998
+    second: Edificios puente Sur Oeste__58
+  - first:
+      213: -5497168948926341755
+    second: Edificios puente Sur Oeste__59
+  - first:
+      213: 2322965077116391162
+    second: Edificios puente Sur Oeste__60
+  - first:
+      213: 6942288104271930134
+    second: Edificios puente Sur Oeste__61
+  - first:
+      213: 4136491028508700162
+    second: Edificios puente Sur Oeste__62
+  - first:
+      213: -8774735516873179035
+    second: Edificios puente Sur Oeste__63
+  - first:
+      213: -7528859336094240602
+    second: Edificios puente Sur Oeste__64
+  - first:
+      213: 3030423640331235380
+    second: Edificios puente Sur Oeste__65
+  - first:
+      213: -2297101564717968204
+    second: Edificios puente Sur Oeste__66
+  - first:
+      213: -2805996472312891004
+    second: Edificios puente Sur Oeste__67
+  - first:
+      213: 3435369359443196911
+    second: Edificios puente Sur Oeste__68
+  - first:
+      213: -7548833936202516195
+    second: Edificios puente Sur Oeste__69
+  - first:
+      213: -5414141318849215806
+    second: Edificios puente Sur Oeste__70
+  - first:
+      213: 7394402289620417533
+    second: Edificios puente Sur Oeste__71
+  - first:
+      213: -136231036776277024
+    second: Edificios puente Sur Oeste__72
+  - first:
+      213: -8533876587591594402
+    second: Edificios puente Sur Oeste__73
+  - first:
+      213: -7194569015495591193
+    second: Edificios puente Sur Oeste__74
+  - first:
+      213: -6216281035147380574
+    second: Edificios puente Sur Oeste__75
+  - first:
+      213: 3224236206655987374
+    second: Edificios puente Sur Oeste__76
+  - first:
+      213: -2218687932778747987
+    second: Edificios puente Sur Oeste__77
+  - first:
+      213: 7993666607223255321
+    second: Edificios puente Sur Oeste__78
+  - first:
+      213: 7494219347617085618
+    second: Edificios puente Sur Oeste__79
+  - first:
+      213: 5112037908746770717
+    second: Edificios puente Sur Oeste__80
+  - first:
+      213: -8575075922019696838
+    second: Edificios puente Sur Oeste__81
+  - first:
+      213: 6822829861645024016
+    second: Edificios puente Sur Oeste__82
+  - first:
+      213: 7975313017533981091
+    second: Edificios puente Sur Oeste__83
+  - first:
+      213: -7389730317707177496
+    second: Edificios puente Sur Oeste__84
+  - first:
+      213: -6241047399225582492
+    second: Edificios puente Sur Oeste__85
+  - first:
+      213: -647833834388785607
+    second: Edificios puente Sur Oeste__86
+  - first:
+      213: -4849274399622660590
+    second: Edificios puente Sur Oeste__87
+  - first:
+      213: -9183371124038662036
+    second: Edificios puente Sur Oeste__88
+  - first:
+      213: -4766846951337133573
+    second: Edificios puente Sur Oeste__89
+  - first:
+      213: -206759903135980718
+    second: Edificios puente Sur Oeste__90
+  - first:
+      213: 3678972446184287113
+    second: Edificios puente Sur Oeste__91
+  - first:
+      213: 3592444980469112902
+    second: Edificios puente Sur Oeste__92
+  - first:
+      213: -2202920446690559307
+    second: Edificios puente Sur Oeste__93
+  - first:
+      213: 193274974490897099
+    second: Edificios puente Sur Oeste__94
+  - first:
+      213: -2877969969404733502
+    second: Edificios puente Sur Oeste__95
+  - first:
+      213: 3738758343842740825
+    second: Edificios puente Sur Oeste__96
+  - first:
+      213: -6139045226611589785
+    second: Edificios puente Sur Oeste__97
+  - first:
+      213: 6573606545627552757
+    second: Edificios puente Sur Oeste__98
+  - first:
+      213: -912915534319341927
+    second: Edificios puente Sur Oeste__99
+  - first:
+      213: 3183598168392856702
+    second: Edificios puente Sur Oeste__100
+  - first:
+      213: 6693554025429541654
+    second: Edificios puente Sur Oeste__101
+  - first:
+      213: 6836267370638084495
+    second: Edificios puente Sur Oeste__102
+  - first:
+      213: -6297378165113178060
+    second: Edificios puente Sur Oeste__103
+  - first:
+      213: 3820453659596245081
+    second: Edificios puente Sur Oeste__104
+  - first:
+      213: -2758696621459283968
+    second: Edificios puente Sur Oeste__105
+  - first:
+      213: 7268013113478620142
+    second: Edificios puente Sur Oeste__106
+  - first:
+      213: 6650431125972347476
+    second: Edificios puente Sur Oeste__107
+  - first:
+      213: -9166813395814859300
+    second: Edificios puente Sur Oeste__108
+  - first:
+      213: 4219373537741117114
+    second: Edificios puente Sur Oeste__109
+  - first:
+      213: -5717315805540037699
+    second: Edificios puente Sur Oeste__110
+  - first:
+      213: -1137192668666294373
+    second: Edificios puente Sur Oeste__111
+  - first:
+      213: -472748096788673937
+    second: Edificios puente Sur Oeste__112
+  - first:
+      213: 4716544091609285855
+    second: Edificios puente Sur Oeste__113
+  - first:
+      213: -6654594221179400649
+    second: Edificios puente Sur Oeste__114
+  - first:
+      213: 6834098887461299526
+    second: Edificios puente Sur Oeste__115
+  - first:
+      213: 4319175865596987737
+    second: Edificios puente Sur Oeste__116
+  - first:
+      213: -7760606350632314587
+    second: Edificios puente Sur Oeste__117
+  - first:
+      213: 272451454929658335
+    second: Edificios puente Sur Oeste__118
+  - first:
+      213: 523032637279363467
+    second: Edificios puente Sur Oeste__119
+  - first:
+      213: 3926152615655162207
+    second: Edificios puente Sur Oeste__120
+  - first:
+      213: 7155810551720572449
+    second: Edificios puente Sur Oeste__121
+  - first:
+      213: -5393090145090995041
+    second: Edificios puente Sur Oeste__122
+  - first:
+      213: -2050112606084211338
+    second: Edificios puente Sur Oeste__123
+  - first:
+      213: 5010953479363737984
+    second: Edificios puente Sur Oeste__124
+  - first:
+      213: 17823388609793502
+    second: Edificios puente Sur Oeste__125
+  - first:
+      213: 9162971707819473743
+    second: Edificios puente Sur Oeste__126
+  - first:
+      213: -690397711082334361
+    second: Edificios puente Sur Oeste__127
+  - first:
+      213: -3587108857149966103
+    second: Edificios puente Sur Oeste__128
+  - first:
+      213: -6171101513090910129
+    second: Edificios puente Sur Oeste__129
+  - first:
+      213: 8544033202002028764
+    second: Edificios puente Sur Oeste__130
+  - first:
+      213: 4526284742429569121
+    second: Edificios puente Sur Oeste__131
+  - first:
+      213: 472780504143457834
+    second: Edificios puente Sur Oeste__132
+  - first:
+      213: -1059446547097758649
+    second: Edificios puente Sur Oeste__133
+  - first:
+      213: -8911167510123339476
+    second: Edificios puente Sur Oeste__134
+  - first:
+      213: 335842107128688870
+    second: Edificios puente Sur Oeste__135
+  - first:
+      213: 1431843959471974883
+    second: Edificios puente Sur Oeste__136
+  - first:
+      213: -8472793499045794437
+    second: Edificios puente Sur Oeste__137
+  - first:
+      213: 4726673114585840693
+    second: Edificios puente Sur Oeste__138
+  - first:
+      213: -4472186580849285042
+    second: Edificios puente Sur Oeste__139
+  - first:
+      213: -6590656627788474906
+    second: Edificios puente Sur Oeste__140
+  - first:
+      213: 6415850086812832996
+    second: Edificios puente Sur Oeste__141
+  - first:
+      213: 7969074911245796577
+    second: Edificios puente Sur Oeste__142
+  - first:
+      213: 1919361613948101833
+    second: Edificios puente Sur Oeste__143
+  - first:
+      213: 2701976349046444370
+    second: Edificios puente Sur Oeste__144
+  - first:
+      213: 7368087815419070760
+    second: Edificios puente Sur Oeste__145
+  - first:
+      213: -968326820300794185
+    second: Edificios puente Sur Oeste__146
+  - first:
+      213: 579385306638903919
+    second: Edificios puente Sur Oeste__147
+  - first:
+      213: -5430888147015691734
+    second: Edificios puente Sur Oeste__148
+  - first:
+      213: -391611717447351392
+    second: Edificios puente Sur Oeste__149
+  - first:
+      213: -351984053292887411
+    second: Edificios puente Sur Oeste__150
+  - first:
+      213: -4348418672826482776
+    second: Edificios puente Sur Oeste__151
+  - first:
+      213: -4099024977899094302
+    second: Edificios puente Sur Oeste__152
+  - first:
+      213: 3945081280758675399
+    second: Edificios puente Sur Oeste__153
+  - first:
+      213: 7326777799451630670
+    second: Edificios puente Sur Oeste__154
+  - first:
+      213: 6489981587611390476
+    second: Edificios puente Sur Oeste__155
+  - first:
+      213: 4795802731372055869
+    second: Edificios puente Sur Oeste__156
+  - first:
+      213: -9060562878497846461
+    second: Edificios puente Sur Oeste__157
+  - first:
+      213: 7551458506924607319
+    second: Edificios puente Sur Oeste__158
+  - first:
+      213: 2234155200526236982
+    second: Edificios puente Sur Oeste__159
+  - first:
+      213: 899262563104164466
+    second: Edificios puente Sur Oeste__160
+  - first:
+      213: 2895057909686367096
+    second: Edificios puente Sur Oeste__161
+  - first:
+      213: -2946264641223612159
+    second: Edificios puente Sur Oeste__162
+  - first:
+      213: -7970064858114939041
+    second: Edificios puente Sur Oeste__163
+  - first:
+      213: 5335976060399180987
+    second: Edificios puente Sur Oeste__164
+  - first:
+      213: 392634154052366804
+    second: Edificios puente Sur Oeste__165
+  - first:
+      213: 2474000556439295465
+    second: Edificios puente Sur Oeste__166
+  - first:
+      213: 8419941146243953216
+    second: Edificios puente Sur Oeste__167
+  - first:
+      213: 5355629401516783753
+    second: Edificios puente Sur Oeste__168
+  - first:
+      213: -3692575376323787320
+    second: Edificios puente Sur Oeste__169
+  - first:
+      213: -7850419443159631870
+    second: Edificios puente Sur Oeste__170
+  - first:
+      213: 5819633293755149055
+    second: Edificios puente Sur Oeste__171
+  - first:
+      213: 898824333678273205
+    second: Edificios puente Sur Oeste__172
+  - first:
+      213: 6044223237928517938
+    second: Edificios puente Sur Oeste__173
+  - first:
+      213: -1029635071934429744
+    second: Edificios puente Sur Oeste__174
+  - first:
+      213: -4658706023247711919
+    second: Edificios puente Sur Oeste__175
+  - first:
+      213: -1501584640724103808
+    second: Edificios puente Sur Oeste__176
+  - first:
+      213: 2666770060809502118
+    second: Edificios puente Sur Oeste__177
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 159
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__0
+      rect:
+        serializedVersion: 2
+        x: 14431
+        y: 5698
+        width: 226
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0146f44498a813cf0800000000000000
+      internalID: -274285780131683312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__1
+      rect:
+        serializedVersion: 2
+        x: 14724
+        y: 5657
+        width: 46
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa8d831952043d10800000000000000
+      internalID: 2104309507492252327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__2
+      rect:
+        serializedVersion: 2
+        x: 14693
+        y: 5456
+        width: 162
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511d7a91cf2bbfb20800000000000000
+      internalID: 3169323558617207061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__3
+      rect:
+        serializedVersion: 2
+        x: 14581
+        y: 4769
+        width: 253
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d64f3cdc2f4b15e00800000000000000
+      internalID: 1031804744571810925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__4
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 252
+        width: 4420
+        height: 3859
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9598d682b1b8160800000000000000
+      internalID: 7028741503892150782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__5
+      rect:
+        serializedVersion: 2
+        x: 7118
+        y: 4012
+        width: 149
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f6a66abd91c03990800000000000000
+      internalID: -7408208503843150091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__6
+      rect:
+        serializedVersion: 2
+        x: 6436
+        y: 3872
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99361d0176ccc7550800000000000000
+      internalID: 6160023133371851673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__7
+      rect:
+        serializedVersion: 2
+        x: 6507
+        y: 3877
+        width: 103
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf160d890753a1ef0800000000000000
+      internalID: -136738080964976133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__8
+      rect:
+        serializedVersion: 2
+        x: 6533
+        y: 3859
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89671aecfdc79c600800000000000000
+      internalID: 489059335232648856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__9
+      rect:
+        serializedVersion: 2
+        x: 6578
+        y: 3898
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7277b86f65dc1e710800000000000000
+      internalID: 1720882306019456807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__10
+      rect:
+        serializedVersion: 2
+        x: 6593
+        y: 3899
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c9cc63146997630800000000000000
+      internalID: 3925333757066517644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__11
+      rect:
+        serializedVersion: 2
+        x: 6601
+        y: 3934
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f25685f00d1dbbb0800000000000000
+      internalID: -4918743328062287113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__12
+      rect:
+        serializedVersion: 2
+        x: 6608
+        y: 3865
+        width: 56
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca11f578e98a8d50800000000000000
+      internalID: 6740351423817521860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__13
+      rect:
+        serializedVersion: 2
+        x: 6436
+        y: 3745
+        width: 44
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3862ec192f12cb110800000000000000
+      internalID: 1277933719978387075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__14
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 3813
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 521205327b1e9b9a0800000000000000
+      internalID: -6216689633920540379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__15
+      rect:
+        serializedVersion: 2
+        x: 6484
+        y: 3741
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c92c9bbd161bc10800000000000000
+      internalID: 2067541300282039363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__16
+      rect:
+        serializedVersion: 2
+        x: 6498
+        y: 3800
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfabc5b46d939dd10800000000000000
+      internalID: 2150813889596275453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__17
+      rect:
+        serializedVersion: 2
+        x: 6515
+        y: 3759
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae7f703f8bbee3870800000000000000
+      internalID: 8664621912691308522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__18
+      rect:
+        serializedVersion: 2
+        x: 6517
+        y: 3831
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a417a3b103c8b8a00800000000000000
+      internalID: 759855100385194314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__19
+      rect:
+        serializedVersion: 2
+        x: 6521
+        y: 3811
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354ab08fdec8445c0800000000000000
+      internalID: -4232102796124773293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__20
+      rect:
+        serializedVersion: 2
+        x: 6523
+        y: 3778
+        width: 59
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb46c1ad416951d20800000000000000
+      internalID: 3248667722520487099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__21
+      rect:
+        serializedVersion: 2
+        x: 6532
+        y: 3740
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af07eb5ffc5668010800000000000000
+      internalID: 1190751095341609210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__22
+      rect:
+        serializedVersion: 2
+        x: 6542
+        y: 3792
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c56f81de0fa47d0800000000000000
+      internalID: -2933267306161742809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__23
+      rect:
+        serializedVersion: 2
+        x: 6546
+        y: 3840
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f63c0c29a855dab80800000000000000
+      internalID: -8381949277810670737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__24
+      rect:
+        serializedVersion: 2
+        x: 6551
+        y: 3822
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df31968aec8fea470800000000000000
+      internalID: 8407931120819704829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__25
+      rect:
+        serializedVersion: 2
+        x: 6554
+        y: 3814
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c680c54b88702a430800000000000000
+      internalID: 3792602119922255980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__26
+      rect:
+        serializedVersion: 2
+        x: 6555
+        y: 3761
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb0479b898246100800000000000000
+      internalID: 100249728120523759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__27
+      rect:
+        serializedVersion: 2
+        x: 6566
+        y: 3809
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531a9231117dd4020800000000000000
+      internalID: 2327753050756325685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__28
+      rect:
+        serializedVersion: 2
+        x: 6568
+        y: 3848
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb987c2f71702ff0800000000000000
+      internalID: -62925603762299921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__29
+      rect:
+        serializedVersion: 2
+        x: 6585
+        y: 3832
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d164aaa22e3086480800000000000000
+      internalID: -8905863993211861475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__30
+      rect:
+        serializedVersion: 2
+        x: 6589
+        y: 3845
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37cc4afb1ec8efc00800000000000000
+      internalID: 936340673750420595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__31
+      rect:
+        serializedVersion: 2
+        x: 6590
+        y: 3806
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f388d96b8bba62830800000000000000
+      internalID: 4046110125065078847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__32
+      rect:
+        serializedVersion: 2
+        x: 6595
+        y: 3814
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a14b52545c07b8090800000000000000
+      internalID: -8031201517914180582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__33
+      rect:
+        serializedVersion: 2
+        x: 6598
+        y: 3834
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64aeb11b4ab42edf0800000000000000
+      internalID: -152476266659059130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__34
+      rect:
+        serializedVersion: 2
+        x: 6604
+        y: 3831
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 247d64e79ae1d1210800000000000000
+      internalID: 1305233180324190018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__35
+      rect:
+        serializedVersion: 2
+        x: 6520
+        y: 3719
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1dc2fa1b54ec9190800000000000000
+      internalID: -7954231761897861860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__36
+      rect:
+        serializedVersion: 2
+        x: 6529
+        y: 3734
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dcefd42a0e0dc790800000000000000
+      internalID: -7508329567025632043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__37
+      rect:
+        serializedVersion: 2
+        x: 6437
+        y: 3674
+        width: 14
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 157583ed6a8ebb970800000000000000
+      internalID: 8771860502624622417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__38
+      rect:
+        serializedVersion: 2
+        x: 6455
+        y: 3673
+        width: 67
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5349105929594d20800000000000000
+      internalID: 3263237438978999132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__39
+      rect:
+        serializedVersion: 2
+        x: 6465
+        y: 3647
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ae5b9d8eff4bab0800000000000000
+      internalID: -4993084711296964085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__40
+      rect:
+        serializedVersion: 2
+        x: 6478
+        y: 3688
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d141d6c84e59e30800000000000000
+      internalID: 4509761893658008883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__41
+      rect:
+        serializedVersion: 2
+        x: 6482
+        y: 3682
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c1852f5faa42850800000000000000
+      internalID: 6351389347808812055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__42
+      rect:
+        serializedVersion: 2
+        x: 6485
+        y: 3689
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e51cbdd6ba7ea660800000000000000
+      internalID: 7398986163639031268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__43
+      rect:
+        serializedVersion: 2
+        x: 6470
+        y: 3646
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a15428af173f03b0800000000000000
+      internalID: -5544152007165324890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__44
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 3406
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa88227ef2f36ed0800000000000000
+      internalID: -2421824999944320351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__45
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 3395
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5638b02f05ca01230800000000000000
+      internalID: 3607572765181969253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__46
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 3083
+        width: 296
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c917280284490b0800000000000000
+      internalID: -5722869922016420846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__47
+      rect:
+        serializedVersion: 2
+        x: 7488
+        y: 3285
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53cd91c14ced30ae0800000000000000
+      internalID: -1584177710037869515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__48
+      rect:
+        serializedVersion: 2
+        x: 7491
+        y: 3245
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c47f8b653b7ded0800000000000000
+      internalID: -2389243892244984743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__49
+      rect:
+        serializedVersion: 2
+        x: 7494
+        y: 3205
+        width: 9
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8056827ee9ec2630800000000000000
+      internalID: 3903752187356270731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__50
+      rect:
+        serializedVersion: 2
+        x: 7506
+        y: 3262
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d87bd83e678a2410800000000000000
+      internalID: 1453122737250466003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__51
+      rect:
+        serializedVersion: 2
+        x: 7519
+        y: 3263
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a650ecb02d364db0800000000000000
+      internalID: -4808088341354359131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__52
+      rect:
+        serializedVersion: 2
+        x: 7524
+        y: 3226
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9781b9be265a97000800000000000000
+      internalID: 34240316460177529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__53
+      rect:
+        serializedVersion: 2
+        x: 7527
+        y: 3285
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e76a03d0fffac0e0800000000000000
+      internalID: -2248703654120232983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__54
+      rect:
+        serializedVersion: 2
+        x: 7537
+        y: 3294
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8b6e53b5eb70370800000000000000
+      internalID: 8288802938154301667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__55
+      rect:
+        serializedVersion: 2
+        x: 7558
+        y: 3242
+        width: 110
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48f90714c7b1a9b0800000000000000
+      internalID: -5070569652614465462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__56
+      rect:
+        serializedVersion: 2
+        x: 7586
+        y: 3281
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73eab158d6abbf3f0800000000000000
+      internalID: -865893523791303113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__57
+      rect:
+        serializedVersion: 2
+        x: 7588
+        y: 3268
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96589b78ec0d7e4c0800000000000000
+      internalID: -4258205337196591767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__58
+      rect:
+        serializedVersion: 2
+        x: 7595
+        y: 3297
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aafd662056526c0a0800000000000000
+      internalID: -6861755866490150998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__59
+      rect:
+        serializedVersion: 2
+        x: 7596
+        y: 3274
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d10f857f126b3b0800000000000000
+      internalID: -5497168948926341755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__60
+      rect:
+        serializedVersion: 2
+        x: 7602
+        y: 3241
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe09271e64dc3020800000000000000
+      internalID: 2322965077116391162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__61
+      rect:
+        serializedVersion: 2
+        x: 7605
+        y: 3205
+        width: 73
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6136c8fbf36f75060800000000000000
+      internalID: 6942288104271930134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__62
+      rect:
+        serializedVersion: 2
+        x: 7611
+        y: 3306
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ee9d2aca4c76930800000000000000
+      internalID: 4136491028508700162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__63
+      rect:
+        serializedVersion: 2
+        x: 7627
+        y: 3244
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56045c6b980e93680800000000000000
+      internalID: -8774735516873179035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__64
+      rect:
+        serializedVersion: 2
+        x: 7630
+        y: 3289
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a0383cc25e148790800000000000000
+      internalID: -7528859336094240602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__65
+      rect:
+        serializedVersion: 2
+        x: 7631
+        y: 3295
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 430b3e8be3a3e0a20800000000000000
+      internalID: 3030423640331235380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__66
+      rect:
+        serializedVersion: 2
+        x: 7640
+        y: 3245
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4ddf52c4e0f10e0800000000000000
+      internalID: -2297101564717968204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__67
+      rect:
+        serializedVersion: 2
+        x: 7649
+        y: 3303
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4897ac243191f09d0800000000000000
+      internalID: -2805996472312891004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__68
+      rect:
+        serializedVersion: 2
+        x: 7658
+        y: 3331
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb7fd52b32ecaf20800000000000000
+      internalID: 3435369359443196911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__69
+      rect:
+        serializedVersion: 2
+        x: 7662
+        y: 3298
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d193c3cc7872d3790800000000000000
+      internalID: -7548833936202516195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__70
+      rect:
+        serializedVersion: 2
+        x: 7663
+        y: 3262
+        width: 58
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c24a36e72b1dd4b0800000000000000
+      internalID: -5414141318849215806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__71
+      rect:
+        serializedVersion: 2
+        x: 7493
+        y: 3166
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfbf82784b13e9660800000000000000
+      internalID: 7394402289620417533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__72
+      rect:
+        serializedVersion: 2
+        x: 7507
+        y: 3232
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eb119508920c1ef0800000000000000
+      internalID: -136231036776277024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__73
+      rect:
+        serializedVersion: 2
+        x: 7573
+        y: 3228
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e849f3574919980800000000000000
+      internalID: -8533876587591594402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__74
+      rect:
+        serializedVersion: 2
+        x: 7596
+        y: 3222
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea7a5f4991c72c90800000000000000
+      internalID: -7194569015495591193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__75
+      rect:
+        serializedVersion: 2
+        x: 7607
+        y: 3229
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a8fa0475555bb9a0800000000000000
+      internalID: -6216281035147380574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__76
+      rect:
+        serializedVersion: 2
+        x: 7524
+        y: 3221
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaedea94fb9cebc20800000000000000
+      internalID: 3224236206655987374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__77
+      rect:
+        serializedVersion: 2
+        x: 7536
+        y: 3210
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da7e64b8413a531e0800000000000000
+      internalID: -2218687932778747987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__78
+      rect:
+        serializedVersion: 2
+        x: 7554
+        y: 3190
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 911b1705d653fee60800000000000000
+      internalID: 7993666607223255321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__79
+      rect:
+        serializedVersion: 2
+        x: 7577
+        y: 3208
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b873936ac0d00860800000000000000
+      internalID: 7494219347617085618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__80
+      rect:
+        serializedVersion: 2
+        x: 7582
+        y: 3192
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d199e2da46b91f640800000000000000
+      internalID: 5112037908746770717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__81
+      rect:
+        serializedVersion: 2
+        x: 7643
+        y: 3196
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3fb202b1e53ff880800000000000000
+      internalID: -8575075922019696838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__82
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 3175
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b774a3c9f8fae50800000000000000
+      internalID: 6822829861645024016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__83
+      rect:
+        serializedVersion: 2
+        x: 7598
+        y: 3187
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a169a63fe00eae60800000000000000
+      internalID: 7975313017533981091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__84
+      rect:
+        serializedVersion: 2
+        x: 7632
+        y: 3188
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e11123bd67627990800000000000000
+      internalID: -7389730317707177496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__85
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 3075
+        width: 187
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c98c6f4785369a0800000000000000
+      internalID: -6241047399225582492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__86
+      rect:
+        serializedVersion: 2
+        x: 7504
+        y: 3137
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936f6cb5f8e6207f0800000000000000
+      internalID: -647833834388785607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__87
+      rect:
+        serializedVersion: 2
+        x: 7540
+        y: 3151
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e781840aae3bcb0800000000000000
+      internalID: -4849274399622660590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__88
+      rect:
+        serializedVersion: 2
+        x: 7550
+        y: 3135
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6888174e9c1e8080800000000000000
+      internalID: -9183371124038662036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__89
+      rect:
+        serializedVersion: 2
+        x: 7562
+        y: 3149
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf975ee14f1c8ddb0800000000000000
+      internalID: -4766846951337133573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__90
+      rect:
+        serializedVersion: 2
+        x: 7583
+        y: 3147
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25329cba6f0712df0800000000000000
+      internalID: -206759903135980718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__91
+      rect:
+        serializedVersion: 2
+        x: 7588
+        y: 3139
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ba341a2f55e0330800000000000000
+      internalID: 3678972446184287113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__92
+      rect:
+        serializedVersion: 2
+        x: 7596
+        y: 3141
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6402ff71dadead130800000000000000
+      internalID: 3592444980469112902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__93
+      rect:
+        serializedVersion: 2
+        x: 7611
+        y: 3158
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba709a7687ad61e0800000000000000
+      internalID: -2202920446690559307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__94
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 3077
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcaa086b096aea200800000000000000
+      internalID: 193274974490897099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__95
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 2829
+        width: 245
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c7936b9f856f08d0800000000000000
+      internalID: -2877969969404733502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__96
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 3087
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a36c9a7ecb2e330800000000000000
+      internalID: 3738758343842740825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__97
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 3092
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d32c774eabdcaa0800000000000000
+      internalID: -6139045226611589785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__98
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 3106
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb105523542a3b50800000000000000
+      internalID: 6573606545627552757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__99
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 3097
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ea5fa882ca453f0800000000000000
+      internalID: -912915534319341927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__100
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 3094
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74f3aeaaa96e2c20800000000000000
+      internalID: 3183598168392856702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__101
+      rect:
+        serializedVersion: 2
+        x: 7493
+        y: 3071
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6132d921ce744ec50800000000000000
+      internalID: 6693554025429541654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__102
+      rect:
+        serializedVersion: 2
+        x: 7508
+        y: 3097
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f890a7814fc4fde50800000000000000
+      internalID: 6836267370638084495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__103
+      rect:
+        serializedVersion: 2
+        x: 7519
+        y: 3097
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 438b02c7ce73b98a0800000000000000
+      internalID: -6297378165113178060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__104
+      rect:
+        serializedVersion: 2
+        x: 7534
+        y: 3070
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958431d9c5af40530800000000000000
+      internalID: 3820453659596245081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__105
+      rect:
+        serializedVersion: 2
+        x: 7548
+        y: 3097
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00069daf90427b9d0800000000000000
+      internalID: -2758696621459283968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__106
+      rect:
+        serializedVersion: 2
+        x: 7520
+        y: 3071
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee326cb4b6b2dd460800000000000000
+      internalID: 7268013113478620142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__107
+      rect:
+        serializedVersion: 2
+        x: 7551
+        y: 3077
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a68c2afd31b4c50800000000000000
+      internalID: 6650431125972347476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__108
+      rect:
+        serializedVersion: 2
+        x: 7554
+        y: 3085
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cddb92cc8cfe8c080800000000000000
+      internalID: -9166813395814859300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__109
+      rect:
+        serializedVersion: 2
+        x: 7513
+        y: 3021
+        width: 14
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab61ebb90e93e8a30800000000000000
+      internalID: 4219373537741117114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__110
+      rect:
+        serializedVersion: 2
+        x: 7522
+        y: 3057
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb4f06019308a0b0800000000000000
+      internalID: -5717315805540037699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__111
+      rect:
+        serializedVersion: 2
+        x: 7526
+        y: 3043
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f87fefa41e730f0800000000000000
+      internalID: -1137192668666294373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__112
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 2886
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a4ba65c167079f0800000000000000
+      internalID: -472748096788673937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__113
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 2606
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4c6dbacd7847140800000000000000
+      internalID: 4716544091609285855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__114
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 2535
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e0c3a30d126a3a0800000000000000
+      internalID: -6654594221179400649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__115
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 2517
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 645e503cab897de50800000000000000
+      internalID: 6834098887461299526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__116
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 2513
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9594957d09bc0fb30800000000000000
+      internalID: 4319175865596987737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__117
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 2317
+        width: 175
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5299bec34a9cc4490800000000000000
+      internalID: -7760606350632314587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__118
+      rect:
+        serializedVersion: 2
+        x: 6032
+        y: 2380
+        width: 64
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd1ee9d9721f7c300800000000000000
+      internalID: 272451454929658335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__119
+      rect:
+        serializedVersion: 2
+        x: 6097
+        y: 2461
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81e8f6996f224700800000000000000
+      internalID: 523032637279363467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__120
+      rect:
+        serializedVersion: 2
+        x: 6111
+        y: 2376
+        width: 78
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51c816900f7c7630800000000000000
+      internalID: 3926152615655162207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__121
+      rect:
+        serializedVersion: 2
+        x: 6118
+        y: 2447
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 126fb4f98cb8e4360800000000000000
+      internalID: 7155810551720572449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__122
+      rect:
+        serializedVersion: 2
+        x: 5956
+        y: 2415
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9cf03c3615e725b0800000000000000
+      internalID: -5393090145090995041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__123
+      rect:
+        serializedVersion: 2
+        x: 5995
+        y: 2415
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ddccc52798c83e0800000000000000
+      internalID: -2050112606084211338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__124
+      rect:
+        serializedVersion: 2
+        x: 5996
+        y: 2424
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089bb7be3ab7a8540800000000000000
+      internalID: 5010953479363737984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__125
+      rect:
+        serializedVersion: 2
+        x: 6054
+        y: 2410
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eddc7ca07425f3000800000000000000
+      internalID: 17823388609793502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__126
+      rect:
+        serializedVersion: 2
+        x: 6092
+        y: 2416
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4bb883883a692f70800000000000000
+      internalID: 9162971707819473743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__127
+      rect:
+        serializedVersion: 2
+        x: 6117
+        y: 2433
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 767d13d80f63b66f0800000000000000
+      internalID: -690397711082334361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__128
+      rect:
+        serializedVersion: 2
+        x: 6130
+        y: 2427
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e83beeef77083ec0800000000000000
+      internalID: -3587108857149966103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__129
+      rect:
+        serializedVersion: 2
+        x: 5960
+        y: 2377
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f483757aed7db5aa0800000000000000
+      internalID: -6171101513090910129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__130
+      rect:
+        serializedVersion: 2
+        x: 5983
+        y: 2386
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd86972dde0829670800000000000000
+      internalID: 8544033202002028764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__131
+      rect:
+        serializedVersion: 2
+        x: 6056
+        y: 2392
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160f8c0fdf790de30800000000000000
+      internalID: 4526284742429569121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__132
+      rect:
+        serializedVersion: 2
+        x: 5962
+        y: 2335
+        width: 9
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e63361d57af8600800000000000000
+      internalID: 472780504143457834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__133
+      rect:
+        serializedVersion: 2
+        x: 5993
+        y: 2356
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74459b58af61c41f0800000000000000
+      internalID: -1059446547097758649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__134
+      rect:
+        serializedVersion: 2
+        x: 6051
+        y: 2363
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21a819ec5c255480800000000000000
+      internalID: -8911167510123339476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__135
+      rect:
+        serializedVersion: 2
+        x: 6071
+        y: 2370
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e03608fd9629a400800000000000000
+      internalID: 335842107128688870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__136
+      rect:
+        serializedVersion: 2
+        x: 6075
+        y: 2332
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9ad12be7eeed310800000000000000
+      internalID: 1431843959471974883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__137
+      rect:
+        serializedVersion: 2
+        x: 6096
+        y: 2374
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7de22214379a6a80800000000000000
+      internalID: -8472793499045794437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__138
+      rect:
+        serializedVersion: 2
+        x: 6106
+        y: 2375
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c374c9724889140800000000000000
+      internalID: 4726673114585840693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__139
+      rect:
+        serializedVersion: 2
+        x: 6121
+        y: 2371
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e48a537dff99fe1c0800000000000000
+      internalID: -4472186580849285042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__140
+      rect:
+        serializedVersion: 2
+        x: 5961
+        y: 2295
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5181047b84984a0800000000000000
+      internalID: -6590656627788474906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__141
+      rect:
+        serializedVersion: 2
+        x: 5975
+        y: 2362
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e453ac49ada90950800000000000000
+      internalID: 6415850086812832996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__142
+      rect:
+        serializedVersion: 2
+        x: 6041
+        y: 2357
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e48849e867d79e60800000000000000
+      internalID: 7969074911245796577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__143
+      rect:
+        serializedVersion: 2
+        x: 6064
+        y: 2357
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c4a5eaf731f2aa10800000000000000
+      internalID: 1919361613948101833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__144
+      rect:
+        serializedVersion: 2
+        x: 6120
+        y: 2355
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2519b6c7c295f7520800000000000000
+      internalID: 2701976349046444370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__145
+      rect:
+        serializedVersion: 2
+        x: 5992
+        y: 2351
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82900ff84d4b04660800000000000000
+      internalID: 7368087815419070760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__146
+      rect:
+        serializedVersion: 2
+        x: 6004
+        y: 2336
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6dc7923efcf82f0800000000000000
+      internalID: -968326820300794185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__147
+      rect:
+        serializedVersion: 2
+        x: 6022
+        y: 2320
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6aea4eddd36a0800800000000000000
+      internalID: 579385306638903919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__148
+      rect:
+        serializedVersion: 2
+        x: 6120
+        y: 2340
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a22104e110c91a4b0800000000000000
+      internalID: -5430888147015691734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__149
+      rect:
+        serializedVersion: 2
+        x: 6046
+        y: 2338
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a38ba3c737b09af0800000000000000
+      internalID: -391611717447351392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__150
+      rect:
+        serializedVersion: 2
+        x: 6048
+        y: 2305
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8210e05e508d1bf0800000000000000
+      internalID: -351984053292887411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__151
+      rect:
+        serializedVersion: 2
+        x: 6113
+        y: 2326
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af7087814057a3c0800000000000000
+      internalID: -4348418672826482776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__152
+      rect:
+        serializedVersion: 2
+        x: 6066
+        y: 2317
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eefeda00865d17c0800000000000000
+      internalID: -4099024977899094302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__153
+      rect:
+        serializedVersion: 2
+        x: 6101
+        y: 2315
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7f9add58ebfb630800000000000000
+      internalID: 3945081280758675399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__154
+      rect:
+        serializedVersion: 2
+        x: 6039
+        y: 2295
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c5884f691fda560800000000000000
+      internalID: 7326777799451630670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__155
+      rect:
+        serializedVersion: 2
+        x: 6056
+        y: 2276
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0217685edb011a50800000000000000
+      internalID: 6489981587611390476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__156
+      rect:
+        serializedVersion: 2
+        x: 5967
+        y: 2267
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d8748cc2d1e8240800000000000000
+      internalID: 4795802731372055869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__157
+      rect:
+        serializedVersion: 2
+        x: 6008
+        y: 2280
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b8b02211a624280800000000000000
+      internalID: -9060562878497846461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__158
+      rect:
+        serializedVersion: 2
+        x: 6018
+        y: 2264
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757c751b08b2cc860800000000000000
+      internalID: 7551458506924607319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__159
+      rect:
+        serializedVersion: 2
+        x: 6031
+        y: 2272
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d357c5150510f10800000000000000
+      internalID: 2234155200526236982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__160
+      rect:
+        serializedVersion: 2
+        x: 6057
+        y: 2269
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a81a16982da7c00800000000000000
+      internalID: 899262563104164466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__161
+      rect:
+        serializedVersion: 2
+        x: 6064
+        y: 2263
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8737a0784df4d2820800000000000000
+      internalID: 2895057909686367096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__162
+      rect:
+        serializedVersion: 2
+        x: 6017
+        y: 2226
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109a2953be3cc17d0800000000000000
+      internalID: -2946264641223612159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__163
+      rect:
+        serializedVersion: 2
+        x: 6053
+        y: 2261
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f572c3f1d34a46190800000000000000
+      internalID: -7970064858114939041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__164
+      rect:
+        serializedVersion: 2
+        x: 5961
+        y: 2217
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbcd41aa4f13d0a40800000000000000
+      internalID: 5335976060399180987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__165
+      rect:
+        serializedVersion: 2
+        x: 5985
+        y: 2227
+        width: 46
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d13afeceaae27500800000000000000
+      internalID: 392634154052366804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__166
+      rect:
+        serializedVersion: 2
+        x: 5996
+        y: 2226
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e5dea4f56a655220800000000000000
+      internalID: 2474000556439295465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__167
+      rect:
+        serializedVersion: 2
+        x: 6002
+        y: 2200
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 042f09b9cd3a9d470800000000000000
+      internalID: 8419941146243953216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__168
+      rect:
+        serializedVersion: 2
+        x: 5963
+        y: 2200
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 988bb0ab094035a40800000000000000
+      internalID: 5355629401516783753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__169
+      rect:
+        serializedVersion: 2
+        x: 5988
+        y: 2200
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5cdd3624651ccc0800000000000000
+      internalID: -3692575376323787320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__170
+      rect:
+        serializedVersion: 2
+        x: 5990
+        y: 2186
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20876a81c15bd0390800000000000000
+      internalID: -7850419443159631870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__171
+      rect:
+        serializedVersion: 2
+        x: 6015
+        y: 2200
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffaef4d95ad73c050800000000000000
+      internalID: 5819633293755149055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__172
+      rect:
+        serializedVersion: 2
+        x: 6018
+        y: 2206
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2ee5428f3497c00800000000000000
+      internalID: 898824333678273205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__173
+      rect:
+        serializedVersion: 2
+        x: 5981
+        y: 2150
+        width: 14
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23104efd20561e350800000000000000
+      internalID: 6044223237928517938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__174
+      rect:
+        serializedVersion: 2
+        x: 5994
+        y: 2172
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d580197b5006b1f0800000000000000
+      internalID: -1029635071934429744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__175
+      rect:
+        serializedVersion: 2
+        x: 6485
+        y: 2056
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 151f8530e83f85fb0800000000000000
+      internalID: -4658706023247711919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__176
+      rect:
+        serializedVersion: 2
+        x: 7541
+        y: 1454
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d057999bc492be0800000000000000
+      internalID: -1501584640724103808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios puente Sur Oeste__177
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 1125
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad723cbd35420520800000000000000
+      internalID: 2666770060809502118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Edificios puente Sur Oeste__0: -274285780131683312
+      Edificios puente Sur Oeste__1: 2104309507492252327
+      Edificios puente Sur Oeste__10: 3925333757066517644
+      Edificios puente Sur Oeste__100: 3183598168392856702
+      Edificios puente Sur Oeste__101: 6693554025429541654
+      Edificios puente Sur Oeste__102: 6836267370638084495
+      Edificios puente Sur Oeste__103: -6297378165113178060
+      Edificios puente Sur Oeste__104: 3820453659596245081
+      Edificios puente Sur Oeste__105: -2758696621459283968
+      Edificios puente Sur Oeste__106: 7268013113478620142
+      Edificios puente Sur Oeste__107: 6650431125972347476
+      Edificios puente Sur Oeste__108: -9166813395814859300
+      Edificios puente Sur Oeste__109: 4219373537741117114
+      Edificios puente Sur Oeste__11: -4918743328062287113
+      Edificios puente Sur Oeste__110: -5717315805540037699
+      Edificios puente Sur Oeste__111: -1137192668666294373
+      Edificios puente Sur Oeste__112: -472748096788673937
+      Edificios puente Sur Oeste__113: 4716544091609285855
+      Edificios puente Sur Oeste__114: -6654594221179400649
+      Edificios puente Sur Oeste__115: 6834098887461299526
+      Edificios puente Sur Oeste__116: 4319175865596987737
+      Edificios puente Sur Oeste__117: -7760606350632314587
+      Edificios puente Sur Oeste__118: 272451454929658335
+      Edificios puente Sur Oeste__119: 523032637279363467
+      Edificios puente Sur Oeste__12: 6740351423817521860
+      Edificios puente Sur Oeste__120: 3926152615655162207
+      Edificios puente Sur Oeste__121: 7155810551720572449
+      Edificios puente Sur Oeste__122: -5393090145090995041
+      Edificios puente Sur Oeste__123: -2050112606084211338
+      Edificios puente Sur Oeste__124: 5010953479363737984
+      Edificios puente Sur Oeste__125: 17823388609793502
+      Edificios puente Sur Oeste__126: 9162971707819473743
+      Edificios puente Sur Oeste__127: -690397711082334361
+      Edificios puente Sur Oeste__128: -3587108857149966103
+      Edificios puente Sur Oeste__129: -6171101513090910129
+      Edificios puente Sur Oeste__13: 1277933719978387075
+      Edificios puente Sur Oeste__130: 8544033202002028764
+      Edificios puente Sur Oeste__131: 4526284742429569121
+      Edificios puente Sur Oeste__132: 472780504143457834
+      Edificios puente Sur Oeste__133: -1059446547097758649
+      Edificios puente Sur Oeste__134: -8911167510123339476
+      Edificios puente Sur Oeste__135: 335842107128688870
+      Edificios puente Sur Oeste__136: 1431843959471974883
+      Edificios puente Sur Oeste__137: -8472793499045794437
+      Edificios puente Sur Oeste__138: 4726673114585840693
+      Edificios puente Sur Oeste__139: -4472186580849285042
+      Edificios puente Sur Oeste__14: -6216689633920540379
+      Edificios puente Sur Oeste__140: -6590656627788474906
+      Edificios puente Sur Oeste__141: 6415850086812832996
+      Edificios puente Sur Oeste__142: 7969074911245796577
+      Edificios puente Sur Oeste__143: 1919361613948101833
+      Edificios puente Sur Oeste__144: 2701976349046444370
+      Edificios puente Sur Oeste__145: 7368087815419070760
+      Edificios puente Sur Oeste__146: -968326820300794185
+      Edificios puente Sur Oeste__147: 579385306638903919
+      Edificios puente Sur Oeste__148: -5430888147015691734
+      Edificios puente Sur Oeste__149: -391611717447351392
+      Edificios puente Sur Oeste__15: 2067541300282039363
+      Edificios puente Sur Oeste__150: -351984053292887411
+      Edificios puente Sur Oeste__151: -4348418672826482776
+      Edificios puente Sur Oeste__152: -4099024977899094302
+      Edificios puente Sur Oeste__153: 3945081280758675399
+      Edificios puente Sur Oeste__154: 7326777799451630670
+      Edificios puente Sur Oeste__155: 6489981587611390476
+      Edificios puente Sur Oeste__156: 4795802731372055869
+      Edificios puente Sur Oeste__157: -9060562878497846461
+      Edificios puente Sur Oeste__158: 7551458506924607319
+      Edificios puente Sur Oeste__159: 2234155200526236982
+      Edificios puente Sur Oeste__16: 2150813889596275453
+      Edificios puente Sur Oeste__160: 899262563104164466
+      Edificios puente Sur Oeste__161: 2895057909686367096
+      Edificios puente Sur Oeste__162: -2946264641223612159
+      Edificios puente Sur Oeste__163: -7970064858114939041
+      Edificios puente Sur Oeste__164: 5335976060399180987
+      Edificios puente Sur Oeste__165: 392634154052366804
+      Edificios puente Sur Oeste__166: 2474000556439295465
+      Edificios puente Sur Oeste__167: 8419941146243953216
+      Edificios puente Sur Oeste__168: 5355629401516783753
+      Edificios puente Sur Oeste__169: -3692575376323787320
+      Edificios puente Sur Oeste__17: 8664621912691308522
+      Edificios puente Sur Oeste__170: -7850419443159631870
+      Edificios puente Sur Oeste__171: 5819633293755149055
+      Edificios puente Sur Oeste__172: 898824333678273205
+      Edificios puente Sur Oeste__173: 6044223237928517938
+      Edificios puente Sur Oeste__174: -1029635071934429744
+      Edificios puente Sur Oeste__175: -4658706023247711919
+      Edificios puente Sur Oeste__176: -1501584640724103808
+      Edificios puente Sur Oeste__177: 2666770060809502118
+      Edificios puente Sur Oeste__18: 759855100385194314
+      Edificios puente Sur Oeste__19: -4232102796124773293
+      Edificios puente Sur Oeste__2: 3169323558617207061
+      Edificios puente Sur Oeste__20: 3248667722520487099
+      Edificios puente Sur Oeste__21: 1190751095341609210
+      Edificios puente Sur Oeste__22: -2933267306161742809
+      Edificios puente Sur Oeste__23: -8381949277810670737
+      Edificios puente Sur Oeste__24: 8407931120819704829
+      Edificios puente Sur Oeste__25: 3792602119922255980
+      Edificios puente Sur Oeste__26: 100249728120523759
+      Edificios puente Sur Oeste__27: 2327753050756325685
+      Edificios puente Sur Oeste__28: -62925603762299921
+      Edificios puente Sur Oeste__29: -8905863993211861475
+      Edificios puente Sur Oeste__3: 1031804744571810925
+      Edificios puente Sur Oeste__30: 936340673750420595
+      Edificios puente Sur Oeste__31: 4046110125065078847
+      Edificios puente Sur Oeste__32: -8031201517914180582
+      Edificios puente Sur Oeste__33: -152476266659059130
+      Edificios puente Sur Oeste__34: 1305233180324190018
+      Edificios puente Sur Oeste__35: -7954231761897861860
+      Edificios puente Sur Oeste__36: -7508329567025632043
+      Edificios puente Sur Oeste__37: 8771860502624622417
+      Edificios puente Sur Oeste__38: 3263237438978999132
+      Edificios puente Sur Oeste__39: -4993084711296964085
+      Edificios puente Sur Oeste__4: 7028741503892150782
+      Edificios puente Sur Oeste__40: 4509761893658008883
+      Edificios puente Sur Oeste__41: 6351389347808812055
+      Edificios puente Sur Oeste__42: 7398986163639031268
+      Edificios puente Sur Oeste__43: -5544152007165324890
+      Edificios puente Sur Oeste__44: -2421824999944320351
+      Edificios puente Sur Oeste__45: 3607572765181969253
+      Edificios puente Sur Oeste__46: -5722869922016420846
+      Edificios puente Sur Oeste__47: -1584177710037869515
+      Edificios puente Sur Oeste__48: -2389243892244984743
+      Edificios puente Sur Oeste__49: 3903752187356270731
+      Edificios puente Sur Oeste__5: -7408208503843150091
+      Edificios puente Sur Oeste__50: 1453122737250466003
+      Edificios puente Sur Oeste__51: -4808088341354359131
+      Edificios puente Sur Oeste__52: 34240316460177529
+      Edificios puente Sur Oeste__53: -2248703654120232983
+      Edificios puente Sur Oeste__54: 8288802938154301667
+      Edificios puente Sur Oeste__55: -5070569652614465462
+      Edificios puente Sur Oeste__56: -865893523791303113
+      Edificios puente Sur Oeste__57: -4258205337196591767
+      Edificios puente Sur Oeste__58: -6861755866490150998
+      Edificios puente Sur Oeste__59: -5497168948926341755
+      Edificios puente Sur Oeste__6: 6160023133371851673
+      Edificios puente Sur Oeste__60: 2322965077116391162
+      Edificios puente Sur Oeste__61: 6942288104271930134
+      Edificios puente Sur Oeste__62: 4136491028508700162
+      Edificios puente Sur Oeste__63: -8774735516873179035
+      Edificios puente Sur Oeste__64: -7528859336094240602
+      Edificios puente Sur Oeste__65: 3030423640331235380
+      Edificios puente Sur Oeste__66: -2297101564717968204
+      Edificios puente Sur Oeste__67: -2805996472312891004
+      Edificios puente Sur Oeste__68: 3435369359443196911
+      Edificios puente Sur Oeste__69: -7548833936202516195
+      Edificios puente Sur Oeste__7: -136738080964976133
+      Edificios puente Sur Oeste__70: -5414141318849215806
+      Edificios puente Sur Oeste__71: 7394402289620417533
+      Edificios puente Sur Oeste__72: -136231036776277024
+      Edificios puente Sur Oeste__73: -8533876587591594402
+      Edificios puente Sur Oeste__74: -7194569015495591193
+      Edificios puente Sur Oeste__75: -6216281035147380574
+      Edificios puente Sur Oeste__76: 3224236206655987374
+      Edificios puente Sur Oeste__77: -2218687932778747987
+      Edificios puente Sur Oeste__78: 7993666607223255321
+      Edificios puente Sur Oeste__79: 7494219347617085618
+      Edificios puente Sur Oeste__8: 489059335232648856
+      Edificios puente Sur Oeste__80: 5112037908746770717
+      Edificios puente Sur Oeste__81: -8575075922019696838
+      Edificios puente Sur Oeste__82: 6822829861645024016
+      Edificios puente Sur Oeste__83: 7975313017533981091
+      Edificios puente Sur Oeste__84: -7389730317707177496
+      Edificios puente Sur Oeste__85: -6241047399225582492
+      Edificios puente Sur Oeste__86: -647833834388785607
+      Edificios puente Sur Oeste__87: -4849274399622660590
+      Edificios puente Sur Oeste__88: -9183371124038662036
+      Edificios puente Sur Oeste__89: -4766846951337133573
+      Edificios puente Sur Oeste__9: 1720882306019456807
+      Edificios puente Sur Oeste__90: -206759903135980718
+      Edificios puente Sur Oeste__91: 3678972446184287113
+      Edificios puente Sur Oeste__92: 3592444980469112902
+      Edificios puente Sur Oeste__93: -2202920446690559307
+      Edificios puente Sur Oeste__94: 193274974490897099
+      Edificios puente Sur Oeste__95: -2877969969404733502
+      Edificios puente Sur Oeste__96: 3738758343842740825
+      Edificios puente Sur Oeste__97: -6139045226611589785
+      Edificios puente Sur Oeste__98: 6573606545627552757
+      Edificios puente Sur Oeste__99: -912915534319341927
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2197 @@
+fileFormatVersion: 2
+guid: 63c8cfb3bb2cc8642a248c98da0f458d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5811517758030651276
+    second: Puerta casa rica copia 3_0
+  - first:
+      213: 813547253517107009
+    second: Puerta casa rica copia 3_1
+  - first:
+      213: 2565279147459469890
+    second: Puerta casa rica copia 3_2
+  - first:
+      213: -1025767814555766356
+    second: Puerta casa rica copia 3_3
+  - first:
+      213: -7561284351519813469
+    second: Puerta casa rica copia 3_4
+  - first:
+      213: 4948725767529433144
+    second: Puerta casa rica copia 3_5
+  - first:
+      213: -8876493207736026134
+    second: Puerta casa rica copia 3_6
+  - first:
+      213: 3757155823551206393
+    second: Puerta casa rica copia 3_7
+  - first:
+      213: -4449363506636860671
+    second: Puerta casa rica copia 3_8
+  - first:
+      213: 2968885962279281848
+    second: Puerta casa rica copia 3_9
+  - first:
+      213: 5768160777262318319
+    second: Puerta casa rica copia 3_10
+  - first:
+      213: 6309288304741508598
+    second: Puerta casa rica copia 3_11
+  - first:
+      213: -3972969807662580110
+    second: Puerta casa rica copia 3_12
+  - first:
+      213: 2398655045490588477
+    second: Puerta casa rica copia 3_13
+  - first:
+      213: -8375356200689560064
+    second: Puerta casa rica copia 3_14
+  - first:
+      213: 6144122005940240877
+    second: Puerta casa rica copia 3_15
+  - first:
+      213: 8247962279438851551
+    second: Puerta casa rica copia 3_16
+  - first:
+      213: 3851663038699558204
+    second: Puerta casa rica copia 3_17
+  - first:
+      213: -4466016391103519099
+    second: Puerta casa rica copia 3_18
+  - first:
+      213: 1343963633058117006
+    second: Puerta casa rica copia 3_19
+  - first:
+      213: -3823121359750048818
+    second: Puerta casa rica copia 3_20
+  - first:
+      213: -7012500753368519438
+    second: Puerta casa rica copia 3_21
+  - first:
+      213: 4344796068823874563
+    second: Puerta casa rica copia 3_22
+  - first:
+      213: -3584114864446497204
+    second: Puerta casa rica copia 3_23
+  - first:
+      213: -809308391209099439
+    second: Puerta casa rica copia 3_24
+  - first:
+      213: 5832262427181355259
+    second: Puerta casa rica copia 3_25
+  - first:
+      213: 1785876318703084263
+    second: Puerta casa rica copia 3_26
+  - first:
+      213: 8191332628904297995
+    second: Puerta casa rica copia 3_27
+  - first:
+      213: 3051982202584803773
+    second: Puerta casa rica copia 3_28
+  - first:
+      213: 4452845000960459104
+    second: Puerta casa rica copia 3_29
+  - first:
+      213: 1808591917717224058
+    second: Puerta casa rica copia 3_30
+  - first:
+      213: -5540277944968580012
+    second: Puerta casa rica copia 3_31
+  - first:
+      213: 8423896816327509872
+    second: Puerta casa rica copia 3_32
+  - first:
+      213: -3482991122606472446
+    second: Puerta casa rica copia 3_33
+  - first:
+      213: 3036932611810876540
+    second: Puerta casa rica copia 3_34
+  - first:
+      213: 4481304087621453849
+    second: Puerta casa rica copia 3_35
+  - first:
+      213: 8485568935066617189
+    second: Puerta casa rica copia 3_36
+  - first:
+      213: 6762704877392585332
+    second: Puerta casa rica copia 3_37
+  - first:
+      213: -1488697803212277745
+    second: Puerta casa rica copia 3_38
+  - first:
+      213: -5058841865281370963
+    second: Puerta casa rica copia 3_39
+  - first:
+      213: -6420675912630577963
+    second: Puerta casa rica copia 3_40
+  - first:
+      213: 4283122336861712626
+    second: Puerta casa rica copia 3_41
+  - first:
+      213: -4343543735147559900
+    second: Puerta casa rica copia 3_42
+  - first:
+      213: 1137758843861890295
+    second: Puerta casa rica copia 3_43
+  - first:
+      213: 1063193672818552134
+    second: Puerta casa rica copia 3_44
+  - first:
+      213: -3713742104295074760
+    second: Puerta casa rica copia 3_45
+  - first:
+      213: 7777591123805267013
+    second: Puerta casa rica copia 3_46
+  - first:
+      213: 3150399344992586833
+    second: Puerta casa rica copia 3_47
+  - first:
+      213: 8476629950041704010
+    second: Puerta casa rica copia 3_48
+  - first:
+      213: -1013259059424936836
+    second: Puerta casa rica copia 3_49
+  - first:
+      213: -3788392778654526154
+    second: Puerta casa rica copia 3_50
+  - first:
+      213: -7770838171510711865
+    second: Puerta casa rica copia 3_51
+  - first:
+      213: 127851899330445535
+    second: Puerta casa rica copia 3_52
+  - first:
+      213: -7303024581972087882
+    second: Puerta casa rica copia 3_53
+  - first:
+      213: 9178759763307048823
+    second: Puerta casa rica copia 3_54
+  - first:
+      213: 7313238982501980260
+    second: Puerta casa rica copia 3_55
+  - first:
+      213: -4755795553448802584
+    second: Puerta casa rica copia 3_56
+  - first:
+      213: -4261359506919492632
+    second: Puerta casa rica copia 3_57
+  - first:
+      213: -3772292444675208527
+    second: Puerta casa rica copia 3_58
+  - first:
+      213: -148919380371725193
+    second: Puerta casa rica copia 3_59
+  - first:
+      213: -7280208009308849896
+    second: Puerta casa rica copia 3_60
+  - first:
+      213: -146668129969767256
+    second: Puerta casa rica copia 3_61
+  - first:
+      213: -3919166918988170878
+    second: Puerta casa rica copia 3_62
+  - first:
+      213: 966202698209410957
+    second: Puerta casa rica copia 3_63
+  - first:
+      213: 4529443896924397127
+    second: Puerta casa rica copia 3_64
+  - first:
+      213: -7926099188629681262
+    second: Puerta casa rica copia 3_65
+  - first:
+      213: 3610780322680315079
+    second: Puerta casa rica copia 3_66
+  - first:
+      213: -2428297825536634803
+    second: Puerta casa rica copia 3_67
+  - first:
+      213: -3125785142171774766
+    second: Puerta casa rica copia 3_68
+  - first:
+      213: -2924694808112312681
+    second: Puerta casa rica copia 3_69
+  - first:
+      213: 1347547996909101259
+    second: Puerta casa rica copia 3_70
+  - first:
+      213: -8853378438775057237
+    second: Puerta casa rica copia 3_71
+  - first:
+      213: 8047706832082070012
+    second: Puerta casa rica copia 3_72
+  - first:
+      213: 1331478302838541416
+    second: Puerta casa rica copia 3_73
+  - first:
+      213: -9008154624871991777
+    second: Puerta casa rica copia 3_74
+  - first:
+      213: 6277014527070521227
+    second: Puerta casa rica copia 3_75
+  - first:
+      213: 4177541114405110481
+    second: Puerta casa rica copia 3_76
+  - first:
+      213: -2788267719348835575
+    second: Puerta casa rica copia 3_77
+  - first:
+      213: -5859656949946640102
+    second: Puerta casa rica copia 3_78
+  - first:
+      213: -9004530415697497565
+    second: Puerta casa rica copia 3_79
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_0
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 336
+        width: 1833
+        height: 2733
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47065bac367595fa0800000000000000
+      internalID: -5811517758030651276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_1
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 2991
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14fb1edaaec4a4b00800000000000000
+      internalID: 813547253517107009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 2617
+        width: 42
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 242e90e0bc3b99320800000000000000
+      internalID: 2565279147459469890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 2724
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1ff5f7b9db3c1f0800000000000000
+      internalID: -1025767814555766356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_4
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 2541
+        width: 78
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a011f591fbe01790800000000000000
+      internalID: -7561284351519813469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_5
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 2553
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8380a68bdd76da440800000000000000
+      internalID: 4948725767529433144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_6
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 2483
+        width: 18
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aebf9bd057c50d480800000000000000
+      internalID: -8876493207736026134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_7
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 2509
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f35f84b059142430800000000000000
+      internalID: 3757155823551206393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_8
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 2520
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103d256e67fa042c0800000000000000
+      internalID: -4449363506636860671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_9
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 2465
+        width: 34
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4ec488d0a933920800000000000000
+      internalID: 2968885962279281848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_10
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 2501
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2cf087aaf9c0050800000000000000
+      internalID: 5768160777262318319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_11
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2421
+        width: 61
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5e4adf8481f8750800000000000000
+      internalID: 6309288304741508598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_12
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2363
+        width: 10
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e7be6720d2dd8c0800000000000000
+      internalID: -3972969807662580110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_13
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 2356
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b3a252e0cb94120800000000000000
+      internalID: 2398655045490588477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_14
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 2302
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0069886f8e1c4cb80800000000000000
+      internalID: -8375356200689560064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_15
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 2153
+        width: 41
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de18ab4596e444550800000000000000
+      internalID: 6144122005940240877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_16
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 2258
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd16ca5ef5a67270800000000000000
+      internalID: 8247962279438851551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_17
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 2078
+        width: 86
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c355030702bd37530800000000000000
+      internalID: 3851663038699558204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_18
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 2018
+        width: 18
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 586e33711c58502c0800000000000000
+      internalID: -4466016391103519099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2047
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e85f87bbdc7b6a210800000000000000
+      internalID: 1343963633058117006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_20
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1969
+        width: 42
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3d3ea016b81fac0800000000000000
+      internalID: -3823121359750048818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_21
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 2038
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc6f48f7b79eae90800000000000000
+      internalID: -7012500753368519438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_22
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1958
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30cb2cf3101db4c30800000000000000
+      internalID: 4344796068823874563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_23
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1893
+        width: 13
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e187e258aa24ec0800000000000000
+      internalID: -3584114864446497204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_24
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1839
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f1d3c5e42c4c4f0800000000000000
+      internalID: -809308391209099439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_25
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1691
+        width: 40
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf09001e6cb50f050800000000000000
+      internalID: 5832262427181355259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_26
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1794
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e26415cc05b8c810800000000000000
+      internalID: 1785876318703084263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_27
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1616
+        width: 84
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0648ee50a57da170800000000000000
+      internalID: 8191332628904297995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_28
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1555
+        width: 18
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9a1e5a4a1da5a20800000000000000
+      internalID: 3051982202584803773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_29
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1588
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0614f1aafeeabcd30800000000000000
+      internalID: 4452845000960459104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_30
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1541
+        width: 38
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a7d2f44c8691910800000000000000
+      internalID: 1808591917717224058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_31
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1513
+        width: 27
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454773d009afc13b0800000000000000
+      internalID: -5540277944968580012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_32
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1579
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 077ceb1d581b7e470800000000000000
+      internalID: 8423896816327509872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_33
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1509
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203c335170ee9afc0800000000000000
+      internalID: -3482991122606472446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_34
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1498
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c59cdbe1a552a20800000000000000
+      internalID: 3036932611810876540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_35
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1432
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918ce21235ac03e30800000000000000
+      internalID: 4481304087621453849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_36
+      rect:
+        serializedVersion: 2
+        x: 2518
+        y: 1104
+        width: 120
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5654cbbecfbc2c570800000000000000
+      internalID: 8485568935066617189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_37
+      rect:
+        serializedVersion: 2
+        x: 2619
+        y: 1130
+        width: 57
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47269c17144f9dd50800000000000000
+      internalID: 6762704877392585332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_38
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 1238
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08b0a54c35175be0800000000000000
+      internalID: -1488697803212277745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_39
+      rect:
+        serializedVersion: 2
+        x: 2508
+        y: 1172
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da4870d50226bc9b0800000000000000
+      internalID: -5058841865281370963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_40
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 1036
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d45fb1964d25e6a0800000000000000
+      internalID: -6420675912630577963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_41
+      rect:
+        serializedVersion: 2
+        x: 2618
+        y: 1053
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0fe2a8215b07b30800000000000000
+      internalID: 4283122336861712626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_42
+      rect:
+        serializedVersion: 2
+        x: 2429
+        y: 1028
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42408286cf1a8b3c0800000000000000
+      internalID: -4343543735147559900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_43
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 1003
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f47270f3a12acf00800000000000000
+      internalID: 1137758843861890295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_44
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 1012
+        width: 51
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64deacb230931ce00800000000000000
+      internalID: 1063193672818552134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_45
+      rect:
+        serializedVersion: 2
+        x: 2591
+        y: 984
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 834941e7b33267cc0800000000000000
+      internalID: -3713742104295074760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_46
+      rect:
+        serializedVersion: 2
+        x: 2637
+        y: 1010
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 544e4ae6bed8feb60800000000000000
+      internalID: 7777591123805267013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_47
+      rect:
+        serializedVersion: 2
+        x: 2565
+        y: 1007
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c08e2438778bb20800000000000000
+      internalID: 3150399344992586833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_48
+      rect:
+        serializedVersion: 2
+        x: 2637
+        y: 1009
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a464ca8470a03a570800000000000000
+      internalID: 8476629950041704010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_49
+      rect:
+        serializedVersion: 2
+        x: 2601
+        y: 981
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7cb781014e20f1f0800000000000000
+      internalID: -1013259059424936836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_50
+      rect:
+        serializedVersion: 2
+        x: 2512
+        y: 629
+        width: 121
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63554aee6dcec6bc0800000000000000
+      internalID: -3788392778654526154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_51
+      rect:
+        serializedVersion: 2
+        x: 2614
+        y: 655
+        width: 57
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9de0ccadf682490800000000000000
+      internalID: -7770838171510711865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_52
+      rect:
+        serializedVersion: 2
+        x: 2635
+        y: 763
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd0437300a836c100800000000000000
+      internalID: 127851899330445535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_53
+      rect:
+        serializedVersion: 2
+        x: 2503
+        y: 697
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bbab95f5d176aa90800000000000000
+      internalID: -7303024581972087882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_54
+      rect:
+        serializedVersion: 2
+        x: 2571
+        y: 561
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77fa092af51816f70800000000000000
+      internalID: 9178759763307048823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_55
+      rect:
+        serializedVersion: 2
+        x: 2613
+        y: 578
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468d19d7b18dd7560800000000000000
+      internalID: 7313238982501980260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_56
+      rect:
+        serializedVersion: 2
+        x: 2424
+        y: 553
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e64d443425000eb0800000000000000
+      internalID: -4755795553448802584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_57
+      rect:
+        serializedVersion: 2
+        x: 2497
+        y: 528
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e374d92b1c9cd4c0800000000000000
+      internalID: -4261359506919492632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_58
+      rect:
+        serializedVersion: 2
+        x: 2545
+        y: 537
+        width: 51
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba8e3e020026abc0800000000000000
+      internalID: -3772292444675208527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_59
+      rect:
+        serializedVersion: 2
+        x: 2586
+        y: 509
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774a5c0dc9eeeedf0800000000000000
+      internalID: -148919380371725193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_60
+      rect:
+        serializedVersion: 2
+        x: 2632
+        y: 535
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8193132436187fa90800000000000000
+      internalID: -7280208009308849896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_61
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 532
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8acf745ec1ee6fdf0800000000000000
+      internalID: -146668129969767256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_62
+      rect:
+        serializedVersion: 2
+        x: 2632
+        y: 534
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2897f3aa3725c99c0800000000000000
+      internalID: -3919166918988170878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_63
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 506
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8fbbcf1c34a86d00800000000000000
+      internalID: 966202698209410957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_64
+      rect:
+        serializedVersion: 2
+        x: 2509
+        y: 148
+        width: 119
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e5d3ae931dbde30800000000000000
+      internalID: 4529443896924397127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_65
+      rect:
+        serializedVersion: 2
+        x: 2609
+        y: 174
+        width: 57
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b473f38c6d00290800000000000000
+      internalID: -7926099188629681262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_66
+      rect:
+        serializedVersion: 2
+        x: 2630
+        y: 282
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc945f92911c1230800000000000000
+      internalID: 3610780322680315079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_67
+      rect:
+        serializedVersion: 2
+        x: 2498
+        y: 216
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40190c4ef3fc4ed0800000000000000
+      internalID: -2428297825536634803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_68
+      rect:
+        serializedVersion: 2
+        x: 2566
+        y: 80
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d058ac69fafe94d0800000000000000
+      internalID: -3125785142171774766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_69
+      rect:
+        serializedVersion: 2
+        x: 2608
+        y: 99
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e490651956967d0800000000000000
+      internalID: -2924694808112312681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_70
+      rect:
+        serializedVersion: 2
+        x: 2420
+        y: 80
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc06e8973c373b210800000000000000
+      internalID: 1347547996909101259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_71
+      rect:
+        serializedVersion: 2
+        x: 2540
+        y: 60
+        width: 51
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4d5b6973b722580800000000000000
+      internalID: -8853378438775057237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_72
+      rect:
+        serializedVersion: 2
+        x: 2581
+        y: 30
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf96cb6a9b23faf60800000000000000
+      internalID: 8047706832082070012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_73
+      rect:
+        serializedVersion: 2
+        x: 2594
+        y: 77
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86cc4d2467c5a7210800000000000000
+      internalID: 1331478302838541416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_74
+      rect:
+        serializedVersion: 2
+        x: 2628
+        y: 54
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1676be881b9cf280800000000000000
+      internalID: -9008154624871991777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_75
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 49
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b874100947f6c1750800000000000000
+      internalID: 6277014527070521227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_76
+      rect:
+        serializedVersion: 2
+        x: 2505
+        y: 47
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d2c4be828b99f930800000000000000
+      internalID: 4177541114405110481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_77
+      rect:
+        serializedVersion: 2
+        x: 2555
+        y: 51
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b268938451e49d0800000000000000
+      internalID: -2788267719348835575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_78
+      rect:
+        serializedVersion: 2
+        x: 2628
+        y: 53
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1918c0cc015eaea0800000000000000
+      internalID: -5859656949946640102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta casa rica copia 3_79
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 25
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32276238b4b790380800000000000000
+      internalID: -9004530415697497565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Puerta casa rica copia 3_0: -5811517758030651276
+      Puerta casa rica copia 3_1: 813547253517107009
+      Puerta casa rica copia 3_10: 5768160777262318319
+      Puerta casa rica copia 3_11: 6309288304741508598
+      Puerta casa rica copia 3_12: -3972969807662580110
+      Puerta casa rica copia 3_13: 2398655045490588477
+      Puerta casa rica copia 3_14: -8375356200689560064
+      Puerta casa rica copia 3_15: 6144122005940240877
+      Puerta casa rica copia 3_16: 8247962279438851551
+      Puerta casa rica copia 3_17: 3851663038699558204
+      Puerta casa rica copia 3_18: -4466016391103519099
+      Puerta casa rica copia 3_19: 1343963633058117006
+      Puerta casa rica copia 3_2: 2565279147459469890
+      Puerta casa rica copia 3_20: -3823121359750048818
+      Puerta casa rica copia 3_21: -7012500753368519438
+      Puerta casa rica copia 3_22: 4344796068823874563
+      Puerta casa rica copia 3_23: -3584114864446497204
+      Puerta casa rica copia 3_24: -809308391209099439
+      Puerta casa rica copia 3_25: 5832262427181355259
+      Puerta casa rica copia 3_26: 1785876318703084263
+      Puerta casa rica copia 3_27: 8191332628904297995
+      Puerta casa rica copia 3_28: 3051982202584803773
+      Puerta casa rica copia 3_29: 4452845000960459104
+      Puerta casa rica copia 3_3: -1025767814555766356
+      Puerta casa rica copia 3_30: 1808591917717224058
+      Puerta casa rica copia 3_31: -5540277944968580012
+      Puerta casa rica copia 3_32: 8423896816327509872
+      Puerta casa rica copia 3_33: -3482991122606472446
+      Puerta casa rica copia 3_34: 3036932611810876540
+      Puerta casa rica copia 3_35: 4481304087621453849
+      Puerta casa rica copia 3_36: 8485568935066617189
+      Puerta casa rica copia 3_37: 6762704877392585332
+      Puerta casa rica copia 3_38: -1488697803212277745
+      Puerta casa rica copia 3_39: -5058841865281370963
+      Puerta casa rica copia 3_4: -7561284351519813469
+      Puerta casa rica copia 3_40: -6420675912630577963
+      Puerta casa rica copia 3_41: 4283122336861712626
+      Puerta casa rica copia 3_42: -4343543735147559900
+      Puerta casa rica copia 3_43: 1137758843861890295
+      Puerta casa rica copia 3_44: 1063193672818552134
+      Puerta casa rica copia 3_45: -3713742104295074760
+      Puerta casa rica copia 3_46: 7777591123805267013
+      Puerta casa rica copia 3_47: 3150399344992586833
+      Puerta casa rica copia 3_48: 8476629950041704010
+      Puerta casa rica copia 3_49: -1013259059424936836
+      Puerta casa rica copia 3_5: 4948725767529433144
+      Puerta casa rica copia 3_50: -3788392778654526154
+      Puerta casa rica copia 3_51: -7770838171510711865
+      Puerta casa rica copia 3_52: 127851899330445535
+      Puerta casa rica copia 3_53: -7303024581972087882
+      Puerta casa rica copia 3_54: 9178759763307048823
+      Puerta casa rica copia 3_55: 7313238982501980260
+      Puerta casa rica copia 3_56: -4755795553448802584
+      Puerta casa rica copia 3_57: -4261359506919492632
+      Puerta casa rica copia 3_58: -3772292444675208527
+      Puerta casa rica copia 3_59: -148919380371725193
+      Puerta casa rica copia 3_6: -8876493207736026134
+      Puerta casa rica copia 3_60: -7280208009308849896
+      Puerta casa rica copia 3_61: -146668129969767256
+      Puerta casa rica copia 3_62: -3919166918988170878
+      Puerta casa rica copia 3_63: 966202698209410957
+      Puerta casa rica copia 3_64: 4529443896924397127
+      Puerta casa rica copia 3_65: -7926099188629681262
+      Puerta casa rica copia 3_66: 3610780322680315079
+      Puerta casa rica copia 3_67: -2428297825536634803
+      Puerta casa rica copia 3_68: -3125785142171774766
+      Puerta casa rica copia 3_69: -2924694808112312681
+      Puerta casa rica copia 3_7: 3757155823551206393
+      Puerta casa rica copia 3_70: 1347547996909101259
+      Puerta casa rica copia 3_71: -8853378438775057237
+      Puerta casa rica copia 3_72: 8047706832082070012
+      Puerta casa rica copia 3_73: 1331478302838541416
+      Puerta casa rica copia 3_74: -9008154624871991777
+      Puerta casa rica copia 3_75: 6277014527070521227
+      Puerta casa rica copia 3_76: 4177541114405110481
+      Puerta casa rica copia 3_77: -2788267719348835575
+      Puerta casa rica copia 3_78: -5859656949946640102
+      Puerta casa rica copia 3_79: -9004530415697497565
+      Puerta casa rica copia 3_8: -4449363506636860671
+      Puerta casa rica copia 3_9: 2968885962279281848
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

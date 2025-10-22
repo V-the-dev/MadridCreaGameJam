@@ -1,0 +1,1937 @@
+fileFormatVersion: 2
+guid: fdeebac5055d13847833ce0d4d76d412
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8702721142466736449
+    second: Edificio Oeste_0
+  - first:
+      213: -2636838133212759047
+    second: Edificio Oeste_1
+  - first:
+      213: -3142661827007034647
+    second: Edificio Oeste_2
+  - first:
+      213: -8092404546374724026
+    second: Edificio Oeste_3
+  - first:
+      213: 7184519108937274120
+    second: Edificio Oeste_4
+  - first:
+      213: -7249490801015551534
+    second: Edificio Oeste_5
+  - first:
+      213: -8995883352407796084
+    second: Edificio Oeste_6
+  - first:
+      213: -6448391097989685128
+    second: Edificio Oeste_7
+  - first:
+      213: -1585542989754666960
+    second: Edificio Oeste_8
+  - first:
+      213: -1047206998682508760
+    second: Edificio Oeste_9
+  - first:
+      213: 718775198126172419
+    second: Edificio Oeste_10
+  - first:
+      213: -1186690584390276575
+    second: Edificio Oeste_11
+  - first:
+      213: -4733189401308710812
+    second: Edificio Oeste_12
+  - first:
+      213: 7907729789843923251
+    second: Edificio Oeste_13
+  - first:
+      213: -7943415536053585032
+    second: Edificio Oeste_14
+  - first:
+      213: 2282989529116236271
+    second: Edificio Oeste_15
+  - first:
+      213: 2203227441774982931
+    second: Edificio Oeste_16
+  - first:
+      213: -122215280968533873
+    second: Edificio Oeste_17
+  - first:
+      213: -7581545301433076296
+    second: Edificio Oeste_18
+  - first:
+      213: -1752740370069408304
+    second: Edificio Oeste_19
+  - first:
+      213: -7111027665958609416
+    second: Edificio Oeste_20
+  - first:
+      213: -5972989563679714099
+    second: Edificio Oeste_21
+  - first:
+      213: 4036035032159916082
+    second: Edificio Oeste_22
+  - first:
+      213: 4239203167561441586
+    second: Edificio Oeste_23
+  - first:
+      213: 8688541896032126015
+    second: Edificio Oeste_24
+  - first:
+      213: 21127070419984765
+    second: Edificio Oeste_25
+  - first:
+      213: 7475352833847330392
+    second: Edificio Oeste_26
+  - first:
+      213: -4473954740068132753
+    second: Edificio Oeste_27
+  - first:
+      213: 4819198707853259682
+    second: Edificio Oeste_28
+  - first:
+      213: -4767801480792602464
+    second: Edificio Oeste_29
+  - first:
+      213: -5870591548627607808
+    second: Edificio Oeste_30
+  - first:
+      213: 7771069559059050329
+    second: Edificio Oeste_31
+  - first:
+      213: 508093073673790233
+    second: Edificio Oeste_32
+  - first:
+      213: -2359943482216646971
+    second: Edificio Oeste_33
+  - first:
+      213: -6630412509989031683
+    second: Edificio Oeste_34
+  - first:
+      213: -2488854195980852917
+    second: Edificio Oeste_35
+  - first:
+      213: 373858214963644755
+    second: Edificio Oeste_36
+  - first:
+      213: -7697965846989944128
+    second: Edificio Oeste_37
+  - first:
+      213: -3932817063839963678
+    second: Edificio Oeste_38
+  - first:
+      213: 7279398182871151781
+    second: Edificio Oeste_39
+  - first:
+      213: -856450613023772401
+    second: Edificio Oeste_40
+  - first:
+      213: 6070596060277441629
+    second: Edificio Oeste_41
+  - first:
+      213: -5405472700504679995
+    second: Edificio Oeste_42
+  - first:
+      213: 1470565886440651155
+    second: Edificio Oeste_43
+  - first:
+      213: 3666034557315007943
+    second: Edificio Oeste_44
+  - first:
+      213: -5247878258968821084
+    second: Edificio Oeste_45
+  - first:
+      213: -8712148408318915721
+    second: Edificio Oeste_46
+  - first:
+      213: -793987143784062677
+    second: Edificio Oeste_47
+  - first:
+      213: 6298650028379551319
+    second: Edificio Oeste_48
+  - first:
+      213: -6830385717532224154
+    second: Edificio Oeste_49
+  - first:
+      213: -3187650765002065541
+    second: Edificio Oeste_50
+  - first:
+      213: -7191683196483477994
+    second: Edificio Oeste_51
+  - first:
+      213: 6201312754085665524
+    second: Edificio Oeste_52
+  - first:
+      213: 8971817667912022107
+    second: Edificio Oeste_53
+  - first:
+      213: 6727423263923589817
+    second: Edificio Oeste_54
+  - first:
+      213: -7951917045654976605
+    second: Edificio Oeste_55
+  - first:
+      213: -4944587885168934130
+    second: Edificio Oeste_56
+  - first:
+      213: 3593498598990888176
+    second: Edificio Oeste_57
+  - first:
+      213: 3367394284613332959
+    second: Edificio Oeste_58
+  - first:
+      213: 172993728810517024
+    second: Edificio Oeste_59
+  - first:
+      213: 1144772172237580433
+    second: Edificio Oeste_60
+  - first:
+      213: 9177065535439230565
+    second: Edificio Oeste_61
+  - first:
+      213: -8147416742898055012
+    second: Edificio Oeste_62
+  - first:
+      213: -834042086293522319
+    second: Edificio Oeste_63
+  - first:
+      213: -4693923570192015688
+    second: Edificio Oeste_64
+  - first:
+      213: -6206236210606818822
+    second: Edificio Oeste_65
+  - first:
+      213: -6749661407072205793
+    second: Edificio Oeste_66
+  - first:
+      213: -4736455342763506341
+    second: Edificio Oeste_67
+  - first:
+      213: -7721975237210339699
+    second: Edificio Oeste_68
+  - first:
+      213: -2372468196624619282
+    second: Edificio Oeste_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 159
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Edificio Oeste_0
+      rect:
+        serializedVersion: 2
+        x: 2539
+        y: 8309
+        width: 37
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141f20425c646c870800000000000000
+      internalID: 8702721142466736449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Oeste_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 3479
+        height: 6244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb36ab30b1186bd0800000000000000
+      internalID: -2636838133212759047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Oeste_2
+      rect:
+        serializedVersion: 2
+        x: 5255
+        y: 4486
+        width: 54
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eac01808b50364d0800000000000000
+      internalID: -3142661827007034647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Oeste_3
+      rect:
+        serializedVersion: 2
+        x: 5300
+        y: 4465
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6461492c0f002bf80800000000000000
+      internalID: -8092404546374724026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Oeste_4
+      rect:
+        serializedVersion: 2
+        x: 5315
+        y: 4441
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 803563a701a84b360800000000000000
+      internalID: 7184519108937274120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Oeste_5
+      rect:
+        serializedVersion: 2
+        x: 5138
+        y: 4294
+        width: 64
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d98103a682a46b90800000000000000
+      internalID: -7249490801015551534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Oeste_6
+      rect:
+        serializedVersion: 2
+        x: 5234
+        y: 4405
+        width: 13
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8612e2d0c3382380800000000000000
+      internalID: -8995883352407796084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Oeste_7
+      rect:
+        serializedVersion: 2
+        x: 5245
+        y: 4415
+        width: 95
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 870a88f1676b286a0800000000000000
+      internalID: -6448391097989685128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Oeste_8
+      rect:
+        serializedVersion: 2
+        x: 5249
+        y: 4386
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030ff872d050ff9e0800000000000000
+      internalID: -1585542989754666960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Oeste_9
+      rect:
+        serializedVersion: 2
+        x: 5271
+        y: 4392
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822e93578c29771f0800000000000000
+      internalID: -1047206998682508760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Oeste_10
+      rect:
+        serializedVersion: 2
+        x: 5288
+        y: 4377
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309eba50c3a99f900800000000000000
+      internalID: 718775198126172419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Oeste_11
+      rect:
+        serializedVersion: 2
+        x: 5293
+        y: 4390
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12aed1b6337088fe0800000000000000
+      internalID: -1186690584390276575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Oeste_12
+      rect:
+        serializedVersion: 2
+        x: 5185
+        y: 4361
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468b9582155505eb0800000000000000
+      internalID: -4733189401308710812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Oeste_13
+      rect:
+        serializedVersion: 2
+        x: 5200
+        y: 4356
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331eb6fc856edbd60800000000000000
+      internalID: 7907729789843923251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Oeste_14
+      rect:
+        serializedVersion: 2
+        x: 5213
+        y: 4347
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87bf43ee7a153c190800000000000000
+      internalID: -7943415536053585032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Oeste_15
+      rect:
+        serializedVersion: 2
+        x: 5246
+        y: 4338
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9d8e481eeceaf10800000000000000
+      internalID: 2282989529116236271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Oeste_16
+      rect:
+        serializedVersion: 2
+        x: 5256
+        y: 4369
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 317f3626faf639e10800000000000000
+      internalID: 2203227441774982931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Oeste_17
+      rect:
+        serializedVersion: 2
+        x: 5257
+        y: 4360
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88feb779ddcd4ef0800000000000000
+      internalID: -122215280968533873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Oeste_18
+      rect:
+        serializedVersion: 2
+        x: 5268
+        y: 4354
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5bc8397b0f8c690800000000000000
+      internalID: -7581545301433076296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Oeste_19
+      rect:
+        serializedVersion: 2
+        x: 5293
+        y: 4351
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5b68a7be30da7e0800000000000000
+      internalID: -1752740370069408304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Oeste_20
+      rect:
+        serializedVersion: 2
+        x: 5299
+        y: 4358
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fddf8e730e805d90800000000000000
+      internalID: -7111027665958609416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Oeste_21
+      rect:
+        serializedVersion: 2
+        x: 5304
+        y: 4380
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc451c953adab1da0800000000000000
+      internalID: -5972989563679714099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Oeste_22
+      rect:
+        serializedVersion: 2
+        x: 5307
+        y: 4375
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2309ce85a70e20830800000000000000
+      internalID: 4036035032159916082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Oeste_23
+      rect:
+        serializedVersion: 2
+        x: 5233
+        y: 4334
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231e53512dca4da30800000000000000
+      internalID: 4239203167561441586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Oeste_24
+      rect:
+        serializedVersion: 2
+        x: 5204
+        y: 4289
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f34081112d6e39870800000000000000
+      internalID: 8688541896032126015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Oeste_25
+      rect:
+        serializedVersion: 2
+        x: 5232
+        y: 4286
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d71278765fe0b4000800000000000000
+      internalID: 21127070419984765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Oeste_26
+      rect:
+        serializedVersion: 2
+        x: 5256
+        y: 4307
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8560e28dbc9cdb760800000000000000
+      internalID: 7475352833847330392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Oeste_27
+      rect:
+        serializedVersion: 2
+        x: 5220
+        y: 4266
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6850113ed159e1c0800000000000000
+      internalID: -4473954740068132753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Oeste_28
+      rect:
+        serializedVersion: 2
+        x: 5229
+        y: 4281
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a37d9b01bb31e240800000000000000
+      internalID: 4819198707853259682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Oeste_29
+      rect:
+        serializedVersion: 2
+        x: 5136
+        y: 4238
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a886c960dd55ddb0800000000000000
+      internalID: -4767801480792602464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Oeste_30
+      rect:
+        serializedVersion: 2
+        x: 5151
+        y: 4232
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f14aa1718778ea0800000000000000
+      internalID: -5870591548627607808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Oeste_31
+      rect:
+        serializedVersion: 2
+        x: 5163
+        y: 4200
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95fe090579268db60800000000000000
+      internalID: 7771069559059050329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Oeste_32
+      rect:
+        serializedVersion: 2
+        x: 5181
+        y: 4230
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 913a92165fb1d0700800000000000000
+      internalID: 508093073673790233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Oeste_33
+      rect:
+        serializedVersion: 2
+        x: 5186
+        y: 4222
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c67a7c08ebcf3fd0800000000000000
+      internalID: -2359943482216646971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Oeste_34
+      rect:
+        serializedVersion: 2
+        x: 5162
+        y: 4195
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df03ccb93fa0cf3a0800000000000000
+      internalID: -6630412509989031683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Oeste_35
+      rect:
+        serializedVersion: 2
+        x: 4367
+        y: 4000
+        width: 54
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4122d69b40d57dd0800000000000000
+      internalID: -2488854195980852917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Oeste_36
+      rect:
+        serializedVersion: 2
+        x: 4412
+        y: 3979
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3590543d016303500800000000000000
+      internalID: 373858214963644755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Oeste_37
+      rect:
+        serializedVersion: 2
+        x: 4427
+        y: 3955
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca431509d45b2590800000000000000
+      internalID: -7697965846989944128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Oeste_38
+      rect:
+        serializedVersion: 2
+        x: 4250
+        y: 3808
+        width: 64
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e56937a7b3db69c0800000000000000
+      internalID: -3932817063839963678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Oeste_39
+      rect:
+        serializedVersion: 2
+        x: 4346
+        y: 3919
+        width: 13
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4b8a4541e950560800000000000000
+      internalID: 7279398182871151781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Oeste_40
+      rect:
+        serializedVersion: 2
+        x: 4357
+        y: 3929
+        width: 95
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f017d0384b64d14f0800000000000000
+      internalID: -856450613023772401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Oeste_41
+      rect:
+        serializedVersion: 2
+        x: 4361
+        y: 3900
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5409b314f61f3450800000000000000
+      internalID: 6070596060277441629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Oeste_42
+      rect:
+        serializedVersion: 2
+        x: 4383
+        y: 3906
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9d853e737ebf4b0800000000000000
+      internalID: -5405472700504679995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Oeste_43
+      rect:
+        serializedVersion: 2
+        x: 4400
+        y: 3891
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3993a10e1ef786410800000000000000
+      internalID: 1470565886440651155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Oeste_44
+      rect:
+        serializedVersion: 2
+        x: 4405
+        y: 3904
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c54113a10f50e230800000000000000
+      internalID: 3666034557315007943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Oeste_45
+      rect:
+        serializedVersion: 2
+        x: 4297
+        y: 3875
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a20ba5278acb27b0800000000000000
+      internalID: -5247878258968821084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Oeste_46
+      rect:
+        serializedVersion: 2
+        x: 4312
+        y: 3870
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b8aab7e2b381780800000000000000
+      internalID: -8712148408318915721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Oeste_47
+      rect:
+        serializedVersion: 2
+        x: 4325
+        y: 3861
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b21268246e03bf4f0800000000000000
+      internalID: -793987143784062677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Oeste_48
+      rect:
+        serializedVersion: 2
+        x: 4358
+        y: 3852
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756311244dc496750800000000000000
+      internalID: 6298650028379551319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Oeste_49
+      rect:
+        serializedVersion: 2
+        x: 4368
+        y: 3883
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665179bf0689531a0800000000000000
+      internalID: -6830385717532224154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Oeste_50
+      rect:
+        serializedVersion: 2
+        x: 4369
+        y: 3874
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b79bc04a48033c3d0800000000000000
+      internalID: -3187650765002065541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Oeste_51
+      rect:
+        serializedVersion: 2
+        x: 4380
+        y: 3868
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ed4786c32023c90800000000000000
+      internalID: -7191683196483477994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Oeste_52
+      rect:
+        serializedVersion: 2
+        x: 4405
+        y: 3865
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa1068081d7f0650800000000000000
+      internalID: 6201312754085665524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Oeste_53
+      rect:
+        serializedVersion: 2
+        x: 4411
+        y: 3872
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58387d52ac428c70800000000000000
+      internalID: 8971817667912022107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Oeste_54
+      rect:
+        serializedVersion: 2
+        x: 4416
+        y: 3894
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b25ddba0db9c5d50800000000000000
+      internalID: 6727423263923589817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Oeste_55
+      rect:
+        serializedVersion: 2
+        x: 4419
+        y: 3889
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a78c5af39d15a190800000000000000
+      internalID: -7951917045654976605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Oeste_56
+      rect:
+        serializedVersion: 2
+        x: 4345
+        y: 3848
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e034ec7148b416bb0800000000000000
+      internalID: -4944587885168934130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Oeste_57
+      rect:
+        serializedVersion: 2
+        x: 4316
+        y: 3803
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc37b5cfebaed130800000000000000
+      internalID: 3593498598990888176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Oeste_58
+      rect:
+        serializedVersion: 2
+        x: 4344
+        y: 3800
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdfee09b2436bbe20800000000000000
+      internalID: 3367394284613332959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Oeste_59
+      rect:
+        serializedVersion: 2
+        x: 4368
+        y: 3821
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0220f1a31e8966200800000000000000
+      internalID: 172993728810517024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Oeste_60
+      rect:
+        serializedVersion: 2
+        x: 4332
+        y: 3780
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19829f2b93c03ef00800000000000000
+      internalID: 1144772172237580433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Oeste_61
+      rect:
+        serializedVersion: 2
+        x: 4341
+        y: 3795
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 566d5587b7c7b5f70800000000000000
+      internalID: 9177065535439230565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Oeste_62
+      rect:
+        serializedVersion: 2
+        x: 4248
+        y: 3752
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c98cd72a3af8eee80800000000000000
+      internalID: -8147416742898055012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Oeste_63
+      rect:
+        serializedVersion: 2
+        x: 4263
+        y: 3746
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 178bfb63423ec64f0800000000000000
+      internalID: -834042086293522319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Oeste_64
+      rect:
+        serializedVersion: 2
+        x: 4275
+        y: 3714
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be1fd3e165dbdeb0800000000000000
+      internalID: -4693923570192015688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Oeste_65
+      rect:
+        serializedVersion: 2
+        x: 4293
+        y: 3744
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af93d9a6c050fd9a0800000000000000
+      internalID: -6206236210606818822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Oeste_66
+      rect:
+        serializedVersion: 2
+        x: 4298
+        y: 3736
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f144c4526b26452a0800000000000000
+      internalID: -6749661407072205793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Oeste_67
+      rect:
+        serializedVersion: 2
+        x: 4274
+        y: 3709
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b558418e5fab44eb0800000000000000
+      internalID: -4736455342763506341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Oeste_68
+      rect:
+        serializedVersion: 2
+        x: 5136
+        y: 2605
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8607bd3f6806d490800000000000000
+      internalID: -7721975237210339699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificio Oeste_69
+      rect:
+        serializedVersion: 2
+        x: 4248
+        y: 2119
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee8274bbebc431fd0800000000000000
+      internalID: -2372468196624619282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Edificio Oeste_0: 8702721142466736449
+      Edificio Oeste_1: -2636838133212759047
+      Edificio Oeste_10: 718775198126172419
+      Edificio Oeste_11: -1186690584390276575
+      Edificio Oeste_12: -4733189401308710812
+      Edificio Oeste_13: 7907729789843923251
+      Edificio Oeste_14: -7943415536053585032
+      Edificio Oeste_15: 2282989529116236271
+      Edificio Oeste_16: 2203227441774982931
+      Edificio Oeste_17: -122215280968533873
+      Edificio Oeste_18: -7581545301433076296
+      Edificio Oeste_19: -1752740370069408304
+      Edificio Oeste_2: -3142661827007034647
+      Edificio Oeste_20: -7111027665958609416
+      Edificio Oeste_21: -5972989563679714099
+      Edificio Oeste_22: 4036035032159916082
+      Edificio Oeste_23: 4239203167561441586
+      Edificio Oeste_24: 8688541896032126015
+      Edificio Oeste_25: 21127070419984765
+      Edificio Oeste_26: 7475352833847330392
+      Edificio Oeste_27: -4473954740068132753
+      Edificio Oeste_28: 4819198707853259682
+      Edificio Oeste_29: -4767801480792602464
+      Edificio Oeste_3: -8092404546374724026
+      Edificio Oeste_30: -5870591548627607808
+      Edificio Oeste_31: 7771069559059050329
+      Edificio Oeste_32: 508093073673790233
+      Edificio Oeste_33: -2359943482216646971
+      Edificio Oeste_34: -6630412509989031683
+      Edificio Oeste_35: -2488854195980852917
+      Edificio Oeste_36: 373858214963644755
+      Edificio Oeste_37: -7697965846989944128
+      Edificio Oeste_38: -3932817063839963678
+      Edificio Oeste_39: 7279398182871151781
+      Edificio Oeste_4: 7184519108937274120
+      Edificio Oeste_40: -856450613023772401
+      Edificio Oeste_41: 6070596060277441629
+      Edificio Oeste_42: -5405472700504679995
+      Edificio Oeste_43: 1470565886440651155
+      Edificio Oeste_44: 3666034557315007943
+      Edificio Oeste_45: -5247878258968821084
+      Edificio Oeste_46: -8712148408318915721
+      Edificio Oeste_47: -793987143784062677
+      Edificio Oeste_48: 6298650028379551319
+      Edificio Oeste_49: -6830385717532224154
+      Edificio Oeste_5: -7249490801015551534
+      Edificio Oeste_50: -3187650765002065541
+      Edificio Oeste_51: -7191683196483477994
+      Edificio Oeste_52: 6201312754085665524
+      Edificio Oeste_53: 8971817667912022107
+      Edificio Oeste_54: 6727423263923589817
+      Edificio Oeste_55: -7951917045654976605
+      Edificio Oeste_56: -4944587885168934130
+      Edificio Oeste_57: 3593498598990888176
+      Edificio Oeste_58: 3367394284613332959
+      Edificio Oeste_59: 172993728810517024
+      Edificio Oeste_6: -8995883352407796084
+      Edificio Oeste_60: 1144772172237580433
+      Edificio Oeste_61: 9177065535439230565
+      Edificio Oeste_62: -8147416742898055012
+      Edificio Oeste_63: -834042086293522319
+      Edificio Oeste_64: -4693923570192015688
+      Edificio Oeste_65: -6206236210606818822
+      Edificio Oeste_66: -6749661407072205793
+      Edificio Oeste_67: -4736455342763506341
+      Edificio Oeste_68: -7721975237210339699
+      Edificio Oeste_69: -2372468196624619282
+      Edificio Oeste_7: -6448391097989685128
+      Edificio Oeste_8: -1585542989754666960
+      Edificio Oeste_9: -1047206998682508760
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
