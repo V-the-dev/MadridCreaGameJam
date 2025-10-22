@@ -34,6 +34,7 @@ public class DialogueUI : MonoBehaviour
     [SerializeField] private GameObject textBackground;
     [SerializeField] private Sprite backgroundWithName;
     [SerializeField] private Sprite backgroundWithoutName;
+    [SerializeField] private List<GameObject> thingsToHideWhenBackgroundWithoutName = new List<GameObject>();
 
     private InputAction _acceptAction;
     private List<GameObject> leftCharacters = new List<GameObject>();
@@ -52,16 +53,12 @@ public class DialogueUI : MonoBehaviour
         typewritterEffect = GetComponent<TypewritterEffect>();
         responseHandler = GetComponent<ResponseHandler>();
         imageHandler = GetComponent<InlineImageHandler>();
+        _acceptAction = InputSystem.actions.FindAction("UI/Submit");
         
         if (imageHandler != null)
             imageHandler.Initialize(textLabel);
         
         CloseDialogueBox();
-    }
-
-    private void Start()
-    {
-        _acceptAction = InputSystem.actions.FindAction("UI/Submit");
     }
 
     public void ShowDialogue(DialogueObject dialogueObject, InventoryDialogueLinker linker = null)
@@ -133,7 +130,7 @@ public class DialogueUI : MonoBehaviour
             GameManager.Instance.ResumeGame();
             yield break;
         }
-        
+        yield return new WaitUntil(() => !_acceptAction.IsPressed());
         for(int i = 0; i < dialogueObject.Dialogue.Length; i++)
         {
             string dialogue = dialogueObject.Dialogue[i];
@@ -417,10 +414,18 @@ public class DialogueUI : MonoBehaviour
             leftCharacters.Clear();
             rightCharacters.Clear();
             characterNamesInScene.Clear();
+            foreach (GameObject thing in thingsToHideWhenBackgroundWithoutName)
+            {
+                thing.SetActive(false);
+            }
         }
         else
         {
             textBackground.GetComponent<Image>().sprite = backgroundWithName;
+            foreach (GameObject thing in thingsToHideWhenBackgroundWithoutName)
+            {
+                thing.SetActive(true);
+            }
         }
     }
 }
