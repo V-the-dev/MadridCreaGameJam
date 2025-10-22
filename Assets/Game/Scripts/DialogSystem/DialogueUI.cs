@@ -52,16 +52,12 @@ public class DialogueUI : MonoBehaviour
         typewritterEffect = GetComponent<TypewritterEffect>();
         responseHandler = GetComponent<ResponseHandler>();
         imageHandler = GetComponent<InlineImageHandler>();
+        _acceptAction = InputSystem.actions.FindAction("UI/Submit");
         
         if (imageHandler != null)
             imageHandler.Initialize(textLabel);
         
         CloseDialogueBox();
-    }
-
-    private void Start()
-    {
-        _acceptAction = InputSystem.actions.FindAction("UI/Submit");
     }
 
     public void ShowDialogue(DialogueObject dialogueObject, InventoryDialogueLinker linker = null)
@@ -133,7 +129,7 @@ public class DialogueUI : MonoBehaviour
             GameManager.Instance.ResumeGame();
             yield break;
         }
-        
+        yield return new WaitUntil(() => !_acceptAction.IsPressed());
         for(int i = 0; i < dialogueObject.Dialogue.Length; i++)
         {
             string dialogue = dialogueObject.Dialogue[i];
