@@ -127,7 +127,6 @@ public class DialogueUI : MonoBehaviour
         {
             // Si el diálogo no debe mostrarse, cerrar y salir
             CloseDialogueBox();
-            GameManager.Instance.ResumeGame();
             yield break;
         }
         yield return new WaitUntil(() => !_acceptAction.IsPressed());
@@ -257,6 +256,11 @@ public class DialogueUI : MonoBehaviour
         
         if (imageHandler)
             imageHandler.ClearImages();
+
+        if (GameManager.Instance)
+        {
+            GameManager.Instance.ResumeGame();
+        }
     }
 
     public void SetCharacterSpritesInScene(DialogueObject dialogueObject)
