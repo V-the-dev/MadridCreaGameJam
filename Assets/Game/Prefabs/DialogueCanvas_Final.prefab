@@ -595,6 +595,9 @@ MonoBehaviour:
   obscuredPeople: {r: 0.3529412, g: 0.3529412, b: 0.3529412, a: 1}
   scaledObscuredPeople: 0.8
   characterSpacing: 200
+  textBackground: {fileID: 4424400422513451638}
+  backgroundWithName: {fileID: -7042109798174304468, guid: 1e34755527b0c9b469c6eadd1ddadb0b, type: 3}
+  backgroundWithoutName: {fileID: 21300000, guid: e7ad3e285d2e6c64dbb6e845a9796e28, type: 3}
 --- !u!222 &1201645541742592404
 CanvasRenderer:
   m_ObjectHideFlags: 0

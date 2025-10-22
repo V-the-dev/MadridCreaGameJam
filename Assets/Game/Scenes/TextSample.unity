@@ -483,12 +483,12 @@ MonoBehaviour:
     hasAssociatedObject: 0
     selectedObjectIndex: 0
     objectQuantity: 25
-    eventResponseAssociated: 0000
-    eventsAssociated: 0000000000000000
-    eventsFlagAssociated: 0000
-    objectResponseAssociated: 0000
-    objectsAssociated: 0000000000000000
-    objectsQuantityAssociated: 3300000000000000
+    eventResponseAssociated: 000000
+    eventsAssociated: 000000000000000000000000
+    eventsFlagAssociated: 000000
+    objectResponseAssociated: 000000
+    objectsAssociated: 000000000000000000000000
+    objectsQuantityAssociated: 330000000000000000000000
 --- !u!1 &1386236523 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4424400422513451638, guid: 7f57931ef439e7f43bb856c16674e6c1, type: 3}
@@ -747,9 +747,17 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 1386236523}
     - target: {fileID: 6861525651457330978, guid: 7f57931ef439e7f43bb856c16674e6c1, type: 3}
+      propertyPath: backgroundWithName
+      value: 
+      objectReference: {fileID: -7042109798174304468, guid: 1e34755527b0c9b469c6eadd1ddadb0b, type: 3}
+    - target: {fileID: 6861525651457330978, guid: 7f57931ef439e7f43bb856c16674e6c1, type: 3}
       propertyPath: _acceptAction.m_Name
       value: Accept
       objectReference: {fileID: 0}
+    - target: {fileID: 6861525651457330978, guid: 7f57931ef439e7f43bb856c16674e6c1, type: 3}
+      propertyPath: backgroundWithoutName
+      value: 
+      objectReference: {fileID: 21300000, guid: e7ad3e285d2e6c64dbb6e845a9796e28, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

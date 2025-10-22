@@ -48,3 +48,5 @@ MonoBehaviour:
     dialogueObject: {fileID: 11400000, guid: 844461579ec364647994e3bf739910a6, type: 2}
   - responseText: Hola tonto
     dialogueObject: {fileID: 11400000, guid: b89c915c57011474a8d34734688315a9, type: 2}
+  - responseText: tuh muertoh
+    dialogueObject: {fileID: 11400000, guid: 537f49c8a7a7ccc499ec4733a150c290, type: 2}

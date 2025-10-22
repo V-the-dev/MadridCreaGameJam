@@ -405,6 +405,18 @@ public class DialogueUI : MonoBehaviour
         if (nameLabel.text  == "" && titleLabel.text == "")
         {
             textBackground.GetComponent<Image>().sprite = backgroundWithoutName;
+            foreach (GameObject character in leftCharacters)
+            {
+                Destroy(character);
+            }
+
+            foreach (GameObject character in rightCharacters)
+            {
+                Destroy(character);
+            }
+            leftCharacters.Clear();
+            rightCharacters.Clear();
+            characterNamesInScene.Clear();
         }
         else
         {
