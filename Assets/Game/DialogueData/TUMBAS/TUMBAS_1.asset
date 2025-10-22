@@ -10,26 +10,20 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5272d69de47d6724f8fa0d53e5052b27, type: 3}
-  m_Name: PADRE_123
+  m_Name: TUMBAS_1
   m_EditorClassIdentifier: Assembly-CSharp::DialogueObject
   characters:
-  - {fileID: 1284004253462615347, guid: 4bc106d3a5f2dce4e95f847ebcf28ce2, type: 3}
-  - {fileID: 4599360421988549829, guid: 4bc106d3a5f2dce4e95f847ebcf28ce2, type: 3}
+  - {fileID: 0}
   charactersName:
-  - Padre Haro
-  - Sereno
-  charactersTitle:
-  - Sacerdote
   - 
-  charactersSide: 0000000001000000
+  charactersTitle:
+  - 
+  charactersSide: 00000000
   mainCharacterWhenResponses: 0
   mainCharacterIndex: 0
   conversationLine:
-  - dialogue: "Ah, Sereno. Ya comienza tu jornada, y termina la m\xEDa."
-    spriteIndex: 0
-  - dialogue: "Estoy atormentado, Sereno. Hace poco escuch\xE9 un disparo, en direcci\xF3n
-      al puente."
-    spriteIndex: 0
-  - dialogue: "Ruego por las almas de los fieles, espero que todos est\xE9n bien."
+  - dialogue: "La mayor\xEDa jam\xE1s tuvieron un entierro digno. Ahora estas tumbas
+      son compartidas, al menos metaf\xF3ricamente. Representan una p\xE9rdida irremediable
+      para la comunidad."
     spriteIndex: 0
   responses: []
