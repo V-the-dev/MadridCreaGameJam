@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5272d69de47d6724f8fa0d53e5052b27, type: 3}
+  m_Name: TRAFICANTE_1
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueObject
+  characters:
+  - {fileID: 0}
+  - {fileID: 0}
+  charactersName:
+  - CARDO
+  - Sereno
+  charactersTitle:
+  - Traficante
+  - 
+  charactersSide: 0000000001000000
+  mainCharacterWhenResponses: 0
+  mainCharacterIndex: 0
+  conversationLine:
+  - dialogue: Con un aire vanidoso, Cardo, el traficante, te hace un gesto con la
+      barbilla.
+    spriteIndex: 0
+  responses: []

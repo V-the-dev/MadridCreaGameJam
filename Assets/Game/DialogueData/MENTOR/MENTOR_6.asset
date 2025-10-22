@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5272d69de47d6724f8fa0d53e5052b27, type: 3}
+  m_Name: MENTOR_6
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueObject
+  characters:
+  - {fileID: 0}
+  - {fileID: 0}
+  charactersName:
+  - Don Benavide
+  - Sereno
+  charactersTitle:
+  - Sereno
+  - 
+  charactersSide: 0000000001000000
+  mainCharacterWhenResponses: 1
+  mainCharacterIndex: 1
+  conversationLine:
+  - dialogue: Te has ganado un segundo regalo, venga, elige uno.
+    spriteIndex: 0
+  responses:
+  - responseText: 50 Pesetas
+    dialogueObject: {fileID: 11400000, guid: fdae3c82591560240b615161af2d584a, type: 2}
+  - responseText: Pedazo de chatarra
+    dialogueObject: {fileID: 11400000, guid: 5a22267dcc159c3499400f21481025a0, type: 2}
+  - responseText: Farol de aceite
+    dialogueObject: {fileID: 11400000, guid: ac458fc3536174243ae43478c3607ad2, type: 2}
+  - responseText: Manojo de llaves
+    dialogueObject: {fileID: 11400000, guid: 114a6aec13f6cc64fa3dfa8a1520c204, type: 2}

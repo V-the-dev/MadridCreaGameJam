@@ -420,7 +420,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -1962530762, guid: 4d51074d49a0553438533c59afe24c90, type: 3}
+  m_Sprite: {fileID: -7042109798174304468, guid: 1e34755527b0c9b469c6eadd1ddadb0b, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -448,7 +448,7 @@ GameObject:
   - component: {fileID: 1201645541742592404}
   - component: {fileID: 4102482828578017432}
   m_Layer: 5
-  m_Name: DialogueCanvas_NPCs
+  m_Name: DialogueCanvas_Final
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -874,8 +874,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 150, y: -70}
-  m_SizeDelta: {x: 764.7748, y: -276.416}
+  m_AnchoredPosition: {x: 169, y: -73.4774}
+  m_SizeDelta: {x: 764.7748, y: -229.7203}
   m_Pivot: {x: 0, y: 0.5}
 --- !u!222 &2803035232619391823
 CanvasRenderer:
@@ -908,8 +908,8 @@ MonoBehaviour:
   m_text: "Texto normal de conversaci\xF3n, aqu\xED se prueba toda la longitud que
     va a tener y como hace los saltos con palabras"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 645ca20ce19493546a59430b750c1711, type: 2}
-  m_sharedMaterial: {fileID: 3216762367035813337, guid: 645ca20ce19493546a59430b750c1711, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 92dce3fe2cc2dc84886a0538b4a8c27e, type: 2}
+  m_sharedMaterial: {fileID: 5783959703281274285, guid: 92dce3fe2cc2dc84886a0538b4a8c27e, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -941,7 +941,7 @@ MonoBehaviour:
   m_fontSizeMax: 72
   m_fontStyle: 1
   m_HorizontalAlignment: 1
-  m_VerticalAlignment: 256
+  m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0
   m_wordSpacing: 0
@@ -1058,7 +1058,7 @@ RectTransform:
   m_AnchorMin: {x: 1, y: 0}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 437.16, y: -12.1862}
-  m_SizeDelta: {x: 400, y: -44.3725}
+  m_SizeDelta: {x: 478.6438, y: -44.3725}
   m_Pivot: {x: 1, y: 0.5}
 --- !u!1 &8705270675002895335
 GameObject:
