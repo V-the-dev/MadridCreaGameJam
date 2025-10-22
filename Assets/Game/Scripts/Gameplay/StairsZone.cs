@@ -1,10 +1,10 @@
-﻿using UnityEngine;
+﻿using Unity.VisualScripting;
+using UnityEngine;
 
 
 public class StairsZone : MonoBehaviour
 {
     public float angleZ;
-    [SerializeField]private float climbMult = 0.8f;
 
     public Vector2 newVec;
 
@@ -12,13 +12,10 @@ public class StairsZone : MonoBehaviour
     {
         angleZ = transform.eulerAngles.z;
         if (angleZ > 180)
-            angleZ = -
-        Mathf.Abs(angleZ);
+            angleZ -=180;
 
-        newVec = new Vector2(Mathf.Cos(angleZ * Mathf.Deg2Rad), Mathf.Sin(angleZ * Mathf.Deg2Rad));
 
-        //newVec.Normalize();
-        //newVec *= climbMult;
+        newVec = new Vector2(Mathf.Abs(Mathf.Cos(angleZ * Mathf.Deg2Rad)), Mathf.Abs(Mathf.Sin(angleZ * Mathf.Deg2Rad)));
 
     }
 
