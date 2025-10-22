@@ -106,3 +106,6 @@ MonoBehaviour:
   - isLoopPersistent: 0
     startValue: 0
     nombre: "Ni\xF1a retirada"
+  - isLoopPersistent: 0
+    startValue: 0
+    nombre: DebugAlejandro

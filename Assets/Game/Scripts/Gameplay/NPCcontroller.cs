@@ -10,15 +10,6 @@ public class NPCcontroller :  InteractableObject
     {
         exclamation = transform.GetChild(2).gameObject;
         messageManager= MessageManager.Instance;
-
-        if(messageManager != null )
-        {
-            Debug.Log("Message Manager found in NPCcontroller");
-        }
-        else
-        {
-            Debug.LogError("Message Manager NOT found in NPCcontroller");
-        }
     }
 
     override public void  Trigger()
