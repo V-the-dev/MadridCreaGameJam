@@ -1,3 +1,4 @@
+using Unity.VisualScripting;
 using UnityEngine;
 
 public abstract class InteractableObject : MonoBehaviour
@@ -11,5 +12,7 @@ public abstract class InteractableObject : MonoBehaviour
     }
 
     public abstract void Trigger();
+
+    //public abstract void AutoTrigger();
 
 }

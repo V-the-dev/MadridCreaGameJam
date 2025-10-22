@@ -19,6 +19,9 @@ public class PlayerMovement : MonoBehaviour
     float speed = 5f;
     [SerializeField]
     Vector2 movementMults = new Vector2(1f, 0.75f);
+    Vector2 currentMults ;
+    private Quaternion currentRotation;
+
     bool isMoving = false;
 
     private PlayerInput playerInput;
@@ -33,6 +36,8 @@ public class PlayerMovement : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         playerInput = GetComponent<PlayerInput>();
         animator = GetComponent<Animator>();
+
+        currentMults = movementMults;
     }
 
     private void Update()
@@ -62,7 +67,9 @@ public class PlayerMovement : MonoBehaviour
 
     private void FixedUpdate()
     {
-        rb.MovePosition(rb.position + inputVector * movementMults * speed * Time.deltaTime);
+        //Vector2 rotatedInput = currentRotation * inputVector;
+
+        rb.MovePosition(rb.position + inputVector * currentMults * speed * Time.deltaTime);
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
@@ -75,6 +82,16 @@ public class PlayerMovement : MonoBehaviour
             {
                 interactuables.Add(collision, interactuable);
                 Debug.Log("Entered Trigger Zone: " + collision.name);
+            }
+        }
+        if (collision.CompareTag("Stairs"))
+        {
+            var stairs = collision.GetComponent<StairsZone>();
+
+            if(stairs != null)
+            {
+                currentMults = stairs.movementMults;
+                currentRotation = Quaternion.Euler(0, 0, collision.transform.eulerAngles.z);
             }
         }
     }
@@ -92,6 +109,17 @@ public class PlayerMovement : MonoBehaviour
                 Debug.Log("Exited Trigger Zone: " + collision.name);
             }
         }
+        if (collision.CompareTag("Stairs"))
+        {
+            var stairs = collision.GetComponent<StairsZone>();
+
+            if (stairs != null)
+            {
+                currentMults = movementMults;
+                currentRotation = Quaternion.identity;
+            }
+        }
+
     }
 
     private void SortByDistance()

@@ -18,4 +18,5 @@ public class NPCcontroller :  InteractableObject
 
         MessageManager.Instance.Interact();
     }
+
 }
