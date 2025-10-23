@@ -6699,6 +6699,14 @@ PrefabInstance:
       value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 699155370300028337, guid: 6a425c3cdbce40b4a8e480f70c853dbd, type: 3}
+      propertyPath: animWithLamp
+      value: 
+      objectReference: {fileID: 22100000, guid: 015dc5c5fc7b15445b85c2995ecbfd66, type: 2}
+    - target: {fileID: 699155370300028337, guid: 6a425c3cdbce40b4a8e480f70c853dbd, type: 3}
+      propertyPath: animWithChuzo
+      value: 
+      objectReference: {fileID: 22100000, guid: 4b34f311fff4a74459944f899d59b038, type: 2}
+    - target: {fileID: 699155370300028337, guid: 6a425c3cdbce40b4a8e480f70c853dbd, type: 3}
       propertyPath: camController
       value: 
       objectReference: {fileID: 0}
@@ -6714,6 +6722,10 @@ PrefabInstance:
       propertyPath: movementMults.y
       value: 0.58
       objectReference: {fileID: 0}
+    - target: {fileID: 699155370300028337, guid: 6a425c3cdbce40b4a8e480f70c853dbd, type: 3}
+      propertyPath: animWithLampAndChuzo
+      value: 
+      objectReference: {fileID: 22100000, guid: af0e0c3b73e8eec40a30117d35cc7df3, type: 2}
     - target: {fileID: 3512015625141204380, guid: 6a425c3cdbce40b4a8e480f70c853dbd, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -6722,13 +6734,57 @@ PrefabInstance:
       propertyPath: m_CollisionDetection
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 5057449749372538564, guid: 6a425c3cdbce40b4a8e480f70c853dbd, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: ed582c5865ed8be4e9021bec4da15a7b, type: 2}
     - target: {fileID: 5312743343170665214, guid: 6a425c3cdbce40b4a8e480f70c853dbd, type: 3}
       propertyPath: m_ExcludeLayers.m_Bits
       value: 1015
       objectReference: {fileID: 0}
+    - target: {fileID: 7334511570445073884, guid: 6a425c3cdbce40b4a8e480f70c853dbd, type: 3}
+      propertyPath: m_ActionEvents.Array.size
+      value: 22
+      objectReference: {fileID: 0}
+    - target: {fileID: 7334511570445073884, guid: 6a425c3cdbce40b4a8e480f70c853dbd, type: 3}
+      propertyPath: m_ActionEvents.Array.data[19].m_ActionId
+      value: 1e6c82cf-19fa-4092-9277-4a059622f227
+      objectReference: {fileID: 0}
+    - target: {fileID: 7334511570445073884, guid: 6a425c3cdbce40b4a8e480f70c853dbd, type: 3}
+      propertyPath: m_ActionEvents.Array.data[20].m_ActionId
+      value: bca2296c-6246-4b55-a3a8-87d82d3a8660
+      objectReference: {fileID: 0}
+    - target: {fileID: 7334511570445073884, guid: 6a425c3cdbce40b4a8e480f70c853dbd, type: 3}
+      propertyPath: m_ActionEvents.Array.data[21].m_ActionId
+      value: 3cf535a9-20e1-4a88-8306-03fbe37e71c8
+      objectReference: {fileID: 0}
+    - target: {fileID: 7334511570445073884, guid: 6a425c3cdbce40b4a8e480f70c853dbd, type: 3}
+      propertyPath: m_ActionEvents.Array.data[19].m_ActionName
+      value: 'UI/ShowInventory[/Keyboard/i,/DualShock4GamepadHID/buttonNorth]'
+      objectReference: {fileID: 0}
+    - target: {fileID: 7334511570445073884, guid: 6a425c3cdbce40b4a8e480f70c853dbd, type: 3}
+      propertyPath: m_ActionEvents.Array.data[20].m_ActionName
+      value: 'Camera/RightClick[/Mouse/rightButton]'
+      objectReference: {fileID: 0}
+    - target: {fileID: 7334511570445073884, guid: 6a425c3cdbce40b4a8e480f70c853dbd, type: 3}
+      propertyPath: m_ActionEvents.Array.data[21].m_ActionName
+      value: 'Camera/Look[/DualShock4GamepadHID/rightStick,/Mouse/delta]'
+      objectReference: {fileID: 0}
+    - target: {fileID: 9068971662284887960, guid: 6a425c3cdbce40b4a8e480f70c853dbd, type: 3}
+      propertyPath: m_Radius
+      value: 1.21
+      objectReference: {fileID: 0}
     - target: {fileID: 9068971662284887960, guid: 6a425c3cdbce40b4a8e480f70c853dbd, type: 3}
       propertyPath: m_Enabled
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9068971662284887960, guid: 6a425c3cdbce40b4a8e480f70c853dbd, type: 3}
+      propertyPath: m_Offset.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9068971662284887960, guid: 6a425c3cdbce40b4a8e480f70c853dbd, type: 3}
+      propertyPath: m_Offset.y
+      value: -3.04
       objectReference: {fileID: 0}
     - target: {fileID: 9068971662284887960, guid: 6a425c3cdbce40b4a8e480f70c853dbd, type: 3}
       propertyPath: m_ExcludeLayers.m_Bits
@@ -8844,7 +8900,7 @@ Transform:
   m_GameObject: {fileID: 867347575}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 540.38245, y: -48.663254, z: -10}
+  m_LocalPosition: {x: 0, y: 0, z: -10}
   m_LocalScale: {x: 0.8648049, y: 1.0162714, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -13917,7 +13973,7 @@ Transform:
   m_GameObject: {fileID: 1271776400}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -595.249, y: 0, z: 0}
+  m_LocalPosition: {x: -62.7, y: -42.9, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:

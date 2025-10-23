@@ -1,0 +1,492 @@
+fileFormatVersion: 2
+guid: f8349e4b62682d043a6a4a74af4d7c5e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7177917712875416395
+    second: WalkDiagBackLAMP_Right_0
+  - first:
+      213: -2363101082750716928
+    second: WalkDiagBackLAMP_Right_1
+  - first:
+      213: -5154373959146447322
+    second: WalkDiagBackLAMP_Right_2
+  - first:
+      213: 1858152940762436289
+    second: WalkDiagBackLAMP_Right_3
+  - first:
+      213: -1155320879996528164
+    second: WalkDiagBackLAMP_Right_4
+  - first:
+      213: 6850664329073376494
+    second: WalkDiagBackLAMP_Right_5
+  - first:
+      213: -1760205229019285486
+    second: WalkDiagBackLAMP_Right_6
+  - first:
+      213: -7275309789527994290
+    second: WalkDiagBackLAMP_Right_7
+  - first:
+      213: 7346896803918784954
+    second: WalkDiagBackLAMP_Right_8
+  - first:
+      213: -2642923897123884289
+    second: WalkDiagBackLAMP_Right_9
+  - first:
+      213: -8573108073830788310
+    second: WalkDiagBackLAMP_Right_10
+  - first:
+      213: 7646060267937544596
+    second: WalkDiagBackLAMP_Right_11
+  - first:
+      213: 8693684465896646222
+    second: WalkDiagBackLAMP_Right_12
+  - first:
+      213: 5132920674443456872
+    second: WalkDiagBackLAMP_Right_13
+  - first:
+      213: 4468420791512027940
+    second: WalkDiagBackLAMP_Right_14
+  - first:
+      213: -3535781807069175516
+    second: WalkDiagBackLAMP_Right_15
+  - first:
+      213: 6151647830187328969
+    second: WalkDiagBackLAMP_Right_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 350
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WalkDiagBackLAMP_Right_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5636
+        width: 2480
+        height: 2818
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b49311ded9e26c90800000000000000
+      internalID: -7177917712875416395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkDiagBackLAMP_Right_1
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 5636
+        width: 2480
+        height: 2818
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0047d42e514943fd0800000000000000
+      internalID: -2363101082750716928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkDiagBackLAMP_Right_2
+      rect:
+        serializedVersion: 2
+        x: 4960
+        y: 5636
+        width: 2480
+        height: 2818
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e5d85713cf778b0800000000000000
+      internalID: -5154373959146447322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkDiagBackLAMP_Right_3
+      rect:
+        serializedVersion: 2
+        x: 7440
+        y: 5636
+        width: 2480
+        height: 2818
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c21e74314c79c910800000000000000
+      internalID: 1858152940762436289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkDiagBackLAMP_Right_4
+      rect:
+        serializedVersion: 2
+        x: 9920
+        y: 5636
+        width: 2480
+        height: 2818
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd91732e7c977ffe0800000000000000
+      internalID: -1155320879996528164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkDiagBackLAMP_Right_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2818
+        width: 2480
+        height: 2818
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eecbbd139e2721f50800000000000000
+      internalID: 6850664329073376494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkDiagBackLAMP_Right_6
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 2818
+        width: 2480
+        height: 2818
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21835809bae7297e0800000000000000
+      internalID: -1760205229019285486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkDiagBackLAMP_Right_7
+      rect:
+        serializedVersion: 2
+        x: 4960
+        y: 2818
+        width: 2480
+        height: 2818
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40134cea48e80b90800000000000000
+      internalID: -7275309789527994290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkDiagBackLAMP_Right_8
+      rect:
+        serializedVersion: 2
+        x: 7440
+        y: 2818
+        width: 2480
+        height: 2818
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab92807b7bb65f560800000000000000
+      internalID: 7346896803918784954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkDiagBackLAMP_Right_9
+      rect:
+        serializedVersion: 2
+        x: 9920
+        y: 2818
+        width: 2480
+        height: 2818
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff23a87e7b2725bd0800000000000000
+      internalID: -2642923897123884289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkDiagBackLAMP_Right_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2480
+        height: 2818
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a23584e01a3360980800000000000000
+      internalID: -8573108073830788310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkDiagBackLAMP_Right_11
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 0
+        width: 2480
+        height: 2818
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49935a99d434c1a60800000000000000
+      internalID: 7646060267937544596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkDiagBackLAMP_Right_12
+      rect:
+        serializedVersion: 2
+        x: 4960
+        y: 0
+        width: 2480
+        height: 2818
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e46e91be5fb26a870800000000000000
+      internalID: 8693684465896646222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkDiagBackLAMP_Right_13
+      rect:
+        serializedVersion: 2
+        x: 7440
+        y: 0
+        width: 2480
+        height: 2818
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 861f574782ccb3740800000000000000
+      internalID: 5132920674443456872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2a6b12c63535d714da48939a002f016a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":3.0},"gridSpriteSize":{"x":2480.0,"y":2818.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      WalkDiagBackLAMP_Right_0: -7177917712875416395
+      WalkDiagBackLAMP_Right_1: -2363101082750716928
+      WalkDiagBackLAMP_Right_10: -8573108073830788310
+      WalkDiagBackLAMP_Right_11: 7646060267937544596
+      WalkDiagBackLAMP_Right_12: 8693684465896646222
+      WalkDiagBackLAMP_Right_13: 5132920674443456872
+      WalkDiagBackLAMP_Right_2: -5154373959146447322
+      WalkDiagBackLAMP_Right_3: 1858152940762436289
+      WalkDiagBackLAMP_Right_4: -1155320879996528164
+      WalkDiagBackLAMP_Right_5: 6850664329073376494
+      WalkDiagBackLAMP_Right_6: -1760205229019285486
+      WalkDiagBackLAMP_Right_7: -7275309789527994290
+      WalkDiagBackLAMP_Right_8: 7346896803918784954
+      WalkDiagBackLAMP_Right_9: -2642923897123884289
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

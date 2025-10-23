@@ -1,0 +1,492 @@
+fileFormatVersion: 2
+guid: 6433825974394244f805278d0d59f83e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8310705368351741269
+    second: WalkDiagBackSPEAR_0
+  - first:
+      213: -162802763184338492
+    second: WalkDiagBackSPEAR_1
+  - first:
+      213: -5321734475193290702
+    second: WalkDiagBackSPEAR_2
+  - first:
+      213: 4302762867603740366
+    second: WalkDiagBackSPEAR_3
+  - first:
+      213: -7652822810552665373
+    second: WalkDiagBackSPEAR_4
+  - first:
+      213: -107298887127253495
+    second: WalkDiagBackSPEAR_5
+  - first:
+      213: 6880554164290941767
+    second: WalkDiagBackSPEAR_6
+  - first:
+      213: -6089855479677041783
+    second: WalkDiagBackSPEAR_7
+  - first:
+      213: -8498059281496197115
+    second: WalkDiagBackSPEAR_8
+  - first:
+      213: -4223339048938407188
+    second: WalkDiagBackSPEAR_9
+  - first:
+      213: -8392768513350667354
+    second: WalkDiagBackSPEAR_10
+  - first:
+      213: 9056097331968203462
+    second: WalkDiagBackSPEAR_11
+  - first:
+      213: -6456033068069706235
+    second: WalkDiagBackSPEAR_12
+  - first:
+      213: -148969759031532766
+    second: WalkDiagBackSPEAR_13
+  - first:
+      213: -5168371747111060663
+    second: WalkDiagBackSPEAR_14
+  - first:
+      213: 3076225020614432218
+    second: WalkDiagBackSPEAR_15
+  - first:
+      213: -4951439504905438211
+    second: WalkDiagBackSPEAR_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 350
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WalkDiagBackSPEAR_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5762
+        width: 2480
+        height: 2881
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa667edf717aac80800000000000000
+      internalID: -8310705368351741269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkDiagBackSPEAR_1
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 5762
+        width: 2480
+        height: 2881
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c902fbdfbb9dbdf0800000000000000
+      internalID: -162802763184338492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkDiagBackSPEAR_2
+      rect:
+        serializedVersion: 2
+        x: 4960
+        y: 5762
+        width: 2480
+        height: 2881
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2307729c0b66526b0800000000000000
+      internalID: -5321734475193290702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkDiagBackSPEAR_3
+      rect:
+        serializedVersion: 2
+        x: 7440
+        y: 5762
+        width: 2480
+        height: 2881
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec61344f70c76bb30800000000000000
+      internalID: 4302762867603740366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkDiagBackSPEAR_4
+      rect:
+        serializedVersion: 2
+        x: 9920
+        y: 5762
+        width: 2480
+        height: 2881
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea70004336bbc590800000000000000
+      internalID: -7652822810552665373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkDiagBackSPEAR_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2881
+        width: 2480
+        height: 2881
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e3cfb0b3cc28ef0800000000000000
+      internalID: -107298887127253495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkDiagBackSPEAR_6
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 2881
+        width: 2480
+        height: 2881
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7437564ce83ac7f50800000000000000
+      internalID: 6880554164290941767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkDiagBackSPEAR_7
+      rect:
+        serializedVersion: 2
+        x: 4960
+        y: 2881
+        width: 2480
+        height: 2881
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9834268e4bc7c7ba0800000000000000
+      internalID: -6089855479677041783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkDiagBackSPEAR_8
+      rect:
+        serializedVersion: 2
+        x: 7440
+        y: 2881
+        width: 2480
+        height: 2881
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508353eab14d01a80800000000000000
+      internalID: -8498059281496197115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkDiagBackSPEAR_9
+      rect:
+        serializedVersion: 2
+        x: 9920
+        y: 2881
+        width: 2480
+        height: 2881
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea7dfdd28fa365c0800000000000000
+      internalID: -4223339048938407188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkDiagBackSPEAR_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2480
+        height: 2881
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a376aff085e68b80800000000000000
+      internalID: -8392768513350667354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkDiagBackSPEAR_11
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 0
+        width: 2480
+        height: 2881
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cad35bca88bdad70800000000000000
+      internalID: 9056097331968203462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkDiagBackSPEAR_12
+      rect:
+        serializedVersion: 2
+        x: 4960
+        y: 0
+        width: 2480
+        height: 2881
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 506a78f41209766a0800000000000000
+      internalID: -6456033068069706235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkDiagBackSPEAR_13
+      rect:
+        serializedVersion: 2
+        x: 7440
+        y: 0
+        width: 2480
+        height: 2881
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22366ae1bc0ceedf0800000000000000
+      internalID: -148969759031532766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ac56e3efac43fba40a937b3a31efeb16
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":3.0},"gridSpriteSize":{"x":2480.0,"y":2881.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      WalkDiagBackSPEAR_0: -8310705368351741269
+      WalkDiagBackSPEAR_1: -162802763184338492
+      WalkDiagBackSPEAR_10: -8392768513350667354
+      WalkDiagBackSPEAR_11: 9056097331968203462
+      WalkDiagBackSPEAR_12: -6456033068069706235
+      WalkDiagBackSPEAR_13: -148969759031532766
+      WalkDiagBackSPEAR_2: -5321734475193290702
+      WalkDiagBackSPEAR_3: 4302762867603740366
+      WalkDiagBackSPEAR_4: -7652822810552665373
+      WalkDiagBackSPEAR_5: -107298887127253495
+      WalkDiagBackSPEAR_6: 6880554164290941767
+      WalkDiagBackSPEAR_7: -6089855479677041783
+      WalkDiagBackSPEAR_8: -8498059281496197115
+      WalkDiagBackSPEAR_9: -4223339048938407188
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

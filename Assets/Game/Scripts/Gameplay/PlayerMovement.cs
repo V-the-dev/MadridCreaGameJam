@@ -22,11 +22,21 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField]
     Vector2 currentMults ;
     //private Quaternion currentRotation;
+    
+    [Header("Animation lamp && chuzo")]
+    private bool withLamp = false;
+    private bool withChuzo = false;
+    private RuntimeAnimatorController animWithNOTHING;
+    [SerializeField] private AnimatorOverrideController animWithLamp;
+    [SerializeField] private AnimatorOverrideController animWithChuzo;
+    [SerializeField] private AnimatorOverrideController animWithLampAndChuzo;
 
     bool isMoving = false;
+    private float animatorSpeed = 0f;
 
     private PlayerInput playerInput;
     private Vector2 inputVector;
+    private Vector2 lastMoveDir = Vector2.down;
 
     public InteractableObject nearest;
     private Dictionary<Collider2D, InteractableObject> interactuables = new Dictionary<Collider2D, InteractableObject>();
@@ -39,20 +49,25 @@ public class PlayerMovement : MonoBehaviour
         animator = GetComponent<Animator>();
 
         currentMults = movementMults;
+        animWithNOTHING = animator.runtimeAnimatorController;
     }
 
     private void Update()
     {
         inputVector = playerInput.actions["Move"].ReadValue<Vector2>();
+        
+        animatorSpeed = inputVector.magnitude;
+        isMoving = animatorSpeed > 0.001f;
 
-        if (isMoving=inputVector.magnitude > 0)
+        if (isMoving)
         {
+            lastMoveDir = inputVector.normalized;
             inputVector.Normalize();
         }
 
-        animator.SetFloat("MoveX", inputVector.x);
-        animator.SetFloat("MoveY", inputVector.y);
-        animator.SetBool("IsMoving", isMoving);
+        animator.SetFloat("MoveX", lastMoveDir.x);
+        animator.SetFloat("MoveY", lastMoveDir.y);
+        animator.SetFloat("Speed", animatorSpeed);
 
         if (isMoving)
         {
@@ -175,6 +190,39 @@ public class PlayerMovement : MonoBehaviour
                 var mb = nearest as MonoBehaviour;
                 Debug.Log("Nearest Interactuable: " + mb.gameObject.name);
             }
+        }
+    }
+
+    public void RestartAnimator()
+    {
+        withLamp = false;
+        withChuzo = false;
+        animator.runtimeAnimatorController = animWithNOTHING;
+    }
+
+    public void AddChuzoAnimation()
+    {
+        withChuzo = true;
+        if (withChuzo && withLamp)
+        {
+            animator.runtimeAnimatorController = animWithLampAndChuzo;
+        }
+        else
+        {
+            animator.runtimeAnimatorController = animWithChuzo;
+        }
+    }
+    
+    public void AddLampAnimation()
+    {
+        withLamp = true;
+        if (withLamp && withChuzo)
+        {
+            animator.runtimeAnimatorController = animWithLampAndChuzo;
+        }
+        else
+        {
+            animator.runtimeAnimatorController = animWithLamp;
         }
     }
 }

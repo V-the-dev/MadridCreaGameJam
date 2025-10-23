@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: a172b32804697a24292ff1375917a6bb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1763770405165380122
+    second: WalkSideSPEAR_Right_0
+  - first:
+      213: 3508791826689253759
+    second: WalkSideSPEAR_Right_1
+  - first:
+      213: -2632049264108808709
+    second: WalkSideSPEAR_Right_2
+  - first:
+      213: -4495301751249018305
+    second: WalkSideSPEAR_Right_3
+  - first:
+      213: -8816952514804735052
+    second: WalkSideSPEAR_Right_4
+  - first:
+      213: 5927855030611597725
+    second: WalkSideSPEAR_Right_5
+  - first:
+      213: 6551877290605988352
+    second: WalkSideSPEAR_Right_6
+  - first:
+      213: -2904059211988646355
+    second: WalkSideSPEAR_Right_7
+  - first:
+      213: 3076887788749791344
+    second: WalkSideSPEAR_Right_8
+  - first:
+      213: 8221305079418073672
+    second: WalkSideSPEAR_Right_9
+  - first:
+      213: -1595859864405060303
+    second: WalkSideSPEAR_Right_10
+  - first:
+      213: 8951655226862668881
+    second: WalkSideSPEAR_Right_11
+  - first:
+      213: 2105176121816450556
+    second: WalkSideSPEAR_Right_12
+  - first:
+      213: -6739456036466463141
+    second: WalkSideSPEAR_Right_13
+  - first:
+      213: -3639203682065075074
+    second: WalkSideSPEAR_Right_14
+  - first:
+      213: 4094829775912156313
+    second: WalkSideSPEAR_Right_15
+  - first:
+      213: 7415440838804853841
+    second: WalkSideSPEAR_Right_16
+  - first:
+      213: 988627551174793479
+    second: WalkSideSPEAR_Right_17
+  - first:
+      213: -6247034906427765355
+    second: WalkSideSPEAR_Right_18
+  - first:
+      213: -3508579951610315272
+    second: WalkSideSPEAR_Right_19
+  - first:
+      213: -199653048367970359
+    second: WalkSideSPEAR_Right_20
+  - first:
+      213: 1801562450956077179
+    second: WalkSideSPEAR_Right_21
+  - first:
+      213: 8831851170083443699
+    second: WalkSideSPEAR_Right_22
+  - first:
+      213: 4096169580796920273
+    second: WalkSideSPEAR_Right_23
+  - first:
+      213: 8895696100847224432
+    second: WalkSideSPEAR_Right_24
+  - first:
+      213: -6016848548580368572
+    second: WalkSideSPEAR_Right_25
+  - first:
+      213: -6288523521728641452
+    second: WalkSideSPEAR_Right_26
+  - first:
+      213: 7750238934297461723
+    second: WalkSideSPEAR_Right_27
+  - first:
+      213: 5701557893843965885
+    second: WalkSideSPEAR_Right_28
+  - first:
+      213: 4065377425928242108
+    second: WalkSideSPEAR_Right_29
+  - first:
+      213: 499805870066971882
+    second: WalkSideSPEAR_Right_30
+  - first:
+      213: 4626408165979307280
+    second: WalkSideSPEAR_Right_31
+  - first:
+      213: -7443547615621690201
+    second: WalkSideSPEAR_Right_32
+  - first:
+      213: -4787455148887967867
+    second: WalkSideSPEAR_Right_33
+  - first:
+      213: 5802061500193704418
+    second: WalkSideSPEAR_Right_34
+  - first:
+      213: -8798529849584694991
+    second: WalkSideSPEAR_Right_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 250
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WalkSideSPEAR_Right_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3840
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a12ba31b6db2a7810800000000000000
+      internalID: 1763770405165380122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkSideSPEAR_Right_1
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 3840
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f716b94739bb1b030800000000000000
+      internalID: 3508791826689253759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkSideSPEAR_Right_2
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 3840
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf55775b325197bd0800000000000000
+      internalID: -2632049264108808709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkSideSPEAR_Right_3
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 3840
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f326c96dfda7d91c0800000000000000
+      internalID: -4495301751249018305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkSideSPEAR_Right_4
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 3840
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3a399e664e3a580800000000000000
+      internalID: -8816952514804735052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkSideSPEAR_Right_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99dd934eb8f34250800000000000000
+      internalID: 5927855030611597725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkSideSPEAR_Right_6
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1920
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ac486bea1fcea50800000000000000
+      internalID: 6551877290605988352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkSideSPEAR_Right_7
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1920
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2647b67885b2b7d0800000000000000
+      internalID: -2904059211988646355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkSideSPEAR_Right_8
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 1920
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0702b2e442d43ba20800000000000000
+      internalID: 3076887788749791344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkSideSPEAR_Right_9
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 1920
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84234d05961f71270800000000000000
+      internalID: 8221305079418073672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkSideSPEAR_Right_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13555d698ed5ad9e0800000000000000
+      internalID: -1595859864405060303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkSideSPEAR_Right_11
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c0bec300baa3c70800000000000000
+      internalID: 8951655226862668881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkSideSPEAR_Right_12
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 0
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf501827786173d10800000000000000
+      internalID: 2105176121816450556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkSideSPEAR_Right_13
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 0
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5eed072174a872a0800000000000000
+      internalID: -6739456036466463141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkSideSPEAR_Right_14
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 0
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74b7315883fe7dc0800000000000000
+      internalID: -3639203682065075074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6f2c463b84bfb6e489169c9575f1de4f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":3.0},"gridSpriteSize":{"x":1920.0,"y":1920.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      WalkSideSPEAR_Right_0: 1763770405165380122
+      WalkSideSPEAR_Right_1: 3508791826689253759
+      WalkSideSPEAR_Right_10: -1595859864405060303
+      WalkSideSPEAR_Right_11: 8951655226862668881
+      WalkSideSPEAR_Right_12: 2105176121816450556
+      WalkSideSPEAR_Right_13: -6739456036466463141
+      WalkSideSPEAR_Right_14: -3639203682065075074
+      WalkSideSPEAR_Right_2: -2632049264108808709
+      WalkSideSPEAR_Right_3: -4495301751249018305
+      WalkSideSPEAR_Right_4: -8816952514804735052
+      WalkSideSPEAR_Right_5: 5927855030611597725
+      WalkSideSPEAR_Right_6: 6551877290605988352
+      WalkSideSPEAR_Right_7: -2904059211988646355
+      WalkSideSPEAR_Right_8: 3076887788749791344
+      WalkSideSPEAR_Right_9: 8221305079418073672
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
