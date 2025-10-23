@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: MENDIGO_B
   m_EditorClassIdentifier: Assembly-CSharp::DialogueObject
   characters:
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 21300000, guid: 57b9bfcf1c01ead4ba3e01fed173ce1a, type: 3}
+  - {fileID: 21300000, guid: 6094f5e9382781749836d3297c790174, type: 3}
   charactersName:
   - MENDIGO
   - SERENO

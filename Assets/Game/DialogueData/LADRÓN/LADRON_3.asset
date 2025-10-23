@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: LADRON_3
   m_EditorClassIdentifier: Assembly-CSharp::DialogueObject
   characters:
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 21300000, guid: c7f227758eac4034698f17de7ad1ed10, type: 3}
+  - {fileID: 21300000, guid: 6094f5e9382781749836d3297c790174, type: 3}
   charactersName:
   - "LADR\xD3N"
   - SERENO
@@ -25,7 +25,7 @@ MonoBehaviour:
   mainCharacterWhenResponses: 0
   mainCharacterIndex: 0
   conversationLine:
-  - dialogue: "Armado con tu chuzo, intimidas al ladr\xF3n, que se rinde y te entrega
-      todo su bot\xEDn: 150 pesetas."
+  - dialogue: "(Armado con tu chuzo, intimidas al ladr\xF3n, que se rinde y te entrega
+      todo su bot\xEDn: 150 pesetas)"
     spriteIndex: 0
   responses: []

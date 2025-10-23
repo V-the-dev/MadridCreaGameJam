@@ -464,7 +464,7 @@ GameObject:
   - component: {fileID: 4387256767795548968}
   - component: {fileID: 6861525651457330978}
   - component: {fileID: 1201645541742592404}
-  - component: {fileID: 6774272375953118034}
+  - component: {fileID: 5765567979385646336}
   m_Layer: 5
   m_Name: DialogueCanvas_Final
   m_TagString: Untagged
@@ -630,36 +630,44 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4709541143000056941}
   m_CullTransparentMesh: 1
---- !u!114 &6774272375953118034
+--- !u!114 &5765567979385646336
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4709541143000056941}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Script: {fileID: 11500000, guid: d7b51b5b0f7a383469e3d5b3bebcf2c2, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
-  m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_Sprite: {fileID: 0}
-  m_Type: 0
-  m_PreserveAspect: 0
-  m_FillCenter: 1
-  m_FillMethod: 4
-  m_FillAmount: 1
-  m_FillClockwise: 1
-  m_FillOrigin: 0
-  m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 1
+  m_EditorClassIdentifier: Assembly-CSharp::InlineImageHandler
+  imageDatabase:
+  - key: Chuzo
+    sprite: {fileID: 21300000, guid: 3c5376697f5c17548bf76b625b310931, type: 3}
+    sizeMultiplier: 50
+  - key: "Jam\xF3n"
+    sprite: {fileID: 21300000, guid: cfa1fa17c66b5794d8490a2aa6ced41c, type: 3}
+    sizeMultiplier: 50
+  - key: "L\xE1mpara"
+    sprite: {fileID: 21300000, guid: 2e541b980d84e134d91b233830ca3004, type: 3}
+    sizeMultiplier: 50
+  - key: Licor
+    sprite: {fileID: 21300000, guid: b4680b23d9856f748b0978c31c9facdc, type: 3}
+    sizeMultiplier: 50
+  - key: Llaves
+    sprite: {fileID: 21300000, guid: 7e30c9790ff6d3a4c8cd7843db81347a, type: 3}
+    sizeMultiplier: 50
+  - key: Pesetas
+    sprite: {fileID: 21300000, guid: d10fe0e7f377ceb43ae2c3608d3ba663, type: 3}
+    sizeMultiplier: 50
+  - key: Reloj
+    sprite: {fileID: 21300000, guid: 800845ace5ef3904aad89aa1694600f3, type: 3}
+    sizeMultiplier: 50
+  - key: Chatarra
+    sprite: {fileID: 21300000, guid: 7a3544e41d70b004487e507fb7aa6a04, type: 3}
+    sizeMultiplier: 50
+  imageTemplate: {fileID: 0}
 --- !u!1 &4952115730944995374
 GameObject:
   m_ObjectHideFlags: 0
