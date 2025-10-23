@@ -143,12 +143,21 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SoundManager
   soundList:
-  - name: BELL
+  - name: BELL1
     category: 0
     sounds:
     - {fileID: 8300000, guid: 0a6787a015ad98e48995cda387983eaf, type: 3}
+  - name: BELL2
+    category: 0
+    sounds:
     - {fileID: 8300000, guid: f703a950578d5ca4c87c7d9bb39a6924, type: 3}
+  - name: BELL3
+    category: 0
+    sounds:
     - {fileID: 8300000, guid: 0df71cc26b7615c44a6a9465b133fa9e, type: 3}
+  - name: BELL4
+    category: 0
+    sounds:
     - {fileID: 8300000, guid: 6aedfffc7627b3c42b01dbad4ad40bf4, type: 3}
   - name: DOGBARK
     category: 0
@@ -185,10 +194,8 @@ MonoBehaviour:
     sounds:
     - {fileID: 8300000, guid: d0d6ced7da7e829498dd36fce8708715, type: 3}
   - name: STREETAMBIENT
-    category: 2
-    sounds:
-    - {fileID: 8300000, guid: 058244db3f743a04f903a1baeca34505, type: 3}
-  audioSources: []
+    category: 0
+    sounds: []
   musicMixer: {fileID: 922707833684651164, guid: 22a537a8d4ef72e4eb519f44237598d8, type: 2}
   sfxMixer: {fileID: -8307745599265934666, guid: 22a537a8d4ef72e4eb519f44237598d8, type: 2}
   ambientMixer: {fileID: 8933248571027341452, guid: 22a537a8d4ef72e4eb519f44237598d8, type: 2}

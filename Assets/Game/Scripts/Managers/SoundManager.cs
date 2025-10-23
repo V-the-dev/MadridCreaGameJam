@@ -1,13 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
-using Unity.VisualScripting;
 using UnityEditor;
 using UnityEngine;
 using UnityEngine.Audio;
 
 public enum SoundType
 {
-    BELL,
+    BELL1,BELL2,BELL3,BELL4,
     DOGBARK,
     DOGGROWL,
     FENCEOPEN,
@@ -23,7 +22,7 @@ public enum SoundType
 public class SoundManager : MonoBehaviour
 {
     [SerializeField] private SoundList[] soundList;
-    [SerializeField] private AudioSource[] audioSources;
+    public Dictionary<AudioSourceName, AudioSource> audioSources=new Dictionary<AudioSourceName, AudioSource>();
 
     [SerializeField] private AudioMixerGroup musicMixer;
     [SerializeField] private AudioMixerGroup sfxMixer;
@@ -46,13 +45,22 @@ public class SoundManager : MonoBehaviour
 
     private void Start()
     {
-        SoundManager.PlaySound(SoundType.STREETAMBIENT, null, volume: 0.5f, loop: true);
+        SoundManager.PlaySound(SoundType.STREETAMBIENT, volume: 0.5f, loop: true);
+        Invoke("delayedplay", 5f);
+
+    }
+
+    private void delayedplay()
+    {
+        SoundManager.PlaySound(SoundType.BELL1, AudioSourceName.Campanario, volume: 0.5f, loop: false);
+
+        SoundManager.PlaySound(SoundType.BELL2, AudioSourceName.Campanario, volume: 0.5f, loop: false,useRandomPitch:true,minPitch:0.1f,maxPitch:0.5f);
     }
 
 
     public static void PlaySound(
         SoundType sound,
-        AudioSource source = null,
+        AudioSourceName source = AudioSourceName.Main_Camera,
         float volume = 1f,
         bool useRandomPitch = false,
         bool loop = false,
@@ -72,7 +80,10 @@ public class SoundManager : MonoBehaviour
         AudioClip randomClip = clips[UnityEngine.Random.Range(0, clips.Length)];
 
         // Selecciona el AudioSource
-        AudioSource targetSource = source ? source : instance.camSource;
+        AudioSource targetSource;
+        if (!instance.audioSources.TryGetValue(source, out targetSource))
+            targetSource = instance.camSource;
+
 
         // Asigna el mixer correcto según categoría
         switch (soundData.category)
@@ -121,9 +132,11 @@ public class SoundManager : MonoBehaviour
         instance=this;
     }
 
-    [MenuItem("Tools/List All AudioSources")]
-    private static void ListAllAudioSources()
+    //Busca audioSources en la escena, crea un valor de enum de nombre para cada uno y llena el diccionario con ellos
+    [MenuItem("Tools/Generate Audio Cosas")]
+    private static void GenerateAudioSourceEnum()
     {
+        //toma instancia o crea una
         if (instance == null)
         {
             instance = FindAnyObjectByType<SoundManager>();
@@ -134,15 +147,46 @@ public class SoundManager : MonoBehaviour
             }
         }
 
+        //toma todos los audiosources en la escena
         var sources = new List<AudioSource>();
-
-        foreach (var src in FindObjectsByType<AudioSource>(sortMode: FindObjectsSortMode.InstanceID))
+        foreach (var src in FindObjectsByType<AudioSource>(FindObjectsSortMode.InstanceID))
             sources.Add(src);
 
         sources.Sort((a, b) => string.Compare(a.gameObject.name, b.gameObject.name, StringComparison.Ordinal));
-        instance.audioSources = sources.ToArray();
 
-        Debug.Log($"Total audio sources: {sources.Count}");
+        //limpia y llena el diccionario
+        instance.audioSources.Clear();
+        List<string> enumNames = new List<string>();
+
+        foreach (var src in sources)
+        {
+            string cleanName = src.gameObject.name
+            .Replace(" ", "_")
+            .Replace("-", "_")
+            .Replace("(", "")
+            .Replace(")", "")
+            .Replace(".", "_");
+
+            enumNames.Add(cleanName);
+
+            //permite llenar el diccionario con valores que todavia no existen en el enum
+            if (System.Enum.TryParse<AudioSourceName>(cleanName, out AudioSourceName enumValue))
+            {
+                instance.audioSources[enumValue] = src;
+            }
+        }
+
+        //genera el enum en el path indicado
+        string enumCode = "public enum AudioSourceName\n{\n";
+        foreach (string name in enumNames)
+            enumCode += $"    {name},\n";
+        enumCode += "}\n";
+
+        string path = "Assets/Game/Scripts/Enums/AudioSourceName.cs";
+        System.IO.File.WriteAllText(path, enumCode);
+        AssetDatabase.Refresh();
+
+        Debug.Log($"AudioSources: {instance.audioSources.Count} \nEnum generado en: Assets/Game/Scripts/Enums/AudioSourceName.cs");
     }
 #endif
 }

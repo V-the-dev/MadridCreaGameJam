@@ -16,7 +16,7 @@ public class DoorController : InteractableObject
         door.enabled=false;     //ahora mismo la puerta es de un solo uso
         zone.enabled=false;
         door.GetComponent<SpriteRenderer>().color= Color.green;
-        SoundManager.PlaySound(SoundType.FENCEOPEN,source,0.8f,true,false,0.7f,1f);
+        SoundManager.PlaySound(SoundType.FENCEOPEN,AudioSourceName.Main_Camera,0.8f,true,false,0.7f,1f);
         //animacion de abrir puerta
     }
 
