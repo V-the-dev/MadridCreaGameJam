@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: BORRACHO_1
   m_EditorClassIdentifier: Assembly-CSharp::DialogueObject
   characters:
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 21300000, guid: 942aab31e52a16d41b106a600874a66d, type: 3}
+  - {fileID: 21300000, guid: 6094f5e9382781749836d3297c790174, type: 3}
   charactersName:
   - BORRACHO
   - SERENO
@@ -22,8 +22,8 @@ MonoBehaviour:
   - Inconsciente
   - 
   charactersSide: 0000000001000000
-  mainCharacterWhenResponses: 0
-  mainCharacterIndex: 0
+  mainCharacterWhenResponses: 1
+  mainCharacterIndex: 1
   conversationLine:
   - dialogue: "(Un hombre inconsciente, es evidente que bebi\xF3 demasiado.)"
     spriteIndex: 0
