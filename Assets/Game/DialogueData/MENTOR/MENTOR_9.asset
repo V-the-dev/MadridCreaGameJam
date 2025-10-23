@@ -22,7 +22,7 @@ MonoBehaviour:
   mainCharacterWhenResponses: 0
   mainCharacterIndex: 1
   conversationLine:
-  - dialogue: "Escoges el manojo de llaves. Con \xE9l podr\xE1s acceder a alguna
+  - dialogue: "Escoges el <imagmanojo de llaves. Con \xE9l podr\xE1s acceder a alguna
       puerta cerrada."
     spriteIndex: 0
   responses: []

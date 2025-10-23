@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: NINA_1
   m_EditorClassIdentifier: Assembly-CSharp::DialogueObject
   characters:
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 21300000, guid: 13edfe1051d5f7042965076e441f65ac, type: 3}
+  - {fileID: 21300000, guid: 6094f5e9382781749836d3297c790174, type: 3}
   charactersName:
   - "NI\xD1A"
   - SERENO
@@ -23,7 +23,7 @@ MonoBehaviour:
   - 
   charactersSide: 0000000001000000
   mainCharacterWhenResponses: 1
-  mainCharacterIndex: 0
+  mainCharacterIndex: 1
   conversationLine:
   - dialogue: "(Entre los escombros de un edificio abandonado, una ni\xF1a trata
       de arrancar una viga de metal atrancada entre un par de bloques de piedra.)"

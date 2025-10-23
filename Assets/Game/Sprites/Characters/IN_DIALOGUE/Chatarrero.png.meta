@@ -1,0 +1,1859 @@
+fileFormatVersion: 2
+guid: bb961710e5917fb48b6154bcc7efacff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2228618714592057424
+    second: Chatarrero_0
+  - first:
+      213: -8917992950759832914
+    second: Chatarrero_1
+  - first:
+      213: -2475647899359693002
+    second: Chatarrero_2
+  - first:
+      213: -2694912486777081240
+    second: Chatarrero_3
+  - first:
+      213: 7991866362875833372
+    second: Chatarrero_4
+  - first:
+      213: 8063869739339760291
+    second: Chatarrero_5
+  - first:
+      213: 2610365496282290013
+    second: Chatarrero_6
+  - first:
+      213: 418576068589444007
+    second: Chatarrero_7
+  - first:
+      213: 6533774492912211329
+    second: Chatarrero_8
+  - first:
+      213: -3324353897009481693
+    second: Chatarrero_9
+  - first:
+      213: 1661322530528368784
+    second: Chatarrero_10
+  - first:
+      213: -4404486533004491572
+    second: Chatarrero_11
+  - first:
+      213: -8922594387692233530
+    second: Chatarrero_12
+  - first:
+      213: -936396874358295253
+    second: Chatarrero_13
+  - first:
+      213: 3209674609921896902
+    second: Chatarrero_14
+  - first:
+      213: -4126891917803925644
+    second: Chatarrero_15
+  - first:
+      213: -4784928858113367108
+    second: Chatarrero_16
+  - first:
+      213: 7364611251034428662
+    second: Chatarrero_17
+  - first:
+      213: -1055752590765701331
+    second: Chatarrero_18
+  - first:
+      213: -7479563466364626743
+    second: Chatarrero_19
+  - first:
+      213: -2964184089301499237
+    second: Chatarrero_20
+  - first:
+      213: 3980085085304274143
+    second: Chatarrero_21
+  - first:
+      213: 3042085126096816833
+    second: Chatarrero_22
+  - first:
+      213: -1066791619478015782
+    second: Chatarrero_23
+  - first:
+      213: 1348322453518949563
+    second: Chatarrero_24
+  - first:
+      213: -1282091004264777065
+    second: Chatarrero_25
+  - first:
+      213: 1508456749543960513
+    second: Chatarrero_26
+  - first:
+      213: -6900484681479287687
+    second: Chatarrero_27
+  - first:
+      213: -798776001205694519
+    second: Chatarrero_28
+  - first:
+      213: 3514992411345985595
+    second: Chatarrero_29
+  - first:
+      213: -7650800639701676739
+    second: Chatarrero_30
+  - first:
+      213: 7530452521786891109
+    second: Chatarrero_31
+  - first:
+      213: 402862610118354993
+    second: Chatarrero_32
+  - first:
+      213: -5614620539783861877
+    second: Chatarrero_33
+  - first:
+      213: -3953738306232002748
+    second: Chatarrero_34
+  - first:
+      213: -7595904906890944130
+    second: Chatarrero_35
+  - first:
+      213: -1232036949563406474
+    second: Chatarrero_36
+  - first:
+      213: 1417282960964455801
+    second: Chatarrero_37
+  - first:
+      213: 9001009965010456330
+    second: Chatarrero_38
+  - first:
+      213: -5629029111539697482
+    second: Chatarrero_39
+  - first:
+      213: 43282716711285215
+    second: Chatarrero_40
+  - first:
+      213: -2939613757206269247
+    second: Chatarrero_41
+  - first:
+      213: 2301819739200287362
+    second: Chatarrero_42
+  - first:
+      213: -9202755476686118201
+    second: Chatarrero_43
+  - first:
+      213: 3737822767990895222
+    second: Chatarrero_44
+  - first:
+      213: -4315643330209705536
+    second: Chatarrero_45
+  - first:
+      213: 3887927064409163147
+    second: Chatarrero_46
+  - first:
+      213: -7470413150173909218
+    second: Chatarrero_47
+  - first:
+      213: 2817615281867191081
+    second: Chatarrero_48
+  - first:
+      213: -1323557032789914241
+    second: Chatarrero_49
+  - first:
+      213: -7973968590705494412
+    second: Chatarrero_50
+  - first:
+      213: 1936585249248268737
+    second: Chatarrero_51
+  - first:
+      213: 4036963332649165116
+    second: Chatarrero_52
+  - first:
+      213: -4675616390892359311
+    second: Chatarrero_53
+  - first:
+      213: -6520111498743717062
+    second: Chatarrero_54
+  - first:
+      213: 2926962767569428452
+    second: Chatarrero_55
+  - first:
+      213: -6882693742502876683
+    second: Chatarrero_56
+  - first:
+      213: -3518748639084646070
+    second: Chatarrero_57
+  - first:
+      213: -3801275579049667652
+    second: Chatarrero_58
+  - first:
+      213: 8187975993854585256
+    second: Chatarrero_59
+  - first:
+      213: -4867260203982540487
+    second: Chatarrero_60
+  - first:
+      213: -1080216601178886970
+    second: Chatarrero_61
+  - first:
+      213: 4624634905582991390
+    second: Chatarrero_62
+  - first:
+      213: -7469812025126425557
+    second: Chatarrero_63
+  - first:
+      213: -5470477395677540030
+    second: Chatarrero_64
+  - first:
+      213: 3243688425161109055
+    second: Chatarrero_65
+  - first:
+      213: -3189153216249832551
+    second: Chatarrero_66
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Chatarrero_0
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 3719
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0581c07c9e4adee10800000000000000
+      internalID: 2228618714592057424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chatarrero_1
+      rect:
+        serializedVersion: 2
+        x: 2458
+        y: 3297
+        width: 293
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea2c58c29acec3480800000000000000
+      internalID: -8917992950759832914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chatarrero_2
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 3672
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63739b12a5bb4add0800000000000000
+      internalID: -2475647899359693002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chatarrero_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2833
+        height: 3624
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86233ec1f5fb99ad0800000000000000
+      internalID: -2694912486777081240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chatarrero_4
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 197
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c6b934d10d8ee60800000000000000
+      internalID: 7991866362875833372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chatarrero_5
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 216
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a24e50cdce98ef60800000000000000
+      internalID: 8063869739339760291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chatarrero_6
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 225
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5797dba691e93420800000000000000
+      internalID: 2610365496282290013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chatarrero_7
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 82
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7abd0c777b41fc500800000000000000
+      internalID: 418576068589444007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chatarrero_8
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 213
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1855a8ca841acaa50800000000000000
+      internalID: 6533774492912211329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chatarrero_9
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 227
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 328701d6eb58dd1d0800000000000000
+      internalID: -3324353897009481693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chatarrero_10
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 211
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0981f791a043e0710800000000000000
+      internalID: 1661322530528368784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chatarrero_11
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 227
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc4864e85de10e2c0800000000000000
+      internalID: -4404486533004491572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chatarrero_12
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 52
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ccd5b6ada39c2480800000000000000
+      internalID: -8922594387692233530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chatarrero_13
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 207
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25761701004103f0800000000000000
+      internalID: -936396874358295253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chatarrero_14
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 204
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c13cf85d0e0b8c20800000000000000
+      internalID: 3209674609921896902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chatarrero_15
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 205
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47fcddc7aa55ab6c0800000000000000
+      internalID: -4126891917803925644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chatarrero_16
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 205
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb323a02e84889db0800000000000000
+      internalID: -4784928858113367108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chatarrero_17
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 205
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f490c6d9ea543660800000000000000
+      internalID: 7364611251034428662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chatarrero_18
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 199
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2746b0cc963951f0800000000000000
+      internalID: -1055752590765701331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chatarrero_19
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 193
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c8d850e7a0433890800000000000000
+      internalID: -7479563466364626743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chatarrero_20
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 86
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92c154964a1dd6d0800000000000000
+      internalID: -2964184089301499237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chatarrero_21
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 189
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc34653c4a1c3730800000000000000
+      internalID: 3980085085304274143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chatarrero_22
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 196
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca0085fd48a73a20800000000000000
+      internalID: 3042085126096816833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chatarrero_23
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 208
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad036a79caef131f0800000000000000
+      internalID: -1066791619478015782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chatarrero_24
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 208
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc1ea4b02436b210800000000000000
+      internalID: 1348322453518949563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chatarrero_25
+      rect:
+        serializedVersion: 2
+        x: 2139
+        y: 181
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79af2114609153ee0800000000000000
+      internalID: -1282091004264777065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chatarrero_26
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 194
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cfab9beb6d1fe410800000000000000
+      internalID: 1508456749543960513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chatarrero_27
+      rect:
+        serializedVersion: 2
+        x: 2153
+        y: 222
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c07661ebd8c30a0800000000000000
+      internalID: -6900484681479287687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chatarrero_28
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 198
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf0701857d2ae4f0800000000000000
+      internalID: -798776001205694519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chatarrero_29
+      rect:
+        serializedVersion: 2
+        x: 2170
+        y: 181
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30a87299f2c7c030800000000000000
+      internalID: 3514992411345985595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chatarrero_30
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 214
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d00479a55e2d590800000000000000
+      internalID: -7650800639701676739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chatarrero_31
+      rect:
+        serializedVersion: 2
+        x: 2203
+        y: 209
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b5d07abaa818860800000000000000
+      internalID: 7530452521786891109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chatarrero_32
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 228
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1382461d861479500800000000000000
+      internalID: 402862610118354993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chatarrero_33
+      rect:
+        serializedVersion: 2
+        x: 2211
+        y: 225
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b892299dd5cd412b0800000000000000
+      internalID: -5614620539783861877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chatarrero_34
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 182
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447df2255ff7129c0800000000000000
+      internalID: -3953738306232002748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chatarrero_35
+      rect:
+        serializedVersion: 2
+        x: 2258
+        y: 219
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e716e156bbce59690800000000000000
+      internalID: -7595904906890944130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chatarrero_36
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 206
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6770e170cece6eee0800000000000000
+      internalID: -1232036949563406474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chatarrero_37
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 192
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d008a08533ba310800000000000000
+      internalID: 1417282960964455801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chatarrero_38
+      rect:
+        serializedVersion: 2
+        x: 2272
+        y: 180
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f0330bfd20aec70800000000000000
+      internalID: 9001009965010456330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chatarrero_39
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 228
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b8f750d8dba1e1b0800000000000000
+      internalID: -5629029111539697482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chatarrero_40
+      rect:
+        serializedVersion: 2
+        x: 2291
+        y: 212
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd17d7ac665c99000800000000000000
+      internalID: 43282716711285215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chatarrero_41
+      rect:
+        serializedVersion: 2
+        x: 2294
+        y: 183
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c27ed0dcd46437d0800000000000000
+      internalID: -2939613757206269247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chatarrero_42
+      rect:
+        serializedVersion: 2
+        x: 2297
+        y: 222
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282f3047bd4b1ff10800000000000000
+      internalID: 2301819739200287362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chatarrero_43
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 224
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c2e759f6ae394080800000000000000
+      internalID: -9202755476686118201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chatarrero_44
+      rect:
+        serializedVersion: 2
+        x: 2306
+        y: 179
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672f67fe00a6fd330800000000000000
+      internalID: 3737822767990895222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chatarrero_45
+      rect:
+        serializedVersion: 2
+        x: 2328
+        y: 209
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c11195a141cb14c0800000000000000
+      internalID: -4315643330209705536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chatarrero_46
+      rect:
+        serializedVersion: 2
+        x: 2379
+        y: 223
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b854cb2e011b4f530800000000000000
+      internalID: 3887927064409163147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chatarrero_47
+      rect:
+        serializedVersion: 2
+        x: 2386
+        y: 220
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f2a72e1d2c35890800000000000000
+      internalID: -7470413150173909218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chatarrero_48
+      rect:
+        serializedVersion: 2
+        x: 2423
+        y: 181
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 923f765ab2e2a1720800000000000000
+      internalID: 2817615281867191081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chatarrero_49
+      rect:
+        serializedVersion: 2
+        x: 2434
+        y: 203
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d469424e7c1ade0800000000000000
+      internalID: -1323557032789914241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chatarrero_50
+      rect:
+        serializedVersion: 2
+        x: 2456
+        y: 210
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47670ec80d5c65190800000000000000
+      internalID: -7973968590705494412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chatarrero_51
+      rect:
+        serializedVersion: 2
+        x: 2481
+        y: 181
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c154b2160220ea10800000000000000
+      internalID: 1936585249248268737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chatarrero_52
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 82
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31a4d523cc260830800000000000000
+      internalID: 4036963332649165116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chatarrero_53
+      rect:
+        serializedVersion: 2
+        x: 2495
+        y: 39
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171fdda3aafdc1fb0800000000000000
+      internalID: -4675616390892359311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chatarrero_54
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 185
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a33e07d0329e385a0800000000000000
+      internalID: -6520111498743717062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chatarrero_55
+      rect:
+        serializedVersion: 2
+        x: 2516
+        y: 180
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef15cf1129ae9820800000000000000
+      internalID: 2926962767569428452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chatarrero_56
+      rect:
+        serializedVersion: 2
+        x: 2529
+        y: 181
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9ef4cd182cb70a0800000000000000
+      internalID: -6882693742502876683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chatarrero_57
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 184
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41787181c4ea2fc0800000000000000
+      internalID: -3518748639084646070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chatarrero_58
+      rect:
+        serializedVersion: 2
+        x: 2538
+        y: 213
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb3906930082f3bc0800000000000000
+      internalID: -3801275579049667652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chatarrero_59
+      rect:
+        serializedVersion: 2
+        x: 2548
+        y: 221
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9e02fd8c881a170800000000000000
+      internalID: 8187975993854585256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chatarrero_60
+      rect:
+        serializedVersion: 2
+        x: 2558
+        y: 229
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931b930e1a4047cb0800000000000000
+      internalID: -4867260203982540487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chatarrero_61
+      rect:
+        serializedVersion: 2
+        x: 2562
+        y: 182
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cca04679bc4201f0800000000000000
+      internalID: -1080216601178886970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chatarrero_62
+      rect:
+        serializedVersion: 2
+        x: 2569
+        y: 58
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18752bb1f00e2040800000000000000
+      internalID: 4624634905582991390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chatarrero_63
+      rect:
+        serializedVersion: 2
+        x: 2570
+        y: 221
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ce5673a85e55890800000000000000
+      internalID: -7469812025126425557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chatarrero_64
+      rect:
+        serializedVersion: 2
+        x: 2571
+        y: 192
+        width: 87
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24116dedac5f414b0800000000000000
+      internalID: -5470477395677540030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chatarrero_65
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 193
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e26c7df65e30d20800000000000000
+      internalID: 3243688425161109055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chatarrero_66
+      rect:
+        serializedVersion: 2
+        x: 2577
+        y: 52
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b5223fb0addb3d0800000000000000
+      internalID: -3189153216249832551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Chatarrero_0: 2228618714592057424
+      Chatarrero_1: -8917992950759832914
+      Chatarrero_10: 1661322530528368784
+      Chatarrero_11: -4404486533004491572
+      Chatarrero_12: -8922594387692233530
+      Chatarrero_13: -936396874358295253
+      Chatarrero_14: 3209674609921896902
+      Chatarrero_15: -4126891917803925644
+      Chatarrero_16: -4784928858113367108
+      Chatarrero_17: 7364611251034428662
+      Chatarrero_18: -1055752590765701331
+      Chatarrero_19: -7479563466364626743
+      Chatarrero_2: -2475647899359693002
+      Chatarrero_20: -2964184089301499237
+      Chatarrero_21: 3980085085304274143
+      Chatarrero_22: 3042085126096816833
+      Chatarrero_23: -1066791619478015782
+      Chatarrero_24: 1348322453518949563
+      Chatarrero_25: -1282091004264777065
+      Chatarrero_26: 1508456749543960513
+      Chatarrero_27: -6900484681479287687
+      Chatarrero_28: -798776001205694519
+      Chatarrero_29: 3514992411345985595
+      Chatarrero_3: -2694912486777081240
+      Chatarrero_30: -7650800639701676739
+      Chatarrero_31: 7530452521786891109
+      Chatarrero_32: 402862610118354993
+      Chatarrero_33: -5614620539783861877
+      Chatarrero_34: -3953738306232002748
+      Chatarrero_35: -7595904906890944130
+      Chatarrero_36: -1232036949563406474
+      Chatarrero_37: 1417282960964455801
+      Chatarrero_38: 9001009965010456330
+      Chatarrero_39: -5629029111539697482
+      Chatarrero_4: 7991866362875833372
+      Chatarrero_40: 43282716711285215
+      Chatarrero_41: -2939613757206269247
+      Chatarrero_42: 2301819739200287362
+      Chatarrero_43: -9202755476686118201
+      Chatarrero_44: 3737822767990895222
+      Chatarrero_45: -4315643330209705536
+      Chatarrero_46: 3887927064409163147
+      Chatarrero_47: -7470413150173909218
+      Chatarrero_48: 2817615281867191081
+      Chatarrero_49: -1323557032789914241
+      Chatarrero_5: 8063869739339760291
+      Chatarrero_50: -7973968590705494412
+      Chatarrero_51: 1936585249248268737
+      Chatarrero_52: 4036963332649165116
+      Chatarrero_53: -4675616390892359311
+      Chatarrero_54: -6520111498743717062
+      Chatarrero_55: 2926962767569428452
+      Chatarrero_56: -6882693742502876683
+      Chatarrero_57: -3518748639084646070
+      Chatarrero_58: -3801275579049667652
+      Chatarrero_59: 8187975993854585256
+      Chatarrero_6: 2610365496282290013
+      Chatarrero_60: -4867260203982540487
+      Chatarrero_61: -1080216601178886970
+      Chatarrero_62: 4624634905582991390
+      Chatarrero_63: -7469812025126425557
+      Chatarrero_64: -5470477395677540030
+      Chatarrero_65: 3243688425161109055
+      Chatarrero_66: -3189153216249832551
+      Chatarrero_7: 418576068589444007
+      Chatarrero_8: 6533774492912211329
+      Chatarrero_9: -3324353897009481693
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

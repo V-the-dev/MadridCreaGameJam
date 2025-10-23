@@ -23,7 +23,7 @@ MonoBehaviour:
   - 
   charactersSide: 0000000001000000
   mainCharacterWhenResponses: 1
-  mainCharacterIndex: 0
+  mainCharacterIndex: 1
   conversationLine:
   - dialogue: (El hombre se atreve a acercarse. Le notas nervioso.)
     spriteIndex: 0

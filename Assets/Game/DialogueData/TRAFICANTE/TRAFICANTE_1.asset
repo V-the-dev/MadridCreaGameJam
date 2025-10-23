@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: TRAFICANTE_1
   m_EditorClassIdentifier: Assembly-CSharp::DialogueObject
   characters:
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 21300000, guid: fea5175ab6bab92458c266168c0545ce, type: 3}
+  - {fileID: 21300000, guid: 6094f5e9382781749836d3297c790174, type: 3}
   charactersName:
   - CARDO
   - SERENO
@@ -28,14 +28,14 @@ MonoBehaviour:
   - dialogue: (Con un aire vanidoso, Cardo, el traficante, te hace un gesto con la
       barbilla.)
     spriteIndex: 0
-  - dialogue: "\xBFQu\xE9 buscas?"
+  - dialogue: "\xBFQu\xE9 buscas? <img=chuzo>"
     spriteIndex: 0
   responses:
   - responseText: ' Chuzo por 150 pesetas'
     dialogueObject: {fileID: 11400000, guid: c6a0f2a10b3e6b74fba792435752fe7a, type: 2}
   - responseText: 'Reloj por 100 pesetas '
-    dialogueObject: {fileID: 11400000, guid: 7ceb8aa1fa9ccfe42b5d2d0dcea1b7d6, type: 2}
+    dialogueObject: {fileID: 11400000, guid: c6a0f2a10b3e6b74fba792435752fe7a, type: 2}
   - responseText: Pan por 50 pesetas
-    dialogueObject: {fileID: 11400000, guid: 52756ca744efb084285c783edf371a28, type: 2}
+    dialogueObject: {fileID: 11400000, guid: 7ceb8aa1fa9ccfe42b5d2d0dcea1b7d6, type: 2}
   - responseText: Volver
     dialogueObject: {fileID: 0}
