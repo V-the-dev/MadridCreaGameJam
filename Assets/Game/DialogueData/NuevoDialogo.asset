@@ -13,16 +13,19 @@ MonoBehaviour:
   m_Name: NuevoDialogo
   m_EditorClassIdentifier: Assembly-CSharp::DialogueObject
   characters:
-  - {fileID: 0}
+  - {fileID: 21300000, guid: 6094f5e9382781749836d3297c790174, type: 3}
   charactersName:
-  - 
+  - Sereno
   charactersTitle:
   - 
-  charactersSide: 00000000
+  charactersSide: 01000000
   mainCharacterWhenResponses: 0
   mainCharacterIndex: 0
   conversationLine:
-  - dialogue: mis huevos
+  - dialogue: 'prueba <color=#9c1495>Chuzo</color><img=Chuzo> wrfbskalerjkm
+
+      <color=#9c1495>Licor</color><img=Licor> 
+      <color=#9c1495>Licor</color><img=Licor>'
     spriteIndex: 0
   responses:
   - responseText: prueba

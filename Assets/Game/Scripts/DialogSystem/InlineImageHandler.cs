@@ -3,13 +3,14 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
+using Unity.VisualScripting;
 
 [System.Serializable]
 public class InlineImageData
 {
     public string key;
     public Sprite sprite;
-    public float sizeMultiplier = 1f;
+    [HideInInspector] public float sizeMultiplier = 50f;
 }
 
 public class InlineImageHandler : MonoBehaviour
@@ -35,33 +36,9 @@ public class InlineImageHandler : MonoBehaviour
     public float GetImageWidth(string key)
     {
         InlineImageData imageData = GetImageDataByKey(key);
-        if (imageData != null && textLabel)
+        if (imageData != null)
         {
-            // Obtener la altura del carácter espacio del texto actual
-            textLabel.ForceMeshUpdate();
-            TMP_TextInfo textInfo = textLabel.textInfo;
-        
-            if (textInfo.characterCount > 0)
-            {
-                // Usar el carácter espacio para calcular la altura base
-                TMP_CharacterInfo[] characterInfos = textInfo.characterInfo;
-                TMP_CharacterInfo charInfo = characterInfos[0];
-                foreach (TMP_CharacterInfo characterInfo in characterInfos)
-                {
-                    if (characterInfo.character == ' ')
-                    {
-                        charInfo = characterInfo;
-                    }
-                }
-        
-                // Obtener posición del carácter en espacio local del texto
-                Vector3 bottomLeft = charInfo.bottomLeft;
-                Vector3 topRight = charInfo.topRight;
-        
-                float chatWidth = topRight.x - bottomLeft.x;
-                float imageSize = chatWidth * imageData.sizeMultiplier;
-                return imageSize;
-            }
+            return imageData.sizeMultiplier;
         }
         return 0f;
     }
@@ -154,8 +131,8 @@ public class InlineImageHandler : MonoBehaviour
         }
         
         // Configurar el RectTransform
-        rectTransform.anchorMin = new Vector2(0, 0);
-        rectTransform.anchorMax = new Vector2(0, 0);
+        rectTransform.anchorMin = new Vector2(0, 0.5f);
+        rectTransform.anchorMax = new Vector2(0, 0.5f);
         rectTransform.pivot = new Vector2(0, 0.5f);
         
         // Guardar información para actualizar posición

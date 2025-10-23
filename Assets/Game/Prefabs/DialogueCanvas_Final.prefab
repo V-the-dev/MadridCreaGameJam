@@ -667,7 +667,7 @@ MonoBehaviour:
   - key: Chatarra
     sprite: {fileID: 21300000, guid: 7a3544e41d70b004487e507fb7aa6a04, type: 3}
     sizeMultiplier: 50
-  imageTemplate: {fileID: 0}
+  imageTemplate: {fileID: 4635588075551323424, guid: 23ef9fcca9dbcdb41bae2c273d14a5cd, type: 3}
 --- !u!1 &4952115730944995374
 GameObject:
   m_ObjectHideFlags: 0
