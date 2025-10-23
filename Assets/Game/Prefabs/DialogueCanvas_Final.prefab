@@ -643,28 +643,28 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::InlineImageHandler
   imageDatabase:
-  - key: Chuzo
+  - key: chuzo
     sprite: {fileID: 21300000, guid: 3c5376697f5c17548bf76b625b310931, type: 3}
     sizeMultiplier: 50
   - key: "Jam\xF3n"
     sprite: {fileID: 21300000, guid: cfa1fa17c66b5794d8490a2aa6ced41c, type: 3}
     sizeMultiplier: 50
-  - key: "L\xE1mpara"
+  - key: lampara
     sprite: {fileID: 21300000, guid: 2e541b980d84e134d91b233830ca3004, type: 3}
     sizeMultiplier: 50
-  - key: Licor
+  - key: licor
     sprite: {fileID: 21300000, guid: b4680b23d9856f748b0978c31c9facdc, type: 3}
     sizeMultiplier: 50
-  - key: Llaves
+  - key: llaves
     sprite: {fileID: 21300000, guid: 7e30c9790ff6d3a4c8cd7843db81347a, type: 3}
     sizeMultiplier: 50
-  - key: Pesetas
+  - key: pesetas
     sprite: {fileID: 21300000, guid: d10fe0e7f377ceb43ae2c3608d3ba663, type: 3}
     sizeMultiplier: 50
-  - key: Reloj
+  - key: reloj
     sprite: {fileID: 21300000, guid: 800845ace5ef3904aad89aa1694600f3, type: 3}
     sizeMultiplier: 50
-  - key: Chatarra
+  - key: chatarra
     sprite: {fileID: 21300000, guid: 7a3544e41d70b004487e507fb7aa6a04, type: 3}
     sizeMultiplier: 50
   imageTemplate: {fileID: 4635588075551323424, guid: 23ef9fcca9dbcdb41bae2c273d14a5cd, type: 3}
@@ -980,7 +980,7 @@ MonoBehaviour:
   m_textAlignment: 65535
   m_characterSpacing: 0
   m_wordSpacing: 0
-  m_lineSpacing: 20
+  m_lineSpacing: 10
   m_lineSpacingMax: 0
   m_paragraphSpacing: 0
   m_charWidthMaxAdj: 0

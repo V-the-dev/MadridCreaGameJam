@@ -12,11 +12,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5272d69de47d6724f8fa0d53e5052b27, type: 3}
   m_Name: Prueba
   m_EditorClassIdentifier: Assembly-CSharp::DialogueObject
-  characters: []
-  charactersName: []
-  charactersTitle: []
-  charactersSide: 
+  characters:
+  - {fileID: 21300000, guid: 1a7eff629703e9c41b61bb8a29a5dcf9, type: 3}
+  - {fileID: 21300000, guid: 6094f5e9382781749836d3297c790174, type: 3}
+  charactersName:
+  - Pilar
+  - Sereno
+  charactersTitle:
+  - Viuda
+  - New Title
+  charactersSide: 0000000001000000
   mainCharacterWhenResponses: 0
   mainCharacterIndex: 0
-  conversationLine: []
+  conversationLine:
+  - dialogue: Probando el <img=licor>Chuzo<img=chuzo> contigo sereno
+    spriteIndex: 0
+  - dialogue: 'Probando el <img=farol> Farol contigo '
+    spriteIndex: 0
   responses: []
