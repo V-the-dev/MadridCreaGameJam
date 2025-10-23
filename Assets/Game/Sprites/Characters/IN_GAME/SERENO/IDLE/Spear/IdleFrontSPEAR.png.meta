@@ -1,0 +1,346 @@
+fileFormatVersion: 2
+guid: e790ea41258b2d84d83f0784a79ebc09
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2378305610692261100
+    second: IdleFrontSPEAR_0
+  - first:
+      213: -6036358332425232433
+    second: IdleFrontSPEAR_1
+  - first:
+      213: 812355968102261499
+    second: IdleFrontSPEAR_2
+  - first:
+      213: 8942582143402189969
+    second: IdleFrontSPEAR_3
+  - first:
+      213: 7206983988082822265
+    second: IdleFrontSPEAR_4
+  - first:
+      213: 5130695578664230311
+    second: IdleFrontSPEAR_5
+  - first:
+      213: 6283819959769844664
+    second: IdleFrontSPEAR_6
+  - first:
+      213: -7271737232390291596
+    second: IdleFrontSPEAR_7
+  - first:
+      213: 5398556204785932436
+    second: IdleFrontSPEAR_8
+  - first:
+      213: -7525461417037457737
+    second: IdleFrontSPEAR_9
+  - first:
+      213: -8722684313540042954
+    second: IdleFrontSPEAR_10
+  - first:
+      213: -8535772591071980522
+    second: IdleFrontSPEAR_11
+  - first:
+      213: 5816727113125048497
+    second: IdleFrontSPEAR_12
+  - first:
+      213: 4590733829341448404
+    second: IdleFrontSPEAR_13
+  - first:
+      213: -3595962141096633275
+    second: IdleFrontSPEAR_14
+  - first:
+      213: 8665933007704608477
+    second: IdleFrontSPEAR_15
+  - first:
+      213: 4246325170342707772
+    second: IdleFrontSPEAR_16
+  - first:
+      213: 4662492682850959871
+    second: IdleFrontSPEAR_17
+  - first:
+      213: 6663823724950078078
+    second: IdleFrontSPEAR_18
+  - first:
+      213: 4902077128252909463
+    second: IdleFrontSPEAR_19
+  - first:
+      213: -6173558155722544667
+    second: IdleFrontSPEAR_20
+  - first:
+      213: 116336153057195557
+    second: IdleFrontSPEAR_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IdleFrontSPEAR_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3095
+        width: 2480
+        height: 3095
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b8e5bd5af8efed0800000000000000
+      internalID: -2378305610692261100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleFrontSPEAR_1
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 3095
+        width: 2480
+        height: 3095
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf13d2241c8a3ca0800000000000000
+      internalID: -6036358332425232433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleFrontSPEAR_2
+      rect:
+        serializedVersion: 2
+        x: 4960
+        y: 3095
+        width: 2480
+        height: 3095
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf267ede271164b00800000000000000
+      internalID: 812355968102261499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleFrontSPEAR_3
+      rect:
+        serializedVersion: 2
+        x: 7440
+        y: 3095
+        width: 2480
+        height: 3095
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1942d30641f6a1c70800000000000000
+      internalID: 8942582143402189969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleFrontSPEAR_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2480
+        height: 3095
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97cca9fb0c9540460800000000000000
+      internalID: 7206983988082822265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleFrontSPEAR_5
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 0
+        width: 2480
+        height: 3095
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7add2f8f174e33740800000000000000
+      internalID: 5130695578664230311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleFrontSPEAR_6
+      rect:
+        serializedVersion: 2
+        x: 4960
+        y: 0
+        width: 2480
+        height: 3095
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb4796d5fc943750800000000000000
+      internalID: 6283819959769844664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: bc701f86cfebf1641ab9f8a63a1d0c3c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":2.0},"gridSpriteSize":{"x":2480.0,"y":3095.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      IdleFrontSPEAR_0: -2378305610692261100
+      IdleFrontSPEAR_1: -6036358332425232433
+      IdleFrontSPEAR_2: 812355968102261499
+      IdleFrontSPEAR_3: 8942582143402189969
+      IdleFrontSPEAR_4: 7206983988082822265
+      IdleFrontSPEAR_5: 5130695578664230311
+      IdleFrontSPEAR_6: 6283819959769844664
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

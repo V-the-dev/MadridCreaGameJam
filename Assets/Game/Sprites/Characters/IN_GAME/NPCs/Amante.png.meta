@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: 79ab59ac0e422ea4983951dd6d071f22
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7397633610289833054
+    second: Amante_0
+  - first:
+      213: -5854610901425484588
+    second: Amante_1
+  - first:
+      213: -5408187424909439500
+    second: Amante_2
+  - first:
+      213: 4284760783140863055
+    second: Amante_3
+  - first:
+      213: 4328826022793177468
+    second: Amante_4
+  - first:
+      213: -4589466264367092502
+    second: Amante_5
+  - first:
+      213: 8787530243592869984
+    second: Amante_6
+  - first:
+      213: -7749042236769462890
+    second: Amante_7
+  - first:
+      213: -1234517161288687238
+    second: Amante_8
+  - first:
+      213: -431602055138836211
+    second: Amante_9
+  - first:
+      213: 1438166060449455238
+    second: Amante_10
+  - first:
+      213: 8602526768854642474
+    second: Amante_11
+  - first:
+      213: -8065601684483035541
+    second: Amante_12
+  - first:
+      213: 5603891453990475692
+    second: Amante_13
+  - first:
+      213: -835270250317950463
+    second: Amante_14
+  - first:
+      213: -3712712348279184313
+    second: Amante_15
+  - first:
+      213: -4549596050231642539
+    second: Amante_16
+  - first:
+      213: 2656571846888531931
+    second: Amante_17
+  - first:
+      213: -325353769175529741
+    second: Amante_18
+  - first:
+      213: -3079555401093417742
+    second: Amante_19
+  - first:
+      213: -3999015601842533300
+    second: Amante_20
+  - first:
+      213: 4912278079979810191
+    second: Amante_21
+  - first:
+      213: -5376005534245641024
+    second: Amante_22
+  - first:
+      213: -6275991810242378896
+    second: Amante_23
+  - first:
+      213: -4102222322644173784
+    second: Amante_24
+  - first:
+      213: -6068562613657888378
+    second: Amante_25
+  - first:
+      213: 7500308404604693680
+    second: Amante_26
+  - first:
+      213: -9164117912242433666
+    second: Amante_27
+  - first:
+      213: 5253579728881526343
+    second: Amante_28
+  - first:
+      213: 3302996800601052037
+    second: Amante_29
+  - first:
+      213: 6143629117449436759
+    second: Amante_30
+  - first:
+      213: 6515263921549709339
+    second: Amante_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 450
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Amante_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10062
+        width: 2480
+        height: 3354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54e0dff29ca9a660800000000000000
+      internalID: 7397633610289833054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amante_1
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 10062
+        width: 2480
+        height: 3354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc876a776e30cea0800000000000000
+      internalID: -5854610901425484588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amante_2
+      rect:
+        serializedVersion: 2
+        x: 4960
+        y: 10062
+        width: 2480
+        height: 3354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fdc98bd03242f4b0800000000000000
+      internalID: -5408187424909439500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amante_3
+      rect:
+        serializedVersion: 2
+        x: 7440
+        y: 10062
+        width: 2480
+        height: 3354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4cb2aa0b37867b30800000000000000
+      internalID: 4284760783140863055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amante_4
+      rect:
+        serializedVersion: 2
+        x: 9920
+        y: 10062
+        width: 2480
+        height: 3354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c79ed072554131c30800000000000000
+      internalID: 4328826022793177468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amante_5
+      rect:
+        serializedVersion: 2
+        x: 12400
+        y: 10062
+        width: 2480
+        height: 3354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeca2c3afb0fe40c0800000000000000
+      internalID: -4589466264367092502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amante_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6708
+        width: 2480
+        height: 3354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068da5eb23493f970800000000000000
+      internalID: 8787530243592869984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amante_7
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 6708
+        width: 2480
+        height: 3354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6959bdf442fd57490800000000000000
+      internalID: -7749042236769462890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amante_8
+      rect:
+        serializedVersion: 2
+        x: 4960
+        y: 6708
+        width: 2480
+        height: 3354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71a34cbe2d1edee0800000000000000
+      internalID: -1234517161288687238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amante_9
+      rect:
+        serializedVersion: 2
+        x: 7440
+        y: 6708
+        width: 2480
+        height: 3354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d010f13b734a20af0800000000000000
+      internalID: -431602055138836211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amante_10
+      rect:
+        serializedVersion: 2
+        x: 9920
+        y: 6708
+        width: 2480
+        height: 3354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68cdc19896465f310800000000000000
+      internalID: 1438166060449455238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amante_11
+      rect:
+        serializedVersion: 2
+        x: 12400
+        y: 6708
+        width: 2480
+        height: 3354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2fae54a480526770800000000000000
+      internalID: 8602526768854642474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amante_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3354
+        width: 2480
+        height: 3354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ea898500a311090800000000000000
+      internalID: -8065601684483035541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amante_13
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 3354
+        width: 2480
+        height: 3354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca713f2369505cd40800000000000000
+      internalID: 5603891453990475692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amante_14
+      rect:
+        serializedVersion: 2
+        x: 4960
+        y: 3354
+        width: 2480
+        height: 3354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102d85ef1268864f0800000000000000
+      internalID: -835270250317950463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amante_15
+      rect:
+        serializedVersion: 2
+        x: 7440
+        y: 3354
+        width: 2480
+        height: 3354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744ec9f3acbc97cc0800000000000000
+      internalID: -3712712348279184313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amante_16
+      rect:
+        serializedVersion: 2
+        x: 9920
+        y: 3354
+        width: 2480
+        height: 3354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5563c624f769cd0c0800000000000000
+      internalID: -4549596050231642539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amante_17
+      rect:
+        serializedVersion: 2
+        x: 12400
+        y: 3354
+        width: 2480
+        height: 3354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd72816050a0ed420800000000000000
+      internalID: 2656571846888531931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amante_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2480
+        height: 3354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f645f1887c1c7bf0800000000000000
+      internalID: -325353769175529741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amante_19
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 0
+        width: 2480
+        height: 3354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4f0bbcda83345d0800000000000000
+      internalID: -3079555401093417742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amante_20
+      rect:
+        serializedVersion: 2
+        x: 4960
+        y: 0
+        width: 2480
+        height: 3354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c4ee07f74a088c0800000000000000
+      internalID: -3999015601842533300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amante_21
+      rect:
+        serializedVersion: 2
+        x: 7440
+        y: 0
+        width: 2480
+        height: 3354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d622b23eaeb2440800000000000000
+      internalID: 4912278079979810191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amante_22
+      rect:
+        serializedVersion: 2
+        x: 9920
+        y: 0
+        width: 2480
+        height: 3354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c421cc23779465b0800000000000000
+      internalID: -5376005534245641024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amante_23
+      rect:
+        serializedVersion: 2
+        x: 12400
+        y: 0
+        width: 2480
+        height: 3354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0730e3143b237e8a0800000000000000
+      internalID: -6275991810242378896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c70d3ea034fdc8244b7156d26beeec1c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":4.0},"gridSpriteSize":{"x":2480.0,"y":3354.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Amante_0: 7397633610289833054
+      Amante_1: -5854610901425484588
+      Amante_10: 1438166060449455238
+      Amante_11: 8602526768854642474
+      Amante_12: -8065601684483035541
+      Amante_13: 5603891453990475692
+      Amante_14: -835270250317950463
+      Amante_15: -3712712348279184313
+      Amante_16: -4549596050231642539
+      Amante_17: 2656571846888531931
+      Amante_18: -325353769175529741
+      Amante_19: -3079555401093417742
+      Amante_2: -5408187424909439500
+      Amante_20: -3999015601842533300
+      Amante_21: 4912278079979810191
+      Amante_22: -5376005534245641024
+      Amante_23: -6275991810242378896
+      Amante_3: 4284760783140863055
+      Amante_4: 4328826022793177468
+      Amante_5: -4589466264367092502
+      Amante_6: 8787530243592869984
+      Amante_7: -7749042236769462890
+      Amante_8: -1234517161288687238
+      Amante_9: -431602055138836211
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

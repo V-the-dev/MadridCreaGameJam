@@ -1,0 +1,346 @@
+fileFormatVersion: 2
+guid: 7121ef8aa28f8944e9215c6f0e6fada8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5780526434858303097
+    second: IdleFrontLAMP_0
+  - first:
+      213: -2516855808523024767
+    second: IdleFrontLAMP_1
+  - first:
+      213: -5153771333543246546
+    second: IdleFrontLAMP_2
+  - first:
+      213: -1155698699431460949
+    second: IdleFrontLAMP_3
+  - first:
+      213: 3989897787723141348
+    second: IdleFrontLAMP_4
+  - first:
+      213: -676407344996372766
+    second: IdleFrontLAMP_5
+  - first:
+      213: -2628150973602230771
+    second: IdleFrontLAMP_6
+  - first:
+      213: -8557849630335431413
+    second: IdleFrontLAMP_7
+  - first:
+      213: 363592654863311407
+    second: IdleFrontLAMP_8
+  - first:
+      213: 3233277571359204590
+    second: IdleFrontLAMP_9
+  - first:
+      213: -8845934213160803861
+    second: IdleFrontLAMP_10
+  - first:
+      213: -6319149984497138169
+    second: IdleFrontLAMP_11
+  - first:
+      213: 1948668635334530407
+    second: IdleFrontLAMP_12
+  - first:
+      213: 5740355981443056637
+    second: IdleFrontLAMP_13
+  - first:
+      213: 4991422589213967868
+    second: IdleFrontLAMP_14
+  - first:
+      213: 7354133474581604119
+    second: IdleFrontLAMP_15
+  - first:
+      213: 7195557353038020654
+    second: IdleFrontLAMP_16
+  - first:
+      213: 7392888568302969238
+    second: IdleFrontLAMP_17
+  - first:
+      213: 2014368901129779325
+    second: IdleFrontLAMP_18
+  - first:
+      213: -5062000723680585257
+    second: IdleFrontLAMP_19
+  - first:
+      213: -6685367819940949777
+    second: IdleFrontLAMP_20
+  - first:
+      213: 7455835335066745081
+    second: IdleFrontLAMP_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IdleFrontLAMP_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3057
+        width: 2480
+        height: 3057
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97efb7c7a2e883050800000000000000
+      internalID: 5780526434858303097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleFrontLAMP_1
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 3057
+        width: 2480
+        height: 3057
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1864b1e1af4521dd0800000000000000
+      internalID: -2516855808523024767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleFrontLAMP_2
+      rect:
+        serializedVersion: 2
+        x: 4960
+        y: 3057
+        width: 2480
+        height: 3057
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e25409a27402a78b0800000000000000
+      internalID: -5153771333543246546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleFrontLAMP_3
+      rect:
+        serializedVersion: 2
+        x: 7440
+        y: 3057
+        width: 2480
+        height: 3057
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bafb101f72226ffe0800000000000000
+      internalID: -1155698699431460949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleFrontLAMP_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2480
+        height: 3057
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e0da5706e6fe5730800000000000000
+      internalID: 3989897787723141348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleFrontLAMP_5
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 0
+        width: 2480
+        height: 3057
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eea60e7a1bec96f0800000000000000
+      internalID: -676407344996372766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleFrontLAMP_6
+      rect:
+        serializedVersion: 2
+        x: 4960
+        y: 0
+        width: 2480
+        height: 3057
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e87523d9ee68bd0800000000000000
+      internalID: -2628150973602230771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1ee73137e1c636a40a05317607f27625
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":2.0},"gridSpriteSize":{"x":2480.0,"y":3057.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      IdleFrontLAMP_0: 5780526434858303097
+      IdleFrontLAMP_1: -2516855808523024767
+      IdleFrontLAMP_2: -5153771333543246546
+      IdleFrontLAMP_3: -1155698699431460949
+      IdleFrontLAMP_4: 3989897787723141348
+      IdleFrontLAMP_5: -676407344996372766
+      IdleFrontLAMP_6: -2628150973602230771
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
