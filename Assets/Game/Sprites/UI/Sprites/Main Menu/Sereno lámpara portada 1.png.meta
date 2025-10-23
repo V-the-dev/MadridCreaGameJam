@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: 68c3915fce5c3e54b907ea8ff40e6fff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3849815544471707792
+    second: "Sereno l\xE1mpara portada 1_0"
+  - first:
+      213: 9158653610782574073
+    second: "Sereno l\xE1mpara portada 1_1"
+  - first:
+      213: 7732776852827398958
+    second: "Sereno l\xE1mpara portada 1_2"
+  - first:
+      213: 4149111122482456970
+    second: "Sereno l\xE1mpara portada 1_3"
+  - first:
+      213: -1948270250136991014
+    second: "Sereno l\xE1mpara portada 1_4"
+  - first:
+      213: 492888581290641617
+    second: "Sereno l\xE1mpara portada 1_5"
+  - first:
+      213: -2375278224261072842
+    second: "Sereno l\xE1mpara portada 1_6"
+  - first:
+      213: 3157045944044886788
+    second: "Sereno l\xE1mpara portada 1_7"
+  - first:
+      213: -4527614570629760496
+    second: "Sereno l\xE1mpara portada 1_8"
+  - first:
+      213: -7120490427165939408
+    second: "Sereno l\xE1mpara portada 1_9"
+  - first:
+      213: 1087255358437538460
+    second: "Sereno l\xE1mpara portada 1_10"
+  - first:
+      213: 1223572184855909945
+    second: "Sereno l\xE1mpara portada 1_11"
+  - first:
+      213: -974583196733648784
+    second: "Sereno l\xE1mpara portada 1_12"
+  - first:
+      213: 4850162366549343435
+    second: "Sereno l\xE1mpara portada 1_13"
+  - first:
+      213: 7188867906967435113
+    second: "Sereno l\xE1mpara portada 1_14"
+  - first:
+      213: 5822390926337617884
+    second: "Sereno l\xE1mpara portada 1_15"
+  - first:
+      213: -4402200218089033260
+    second: "Sereno l\xE1mpara portada 1_16"
+  - first:
+      213: -8758637912002772991
+    second: "Sereno l\xE1mpara portada 1_17"
+  - first:
+      213: 5212606124917527261
+    second: "Sereno l\xE1mpara portada 1_18"
+  - first:
+      213: -2815115674302043999
+    second: "Sereno l\xE1mpara portada 1_19"
+  - first:
+      213: -2379277870924923365
+    second: "Sereno l\xE1mpara portada 1_20"
+  - first:
+      213: -2582972122678670086
+    second: "Sereno l\xE1mpara portada 1_21"
+  - first:
+      213: 1021123607532677597
+    second: "Sereno l\xE1mpara portada 1_22"
+  - first:
+      213: -4781279985747562820
+    second: "Sereno l\xE1mpara portada 1_23"
+  - first:
+      213: -2448127475593906599
+    second: "Sereno l\xE1mpara portada 1_24"
+  - first:
+      213: -9210518241842549365
+    second: "Sereno l\xE1mpara portada 1_25"
+  - first:
+      213: -973799608199917651
+    second: "Sereno l\xE1mpara portada 1_26"
+  - first:
+      213: -5591942111292131308
+    second: "Sereno l\xE1mpara portada 1_27"
+  - first:
+      213: -3506019175299250545
+    second: "Sereno l\xE1mpara portada 1_28"
+  - first:
+      213: -4261390438034880708
+    second: "Sereno l\xE1mpara portada 1_29"
+  - first:
+      213: 6307970800593631487
+    second: "Sereno l\xE1mpara portada 1_30"
+  - first:
+      213: 8941624127981464487
+    second: "Sereno l\xE1mpara portada 1_31"
+  - first:
+      213: 6405230223940111163
+    second: "Sereno l\xE1mpara portada 1_32"
+  - first:
+      213: -3232646188119700374
+    second: "Sereno l\xE1mpara portada 1_33"
+  - first:
+      213: 6025192286219190203
+    second: "Sereno l\xE1mpara portada 1_34"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Sereno l\xE1mpara portada 1_0"
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 155
+        width: 834
+        height: 1681
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f9cf4d825b29ac0800000000000000
+      internalID: -3849815544471707792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sereno l\xE1mpara portada 1_1"
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 1192
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f54b833fe21a1f70800000000000000
+      internalID: 9158653610782574073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sereno l\xE1mpara portada 1_2"
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 1207
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e23e320e397505b60800000000000000
+      internalID: 7732776852827398958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sereno l\xE1mpara portada 1_3"
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 1154
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a89603d359a949930800000000000000
+      internalID: 4149111122482456970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sereno l\xE1mpara portada 1_4"
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 1197
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada8f16a78a56f4e0800000000000000
+      internalID: -1948270250136991014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sereno l\xE1mpara portada 1_5"
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 1182
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8cca1ad8717d600800000000000000
+      internalID: 492888581290641617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sereno l\xE1mpara portada 1_6"
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 1177
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638b2303a01590fd0800000000000000
+      internalID: -2375278224261072842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sereno l\xE1mpara portada 1_7"
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 1171
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b12623f8410db20800000000000000
+      internalID: 3157045944044886788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sereno l\xE1mpara portada 1_8"
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 1165
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01afabd498eaa21c0800000000000000
+      internalID: -4527614570629760496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sereno l\xE1mpara portada 1_9"
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 1151
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0396436beafee2d90800000000000000
+      internalID: -7120490427165939408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sereno l\xE1mpara portada 1_10"
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 1052
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a3fcbecf4b61f00800000000000000
+      internalID: 1087255358437538460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sereno l\xE1mpara portada 1_11"
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 403
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936926b5b600bf010800000000000000
+      internalID: 1223572184855909945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sereno l\xE1mpara portada 1_12"
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 403
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07050a20fb59972f0800000000000000
+      internalID: -974583196733648784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sereno l\xE1mpara portada 1_13"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 380
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc3421a9fc3f4340800000000000000
+      internalID: 4850162366549343435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sereno l\xE1mpara portada 1_14"
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 391
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 967fffbe54df3c360800000000000000
+      internalID: 7188867906967435113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sereno l\xE1mpara portada 1_15"
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 363
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdfafcbf2b94dc050800000000000000
+      internalID: 5822390926337617884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sereno l\xE1mpara portada 1_16"
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 316
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1f7aab93e38e2c0800000000000000
+      internalID: -4402200218089033260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sereno l\xE1mpara portada 1_17"
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 311
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1004eca6931137680800000000000000
+      internalID: -8758637912002772991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sereno l\xE1mpara portada 1_18"
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 303
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd21cbd27a5e65840800000000000000
+      internalID: 5212606124917527261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sereno l\xE1mpara portada 1_19"
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 206
+        width: 87
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8a7979533bee8d0800000000000000
+      internalID: -2815115674302043999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sereno l\xE1mpara portada 1_20"
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 298
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e7291e16b1bfed0800000000000000
+      internalID: -2379277870924923365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sereno l\xE1mpara portada 1_21"
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 121
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc40032a80772cd0800000000000000
+      internalID: -2582972122678670086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sereno l\xE1mpara portada 1_22"
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 123
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd920cac282cb2e00800000000000000
+      internalID: 1021123607532677597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sereno l\xE1mpara portada 1_23"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 118
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbee4dd6f2b75adb0800000000000000
+      internalID: -4781279985747562820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sereno l\xE1mpara portada 1_24"
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 97
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956f95c1801860ed0800000000000000
+      internalID: -2448127475593906599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sereno l\xE1mpara portada 1_25"
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 108
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d28bd557aad2080800000000000000
+      internalID: -9210518241842549365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sereno l\xE1mpara portada 1_26"
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 63
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf44de6a6e5c72f0800000000000000
+      internalID: -973799608199917651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sereno l\xE1mpara portada 1_27"
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 90
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41872e3f64e6562b0800000000000000
+      internalID: -5591942111292131308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sereno l\xE1mpara portada 1_28"
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 51
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f868490c22e185fc0800000000000000
+      internalID: -3506019175299250545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sereno l\xE1mpara portada 1_29"
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 60
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c374fa379ff7cd4c0800000000000000
+      internalID: -4261390438034880708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sereno l\xE1mpara portada 1_30"
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 30
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff87be6a50a6a8750800000000000000
+      internalID: 6307970800593631487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sereno l\xE1mpara portada 1_31"
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 46
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aba56705c7071c70800000000000000
+      internalID: 8941624127981464487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sereno l\xE1mpara portada 1_32"
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 40
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3bcb8ac3f2f3e850800000000000000
+      internalID: 6405230223940111163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sereno l\xE1mpara portada 1_33"
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 11
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6cca905b655323d0800000000000000
+      internalID: -3232646188119700374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sereno l\xE1mpara portada 1_34"
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 0
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbfb4832678cd9350800000000000000
+      internalID: 6025192286219190203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Sereno l\xE1mpara portada 1_0": -3849815544471707792
+      "Sereno l\xE1mpara portada 1_1": 9158653610782574073
+      "Sereno l\xE1mpara portada 1_10": 1087255358437538460
+      "Sereno l\xE1mpara portada 1_11": 1223572184855909945
+      "Sereno l\xE1mpara portada 1_12": -974583196733648784
+      "Sereno l\xE1mpara portada 1_13": 4850162366549343435
+      "Sereno l\xE1mpara portada 1_14": 7188867906967435113
+      "Sereno l\xE1mpara portada 1_15": 5822390926337617884
+      "Sereno l\xE1mpara portada 1_16": -4402200218089033260
+      "Sereno l\xE1mpara portada 1_17": -8758637912002772991
+      "Sereno l\xE1mpara portada 1_18": 5212606124917527261
+      "Sereno l\xE1mpara portada 1_19": -2815115674302043999
+      "Sereno l\xE1mpara portada 1_2": 7732776852827398958
+      "Sereno l\xE1mpara portada 1_20": -2379277870924923365
+      "Sereno l\xE1mpara portada 1_21": -2582972122678670086
+      "Sereno l\xE1mpara portada 1_22": 1021123607532677597
+      "Sereno l\xE1mpara portada 1_23": -4781279985747562820
+      "Sereno l\xE1mpara portada 1_24": -2448127475593906599
+      "Sereno l\xE1mpara portada 1_25": -9210518241842549365
+      "Sereno l\xE1mpara portada 1_26": -973799608199917651
+      "Sereno l\xE1mpara portada 1_27": -5591942111292131308
+      "Sereno l\xE1mpara portada 1_28": -3506019175299250545
+      "Sereno l\xE1mpara portada 1_29": -4261390438034880708
+      "Sereno l\xE1mpara portada 1_3": 4149111122482456970
+      "Sereno l\xE1mpara portada 1_30": 6307970800593631487
+      "Sereno l\xE1mpara portada 1_31": 8941624127981464487
+      "Sereno l\xE1mpara portada 1_32": 6405230223940111163
+      "Sereno l\xE1mpara portada 1_33": -3232646188119700374
+      "Sereno l\xE1mpara portada 1_34": 6025192286219190203
+      "Sereno l\xE1mpara portada 1_4": -1948270250136991014
+      "Sereno l\xE1mpara portada 1_5": 492888581290641617
+      "Sereno l\xE1mpara portada 1_6": -2375278224261072842
+      "Sereno l\xE1mpara portada 1_7": 3157045944044886788
+      "Sereno l\xE1mpara portada 1_8": -4527614570629760496
+      "Sereno l\xE1mpara portada 1_9": -7120490427165939408
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
