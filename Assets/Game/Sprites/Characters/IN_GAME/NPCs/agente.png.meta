@@ -1,0 +1,743 @@
+fileFormatVersion: 2
+guid: eda111f67d8e6614ba8abf0de6403515
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8573093137507226030
+    second: agente_0
+  - first:
+      213: 4080375598076504279
+    second: agente_1
+  - first:
+      213: 1404099482913361322
+    second: agente_2
+  - first:
+      213: 4612208601704475533
+    second: agente_3
+  - first:
+      213: 8709255414602501032
+    second: agente_4
+  - first:
+      213: -7533041968142590789
+    second: agente_5
+  - first:
+      213: 4940768684800925365
+    second: agente_6
+  - first:
+      213: -1994999487619252229
+    second: agente_7
+  - first:
+      213: -8533441985449193119
+    second: agente_8
+  - first:
+      213: -4742847898407001490
+    second: agente_9
+  - first:
+      213: 3593321869541179960
+    second: agente_10
+  - first:
+      213: -5382310331128869050
+    second: agente_11
+  - first:
+      213: 4337425380934369003
+    second: agente_12
+  - first:
+      213: 8753541336552292020
+    second: agente_13
+  - first:
+      213: 4212891928350775403
+    second: agente_14
+  - first:
+      213: 6206688454362636139
+    second: agente_15
+  - first:
+      213: 6805611053426219890
+    second: agente_16
+  - first:
+      213: 3536987395819694541
+    second: agente_17
+  - first:
+      213: -2862541491097588687
+    second: agente_18
+  - first:
+      213: -6698727035060377704
+    second: agente_19
+  - first:
+      213: 3649449511348653261
+    second: agente_20
+  - first:
+      213: 6628149016158019841
+    second: agente_21
+  - first:
+      213: 4615672073839746155
+    second: agente_22
+  - first:
+      213: -5267443765972752455
+    second: agente_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 400
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: agente_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10368
+        width: 2480
+        height: 3456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25eea80b631460980800000000000000
+      internalID: -8573093137507226030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agente_1
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 10368
+        width: 2480
+        height: 3456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8a589dcf760a830800000000000000
+      internalID: 4080375598076504279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agente_2
+      rect:
+        serializedVersion: 2
+        x: 4960
+        y: 10368
+        width: 2480
+        height: 3456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad4c5c5a0d5c7310800000000000000
+      internalID: 1404099482913361322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agente_3
+      rect:
+        serializedVersion: 2
+        x: 7440
+        y: 10368
+        width: 2480
+        height: 3456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ba896694bd10040800000000000000
+      internalID: 4612208601704475533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agente_4
+      rect:
+        serializedVersion: 2
+        x: 9920
+        y: 10368
+        width: 2480
+        height: 3456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab878de7ad7dd870800000000000000
+      internalID: 8709255414602501032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agente_5
+      rect:
+        serializedVersion: 2
+        x: 12400
+        y: 10368
+        width: 2480
+        height: 3456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc50c2ed32457790800000000000000
+      internalID: -7533041968142590789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agente_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6912
+        width: 2480
+        height: 3456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bedee601f2219440800000000000000
+      internalID: 4940768684800925365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agente_7
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 6912
+        width: 2480
+        height: 3456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff3e5539865054e0800000000000000
+      internalID: -1994999487619252229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agente_8
+      rect:
+        serializedVersion: 2
+        x: 4960
+        y: 6912
+        width: 2480
+        height: 3456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16195e1f9bf139980800000000000000
+      internalID: -8533441985449193119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agente_9
+      rect:
+        serializedVersion: 2
+        x: 7440
+        y: 6912
+        width: 2480
+        height: 3456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e622ebf07f40e2eb0800000000000000
+      internalID: -4742847898407001490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agente_10
+      rect:
+        serializedVersion: 2
+        x: 9920
+        y: 6912
+        width: 2480
+        height: 3456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83205adb33b0ed130800000000000000
+      internalID: 3593321869541179960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agente_11
+      rect:
+        serializedVersion: 2
+        x: 12400
+        y: 6912
+        width: 2480
+        height: 3456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f062245413e45b0800000000000000
+      internalID: -5382310331128869050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agente_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3456
+        width: 2480
+        height: 3456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee3b5e3761a13c30800000000000000
+      internalID: 4337425380934369003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agente_13
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 3456
+        width: 2480
+        height: 3456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4beb5e3a773da7970800000000000000
+      internalID: 8753541336552292020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agente_14
+      rect:
+        serializedVersion: 2
+        x: 4960
+        y: 3456
+        width: 2480
+        height: 3456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68557253e2377a30800000000000000
+      internalID: 4212891928350775403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agente_15
+      rect:
+        serializedVersion: 2
+        x: 7440
+        y: 3456
+        width: 2480
+        height: 3456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f9dc9c346922650800000000000000
+      internalID: 6206688454362636139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agente_16
+      rect:
+        serializedVersion: 2
+        x: 9920
+        y: 3456
+        width: 2480
+        height: 3456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b11f60233627e50800000000000000
+      internalID: 6805611053426219890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agente_17
+      rect:
+        serializedVersion: 2
+        x: 12400
+        y: 3456
+        width: 2480
+        height: 3456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9edd6fb47e51130800000000000000
+      internalID: 3536987395819694541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agente_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2480
+        height: 3456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13caf442ea53648d0800000000000000
+      internalID: -2862541491097588687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agente_19
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 0
+        width: 2480
+        height: 3456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897abe3c0475903a0800000000000000
+      internalID: -6698727035060377704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agente_20
+      rect:
+        serializedVersion: 2
+        x: 4960
+        y: 0
+        width: 2480
+        height: 3456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dccc8a5bef275a230800000000000000
+      internalID: 3649449511348653261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agente_21
+      rect:
+        serializedVersion: 2
+        x: 7440
+        y: 0
+        width: 2480
+        height: 3456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101247aa96aebfb50800000000000000
+      internalID: 6628149016158019841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agente_22
+      rect:
+        serializedVersion: 2
+        x: 9920
+        y: 0
+        width: 2480
+        height: 3456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c98e8db492e0040800000000000000
+      internalID: 4615672073839746155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agente_23
+      rect:
+        serializedVersion: 2
+        x: 12400
+        y: 0
+        width: 2480
+        height: 3456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b729de8dc746e6b0800000000000000
+      internalID: -5267443765972752455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: fad5036ca17d89346bfa4672d6e62596
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":4.0},"gridSpriteSize":{"x":2480.0,"y":3456.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      agente_0: -8573093137507226030
+      agente_1: 4080375598076504279
+      agente_10: 3593321869541179960
+      agente_11: -5382310331128869050
+      agente_12: 4337425380934369003
+      agente_13: 8753541336552292020
+      agente_14: 4212891928350775403
+      agente_15: 6206688454362636139
+      agente_16: 6805611053426219890
+      agente_17: 3536987395819694541
+      agente_18: -2862541491097588687
+      agente_19: -6698727035060377704
+      agente_2: 1404099482913361322
+      agente_20: 3649449511348653261
+      agente_21: 6628149016158019841
+      agente_22: 4615672073839746155
+      agente_23: -5267443765972752455
+      agente_3: 4612208601704475533
+      agente_4: 8709255414602501032
+      agente_5: -7533041968142590789
+      agente_6: 4940768684800925365
+      agente_7: -1994999487619252229
+      agente_8: -8533441985449193119
+      agente_9: -4742847898407001490
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

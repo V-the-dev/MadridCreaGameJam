@@ -1,0 +1,322 @@
+fileFormatVersion: 2
+guid: f7c1bd6803553f04c8d8033a2ac3f8b9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5282198979707165562
+    second: perro_vivo_0
+  - first:
+      213: 5275804817336698271
+    second: perro_vivo_1
+  - first:
+      213: -7660291732503703322
+    second: perro_vivo_2
+  - first:
+      213: -3504391689565542639
+    second: perro_vivo_3
+  - first:
+      213: -9079158358786194907
+    second: perro_vivo_4
+  - first:
+      213: 1910844710380228218
+    second: perro_vivo_5
+  - first:
+      213: -765041660357714394
+    second: perro_vivo_6
+  - first:
+      213: -7184534176924389229
+    second: perro_vivo_7
+  - first:
+      213: -7759118740063728084
+    second: perro_vivo_8
+  - first:
+      213: 5028464824320024192
+    second: perro_vivo_9
+  - first:
+      213: 8083060129014209568
+    second: perro_vivo_10
+  - first:
+      213: 6230177588318306264
+    second: perro_vivo_11
+  - first:
+      213: 4037153208603053574
+    second: perro_vivo_12
+  - first:
+      213: -4033831629211211115
+    second: perro_vivo_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 500
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: perro_vivo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2814
+        width: 2480
+        height: 2814
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b506a5cf32e4940800000000000000
+      internalID: 5282198979707165562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perro_vivo_1
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 2814
+        width: 2480
+        height: 2814
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9506a9678c673940800000000000000
+      internalID: 5275804817336698271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perro_vivo_2
+      rect:
+        serializedVersion: 2
+        x: 4960
+        y: 2814
+        width: 2480
+        height: 2814
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e05148514d21b590800000000000000
+      internalID: -7660291732503703322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perro_vivo_3
+      rect:
+        serializedVersion: 2
+        x: 7440
+        y: 2814
+        width: 2480
+        height: 2814
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1176d9d4356ed5fc0800000000000000
+      internalID: -3504391689565542639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perro_vivo_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2480
+        height: 2814
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 522c70d7399500280800000000000000
+      internalID: -9079158358786194907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perro_vivo_5
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 0
+        width: 2480
+        height: 2814
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ec527d32fa48a10800000000000000
+      internalID: 1910844710380228218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perro_vivo_6
+      rect:
+        serializedVersion: 2
+        x: 4960
+        y: 0
+        width: 2480
+        height: 2814
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ed00cc9a60265f0800000000000000
+      internalID: -765041660357714394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6d36f9c7d70852b41bb5456b505b90e1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":2.0},"gridSpriteSize":{"x":2480.0,"y":2814.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      perro_vivo_0: 5282198979707165562
+      perro_vivo_1: 5275804817336698271
+      perro_vivo_2: -7660291732503703322
+      perro_vivo_3: -3504391689565542639
+      perro_vivo_4: -9079158358786194907
+      perro_vivo_5: 1910844710380228218
+      perro_vivo_6: -765041660357714394
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

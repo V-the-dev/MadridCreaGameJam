@@ -446,28 +446,6 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: Fugitivo_14
-      rect:
-        serializedVersion: 2
-        x: 7680
-        y: 0
-        width: 1920
-        height: 1920
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ddaafccfa58ebfa4085c80e91a2ca862
-      internalID: 1130103034
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []

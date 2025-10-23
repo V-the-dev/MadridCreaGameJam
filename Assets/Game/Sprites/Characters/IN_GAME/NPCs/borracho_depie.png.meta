@@ -1,0 +1,1677 @@
+fileFormatVersion: 2
+guid: 50a1ae0f5b3d2684aa1fb69478431437
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3185044874969957577
+    second: borracho_depie_0
+  - first:
+      213: -931867762261796101
+    second: borracho_depie_1
+  - first:
+      213: 7574701537109369319
+    second: borracho_depie_2
+  - first:
+      213: 9062019098155054781
+    second: borracho_depie_3
+  - first:
+      213: 7597782410844552947
+    second: borracho_depie_4
+  - first:
+      213: 448139775886484734
+    second: borracho_depie_5
+  - first:
+      213: 6081436636501381626
+    second: borracho_depie_6
+  - first:
+      213: -4714168152839619629
+    second: borracho_depie_7
+  - first:
+      213: 4184927792061138771
+    second: borracho_depie_8
+  - first:
+      213: -532637618621900431
+    second: borracho_depie_9
+  - first:
+      213: 8665838800383998092
+    second: borracho_depie_10
+  - first:
+      213: 2724231762515645281
+    second: borracho_depie_11
+  - first:
+      213: 444782199860223699
+    second: borracho_depie_12
+  - first:
+      213: -2722531303623266618
+    second: borracho_depie_13
+  - first:
+      213: 1839660679558153670
+    second: borracho_depie_14
+  - first:
+      213: 3842737547127796299
+    second: borracho_depie_15
+  - first:
+      213: 2531065614023144557
+    second: borracho_depie_16
+  - first:
+      213: -159243984990719848
+    second: borracho_depie_17
+  - first:
+      213: 432937183110508350
+    second: borracho_depie_18
+  - first:
+      213: -5742623287950376319
+    second: borracho_depie_19
+  - first:
+      213: 2332334245352608704
+    second: borracho_depie_20
+  - first:
+      213: 6095977126884505680
+    second: borracho_depie_21
+  - first:
+      213: 7871671713422695706
+    second: borracho_depie_22
+  - first:
+      213: -2858780783593430271
+    second: borracho_depie_23
+  - first:
+      213: 8640469539292355644
+    second: borracho_depie_24
+  - first:
+      213: -6781100939492934291
+    second: borracho_depie_25
+  - first:
+      213: 7466374368640833951
+    second: borracho_depie_26
+  - first:
+      213: 5291206436363464277
+    second: borracho_depie_27
+  - first:
+      213: 2857662710130126437
+    second: borracho_depie_28
+  - first:
+      213: 8705048008593282602
+    second: borracho_depie_29
+  - first:
+      213: 1752514113921031070
+    second: borracho_depie_30
+  - first:
+      213: -1076462805489529706
+    second: borracho_depie_31
+  - first:
+      213: -3425918910058673990
+    second: borracho_depie_32
+  - first:
+      213: 840485057740814392
+    second: borracho_depie_33
+  - first:
+      213: -8212553269346083058
+    second: borracho_depie_34
+  - first:
+      213: 1461926493693083734
+    second: borracho_depie_35
+  - first:
+      213: 2995090118955473870
+    second: borracho_depie_36
+  - first:
+      213: 8433825106940254948
+    second: borracho_depie_37
+  - first:
+      213: 3153264705293144706
+    second: borracho_depie_38
+  - first:
+      213: 6199962060997654479
+    second: borracho_depie_39
+  - first:
+      213: 1487310122573760466
+    second: borracho_depie_40
+  - first:
+      213: -2763925790637876374
+    second: borracho_depie_41
+  - first:
+      213: -3555936400616172504
+    second: borracho_depie_42
+  - first:
+      213: -4127431248180170910
+    second: borracho_depie_43
+  - first:
+      213: 6986951135991285367
+    second: borracho_depie_44
+  - first:
+      213: -7594200639954094068
+    second: borracho_depie_45
+  - first:
+      213: -430308693887511352
+    second: borracho_depie_46
+  - first:
+      213: 8578632139028848992
+    second: borracho_depie_47
+  - first:
+      213: -7331452841816373140
+    second: borracho_depie_48
+  - first:
+      213: -5217194688964336417
+    second: borracho_depie_49
+  - first:
+      213: 3569834722922109722
+    second: borracho_depie_50
+  - first:
+      213: -6306739042584811329
+    second: borracho_depie_51
+  - first:
+      213: 2775833523271644628
+    second: borracho_depie_52
+  - first:
+      213: 7356857593815737334
+    second: borracho_depie_53
+  - first:
+      213: 8723864372718290520
+    second: borracho_depie_54
+  - first:
+      213: -7156779906096831560
+    second: borracho_depie_55
+  - first:
+      213: -3047546373566267218
+    second: borracho_depie_56
+  - first:
+      213: 7399632309108017550
+    second: borracho_depie_57
+  - first:
+      213: 65874197626413902
+    second: borracho_depie_58
+  - first:
+      213: -2658025244219754777
+    second: borracho_depie_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: borracho_depie_0
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 9697
+        width: 1280
+        height: 2958
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c4434e407d833c20800000000000000
+      internalID: 3185044874969957577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: borracho_depie_1
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 10064
+        width: 172
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa5fbc15375113f0800000000000000
+      internalID: -931867762261796101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: borracho_depie_2
+      rect:
+        serializedVersion: 2
+        x: 3031
+        y: 9697
+        width: 1275
+        height: 2965
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1620f5aeebe1960800000000000000
+      internalID: 7574701537109369319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: borracho_depie_3
+      rect:
+        serializedVersion: 2
+        x: 4241
+        y: 10064
+        width: 172
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db6765d6b52c2cd70800000000000000
+      internalID: 9062019098155054781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: borracho_depie_4
+      rect:
+        serializedVersion: 2
+        x: 5511
+        y: 9697
+        width: 1276
+        height: 2966
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3feb91f09deb07960800000000000000
+      internalID: 7597782410844552947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: borracho_depie_5
+      rect:
+        serializedVersion: 2
+        x: 6721
+        y: 10064
+        width: 172
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4ef6770cc183600800000000000000
+      internalID: 448139775886484734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: borracho_depie_6
+      rect:
+        serializedVersion: 2
+        x: 7993
+        y: 9697
+        width: 1276
+        height: 2974
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af116ba666a956450800000000000000
+      internalID: 6081436636501381626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: borracho_depie_7
+      rect:
+        serializedVersion: 2
+        x: 9201
+        y: 10064
+        width: 172
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dbf88eaa09e39eb0800000000000000
+      internalID: -4714168152839619629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: borracho_depie_8
+      rect:
+        serializedVersion: 2
+        x: 10476
+        y: 9697
+        width: 1279
+        height: 2969
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357c67877a9d31a30800000000000000
+      internalID: 4184927792061138771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: borracho_depie_9
+      rect:
+        serializedVersion: 2
+        x: 11681
+        y: 10064
+        width: 172
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 179180c68e0bb98f0800000000000000
+      internalID: -532637618621900431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: borracho_depie_10
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 9575
+        width: 378
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c887fa1b97e334870800000000000000
+      internalID: 8665838800383998092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: borracho_depie_11
+      rect:
+        serializedVersion: 2
+        x: 4058
+        y: 9575
+        width: 378
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 163d49aba5a6ec520800000000000000
+      internalID: 2724231762515645281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: borracho_depie_12
+      rect:
+        serializedVersion: 2
+        x: 6538
+        y: 9575
+        width: 378
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ded511ed0f2c2600800000000000000
+      internalID: 444782199860223699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: borracho_depie_13
+      rect:
+        serializedVersion: 2
+        x: 9018
+        y: 9575
+        width: 378
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce67a53430a73ad0800000000000000
+      internalID: -2722531303623266618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: borracho_depie_14
+      rect:
+        serializedVersion: 2
+        x: 11498
+        y: 9575
+        width: 378
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c5415024a9c78910800000000000000
+      internalID: 1839660679558153670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: borracho_depie_15
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 6515
+        width: 1278
+        height: 2962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42bb9d7075245530800000000000000
+      internalID: 3842737547127796299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: borracho_depie_16
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 6882
+        width: 172
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d643e0b04c6202320800000000000000
+      internalID: 2531065614023144557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: borracho_depie_17
+      rect:
+        serializedVersion: 2
+        x: 3034
+        y: 6515
+        width: 1276
+        height: 2950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890b20a70704acdf0800000000000000
+      internalID: -159243984990719848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: borracho_depie_18
+      rect:
+        serializedVersion: 2
+        x: 4241
+        y: 6882
+        width: 172
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f2c51031a120600800000000000000
+      internalID: 432937183110508350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: borracho_depie_19
+      rect:
+        serializedVersion: 2
+        x: 5513
+        y: 6515
+        width: 1275
+        height: 2937
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18205da9b8a1e40b0800000000000000
+      internalID: -5742623287950376319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: borracho_depie_20
+      rect:
+        serializedVersion: 2
+        x: 6721
+        y: 6882
+        width: 172
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c398bf83ad1e5020800000000000000
+      internalID: 2332334245352608704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: borracho_depie_21
+      rect:
+        serializedVersion: 2
+        x: 7993
+        y: 6515
+        width: 1275
+        height: 2937
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0587bd626e2499450800000000000000
+      internalID: 6095977126884505680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: borracho_depie_22
+      rect:
+        serializedVersion: 2
+        x: 9201
+        y: 6882
+        width: 172
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ddc0ba7bbcd3d60800000000000000
+      internalID: 7871671713422695706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: borracho_depie_23
+      rect:
+        serializedVersion: 2
+        x: 10473
+        y: 6515
+        width: 1275
+        height: 2937
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103633716029358d0800000000000000
+      internalID: -2858780783593430271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: borracho_depie_24
+      rect:
+        serializedVersion: 2
+        x: 11681
+        y: 6882
+        width: 172
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c9a1e444d19e770800000000000000
+      internalID: 8640469539292355644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: borracho_depie_25
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 6393
+        width: 378
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6db4739f90b4e1a0800000000000000
+      internalID: -6781100939492934291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: borracho_depie_26
+      rect:
+        serializedVersion: 2
+        x: 4058
+        y: 6393
+        width: 378
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f991be20ee3ed9760800000000000000
+      internalID: 7466374368640833951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: borracho_depie_27
+      rect:
+        serializedVersion: 2
+        x: 6538
+        y: 6393
+        width: 378
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e64b848342e6940800000000000000
+      internalID: 5291206436363464277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: borracho_depie_28
+      rect:
+        serializedVersion: 2
+        x: 9018
+        y: 6393
+        width: 378
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56eaf25281578a720800000000000000
+      internalID: 2857662710130126437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: borracho_depie_29
+      rect:
+        serializedVersion: 2
+        x: 11498
+        y: 6393
+        width: 378
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a269ce0ea0b8ec870800000000000000
+      internalID: 8705048008593282602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: borracho_depie_30
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 3333
+        width: 1275
+        height: 2937
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b1f182d4e225810800000000000000
+      internalID: 1752514113921031070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: borracho_depie_31
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 3700
+        width: 172
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c40e028c2af01f0800000000000000
+      internalID: -1076462805489529706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: borracho_depie_32
+      rect:
+        serializedVersion: 2
+        x: 3033
+        y: 3333
+        width: 1275
+        height: 2937
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8c8a017e0b470d0800000000000000
+      internalID: -3425918910058673990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: borracho_depie_33
+      rect:
+        serializedVersion: 2
+        x: 4241
+        y: 3700
+        width: 172
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8383aa9f4b00aab00800000000000000
+      internalID: 840485057740814392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: borracho_depie_34
+      rect:
+        serializedVersion: 2
+        x: 5515
+        y: 3333
+        width: 1276
+        height: 2965
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f57a14056270e80800000000000000
+      internalID: -8212553269346083058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: borracho_depie_35
+      rect:
+        serializedVersion: 2
+        x: 6721
+        y: 3700
+        width: 172
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6500f40866ec94410800000000000000
+      internalID: 1461926493693083734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: borracho_depie_36
+      rect:
+        serializedVersion: 2
+        x: 7990
+        y: 3333
+        width: 1280
+        height: 2969
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb9f923892b09920800000000000000
+      internalID: 2995090118955473870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: borracho_depie_37
+      rect:
+        serializedVersion: 2
+        x: 9201
+        y: 3700
+        width: 172
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ead1fc1047fa0570800000000000000
+      internalID: 8433825106940254948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: borracho_depie_38
+      rect:
+        serializedVersion: 2
+        x: 10470
+        y: 3333
+        width: 1280
+        height: 2958
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28256c1fa85a2cb20800000000000000
+      internalID: 3153264705293144706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: borracho_depie_39
+      rect:
+        serializedVersion: 2
+        x: 11681
+        y: 3700
+        width: 172
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc7f9aa45a0ba0650800000000000000
+      internalID: 6199962060997654479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: borracho_depie_40
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 3211
+        width: 378
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d70ad62dacf3a410800000000000000
+      internalID: 1487310122573760466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: borracho_depie_41
+      rect:
+        serializedVersion: 2
+        x: 4058
+        y: 3211
+        width: 378
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b1d77232094a9d0800000000000000
+      internalID: -2763925790637876374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: borracho_depie_42
+      rect:
+        serializedVersion: 2
+        x: 6538
+        y: 3211
+        width: 378
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824546d0fa6c6aec0800000000000000
+      internalID: -3555936400616172504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: borracho_depie_43
+      rect:
+        serializedVersion: 2
+        x: 9018
+        y: 3211
+        width: 378
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26faf59d52b68b6c0800000000000000
+      internalID: -4127431248180170910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: borracho_depie_44
+      rect:
+        serializedVersion: 2
+        x: 11498
+        y: 3211
+        width: 378
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776c5cb2a03a6f060800000000000000
+      internalID: 6986951135991285367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: borracho_depie_45
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 151
+        width: 1280
+        height: 2958
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08fd76f0cafb9690800000000000000
+      internalID: -7594200639954094068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: borracho_depie_46
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 518
+        width: 172
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c49215d58c370af0800000000000000
+      internalID: -430308693887511352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: borracho_depie_47
+      rect:
+        serializedVersion: 2
+        x: 3030
+        y: 151
+        width: 1280
+        height: 2958
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06160999a7c6d0770800000000000000
+      internalID: 8578632139028848992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: borracho_depie_48
+      rect:
+        serializedVersion: 2
+        x: 4241
+        y: 518
+        width: 172
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c68c10ceb72714a90800000000000000
+      internalID: -7331452841816373140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: borracho_depie_49
+      rect:
+        serializedVersion: 2
+        x: 5510
+        y: 151
+        width: 1280
+        height: 2958
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4e930821dc897b0800000000000000
+      internalID: -5217194688964336417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: borracho_depie_50
+      rect:
+        serializedVersion: 2
+        x: 6721
+        y: 518
+        width: 172
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b90a644c99a8130800000000000000
+      internalID: 3569834722922109722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: borracho_depie_51
+      rect:
+        serializedVersion: 2
+        x: 7990
+        y: 151
+        width: 1280
+        height: 2958
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb825ab5146f978a0800000000000000
+      internalID: -6306739042584811329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: borracho_depie_52
+      rect:
+        serializedVersion: 2
+        x: 9201
+        y: 518
+        width: 172
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d53a36e1edb58620800000000000000
+      internalID: 2775833523271644628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: borracho_depie_53
+      rect:
+        serializedVersion: 2
+        x: 10470
+        y: 151
+        width: 1280
+        height: 2958
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3a586d00fc81660800000000000000
+      internalID: 7356857593815737334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: borracho_depie_54
+      rect:
+        serializedVersion: 2
+        x: 11681
+        y: 518
+        width: 172
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8564f8c0d64611970800000000000000
+      internalID: 8723864372718290520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: borracho_depie_55
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 29
+        width: 378
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3e179f7920eac90800000000000000
+      internalID: -7156779906096831560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: borracho_depie_56
+      rect:
+        serializedVersion: 2
+        x: 4058
+        y: 29
+        width: 378
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea08d0748b0f4b5d0800000000000000
+      internalID: -3047546373566267218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: borracho_depie_57
+      rect:
+        serializedVersion: 2
+        x: 6538
+        y: 29
+        width: 378
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8903e45166c0b660800000000000000
+      internalID: 7399632309108017550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: borracho_depie_58
+      rect:
+        serializedVersion: 2
+        x: 9018
+        y: 29
+        width: 378
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e43e265db380ae000800000000000000
+      internalID: 65874197626413902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: borracho_depie_59
+      rect:
+        serializedVersion: 2
+        x: 11498
+        y: 29
+        width: 378
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e6b24a8f1ccc1bd0800000000000000
+      internalID: -2658025244219754777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      borracho_depie_0: 3185044874969957577
+      borracho_depie_1: -931867762261796101
+      borracho_depie_10: 8665838800383998092
+      borracho_depie_11: 2724231762515645281
+      borracho_depie_12: 444782199860223699
+      borracho_depie_13: -2722531303623266618
+      borracho_depie_14: 1839660679558153670
+      borracho_depie_15: 3842737547127796299
+      borracho_depie_16: 2531065614023144557
+      borracho_depie_17: -159243984990719848
+      borracho_depie_18: 432937183110508350
+      borracho_depie_19: -5742623287950376319
+      borracho_depie_2: 7574701537109369319
+      borracho_depie_20: 2332334245352608704
+      borracho_depie_21: 6095977126884505680
+      borracho_depie_22: 7871671713422695706
+      borracho_depie_23: -2858780783593430271
+      borracho_depie_24: 8640469539292355644
+      borracho_depie_25: -6781100939492934291
+      borracho_depie_26: 7466374368640833951
+      borracho_depie_27: 5291206436363464277
+      borracho_depie_28: 2857662710130126437
+      borracho_depie_29: 8705048008593282602
+      borracho_depie_3: 9062019098155054781
+      borracho_depie_30: 1752514113921031070
+      borracho_depie_31: -1076462805489529706
+      borracho_depie_32: -3425918910058673990
+      borracho_depie_33: 840485057740814392
+      borracho_depie_34: -8212553269346083058
+      borracho_depie_35: 1461926493693083734
+      borracho_depie_36: 2995090118955473870
+      borracho_depie_37: 8433825106940254948
+      borracho_depie_38: 3153264705293144706
+      borracho_depie_39: 6199962060997654479
+      borracho_depie_4: 7597782410844552947
+      borracho_depie_40: 1487310122573760466
+      borracho_depie_41: -2763925790637876374
+      borracho_depie_42: -3555936400616172504
+      borracho_depie_43: -4127431248180170910
+      borracho_depie_44: 6986951135991285367
+      borracho_depie_45: -7594200639954094068
+      borracho_depie_46: -430308693887511352
+      borracho_depie_47: 8578632139028848992
+      borracho_depie_48: -7331452841816373140
+      borracho_depie_49: -5217194688964336417
+      borracho_depie_5: 448139775886484734
+      borracho_depie_50: 3569834722922109722
+      borracho_depie_51: -6306739042584811329
+      borracho_depie_52: 2775833523271644628
+      borracho_depie_53: 7356857593815737334
+      borracho_depie_54: 8723864372718290520
+      borracho_depie_55: -7156779906096831560
+      borracho_depie_56: -3047546373566267218
+      borracho_depie_57: 7399632309108017550
+      borracho_depie_58: 65874197626413902
+      borracho_depie_59: -2658025244219754777
+      borracho_depie_6: 6081436636501381626
+      borracho_depie_7: -4714168152839619629
+      borracho_depie_8: 4184927792061138771
+      borracho_depie_9: -532637618621900431
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

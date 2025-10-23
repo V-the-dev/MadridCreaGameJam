@@ -1,0 +1,509 @@
+fileFormatVersion: 2
+guid: be7df10d526c6bc4cbc7a30e4d1fed88
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5524473740377097280
+    second: mentor_0
+  - first:
+      213: -470726428532650115
+    second: mentor_1
+  - first:
+      213: 8995320611001868409
+    second: mentor_2
+  - first:
+      213: 761293942160550511
+    second: mentor_3
+  - first:
+      213: 2334178452620563968
+    second: mentor_4
+  - first:
+      213: -3532673211346284874
+    second: mentor_5
+  - first:
+      213: 4000610938692711072
+    second: mentor_6
+  - first:
+      213: 3981095266942040874
+    second: mentor_7
+  - first:
+      213: -4654539138295888180
+    second: mentor_8
+  - first:
+      213: 5886723602338441126
+    second: mentor_9
+  - first:
+      213: 7793472734327558737
+    second: mentor_10
+  - first:
+      213: -1241857252058140143
+    second: mentor_11
+  - first:
+      213: 216075384778917494
+    second: mentor_12
+  - first:
+      213: 5813364369807440908
+    second: mentor_13
+  - first:
+      213: -2528644794480049604
+    second: mentor_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 400
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mentor_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4420
+        width: 2130
+        height: 2210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0448622d89fdaac40800000000000000
+      internalID: 5524473740377097280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mentor_1
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 4420
+        width: 2130
+        height: 2210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f4ce8aec4a779f0800000000000000
+      internalID: -470726428532650115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mentor_2
+      rect:
+        serializedVersion: 2
+        x: 4260
+        y: 4420
+        width: 2130
+        height: 2210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970248bbf6cc5dc70800000000000000
+      internalID: 8995320611001868409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mentor_3
+      rect:
+        serializedVersion: 2
+        x: 6390
+        y: 4420
+        width: 2130
+        height: 2210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ae2209ec8a09a00800000000000000
+      internalID: 761293942160550511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mentor_4
+      rect:
+        serializedVersion: 2
+        x: 8520
+        y: 4420
+        width: 2130
+        height: 2210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006d1d68feaa46020800000000000000
+      internalID: 2334178452620563968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mentor_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2210
+        width: 2130
+        height: 2210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be8a226e6c69fec0800000000000000
+      internalID: -3532673211346284874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mentor_6
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 2210
+        width: 2130
+        height: 2210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a2325dd376058730800000000000000
+      internalID: 4000610938692711072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mentor_7
+      rect:
+        serializedVersion: 2
+        x: 4260
+        y: 2210
+        width: 2130
+        height: 2210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2bb1137d01bf3730800000000000000
+      internalID: 3981095266942040874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mentor_8
+      rect:
+        serializedVersion: 2
+        x: 6390
+        y: 2210
+        width: 2130
+        height: 2210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc688b48051c76fb0800000000000000
+      internalID: -4654539138295888180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mentor_9
+      rect:
+        serializedVersion: 2
+        x: 8520
+        y: 2210
+        width: 2130
+        height: 2210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a76a485de7d1b150800000000000000
+      internalID: 5886723602338441126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mentor_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2130
+        height: 2210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1525948092af72c60800000000000000
+      internalID: 7793472734327558737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mentor_11
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 0
+        width: 2130
+        height: 2210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 112f45da86904cee0800000000000000
+      internalID: -1241857252058140143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mentor_12
+      rect:
+        serializedVersion: 2
+        x: 4260
+        y: 0
+        width: 2130
+        height: 2210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676047aea67aff200800000000000000
+      internalID: 216075384778917494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mentor_13
+      rect:
+        serializedVersion: 2
+        x: 6390
+        y: 0
+        width: 2130
+        height: 2210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0cf84408183da050800000000000000
+      internalID: 5813364369807440908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mentor_14
+      rect:
+        serializedVersion: 2
+        x: 8520
+        y: 0
+        width: 2130
+        height: 2210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3240ede4f278ecd0800000000000000
+      internalID: -2528644794480049604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3e96196e2a32af9429ee1b8e0d02f231
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":3.0},"gridSpriteSize":{"x":2130.0,"y":2210.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      mentor_0: 5524473740377097280
+      mentor_1: -470726428532650115
+      mentor_10: 7793472734327558737
+      mentor_11: -1241857252058140143
+      mentor_12: 216075384778917494
+      mentor_13: 5813364369807440908
+      mentor_14: -2528644794480049604
+      mentor_2: 8995320611001868409
+      mentor_3: 761293942160550511
+      mentor_4: 2334178452620563968
+      mentor_5: -3532673211346284874
+      mentor_6: 4000610938692711072
+      mentor_7: 3981095266942040874
+      mentor_8: -4654539138295888180
+      mentor_9: 5886723602338441126
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1055 @@
+fileFormatVersion: 2
+guid: 361eb9a102144764bb1b805de2e9cef6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6452301303937717245
+    second: padreharo_0
+  - first:
+      213: 7032384685759369720
+    second: padreharo_1
+  - first:
+      213: 1416617048761101027
+    second: padreharo_2
+  - first:
+      213: 2636049393753520272
+    second: padreharo_3
+  - first:
+      213: 4590758632996324293
+    second: padreharo_4
+  - first:
+      213: 3753008391382782200
+    second: padreharo_5
+  - first:
+      213: -2292299436248381565
+    second: padreharo_6
+  - first:
+      213: 7657896861740144643
+    second: padreharo_7
+  - first:
+      213: -3754660180747861340
+    second: padreharo_8
+  - first:
+      213: -323829503370449072
+    second: padreharo_9
+  - first:
+      213: 4311837036690634742
+    second: padreharo_10
+  - first:
+      213: -4056537058992128971
+    second: padreharo_11
+  - first:
+      213: 6213463142646133496
+    second: padreharo_12
+  - first:
+      213: -3335446939579066946
+    second: padreharo_13
+  - first:
+      213: 4457701320255208761
+    second: padreharo_14
+  - first:
+      213: -7684188886360743501
+    second: padreharo_15
+  - first:
+      213: -8579075635471958064
+    second: padreharo_16
+  - first:
+      213: -2983445789215652673
+    second: padreharo_17
+  - first:
+      213: 2058638916249804301
+    second: padreharo_18
+  - first:
+      213: -4252563062204589995
+    second: padreharo_19
+  - first:
+      213: 2286663801239938518
+    second: padreharo_20
+  - first:
+      213: 2576468184722956543
+    second: padreharo_21
+  - first:
+      213: 978479673177554457
+    second: padreharo_22
+  - first:
+      213: 1520301112678871230
+    second: padreharo_23
+  - first:
+      213: -7412632160421920219
+    second: padreharo_24
+  - first:
+      213: 8832084832740757806
+    second: padreharo_25
+  - first:
+      213: -4464359953156603947
+    second: padreharo_26
+  - first:
+      213: -4332986455574211900
+    second: padreharo_27
+  - first:
+      213: -818253615735239429
+    second: padreharo_28
+  - first:
+      213: 1989079759399021756
+    second: padreharo_29
+  - first:
+      213: 5177824431182052067
+    second: padreharo_30
+  - first:
+      213: -1377750606081023411
+    second: padreharo_31
+  - first:
+      213: 2506335511609443551
+    second: padreharo_32
+  - first:
+      213: -648910921017932257
+    second: padreharo_33
+  - first:
+      213: -2833545355347623331
+    second: padreharo_34
+  - first:
+      213: 6790753664282965851
+    second: padreharo_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 400
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: padreharo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13160
+        width: 2480
+        height: 2632
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df35ff4a9dd2b8950800000000000000
+      internalID: 6452301303937717245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: padreharo_1
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 13160
+        width: 2480
+        height: 2632
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1959ecc9c089160800000000000000
+      internalID: 7032384685759369720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: padreharo_2
+      rect:
+        serializedVersion: 2
+        x: 4960
+        y: 13160
+        width: 2480
+        height: 2632
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eaea2643b5d8a310800000000000000
+      internalID: 1416617048761101027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: padreharo_3
+      rect:
+        serializedVersion: 2
+        x: 7440
+        y: 13160
+        width: 2480
+        height: 2632
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 098ff0d05f0259420800000000000000
+      internalID: 2636049393753520272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: padreharo_4
+      rect:
+        serializedVersion: 2
+        x: 9920
+        y: 13160
+        width: 2480
+        height: 2632
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c3cd4167a6a5bf30800000000000000
+      internalID: 4590758632996324293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: padreharo_5
+      rect:
+        serializedVersion: 2
+        x: 12400
+        y: 13160
+        width: 2480
+        height: 2632
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f05e676f3d551430800000000000000
+      internalID: 3753008391382782200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: padreharo_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10528
+        width: 2480
+        height: 2632
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 387469fcecd1030e0800000000000000
+      internalID: -2292299436248381565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: padreharo_7
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 10528
+        width: 2480
+        height: 2632
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308999a5f90564a60800000000000000
+      internalID: 7657896861740144643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: padreharo_8
+      rect:
+        serializedVersion: 2
+        x: 4960
+        y: 10528
+        width: 2480
+        height: 2632
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a2483a6574c4ebc0800000000000000
+      internalID: -3754660180747861340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: padreharo_9
+      rect:
+        serializedVersion: 2
+        x: 7440
+        y: 10528
+        width: 2480
+        height: 2632
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f20db48c6818bf0800000000000000
+      internalID: -323829503370449072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: padreharo_10
+      rect:
+        serializedVersion: 2
+        x: 9920
+        y: 10528
+        width: 2480
+        height: 2632
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f7715590f8b6db30800000000000000
+      internalID: 4311837036690634742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: padreharo_11
+      rect:
+        serializedVersion: 2
+        x: 12400
+        y: 10528
+        width: 2480
+        height: 2632
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53cf09c890944b7c0800000000000000
+      internalID: -4056537058992128971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: padreharo_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7896
+        width: 2480
+        height: 2632
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f2b762dec7aa3650800000000000000
+      internalID: 6213463142646133496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: padreharo_13
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 7896
+        width: 2480
+        height: 2632
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5d93f2eac16b1d0800000000000000
+      internalID: -3335446939579066946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: padreharo_14
+      rect:
+        serializedVersion: 2
+        x: 4960
+        y: 7896
+        width: 2480
+        height: 2632
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93df99c9bbfecdd30800000000000000
+      internalID: 4457701320255208761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: padreharo_15
+      rect:
+        serializedVersion: 2
+        x: 7440
+        y: 7896
+        width: 2480
+        height: 2632
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1a671abe64c5590800000000000000
+      internalID: -7684188886360743501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: padreharo_16
+      rect:
+        serializedVersion: 2
+        x: 9920
+        y: 7896
+        width: 2480
+        height: 2632
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df3c76d92001f880800000000000000
+      internalID: -8579075635471958064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: padreharo_17
+      rect:
+        serializedVersion: 2
+        x: 12400
+        y: 7896
+        width: 2480
+        height: 2632
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb48a279cdba896d0800000000000000
+      internalID: -2983445789215652673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: padreharo_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5264
+        width: 2480
+        height: 2632
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e5ddbef21c19c10800000000000000
+      internalID: 2058638916249804301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: padreharo_19
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 5264
+        width: 2480
+        height: 2632
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558195c0d6cdbf4c0800000000000000
+      internalID: -4252563062204589995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: padreharo_20
+      rect:
+        serializedVersion: 2
+        x: 4960
+        y: 5264
+        width: 2480
+        height: 2632
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d5a6a9ac9cdbbf10800000000000000
+      internalID: 2286663801239938518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: padreharo_21
+      rect:
+        serializedVersion: 2
+        x: 7440
+        y: 5264
+        width: 2480
+        height: 2632
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0e18dc92471c320800000000000000
+      internalID: 2576468184722956543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: padreharo_22
+      rect:
+        serializedVersion: 2
+        x: 9920
+        y: 5264
+        width: 2480
+        height: 2632
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e30bb1412449d00800000000000000
+      internalID: 978479673177554457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: padreharo_23
+      rect:
+        serializedVersion: 2
+        x: 12400
+        y: 5264
+        width: 2480
+        height: 2632
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb0fadc9ec1391510800000000000000
+      internalID: 1520301112678871230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: padreharo_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2632
+        width: 2480
+        height: 2632
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5224a6be25a012990800000000000000
+      internalID: -7412632160421920219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: padreharo_25
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 2632
+        width: 2480
+        height: 2632
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21d0a96c5ed19a70800000000000000
+      internalID: 8832084832740757806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: padreharo_26
+      rect:
+        serializedVersion: 2
+        x: 4960
+        y: 2632
+        width: 2480
+        height: 2632
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dffe9a96486b02c0800000000000000
+      internalID: -4464359953156603947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: padreharo_27
+      rect:
+        serializedVersion: 2
+        x: 7440
+        y: 2632
+        width: 2480
+        height: 2632
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c29bea96c32ed3c0800000000000000
+      internalID: -4332986455574211900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: padreharo_28
+      rect:
+        serializedVersion: 2
+        x: 9920
+        y: 2632
+        width: 2480
+        height: 2632
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc0ce9fbaaf4a4f0800000000000000
+      internalID: -818253615735239429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: padreharo_29
+      rect:
+        serializedVersion: 2
+        x: 12400
+        y: 2632
+        width: 2480
+        height: 2632
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbce5e8a081aa9b10800000000000000
+      internalID: 1989079759399021756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: padreharo_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2480
+        height: 2632
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eaf1f903e35bd740800000000000000
+      internalID: 5177824431182052067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: padreharo_31
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 0
+        width: 2480
+        height: 2632
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4226779f1f31ece0800000000000000
+      internalID: -1377750606081023411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: padreharo_32
+      rect:
+        serializedVersion: 2
+        x: 4960
+        y: 0
+        width: 2480
+        height: 2632
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd48d616eda48c220800000000000000
+      internalID: 2506335511609443551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: padreharo_33
+      rect:
+        serializedVersion: 2
+        x: 7440
+        y: 0
+        width: 2480
+        height: 2632
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f16cad594fa9ef6f0800000000000000
+      internalID: -648910921017932257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: padreharo_34
+      rect:
+        serializedVersion: 2
+        x: 9920
+        y: 0
+        width: 2480
+        height: 2632
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d520c8713893da8d0800000000000000
+      internalID: -2833545355347623331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: padreharo_35
+      rect:
+        serializedVersion: 2
+        x: 12400
+        y: 0
+        width: 2480
+        height: 2632
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57b4cc8a7a9d3e50800000000000000
+      internalID: 6790753664282965851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7025af077e203c147a5f0497b3fc6fd6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":6.0},"gridSpriteSize":{"x":2480.0,"y":2632.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      padreharo_0: 6452301303937717245
+      padreharo_1: 7032384685759369720
+      padreharo_10: 4311837036690634742
+      padreharo_11: -4056537058992128971
+      padreharo_12: 6213463142646133496
+      padreharo_13: -3335446939579066946
+      padreharo_14: 4457701320255208761
+      padreharo_15: -7684188886360743501
+      padreharo_16: -8579075635471958064
+      padreharo_17: -2983445789215652673
+      padreharo_18: 2058638916249804301
+      padreharo_19: -4252563062204589995
+      padreharo_2: 1416617048761101027
+      padreharo_20: 2286663801239938518
+      padreharo_21: 2576468184722956543
+      padreharo_22: 978479673177554457
+      padreharo_23: 1520301112678871230
+      padreharo_24: -7412632160421920219
+      padreharo_25: 8832084832740757806
+      padreharo_26: -4464359953156603947
+      padreharo_27: -4332986455574211900
+      padreharo_28: -818253615735239429
+      padreharo_29: 1989079759399021756
+      padreharo_3: 2636049393753520272
+      padreharo_30: 5177824431182052067
+      padreharo_31: -1377750606081023411
+      padreharo_32: 2506335511609443551
+      padreharo_33: -648910921017932257
+      padreharo_34: -2833545355347623331
+      padreharo_35: 6790753664282965851
+      padreharo_4: 4590758632996324293
+      padreharo_5: 3753008391382782200
+      padreharo_6: -2292299436248381565
+      padreharo_7: 7657896861740144643
+      padreharo_8: -3754660180747861340
+      padreharo_9: -323829503370449072
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

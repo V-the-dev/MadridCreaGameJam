@@ -1,0 +1,535 @@
+fileFormatVersion: 2
+guid: 8552aefd5ee3e5644b6adce3a3e1fb13
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3125358291933092795
+    second: viuda_0
+  - first:
+      213: 8524838665160144346
+    second: viuda_1
+  - first:
+      213: -2718147144729008001
+    second: viuda_2
+  - first:
+      213: -4710656014675347533
+    second: viuda_3
+  - first:
+      213: -9058241916635859610
+    second: viuda_4
+  - first:
+      213: 6583693212836161235
+    second: viuda_5
+  - first:
+      213: -8724006764917224535
+    second: viuda_6
+  - first:
+      213: -536679379120872147
+    second: viuda_7
+  - first:
+      213: 681273982894714135
+    second: viuda_8
+  - first:
+      213: 4065774618864380127
+    second: viuda_9
+  - first:
+      213: -9120303758831488926
+    second: viuda_10
+  - first:
+      213: -3991488591627423036
+    second: viuda_11
+  - first:
+      213: -8172219387190375280
+    second: viuda_12
+  - first:
+      213: -6172178265037619406
+    second: viuda_13
+  - first:
+      213: -4297532852410999
+    second: viuda_14
+  - first:
+      213: 3483332109460164040
+    second: viuda_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 400
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: viuda_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8460
+        width: 2480
+        height: 2820
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb5e72cec08f5b20800000000000000
+      internalID: 3125358291933092795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viuda_1
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 8460
+        width: 2480
+        height: 2820
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad5b264799f4e4670800000000000000
+      internalID: 8524838665160144346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viuda_2
+      rect:
+        serializedVersion: 2
+        x: 4960
+        y: 8460
+        width: 2480
+        height: 2820
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f786f2fb293374ad0800000000000000
+      internalID: -2718147144729008001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viuda_3
+      rect:
+        serializedVersion: 2
+        x: 7440
+        y: 8460
+        width: 2480
+        height: 2820
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7f732105360aeb0800000000000000
+      internalID: -4710656014675347533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viuda_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5640
+        width: 2480
+        height: 2820
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665bd5d28f8aa4280800000000000000
+      internalID: -9058241916635859610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viuda_5
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 5640
+        width: 2480
+        height: 2820
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d6ef3d581afd5b50800000000000000
+      internalID: 6583693212836161235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viuda_6
+      rect:
+        serializedVersion: 2
+        x: 4960
+        y: 5640
+        width: 2480
+        height: 2820
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab010fa11a1ee680800000000000000
+      internalID: -8724006764917224535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viuda_7
+      rect:
+        serializedVersion: 2
+        x: 7440
+        y: 5640
+        width: 2480
+        height: 2820
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d252939b2f45d88f0800000000000000
+      internalID: -536679379120872147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viuda_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2820
+        width: 2480
+        height: 2820
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71da721f31f547900800000000000000
+      internalID: 681273982894714135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viuda_9
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 2820
+        width: 2480
+        height: 2820
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd8e53679788c6830800000000000000
+      internalID: 4065774618864380127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viuda_10
+      rect:
+        serializedVersion: 2
+        x: 4960
+        y: 2820
+        width: 2480
+        height: 2820
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26070338d0c2e6180800000000000000
+      internalID: -9120303758831488926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viuda_11
+      rect:
+        serializedVersion: 2
+        x: 7440
+        y: 2820
+        width: 2480
+        height: 2820
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2f50316426b98c0800000000000000
+      internalID: -3991488591627423036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viuda_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2480
+        height: 2820
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c05fff3c1769e80800000000000000
+      internalID: -8172219387190375280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viuda_13
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 0
+        width: 2480
+        height: 2820
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23fbb0ec194085aa0800000000000000
+      internalID: -6172178265037619406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viuda_14
+      rect:
+        serializedVersion: 2
+        x: 4960
+        y: 0
+        width: 2480
+        height: 2820
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985ebe8aa6bb0fff0800000000000000
+      internalID: -4297532852410999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viuda_15
+      rect:
+        serializedVersion: 2
+        x: 7440
+        y: 0
+        width: 2480
+        height: 2820
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cdc51b1918475030800000000000000
+      internalID: 3483332109460164040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 108d4da096a8fb142b6d825e37265793
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":4.0},"gridSpriteSize":{"x":2480.0,"y":2820.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      viuda_0: 3125358291933092795
+      viuda_1: 8524838665160144346
+      viuda_10: -9120303758831488926
+      viuda_11: -3991488591627423036
+      viuda_12: -8172219387190375280
+      viuda_13: -6172178265037619406
+      viuda_14: -4297532852410999
+      viuda_15: 3483332109460164040
+      viuda_2: -2718147144729008001
+      viuda_3: -4710656014675347533
+      viuda_4: -9058241916635859610
+      viuda_5: 6583693212836161235
+      viuda_6: -8724006764917224535
+      viuda_7: -536679379120872147
+      viuda_8: 681273982894714135
+      viuda_9: 4065774618864380127
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,796 @@
+fileFormatVersion: 2
+guid: a220737c33d47e4408ba0817e0a258b7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1853861207980998914
+    second: traficante_0
+  - first:
+      213: 4038846419973805884
+    second: traficante_1
+  - first:
+      213: 8797903806723750602
+    second: traficante_2
+  - first:
+      213: 9115310175961922683
+    second: traficante_3
+  - first:
+      213: 4307698088249804903
+    second: traficante_4
+  - first:
+      213: -4032243173913775280
+    second: traficante_5
+  - first:
+      213: 6553985713514246043
+    second: traficante_6
+  - first:
+      213: 7761213057699862764
+    second: traficante_7
+  - first:
+      213: 273757348960619413
+    second: traficante_8
+  - first:
+      213: -7015557791850360147
+    second: traficante_9
+  - first:
+      213: -5755778321560280235
+    second: traficante_10
+  - first:
+      213: 1521811895430959596
+    second: traficante_11
+  - first:
+      213: 9081283288630057045
+    second: traficante_12
+  - first:
+      213: -7697544730894551650
+    second: traficante_13
+  - first:
+      213: 8258134110195365156
+    second: traficante_14
+  - first:
+      213: -8000971210917775788
+    second: traficante_15
+  - first:
+      213: -2700884954035820696
+    second: traficante_16
+  - first:
+      213: 2160927620813474650
+    second: traficante_17
+  - first:
+      213: 2488169180169512634
+    second: traficante_18
+  - first:
+      213: 7713625431175869032
+    second: traficante_19
+  - first:
+      213: 5737420681661255593
+    second: traficante_20
+  - first:
+      213: 3539553578659864960
+    second: traficante_21
+  - first:
+      213: 1816200409031031769
+    second: traficante_22
+  - first:
+      213: 2622241761134743873
+    second: traficante_23
+  - first:
+      213: -4229693793183386054
+    second: traficante_24
+  - first:
+      213: -1205479834726427330
+    second: traficante_25
+  - first:
+      213: -6858716156983657947
+    second: traficante_26
+  - first:
+      213: -7253550179944303885
+    second: traficante_27
+  - first:
+      213: -575603815970786764
+    second: traficante_28
+  - first:
+      213: 8989339246194313929
+    second: traficante_29
+  - first:
+      213: 7965872867941617580
+    second: traficante_30
+  - first:
+      213: 7852533647288457562
+    second: traficante_31
+  - first:
+      213: -2988190404011339267
+    second: traficante_32
+  - first:
+      213: -330537756196949995
+    second: traficante_33
+  - first:
+      213: 7498050254658867432
+    second: traficante_34
+  - first:
+      213: 8562351003679865493
+    second: traficante_35
+  - first:
+      213: 626222833489831149
+    second: traficante_36
+  - first:
+      213: 8696046606426844143
+    second: traficante_37
+  - first:
+      213: -362538280582028174
+    second: traficante_38
+  - first:
+      213: -1308863482235802668
+    second: traficante_39
+  - first:
+      213: 5974914937913923330
+    second: traficante_40
+  - first:
+      213: -5943753683776610009
+    second: traficante_41
+  - first:
+      213: 8452940002579951287
+    second: traficante_42
+  - first:
+      213: -6588634229742106434
+    second: traficante_43
+  - first:
+      213: 4119957015754382410
+    second: traficante_44
+  - first:
+      213: 2318009975368058905
+    second: traficante_45
+  - first:
+      213: -8504917156375929302
+    second: traficante_46
+  - first:
+      213: -9062710860867987210
+    second: traficante_47
+  - first:
+      213: -3613688589873833192
+    second: traficante_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 500
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: traficante_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10440
+        width: 2480
+        height: 3480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe7a63bd03c546e0800000000000000
+      internalID: -1853861207980998914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traficante_1
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 10440
+        width: 2480
+        height: 3480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3795e49b6ddc0830800000000000000
+      internalID: 4038846419973805884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traficante_2
+      rect:
+        serializedVersion: 2
+        x: 4960
+        y: 10440
+        width: 2480
+        height: 3480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca73df16ee681a70800000000000000
+      internalID: 8797903806723750602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traficante_3
+      rect:
+        serializedVersion: 2
+        x: 7440
+        y: 10440
+        width: 2480
+        height: 3480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7cb6bf5f46108e70800000000000000
+      internalID: 9115310175961922683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traficante_4
+      rect:
+        serializedVersion: 2
+        x: 9920
+        y: 10440
+        width: 2480
+        height: 3480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76842cd869408cb30800000000000000
+      internalID: 4307698088249804903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traficante_5
+      rect:
+        serializedVersion: 2
+        x: 12400
+        y: 10440
+        width: 2480
+        height: 3480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05330e272389a08c0800000000000000
+      internalID: -4032243173913775280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traficante_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6960
+        width: 2480
+        height: 3480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f600d284f64fa50800000000000000
+      internalID: 6553985713514246043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traficante_7
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 6960
+        width: 2480
+        height: 3480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8d252c72e55bb60800000000000000
+      internalID: 7761213057699862764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traficante_8
+      rect:
+        serializedVersion: 2
+        x: 4960
+        y: 6960
+        width: 2480
+        height: 3480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b4373cbd49cc300800000000000000
+      internalID: 273757348960619413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traficante_9
+      rect:
+        serializedVersion: 2
+        x: 7440
+        y: 6960
+        width: 2480
+        height: 3480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2198bbb5bb3ae90800000000000000
+      internalID: -7015557791850360147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traficante_10
+      rect:
+        serializedVersion: 2
+        x: 9920
+        y: 6960
+        width: 2480
+        height: 3480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5536189ac1e5f10b0800000000000000
+      internalID: -5755778321560280235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traficante_11
+      rect:
+        serializedVersion: 2
+        x: 12400
+        y: 6960
+        width: 2480
+        height: 3480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce150222bdf8e1510800000000000000
+      internalID: 1521811895430959596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traficante_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3480
+        width: 2480
+        height: 3480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5585c7b4903370e70800000000000000
+      internalID: 9081283288630057045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traficante_13
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 3480
+        width: 2480
+        height: 3480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e95b950c9d3dc2590800000000000000
+      internalID: -7697544730894551650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traficante_14
+      rect:
+        serializedVersion: 2
+        x: 4960
+        y: 3480
+        width: 2480
+        height: 3480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4253bb14839ca9270800000000000000
+      internalID: 8258134110195365156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traficante_15
+      rect:
+        serializedVersion: 2
+        x: 7440
+        y: 3480
+        width: 2480
+        height: 3480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4567e1b1317d6f090800000000000000
+      internalID: -8000971210917775788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traficante_16
+      rect:
+        serializedVersion: 2
+        x: 9920
+        y: 3480
+        width: 2480
+        height: 3480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8676f77b177848ad0800000000000000
+      internalID: -2700884954035820696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traficante_17
+      rect:
+        serializedVersion: 2
+        x: 12400
+        y: 3480
+        width: 2480
+        height: 3480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5bcae7d8382dfd10800000000000000
+      internalID: 2160927620813474650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traficante_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2480
+        height: 3480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab6241dbfa0c78220800000000000000
+      internalID: 2488169180169512634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traficante_19
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 0
+        width: 2480
+        height: 3480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86238ab067d4c0b60800000000000000
+      internalID: 7713625431175869032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traficante_20
+      rect:
+        serializedVersion: 2
+        x: 4960
+        y: 0
+        width: 2480
+        height: 3480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af066936b96f9f40800000000000000
+      internalID: 5737420681661255593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traficante_21
+      rect:
+        serializedVersion: 2
+        x: 7440
+        y: 0
+        width: 2480
+        height: 3480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081eb77f9350f1130800000000000000
+      internalID: 3539553578659864960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traficante_22
+      rect:
+        serializedVersion: 2
+        x: 9920
+        y: 0
+        width: 2480
+        height: 3480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dbb63d36a0743910800000000000000
+      internalID: 1816200409031031769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 712888c5fcd66ae4fbeafe2d053852dd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":4.0},"gridSpriteSize":{"x":2480.0,"y":3480.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      traficante_0: -1853861207980998914
+      traficante_1: 4038846419973805884
+      traficante_10: -5755778321560280235
+      traficante_11: 1521811895430959596
+      traficante_12: 9081283288630057045
+      traficante_13: -7697544730894551650
+      traficante_14: 8258134110195365156
+      traficante_15: -8000971210917775788
+      traficante_16: -2700884954035820696
+      traficante_17: 2160927620813474650
+      traficante_18: 2488169180169512634
+      traficante_19: 7713625431175869032
+      traficante_2: 8797903806723750602
+      traficante_20: 5737420681661255593
+      traficante_21: 3539553578659864960
+      traficante_22: 1816200409031031769
+      traficante_23: 2622241761134743873
+      traficante_3: 9115310175961922683
+      traficante_4: 4307698088249804903
+      traficante_5: -4032243173913775280
+      traficante_6: 6553985713514246043
+      traficante_7: 7761213057699862764
+      traficante_8: 273757348960619413
+      traficante_9: -7015557791850360147
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
