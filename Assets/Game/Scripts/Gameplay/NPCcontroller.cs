@@ -2,21 +2,29 @@ using UnityEngine;
 
 public class NPCcontroller :  InteractableObject
 {
-
-    [SerializeField]
-    private DialogueObject dialogueObject;
+    [SerializeField] private DialogueObject interactionDialogue;
+    [SerializeField] private DialogueObject proximityDialogue;
 
     void Awake()
     {
-        exclamation = transform.GetChild(2).gameObject;
-        messageManager= MessageManager.Instance;
+
+        //if(transform.GetChild)
     }
 
     override public void  Trigger()
     {
-        MessageManager.Instance.dialogueActivator.UpdateDialogueObject(dialogueObject);
+        MessageManager.Instance.dialogueActivator.UpdateDialogueObject(interactionDialogue);
 
         MessageManager.Instance.Interact();
     }
+
+    override public void AutoTrigger()
+    {
+        MessageManager.Instance.dialogueActivator.UpdateDialogueObject(proximityDialogue);
+
+        MessageManager.Instance.Interact();
+    }
+
+
 
 }

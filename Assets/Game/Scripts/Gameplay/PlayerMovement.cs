@@ -68,8 +68,6 @@ public class PlayerMovement : MonoBehaviour
 
     private void FixedUpdate()
     {
-        //Vector2 rotatedInput = currentRotation * inputVector;
-
         rb.MovePosition(rb.position + inputVector * currentMults * speed * Time.deltaTime);
     }
 
@@ -82,7 +80,19 @@ public class PlayerMovement : MonoBehaviour
             if (interactuable != null && !interactuables.ContainsKey(collision))
             {
                 interactuables.Add(collision, interactuable);
-                Debug.Log("Entered Trigger Zone: " + collision.name);
+                //Debug.Log("Entered Trigger Zone: " + collision.name);
+            }
+        }
+        if (collision.CompareTag("Proximity"))
+        {
+            var interactuable = collision.GetComponentInParent<InteractableObject>();
+
+            if (interactuable != null && !interactuables.ContainsKey(collision))
+            {
+                interactuable.AutoTrigger();
+                //Debug.Log("Entered Proximity Zone: " + collision.name);
+
+                collision.enabled = false; // Desactivar el collider para que no se vuelva a activar
             }
         }
         if (collision.CompareTag("Stairs"))
@@ -106,7 +116,7 @@ public class PlayerMovement : MonoBehaviour
                 interactuables[collision].NearestIndicator(false);
                 interactuables.Remove(collision);
                 SortByDistance();
-                Debug.Log("Exited Trigger Zone: " + collision.name);
+                //Debug.Log("Exited Trigger Zone: " + collision.name);
             }
         }
         if (collision.CompareTag("Stairs"))

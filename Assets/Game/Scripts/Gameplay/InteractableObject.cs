@@ -3,8 +3,7 @@ using UnityEngine;
 
 public abstract class InteractableObject : MonoBehaviour
 {
-    protected GameObject exclamation;
-    protected MessageManager messageManager;
+    [SerializeField] protected GameObject exclamation;
 
     public void NearestIndicator(bool activate)
     {
@@ -13,6 +12,6 @@ public abstract class InteractableObject : MonoBehaviour
 
     public abstract void Trigger();
 
-    //public abstract void AutoTrigger();
+    public abstract void AutoTrigger();
 
 }

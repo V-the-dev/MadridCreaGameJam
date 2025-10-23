@@ -22,7 +22,7 @@ MonoBehaviour:
   mainCharacterWhenResponses: 0
   mainCharacterIndex: 0
   conversationLine:
-  - dialogue: No puedes acceder a este dialogo
+  - dialogue: Hola que tal
     spriteIndex: 0
   responses:
   - responseText: Vale
