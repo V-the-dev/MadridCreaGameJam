@@ -103,45 +103,6 @@ public class DialogueUI : MonoBehaviour
     {
         GameManager.Instance.PauseGame();
         
-        // Verificar si el diálogo completo debe mostrarse
-        bool shouldShowDialogue = true;
-        if (linker)
-        {
-            List<Evento> eventos = linker.TryGetEventos(dialogueObject);
-            List<EventData> eventValues = linker.TryGetEventData(dialogueObject);
-            List<Objeto> objetos = linker.TryGetObjetos(dialogueObject);
-            List<ObjectData> objectQuantitys = linker.TryGetObjectData(dialogueObject);
-
-            if (eventos != null)
-            {
-                for (int i = 0; i < eventos.Count; i++)
-                {
-                    if (eventos[i] != null && eventValues != null)
-                    {
-                        shouldShowDialogue = InventoryManager.Instance.GetEventValue(eventos[i].nombre) ==
-                                             eventValues[i].eventFlag;
-                    }
-                }
-            }
-
-            if (objetos != null)
-            {
-                for (int i = 0; i < objetos.Count; i++)
-                {
-                    if (objetos[i] != null && objectQuantitys != null && shouldShowDialogue)
-                    {
-                        shouldShowDialogue = InventoryManager.Instance.GetItemValue(objetos[i].nombre) >= objectQuantitys[i].quantity;
-                    }
-                }
-            }
-        }
-        
-        if (!shouldShowDialogue)
-        {
-            // Si el diálogo no debe mostrarse, cerrar y salir
-            CloseDialogueBox();
-            yield break;
-        }
         yield return new WaitUntil(() => !_acceptAction.IsPressed());
         for(int i = 0; i < dialogueObject.Dialogue.Length; i++)
         {

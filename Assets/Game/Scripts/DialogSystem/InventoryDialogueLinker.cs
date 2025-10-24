@@ -219,4 +219,38 @@ public class InventoryDialogueLinker : MonoBehaviour
         
         return entry.associatedObjects;
     }
+    
+    public bool? CanShowDialogue(DialogueObject dialogueObject)
+    {
+        if(dialogueObject == null) return null;
+        bool shouldShowDialogue = true;
+        List<Evento> eventos = TryGetEventos(dialogueObject);
+        List<EventData> eventValues = TryGetEventData(dialogueObject);
+        List<Objeto> objetos = TryGetObjetos(dialogueObject);
+        List<ObjectData> objectQuantitys = TryGetObjectData(dialogueObject);
+
+        if (eventos != null)
+        {
+            for (int i = 0; i < eventos.Count; i++)
+            {
+                if (eventos[i] != null && eventValues != null)
+                {
+                    shouldShowDialogue = InventoryManager.Instance.GetEventValue(eventos[i].nombre) ==
+                                         eventValues[i].eventFlag;
+                }
+            }
+        }
+
+        if (objetos != null)
+        {
+            for (int i = 0; i < objetos.Count; i++)
+            {
+                if (objetos[i] != null && objectQuantitys != null && shouldShowDialogue)
+                {
+                    shouldShowDialogue = InventoryManager.Instance.GetItemValue(objetos[i].nombre) >= objectQuantitys[i].quantity;
+                }
+            }
+        }
+        return shouldShowDialogue;
+    }
 }
