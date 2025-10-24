@@ -646,11 +646,11 @@ MonoBehaviour:
   - key: chuzo
     sprite: {fileID: 21300000, guid: 3c5376697f5c17548bf76b625b310931, type: 3}
     sizeMultiplier: 50
-  - key: "Jam\xF3n"
+  - key: Jamon
     sprite: {fileID: 21300000, guid: cfa1fa17c66b5794d8490a2aa6ced41c, type: 3}
     sizeMultiplier: 50
   - key: lampara
-    sprite: {fileID: 21300000, guid: 2e541b980d84e134d91b233830ca3004, type: 3}
+    sprite: {fileID: -520320261171042114, guid: 43dda2a5e7672b34293f5b9c2c0f1f6c, type: 3}
     sizeMultiplier: 50
   - key: licor
     sprite: {fileID: 21300000, guid: b4680b23d9856f748b0978c31c9facdc, type: 3}
