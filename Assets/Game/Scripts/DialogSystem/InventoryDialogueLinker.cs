@@ -17,6 +17,19 @@ public class ObjectData
     public int quantity = 0;
 }
 
+// Clases wrapper para hacer serializables los arrays de listas
+[System.Serializable]
+public class EventDataList
+{
+    public List<EventData> events = new List<EventData>();
+}
+
+[System.Serializable]
+public class ObjectDataList
+{
+    public List<ObjectData> objects = new List<ObjectData>();
+}
+
 [System.Serializable]
 public class InventoryDialogueEntry
 {
@@ -28,11 +41,11 @@ public class InventoryDialogueEntry
     public bool hasAssociatedObject;
     public List<ObjectData> associatedObjects = new List<ObjectData>();
 
-    public bool[] eventResponseAssociated = Array.Empty<bool>();
-    public List<EventData>[] eventsAssociatedPerResponse = Array.Empty<List<EventData>>();
+    public List<bool> eventResponseAssociated = new List<bool>();
+    public List<EventDataList> eventsAssociatedPerResponse = new List<EventDataList>();
     
-    public bool[] objectResponseAssociated = Array.Empty<bool>();
-    public List<ObjectData>[] objectsAssociatedPerResponse = Array.Empty<List<ObjectData>>();
+    public List<bool> objectResponseAssociated = new List<bool>();
+    public List<ObjectDataList> objectsAssociatedPerResponse = new List<ObjectDataList>();
 }
 
 public class InventoryDialogueLinker : MonoBehaviour
@@ -51,15 +64,15 @@ public class InventoryDialogueLinker : MonoBehaviour
         if (!dialogueObject) return null;
         InventoryDialogueEntry entry = GetEntryWithDialogueObject(dialogueObject);
         if (entry == null) return null;
-        if (responseIndex >= entry.eventResponseAssociated.Length || !entry.eventResponseAssociated[responseIndex]) 
+        if (responseIndex >= entry.eventResponseAssociated.Count || !entry.eventResponseAssociated[responseIndex]) 
             return null;
         
-        if (responseIndex >= entry.eventsAssociatedPerResponse.Length || 
+        if (responseIndex >= entry.eventsAssociatedPerResponse.Count || 
             entry.eventsAssociatedPerResponse[responseIndex] == null) 
             return null;
 
         List<Evento> eventos = new List<Evento>();
-        foreach (var eventData in entry.eventsAssociatedPerResponse[responseIndex])
+        foreach (var eventData in entry.eventsAssociatedPerResponse[responseIndex].events)
         {
             if (eventData.eventIndex >= 0 && eventData.eventIndex < inventoryObject.eventos.Count)
             {
@@ -75,15 +88,15 @@ public class InventoryDialogueLinker : MonoBehaviour
         if (!dialogueObject) return null;
         InventoryDialogueEntry entry = GetEntryWithDialogueObject(dialogueObject);
         if (entry == null) return null;
-        if (responseIndex >= entry.objectResponseAssociated.Length || !entry.objectResponseAssociated[responseIndex]) 
+        if (responseIndex >= entry.objectResponseAssociated.Count || !entry.objectResponseAssociated[responseIndex]) 
             return null;
         
-        if (responseIndex >= entry.objectsAssociatedPerResponse.Length || 
+        if (responseIndex >= entry.objectsAssociatedPerResponse.Count || 
             entry.objectsAssociatedPerResponse[responseIndex] == null) 
             return null;
 
         List<Objeto> objetos = new List<Objeto>();
-        foreach (var objectData in entry.objectsAssociatedPerResponse[responseIndex])
+        foreach (var objectData in entry.objectsAssociatedPerResponse[responseIndex].objects)
         {
             if (objectData.objectIndex >= 0)
             {
@@ -110,13 +123,14 @@ public class InventoryDialogueLinker : MonoBehaviour
         if(!dialogueObject) return null;
         InventoryDialogueEntry entry = GetEntryWithDialogueObject(dialogueObject);
         if (entry == null) return null;
-        if (responseIndex >= entry.eventResponseAssociated.Length || !entry.eventResponseAssociated[responseIndex]) 
+        if (responseIndex >= entry.eventResponseAssociated.Count || !entry.eventResponseAssociated[responseIndex]) 
             return null;
         
-        if (responseIndex >= entry.eventsAssociatedPerResponse.Length) 
+        if (responseIndex >= entry.eventsAssociatedPerResponse.Count || 
+            entry.eventsAssociatedPerResponse[responseIndex] == null) 
             return null;
             
-        return entry.eventsAssociatedPerResponse[responseIndex];
+        return entry.eventsAssociatedPerResponse[responseIndex].events;
     }
     
     [CanBeNull]
@@ -125,13 +139,14 @@ public class InventoryDialogueLinker : MonoBehaviour
         if(!dialogueObject) return null;
         InventoryDialogueEntry entry = GetEntryWithDialogueObject(dialogueObject);
         if (entry == null) return null;
-        if (responseIndex >= entry.objectResponseAssociated.Length || !entry.objectResponseAssociated[responseIndex]) 
+        if (responseIndex >= entry.objectResponseAssociated.Count || !entry.objectResponseAssociated[responseIndex]) 
             return null;
         
-        if (responseIndex >= entry.objectsAssociatedPerResponse.Length) 
+        if (responseIndex >= entry.objectsAssociatedPerResponse.Count || 
+            entry.objectsAssociatedPerResponse[responseIndex] == null) 
             return null;
             
-        return entry.objectsAssociatedPerResponse[responseIndex];
+        return entry.objectsAssociatedPerResponse[responseIndex].objects;
     }
 
     [CanBeNull]

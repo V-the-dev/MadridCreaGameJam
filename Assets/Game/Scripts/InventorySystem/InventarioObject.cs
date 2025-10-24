@@ -40,6 +40,11 @@ public class InventarioObject : ScriptableObject
     {
         return Enumerable.Concat(eventos, internalEvents).ToArray();
     }
+
+    public Objeto[] GetObjetos()
+    {
+        return Enumerable.Concat(objetos.monedas, objetos.objetosClave).ToArray();
+    }
     
     /// <summary>
     /// Permite tomar el valor de una moneda dado el nombre de la misma.
