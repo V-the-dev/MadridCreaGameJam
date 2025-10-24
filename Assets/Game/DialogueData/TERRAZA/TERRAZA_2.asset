@@ -28,8 +28,8 @@ MonoBehaviour:
   mainCharacterWhenResponses: 0
   mainCharacterIndex: 0
   conversationLine:
-  - dialogue: "<color=#7b1f1f>Manuel</color>? Claro! El hombre que estuvo aqu\xED
-      con <color=#7b1f1f>Garrido</color> hace un rato. Se tomaron algo, charlaron."
+  - dialogue: "\xBF<color=#7b1f1f>Manuel</color>? \xA1Claro! El hombre que estuvo
+      aqu\xED con <color=#7b1f1f>Garrido</color> hace un rato. Se tomaron algo, charlaron."
     spriteIndex: 0
   - dialogue: "Definitivamente no fue una buena conversaci\xF3n. Estaban acojonados."
     spriteIndex: 1
@@ -39,5 +39,7 @@ MonoBehaviour:
     spriteIndex: 1
   - dialogue: "Que s\xED, lo que t\xFA digas. En fin, luego fueron hacia el puente,
       ten\xEDan prisa."
+    spriteIndex: 0
+  - dialogue: "\xBFPodemos ayudarte con algo m\xE1s?"
     spriteIndex: 0
   responses: []

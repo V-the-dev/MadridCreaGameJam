@@ -28,8 +28,8 @@ MonoBehaviour:
   - dialogue: "Durante meses me vi a m\xED mismo como un m\xE1rtir. Pens\xE9 que
       os hab\xEDa salvado, y me enorgullec\xEDa pensar en ello. Era mi resguardo."
     spriteIndex: 0
-  - dialogue: "Dime la verdad. <shake>\xBFNi un solo d\xEDa has pensado en que que
-      yo cargu\xE9 con la culpa de los cuatro? \xBFNo te molesta?</shake>"
+  - dialogue: "Dime la verdad. \xBFNi un solo d\xEDa has pensado en que que yo cargu\xE9
+      con la culpa de los cuatro? <shake>\xBFNo te molesta?</shake>"
     spriteIndex: 0
   - dialogue: "(Mateo carga su rev\xF3lver.)"
     spriteIndex: 0

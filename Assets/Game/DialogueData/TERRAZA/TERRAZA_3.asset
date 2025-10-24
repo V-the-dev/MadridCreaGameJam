@@ -41,6 +41,8 @@ MonoBehaviour:
       as\xED..."
     spriteIndex: 1
   - dialogue: "Ese hombre no est\xE1 bien, ve fantasmas desde que estuvo en Brunete
-      duante la guerra. \xBFPodemos ayudarle con otra cosa?"
+      duante la guerra."
     spriteIndex: 0
+  - dialogue: "\xBFAlgo m\xE1s, maestro?"
+    spriteIndex: 1
   responses: []
