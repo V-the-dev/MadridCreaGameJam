@@ -19,6 +19,10 @@ public class TimeManager : MonoBehaviour
 
     private int currentStage = 0;
     private float currentTime = 0;
+
+    public float timeMultipliyer;
+
+    public bool timeManipulated = false;
     
     [SerializeField] private PlayerMovement player;
     [Header("NPCs & puertas")]
@@ -37,15 +41,28 @@ public class TimeManager : MonoBehaviour
         }
     }
 
+    public float GetTotalTime()
+    {
+        float totalTime = 0;
+
+        for (int i = 0; i < etapasTemporales.Count; i++)
+        {
+            totalTime += etapasTemporales[i].duracion;
+        }
+        
+        return totalTime;
+    }
+
     public void AddTime(float addedTime)
     {
         currentTime -= addedTime;
+        timeManipulated = true;
     }
     
     private void Update()
     {
         if(!playerIsInterating)
-            currentTime += Time.deltaTime;
+            currentTime += Time.deltaTime * timeMultipliyer;
         
         Debug.Log("Etapa: " + currentStage + " Tiempo: " + currentTime);
         

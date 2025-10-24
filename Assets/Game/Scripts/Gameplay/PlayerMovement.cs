@@ -3,9 +3,6 @@ using UnityEngine.InputSystem;
 using System.Collections.Generic;
 using System.Linq;
 
-
-
-
 public class PlayerMovement : MonoBehaviour
 {
     [SerializeField]
@@ -176,14 +173,14 @@ public class PlayerMovement : MonoBehaviour
         {
             InteractableObject newNearest = nearestKvp.Value;
 
-            // Solo si el más cercano ha cambiado sew actualiza el indicador
+            // Solo si el mï¿½s cercano ha cambiado sew actualiza el indicador
             if (nearest != newNearest)
             {
-                // Desactivar indicador anterior (si existía)
+                // Desactivar indicador anterior (si existï¿½a)
                 if (nearest != null)
                     nearest.NearestIndicator(false);
 
-                // Activar indicador en el nuevo más cercano
+                // Activar indicador en el nuevo mï¿½s cercano
                 nearest = newNearest;
                 nearest.NearestIndicator(true);
 
@@ -196,6 +193,9 @@ public class PlayerMovement : MonoBehaviour
     public void RestartAnimator()
     {
         withLamp = false;
+        
+        //TODO quitar lampara 
+        
         withChuzo = false;
         animator.runtimeAnimatorController = animWithNOTHING;
     }
@@ -216,6 +216,9 @@ public class PlayerMovement : MonoBehaviour
     public void AddLampAnimation()
     {
         withLamp = true;
+        
+        //TODO aÃ±adir lampara 
+
         if (withLamp && withChuzo)
         {
             animator.runtimeAnimatorController = animWithLampAndChuzo;
