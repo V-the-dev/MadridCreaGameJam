@@ -229,7 +229,7 @@ Transform:
   m_GameObject: {fileID: 11018344}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1234.3301, y: -116.32, z: 2}
+  m_LocalPosition: {x: 1234.3301, y: -116.32, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -305,7 +305,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4a7c185aa1683a44baed9a739b94ea5f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TwoWaySprite
-  playerInFrontFirst: 0
 --- !u!68 &11018348
 EdgeCollider2D:
   m_ObjectHideFlags: 0
@@ -4651,7 +4650,7 @@ Transform:
   m_GameObject: {fileID: 336817923}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1233.12, y: -116.54383, z: 1}
+  m_LocalPosition: {x: 1233.92, y: -116.63, z: -1}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -16041,7 +16040,9 @@ MonoBehaviour:
     hasAssociatedObject: 0
     associatedObjects: []
     eventResponseAssociated: 
+    eventsAssociatedPerResponse: []
     objectResponseAssociated: 
+    objectsAssociatedPerResponse: []
   - dialogueObject: {fileID: 11400000, guid: d84dc061d90ebcc469bbca0fa1dc7718, type: 2}
     hasAssociatedEvent: 1
     associatedEvents:
@@ -16050,7 +16051,9 @@ MonoBehaviour:
     hasAssociatedObject: 0
     associatedObjects: []
     eventResponseAssociated: 
+    eventsAssociatedPerResponse: []
     objectResponseAssociated: 
+    objectsAssociatedPerResponse: []
 --- !u!4 &1076668592 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1530911083960404698, guid: c1ad5743db976ec46ab8dda058e3c7a9, type: 3}
@@ -26439,7 +26442,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4a7c185aa1683a44baed9a739b94ea5f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  playerInFrontFirst: 0
 --- !u!68 &1660495018
 EdgeCollider2D:
   m_ObjectHideFlags: 0
@@ -26477,11 +26479,11 @@ EdgeCollider2D:
   m_Offset: {x: 0, y: 0}
   m_EdgeRadius: 0
   m_Points:
-  - {x: -5.9931087, y: 14.810675}
-  - {x: -0.84732056, y: 15.007397}
-  - {x: 2.805107, y: 14.676676}
-  - {x: 4.144287, y: 17.316744}
-  - {x: 5.513876, y: 17.501879}
+  - {x: -4.9245434, y: 9.403063}
+  - {x: -1.1387558, y: 11.380737}
+  - {x: 1.2832031, y: 11.891918}
+  - {x: 2.7842941, y: 12.751034}
+  - {x: 4.67198, y: 13.778074}
   m_AdjacentStartPoint: {x: 0, y: 0}
   m_AdjacentEndPoint: {x: 0, y: 0}
   m_UseAdjacentStartPoint: 0

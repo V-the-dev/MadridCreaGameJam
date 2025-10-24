@@ -5,23 +5,27 @@ using UnityEngine;
 public class TwoWaySprite : MonoBehaviour
 {
     private bool ZchangeOccured = false;
-
-    public int playerInFrontFirst = 0;
     
     private void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.CompareTag("Player"))
-        {
-            if (ZchangeOccured)
-            {
-                transform.position = new Vector3(transform.position.x, transform.position.y, -2f);
-            }
-            else
-            {
-                transform.position = new Vector3(transform.position.x, transform.position.y, +2f);
-            }
+        if (!other.CompareTag("Player")) return;
 
-            ZchangeOccured = !ZchangeOccured;
-        }
+        Transform playerTransform = other.transform;
+
+        // Get the object's current Z
+        float objectZ = transform.position.z;
+
+        // If player is currently behind, move in front; otherwise move behind
+        float newZ = ZchangeOccured ? objectZ - 1f : objectZ + 1f;
+
+        // Apply the new Z to the player
+        playerTransform.position = new Vector3(
+            playerTransform.position.x,
+            playerTransform.position.y,
+            newZ
+        );
+
+        // Toggle for next time
+        ZchangeOccured = !ZchangeOccured;
     }
 }
