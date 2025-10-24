@@ -198,7 +198,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 500
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -251,9 +251,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 6876
-        width: 2537
-        height: 1719
+        y: 1518
+        width: 560
+        height: 379
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -272,10 +272,10 @@ TextureImporter:
       name: borracho_tumbado_1
       rect:
         serializedVersion: 2
-        x: 2537
-        y: 6876
-        width: 2537
-        height: 1719
+        x: 560
+        y: 1518
+        width: 560
+        height: 379
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -294,10 +294,10 @@ TextureImporter:
       name: borracho_tumbado_2
       rect:
         serializedVersion: 2
-        x: 5074
-        y: 6876
-        width: 2537
-        height: 1719
+        x: 1120
+        y: 1518
+        width: 560
+        height: 379
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -316,10 +316,10 @@ TextureImporter:
       name: borracho_tumbado_3
       rect:
         serializedVersion: 2
-        x: 7611
-        y: 6876
-        width: 2537
-        height: 1719
+        x: 1680
+        y: 1518
+        width: 560
+        height: 379
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -338,10 +338,10 @@ TextureImporter:
       name: borracho_tumbado_4
       rect:
         serializedVersion: 2
-        x: 10148
-        y: 6876
-        width: 2537
-        height: 1719
+        x: 2240
+        y: 1518
+        width: 560
+        height: 379
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -361,9 +361,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 5157
-        width: 2537
-        height: 1719
+        y: 1139
+        width: 560
+        height: 379
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -382,10 +382,10 @@ TextureImporter:
       name: borracho_tumbado_6
       rect:
         serializedVersion: 2
-        x: 2537
-        y: 5157
-        width: 2537
-        height: 1719
+        x: 560
+        y: 1139
+        width: 560
+        height: 379
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -404,10 +404,10 @@ TextureImporter:
       name: borracho_tumbado_7
       rect:
         serializedVersion: 2
-        x: 5074
-        y: 5157
-        width: 2537
-        height: 1719
+        x: 1120
+        y: 1139
+        width: 560
+        height: 379
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -426,10 +426,10 @@ TextureImporter:
       name: borracho_tumbado_8
       rect:
         serializedVersion: 2
-        x: 7611
-        y: 5157
-        width: 2537
-        height: 1719
+        x: 1680
+        y: 1139
+        width: 560
+        height: 379
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -448,10 +448,10 @@ TextureImporter:
       name: borracho_tumbado_9
       rect:
         serializedVersion: 2
-        x: 10148
-        y: 5157
-        width: 2537
-        height: 1719
+        x: 2240
+        y: 1139
+        width: 560
+        height: 379
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -471,9 +471,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 3438
-        width: 2537
-        height: 1719
+        y: 760
+        width: 560
+        height: 379
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -492,10 +492,10 @@ TextureImporter:
       name: borracho_tumbado_11
       rect:
         serializedVersion: 2
-        x: 2537
-        y: 3438
-        width: 2537
-        height: 1719
+        x: 560
+        y: 760
+        width: 560
+        height: 379
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -514,10 +514,10 @@ TextureImporter:
       name: borracho_tumbado_12
       rect:
         serializedVersion: 2
-        x: 5074
-        y: 3438
-        width: 2537
-        height: 1719
+        x: 1120
+        y: 760
+        width: 560
+        height: 379
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -536,10 +536,10 @@ TextureImporter:
       name: borracho_tumbado_13
       rect:
         serializedVersion: 2
-        x: 7611
-        y: 3438
-        width: 2537
-        height: 1719
+        x: 1680
+        y: 760
+        width: 560
+        height: 379
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -558,10 +558,10 @@ TextureImporter:
       name: borracho_tumbado_14
       rect:
         serializedVersion: 2
-        x: 10148
-        y: 3438
-        width: 2537
-        height: 1719
+        x: 2240
+        y: 760
+        width: 560
+        height: 379
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -581,9 +581,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 1719
-        width: 2537
-        height: 1719
+        y: 381
+        width: 560
+        height: 379
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -602,10 +602,10 @@ TextureImporter:
       name: borracho_tumbado_16
       rect:
         serializedVersion: 2
-        x: 2537
-        y: 1719
-        width: 2537
-        height: 1719
+        x: 560
+        y: 381
+        width: 560
+        height: 379
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -624,10 +624,10 @@ TextureImporter:
       name: borracho_tumbado_17
       rect:
         serializedVersion: 2
-        x: 5074
-        y: 1719
-        width: 2537
-        height: 1719
+        x: 1120
+        y: 381
+        width: 560
+        height: 379
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -646,10 +646,10 @@ TextureImporter:
       name: borracho_tumbado_18
       rect:
         serializedVersion: 2
-        x: 7611
-        y: 1719
-        width: 2537
-        height: 1719
+        x: 1680
+        y: 381
+        width: 560
+        height: 379
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -668,10 +668,10 @@ TextureImporter:
       name: borracho_tumbado_19
       rect:
         serializedVersion: 2
-        x: 10148
-        y: 1719
-        width: 2537
-        height: 1719
+        x: 2240
+        y: 381
+        width: 560
+        height: 379
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -691,9 +691,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 2537
-        height: 1719
+        y: 2
+        width: 560
+        height: 379
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -712,10 +712,10 @@ TextureImporter:
       name: borracho_tumbado_21
       rect:
         serializedVersion: 2
-        x: 2537
-        y: 0
-        width: 2537
-        height: 1719
+        x: 560
+        y: 2
+        width: 560
+        height: 379
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -734,10 +734,10 @@ TextureImporter:
       name: borracho_tumbado_22
       rect:
         serializedVersion: 2
-        x: 5074
-        y: 0
-        width: 2537
-        height: 1719
+        x: 1120
+        y: 2
+        width: 560
+        height: 379
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -756,10 +756,10 @@ TextureImporter:
       name: borracho_tumbado_23
       rect:
         serializedVersion: 2
-        x: 7611
-        y: 0
-        width: 2537
-        height: 1719
+        x: 1680
+        y: 2
+        width: 560
+        height: 379
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -778,10 +778,10 @@ TextureImporter:
       name: borracho_tumbado_24
       rect:
         serializedVersion: 2
-        x: 10148
-        y: 0
-        width: 2537
-        height: 1719
+        x: 2240
+        y: 2
+        width: 560
+        height: 379
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -810,7 +810,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries:
       - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":5.0},"gridSpriteSize":{"x":2537.0,"y":1719.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":5.0},"gridSpriteSize":{"x":560.0,"y":379.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       borracho_tumbado_0: 5494672628922019233
       borracho_tumbado_1: -1393981462920816460

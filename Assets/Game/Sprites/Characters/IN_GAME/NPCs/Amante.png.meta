@@ -144,7 +144,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 600
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -197,9 +197,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 10062
-        width: 2480
-        height: 3354
+        y: 2029
+        width: 500
+        height: 676
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -218,10 +218,10 @@ TextureImporter:
       name: Amante_1
       rect:
         serializedVersion: 2
-        x: 2480
-        y: 10062
-        width: 2480
-        height: 3354
+        x: 500
+        y: 2029
+        width: 500
+        height: 676
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -240,10 +240,10 @@ TextureImporter:
       name: Amante_2
       rect:
         serializedVersion: 2
-        x: 4960
-        y: 10062
-        width: 2480
-        height: 3354
+        x: 1000
+        y: 2029
+        width: 500
+        height: 676
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -262,10 +262,10 @@ TextureImporter:
       name: Amante_3
       rect:
         serializedVersion: 2
-        x: 7440
-        y: 10062
-        width: 2480
-        height: 3354
+        x: 1500
+        y: 2029
+        width: 500
+        height: 676
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -284,10 +284,10 @@ TextureImporter:
       name: Amante_4
       rect:
         serializedVersion: 2
-        x: 9920
-        y: 10062
-        width: 2480
-        height: 3354
+        x: 2000
+        y: 2029
+        width: 500
+        height: 676
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -306,10 +306,10 @@ TextureImporter:
       name: Amante_5
       rect:
         serializedVersion: 2
-        x: 12400
-        y: 10062
-        width: 2480
-        height: 3354
+        x: 2500
+        y: 2029
+        width: 500
+        height: 676
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -329,9 +329,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 6708
-        width: 2480
-        height: 3354
+        y: 1353
+        width: 500
+        height: 676
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -350,10 +350,10 @@ TextureImporter:
       name: Amante_7
       rect:
         serializedVersion: 2
-        x: 2480
-        y: 6708
-        width: 2480
-        height: 3354
+        x: 500
+        y: 1353
+        width: 500
+        height: 676
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -372,10 +372,10 @@ TextureImporter:
       name: Amante_8
       rect:
         serializedVersion: 2
-        x: 4960
-        y: 6708
-        width: 2480
-        height: 3354
+        x: 1000
+        y: 1353
+        width: 500
+        height: 676
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -394,10 +394,10 @@ TextureImporter:
       name: Amante_9
       rect:
         serializedVersion: 2
-        x: 7440
-        y: 6708
-        width: 2480
-        height: 3354
+        x: 1500
+        y: 1353
+        width: 500
+        height: 676
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -416,10 +416,10 @@ TextureImporter:
       name: Amante_10
       rect:
         serializedVersion: 2
-        x: 9920
-        y: 6708
-        width: 2480
-        height: 3354
+        x: 2000
+        y: 1353
+        width: 500
+        height: 676
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -438,10 +438,10 @@ TextureImporter:
       name: Amante_11
       rect:
         serializedVersion: 2
-        x: 12400
-        y: 6708
-        width: 2480
-        height: 3354
+        x: 2500
+        y: 1353
+        width: 500
+        height: 676
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -461,9 +461,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 3354
-        width: 2480
-        height: 3354
+        y: 677
+        width: 500
+        height: 676
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -482,10 +482,10 @@ TextureImporter:
       name: Amante_13
       rect:
         serializedVersion: 2
-        x: 2480
-        y: 3354
-        width: 2480
-        height: 3354
+        x: 500
+        y: 677
+        width: 500
+        height: 676
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -504,10 +504,10 @@ TextureImporter:
       name: Amante_14
       rect:
         serializedVersion: 2
-        x: 4960
-        y: 3354
-        width: 2480
-        height: 3354
+        x: 1000
+        y: 677
+        width: 500
+        height: 676
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -526,10 +526,10 @@ TextureImporter:
       name: Amante_15
       rect:
         serializedVersion: 2
-        x: 7440
-        y: 3354
-        width: 2480
-        height: 3354
+        x: 1500
+        y: 677
+        width: 500
+        height: 676
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -548,10 +548,10 @@ TextureImporter:
       name: Amante_16
       rect:
         serializedVersion: 2
-        x: 9920
-        y: 3354
-        width: 2480
-        height: 3354
+        x: 2000
+        y: 677
+        width: 500
+        height: 676
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -570,10 +570,10 @@ TextureImporter:
       name: Amante_17
       rect:
         serializedVersion: 2
-        x: 12400
-        y: 3354
-        width: 2480
-        height: 3354
+        x: 2500
+        y: 677
+        width: 500
+        height: 676
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -593,9 +593,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 2480
-        height: 3354
+        y: 1
+        width: 500
+        height: 676
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -614,10 +614,10 @@ TextureImporter:
       name: Amante_19
       rect:
         serializedVersion: 2
-        x: 2480
-        y: 0
-        width: 2480
-        height: 3354
+        x: 500
+        y: 1
+        width: 500
+        height: 676
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -636,10 +636,10 @@ TextureImporter:
       name: Amante_20
       rect:
         serializedVersion: 2
-        x: 4960
-        y: 0
-        width: 2480
-        height: 3354
+        x: 1000
+        y: 1
+        width: 500
+        height: 676
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -658,10 +658,10 @@ TextureImporter:
       name: Amante_21
       rect:
         serializedVersion: 2
-        x: 7440
-        y: 0
-        width: 2480
-        height: 3354
+        x: 1500
+        y: 1
+        width: 500
+        height: 676
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -672,50 +672,6 @@ TextureImporter:
       bones: []
       spriteID: f8d622b23eaeb2440800000000000000
       internalID: 4912278079979810191
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amante_22
-      rect:
-        serializedVersion: 2
-        x: 9920
-        y: 0
-        width: 2480
-        height: 3354
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0c421cc23779465b0800000000000000
-      internalID: -5376005534245641024
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amante_23
-      rect:
-        serializedVersion: 2
-        x: 12400
-        y: 0
-        width: 2480
-        height: 3354
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0730e3143b237e8a0800000000000000
-      internalID: -6275991810242378896
       vertices: []
       indices: 
       edges: []
@@ -734,7 +690,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries:
       - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":4.0},"gridSpriteSize":{"x":2480.0,"y":3354.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":4.0},"gridSpriteSize":{"x":500.0,"y":676.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Amante_0: 7397633610289833054
       Amante_1: -5854610901425484588
@@ -751,8 +707,6 @@ TextureImporter:
       Amante_2: -5408187424909439500
       Amante_20: -3999015601842533300
       Amante_21: 4912278079979810191
-      Amante_22: -5376005534245641024
-      Amante_23: -6275991810242378896
       Amante_3: 4284760783140863055
       Amante_4: 4328826022793177468
       Amante_5: -4589466264367092502

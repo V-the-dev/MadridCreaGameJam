@@ -90,7 +90,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 500
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -143,9 +143,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 3840
-        width: 1920
-        height: 1920
+        y: 1544
+        width: 500
+        height: 772
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -164,10 +164,10 @@ TextureImporter:
       name: Fugitivo_1
       rect:
         serializedVersion: 2
-        x: 1920
-        y: 3840
-        width: 1920
-        height: 1920
+        x: 500
+        y: 1544
+        width: 500
+        height: 772
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -186,10 +186,10 @@ TextureImporter:
       name: Fugitivo_2
       rect:
         serializedVersion: 2
-        x: 3840
-        y: 3840
-        width: 1920
-        height: 1920
+        x: 1000
+        y: 1544
+        width: 500
+        height: 772
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -208,10 +208,10 @@ TextureImporter:
       name: Fugitivo_3
       rect:
         serializedVersion: 2
-        x: 5760
-        y: 3840
-        width: 1920
-        height: 1920
+        x: 1500
+        y: 1544
+        width: 500
+        height: 772
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -230,10 +230,10 @@ TextureImporter:
       name: Fugitivo_4
       rect:
         serializedVersion: 2
-        x: 7680
-        y: 3840
-        width: 1920
-        height: 1920
+        x: 2000
+        y: 1544
+        width: 500
+        height: 772
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -253,9 +253,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 1920
-        width: 1920
-        height: 1920
+        y: 772
+        width: 500
+        height: 772
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -274,10 +274,10 @@ TextureImporter:
       name: Fugitivo_6
       rect:
         serializedVersion: 2
-        x: 1920
-        y: 1920
-        width: 1920
-        height: 1920
+        x: 500
+        y: 772
+        width: 500
+        height: 772
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -296,10 +296,10 @@ TextureImporter:
       name: Fugitivo_7
       rect:
         serializedVersion: 2
-        x: 3840
-        y: 1920
-        width: 1920
-        height: 1920
+        x: 1000
+        y: 772
+        width: 500
+        height: 772
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -318,10 +318,10 @@ TextureImporter:
       name: Fugitivo_8
       rect:
         serializedVersion: 2
-        x: 5760
-        y: 1920
-        width: 1920
-        height: 1920
+        x: 1500
+        y: 772
+        width: 500
+        height: 772
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -340,10 +340,10 @@ TextureImporter:
       name: Fugitivo_9
       rect:
         serializedVersion: 2
-        x: 7680
-        y: 1920
-        width: 1920
-        height: 1920
+        x: 2000
+        y: 772
+        width: 500
+        height: 772
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -364,8 +364,8 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1920
-        height: 1920
+        width: 500
+        height: 772
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -384,10 +384,10 @@ TextureImporter:
       name: Fugitivo_11
       rect:
         serializedVersion: 2
-        x: 1920
+        x: 500
         y: 0
-        width: 1920
-        height: 1920
+        width: 500
+        height: 772
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -406,10 +406,10 @@ TextureImporter:
       name: Fugitivo_12
       rect:
         serializedVersion: 2
-        x: 3840
+        x: 1000
         y: 0
-        width: 1920
-        height: 1920
+        width: 500
+        height: 772
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -428,10 +428,10 @@ TextureImporter:
       name: Fugitivo_13
       rect:
         serializedVersion: 2
-        x: 5760
+        x: 1500
         y: 0
-        width: 1920
-        height: 1920
+        width: 500
+        height: 772
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -460,7 +460,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries:
       - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":3.0},"gridSpriteSize":{"x":1920.0,"y":1920.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":3.0},"gridSpriteSize":{"x":500.0,"y":772.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Fugitivo_0: 5158516717269077062
       Fugitivo_1: 3661162663485135947

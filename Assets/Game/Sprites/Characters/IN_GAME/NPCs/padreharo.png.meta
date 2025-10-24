@@ -156,7 +156,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 500
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -209,9 +209,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 13160
-        width: 2480
-        height: 2632
+        y: 2654
+        width: 500
+        height: 530
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -230,10 +230,10 @@ TextureImporter:
       name: padreharo_1
       rect:
         serializedVersion: 2
-        x: 2480
-        y: 13160
-        width: 2480
-        height: 2632
+        x: 500
+        y: 2654
+        width: 500
+        height: 530
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -252,10 +252,10 @@ TextureImporter:
       name: padreharo_2
       rect:
         serializedVersion: 2
-        x: 4960
-        y: 13160
-        width: 2480
-        height: 2632
+        x: 1000
+        y: 2654
+        width: 500
+        height: 530
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -274,10 +274,10 @@ TextureImporter:
       name: padreharo_3
       rect:
         serializedVersion: 2
-        x: 7440
-        y: 13160
-        width: 2480
-        height: 2632
+        x: 1500
+        y: 2654
+        width: 500
+        height: 530
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -296,10 +296,10 @@ TextureImporter:
       name: padreharo_4
       rect:
         serializedVersion: 2
-        x: 9920
-        y: 13160
-        width: 2480
-        height: 2632
+        x: 2000
+        y: 2654
+        width: 500
+        height: 530
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -318,10 +318,10 @@ TextureImporter:
       name: padreharo_5
       rect:
         serializedVersion: 2
-        x: 12400
-        y: 13160
-        width: 2480
-        height: 2632
+        x: 2500
+        y: 2654
+        width: 500
+        height: 530
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -341,9 +341,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 10528
-        width: 2480
-        height: 2632
+        y: 2124
+        width: 500
+        height: 530
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -362,10 +362,10 @@ TextureImporter:
       name: padreharo_7
       rect:
         serializedVersion: 2
-        x: 2480
-        y: 10528
-        width: 2480
-        height: 2632
+        x: 500
+        y: 2124
+        width: 500
+        height: 530
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -384,10 +384,10 @@ TextureImporter:
       name: padreharo_8
       rect:
         serializedVersion: 2
-        x: 4960
-        y: 10528
-        width: 2480
-        height: 2632
+        x: 1000
+        y: 2124
+        width: 500
+        height: 530
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -406,10 +406,10 @@ TextureImporter:
       name: padreharo_9
       rect:
         serializedVersion: 2
-        x: 7440
-        y: 10528
-        width: 2480
-        height: 2632
+        x: 1500
+        y: 2124
+        width: 500
+        height: 530
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -428,10 +428,10 @@ TextureImporter:
       name: padreharo_10
       rect:
         serializedVersion: 2
-        x: 9920
-        y: 10528
-        width: 2480
-        height: 2632
+        x: 2000
+        y: 2124
+        width: 500
+        height: 530
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -450,10 +450,10 @@ TextureImporter:
       name: padreharo_11
       rect:
         serializedVersion: 2
-        x: 12400
-        y: 10528
-        width: 2480
-        height: 2632
+        x: 2500
+        y: 2124
+        width: 500
+        height: 530
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -473,9 +473,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 7896
-        width: 2480
-        height: 2632
+        y: 1594
+        width: 500
+        height: 530
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -494,10 +494,10 @@ TextureImporter:
       name: padreharo_13
       rect:
         serializedVersion: 2
-        x: 2480
-        y: 7896
-        width: 2480
-        height: 2632
+        x: 500
+        y: 1594
+        width: 500
+        height: 530
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -516,10 +516,10 @@ TextureImporter:
       name: padreharo_14
       rect:
         serializedVersion: 2
-        x: 4960
-        y: 7896
-        width: 2480
-        height: 2632
+        x: 1000
+        y: 1594
+        width: 500
+        height: 530
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -538,10 +538,10 @@ TextureImporter:
       name: padreharo_15
       rect:
         serializedVersion: 2
-        x: 7440
-        y: 7896
-        width: 2480
-        height: 2632
+        x: 1500
+        y: 1594
+        width: 500
+        height: 530
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -560,10 +560,10 @@ TextureImporter:
       name: padreharo_16
       rect:
         serializedVersion: 2
-        x: 9920
-        y: 7896
-        width: 2480
-        height: 2632
+        x: 2000
+        y: 1594
+        width: 500
+        height: 530
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -582,10 +582,10 @@ TextureImporter:
       name: padreharo_17
       rect:
         serializedVersion: 2
-        x: 12400
-        y: 7896
-        width: 2480
-        height: 2632
+        x: 2500
+        y: 1594
+        width: 500
+        height: 530
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -605,9 +605,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 5264
-        width: 2480
-        height: 2632
+        y: 1064
+        width: 500
+        height: 530
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -626,10 +626,10 @@ TextureImporter:
       name: padreharo_19
       rect:
         serializedVersion: 2
-        x: 2480
-        y: 5264
-        width: 2480
-        height: 2632
+        x: 500
+        y: 1064
+        width: 500
+        height: 530
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -648,10 +648,10 @@ TextureImporter:
       name: padreharo_20
       rect:
         serializedVersion: 2
-        x: 4960
-        y: 5264
-        width: 2480
-        height: 2632
+        x: 1000
+        y: 1064
+        width: 500
+        height: 530
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -670,10 +670,10 @@ TextureImporter:
       name: padreharo_21
       rect:
         serializedVersion: 2
-        x: 7440
-        y: 5264
-        width: 2480
-        height: 2632
+        x: 1500
+        y: 1064
+        width: 500
+        height: 530
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -692,10 +692,10 @@ TextureImporter:
       name: padreharo_22
       rect:
         serializedVersion: 2
-        x: 9920
-        y: 5264
-        width: 2480
-        height: 2632
+        x: 2000
+        y: 1064
+        width: 500
+        height: 530
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -714,10 +714,10 @@ TextureImporter:
       name: padreharo_23
       rect:
         serializedVersion: 2
-        x: 12400
-        y: 5264
-        width: 2480
-        height: 2632
+        x: 2500
+        y: 1064
+        width: 500
+        height: 530
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -737,9 +737,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 2632
-        width: 2480
-        height: 2632
+        y: 534
+        width: 500
+        height: 530
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -758,10 +758,10 @@ TextureImporter:
       name: padreharo_25
       rect:
         serializedVersion: 2
-        x: 2480
-        y: 2632
-        width: 2480
-        height: 2632
+        x: 500
+        y: 534
+        width: 500
+        height: 530
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -780,10 +780,10 @@ TextureImporter:
       name: padreharo_26
       rect:
         serializedVersion: 2
-        x: 4960
-        y: 2632
-        width: 2480
-        height: 2632
+        x: 1000
+        y: 534
+        width: 500
+        height: 530
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -802,10 +802,10 @@ TextureImporter:
       name: padreharo_27
       rect:
         serializedVersion: 2
-        x: 7440
-        y: 2632
-        width: 2480
-        height: 2632
+        x: 1500
+        y: 534
+        width: 500
+        height: 530
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -824,10 +824,10 @@ TextureImporter:
       name: padreharo_28
       rect:
         serializedVersion: 2
-        x: 9920
-        y: 2632
-        width: 2480
-        height: 2632
+        x: 2000
+        y: 534
+        width: 500
+        height: 530
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -846,10 +846,10 @@ TextureImporter:
       name: padreharo_29
       rect:
         serializedVersion: 2
-        x: 12400
-        y: 2632
-        width: 2480
-        height: 2632
+        x: 2500
+        y: 534
+        width: 500
+        height: 530
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -869,9 +869,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 2480
-        height: 2632
+        y: 4
+        width: 500
+        height: 530
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -890,10 +890,10 @@ TextureImporter:
       name: padreharo_31
       rect:
         serializedVersion: 2
-        x: 2480
-        y: 0
-        width: 2480
-        height: 2632
+        x: 500
+        y: 4
+        width: 500
+        height: 530
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -912,10 +912,10 @@ TextureImporter:
       name: padreharo_32
       rect:
         serializedVersion: 2
-        x: 4960
-        y: 0
-        width: 2480
-        height: 2632
+        x: 1000
+        y: 4
+        width: 500
+        height: 530
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -934,10 +934,10 @@ TextureImporter:
       name: padreharo_33
       rect:
         serializedVersion: 2
-        x: 7440
-        y: 0
-        width: 2480
-        height: 2632
+        x: 1500
+        y: 4
+        width: 500
+        height: 530
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -956,10 +956,10 @@ TextureImporter:
       name: padreharo_34
       rect:
         serializedVersion: 2
-        x: 9920
-        y: 0
-        width: 2480
-        height: 2632
+        x: 2000
+        y: 4
+        width: 500
+        height: 530
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -978,10 +978,10 @@ TextureImporter:
       name: padreharo_35
       rect:
         serializedVersion: 2
-        x: 12400
-        y: 0
-        width: 2480
-        height: 2632
+        x: 2500
+        y: 4
+        width: 500
+        height: 530
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1010,7 +1010,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries:
       - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":6.0},"gridSpriteSize":{"x":2480.0,"y":2632.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":6.0},"gridSpriteSize":{"x":500.0,"y":530.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       padreharo_0: 6452301303937717245
       padreharo_1: 7032384685759369720
