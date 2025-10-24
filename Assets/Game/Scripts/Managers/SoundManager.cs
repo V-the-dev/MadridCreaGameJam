@@ -24,7 +24,8 @@ public enum SoundType
     STREETAMBIENT,
     MUSIC1,
     MUSIC2,
-    UICLICKBUTTON
+    UICLICKBUTTON,
+    UIHOVERBUTTON
 }
 
 [ExecuteInEditMode]
