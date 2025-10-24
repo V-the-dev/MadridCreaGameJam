@@ -20,6 +20,7 @@ public class TimeManager : MonoBehaviour
     private int currentStage = 0;
     private float currentTime = 0;
 
+    private float totalTime = 0;
     public float timeMultipliyer;
 
     public bool timeManipulated = false;
@@ -39,12 +40,12 @@ public class TimeManager : MonoBehaviour
             Destroy(gameObject);
             return;
         }
+
+        GetTotalTime();
     }
 
     public float GetTotalTime()
     {
-        float totalTime = 0;
-
         for (int i = 0; i < etapasTemporales.Count; i++)
         {
             totalTime += etapasTemporales[i].duracion;
@@ -63,6 +64,9 @@ public class TimeManager : MonoBehaviour
     {
         if(!playerIsInterating)
             currentTime += Time.deltaTime * timeMultipliyer;
+        
+        if(totalTime <= 0)
+            return;
         
         Debug.Log("Etapa: " + currentStage + " Tiempo: " + currentTime);
         

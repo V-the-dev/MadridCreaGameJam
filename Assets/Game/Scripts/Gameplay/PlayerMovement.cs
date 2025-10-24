@@ -1,6 +1,7 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Linq;
 
 public class PlayerMovement : MonoBehaviour
@@ -27,6 +28,10 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private AnimatorOverrideController animWithLamp;
     [SerializeField] private AnimatorOverrideController animWithChuzo;
     [SerializeField] private AnimatorOverrideController animWithLampAndChuzo;
+
+    [SerializeField] private GameObject lampObject;
+    [SerializeField] private GameObject smallLightObject;
+    [SerializeField] private Transform[] lampPositions;
 
     bool isMoving = false;
     private float animatorSpeed = 0f;
@@ -76,7 +81,11 @@ public class PlayerMovement : MonoBehaviour
             nearest.Trigger();
 
         }
+
+        if (withLamp)
+            UpdateLampPosition();
     }
+
 
     private void FixedUpdate()
     {
@@ -193,8 +202,7 @@ public class PlayerMovement : MonoBehaviour
     public void RestartAnimator()
     {
         withLamp = false;
-        
-        //TODO quitar lampara 
+        lampObject.SetActive(false);
         
         withChuzo = false;
         animator.runtimeAnimatorController = animWithNOTHING;
@@ -213,11 +221,62 @@ public class PlayerMovement : MonoBehaviour
         }
     }
     
+    private void UpdateLampPosition()
+    {
+        AnimatorStateInfo state = animator.GetCurrentAnimatorStateInfo(0);
+
+        // Get the state's full path hash (unique identifier)
+        int hash = state.fullPathHash;
+
+        // Get the readable name (if you need to compare or print)
+        string name = animator.GetCurrentAnimatorClipInfo(0)[0].clip.name;
+
+        switch (name)
+        {
+            //FRONT
+            case "IdleFrontLAMP" or "WalkFrontLAMP":
+                smallLightObject.SetActive(true);
+                lampObject.transform.position = lampPositions[0].position;
+                break;
+            
+            //RIGHT
+            case "IdleSideLAMP_Right" or "WalkSideLAMP_Right":
+                smallLightObject.SetActive(true);
+                lampObject.transform.position = lampPositions[6].position;
+                break;
+            
+            //LEFT
+            case "IdleSideLAMP_Left" or "WalkSideLAMP_Left":
+                smallLightObject.SetActive(true);
+                lampObject.transform.position = lampPositions[7].position;
+                break;
+            
+            //BACK
+            case "IdleBackLAMP" or "WalkBackLAMP":
+                smallLightObject.SetActive(false);
+                lampObject.transform.position = lampPositions[3].position;
+                break;
+            
+            //BACK RIGHT
+            case "IdleDiagBackLAMP_Right" or "WalkDiagBackLAMP_Right":
+                smallLightObject.SetActive(true);
+                lampObject.transform.position = lampPositions[1].position;
+                break;
+            
+            //BACK LEFT
+            case "IdleDiagBackLAMP_Left" or "WalkDiagBackLAMP_Left":
+                smallLightObject.SetActive(true);
+                lampObject.transform.position = lampPositions[2].position;
+                break;
+        }
+    }
+    
+    [ContextMenu("Give Player Lamp")]
     public void AddLampAnimation()
     {
         withLamp = true;
         
-        //TODO añadir lampara 
+        lampObject.SetActive(true);
 
         if (withLamp && withChuzo)
         {
