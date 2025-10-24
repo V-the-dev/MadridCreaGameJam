@@ -10,10 +10,12 @@ public class ResponseEvent
     [SerializeField, HideInInspector] private UnityEvent onPickedResponse;
     [SerializeField, HideInInspector] private List<CustomStringEvent> customStringEvents = new List<CustomStringEvent>();
     [SerializeField, HideInInspector] private List<CustomStringIntEvent> customStringIntEvents = new List<CustomStringIntEvent>();
+    [SerializeField, HideInInspector] private List<CustomStringBoolEvent> customStringBoolEvents = new List<CustomStringBoolEvent>();
 
     [SerializeField, HideInInspector] private bool showVoidEvent;
     [SerializeField, HideInInspector] private bool showStringEvent;
     [SerializeField, HideInInspector] private bool showStringIntEvent;
+    [SerializeField, HideInInspector] private bool showStringBoolEvent;
 
     public UnityEvent OnPickedResponse => onPickedResponse;
 
@@ -58,5 +60,18 @@ public class CustomStringIntEvent
     public void Invoke()
     {
         unityEvent?.Invoke(stringValue, intValue);
+    }
+}
+
+[System.Serializable]
+public class CustomStringBoolEvent
+{
+    public string stringValue = "";
+    public bool boolValue = false;
+    public UnityEvent<string, bool> unityEvent = new UnityEvent<string, bool>();
+
+    public void Invoke()
+    {
+        unityEvent?.Invoke(stringValue, boolValue);
     }
 }

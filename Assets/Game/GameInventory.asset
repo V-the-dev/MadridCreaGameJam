@@ -109,3 +109,7 @@ MonoBehaviour:
   - isLoopPersistent: 0
     startValue: 0
     nombre: DebugAlejandro
+  internalEvents:
+  - isLoopPersistent: 0
+    startValue: 0
+    nombre: PrimerMensajePadreHaro

@@ -17,17 +17,24 @@ public class DialogueActivator : MonoBehaviour, IInteractuable
 
     public void Interact(MessageManager messageManager)
     {
-        foreach (DialogueResponseEvents responseEvents in GetComponents<DialogueResponseEvents>())
+        DialogueResponseEvents dialogueResponseEvents = GetComponent<DialogueResponseEvents>();
+        if (dialogueResponseEvents)
         {
-            if(responseEvents.DialogueObject == dialogueObject)
+            DialogueResponseEventType[] drEvents = dialogueResponseEvents.DREvents.ToArray();
+            ResponseEvent endEvent = null;
+            foreach (DialogueResponseEventType responseEvents in drEvents)
             {
-                messageManager.DialogueUI.AddResponseEvents(responseEvents.Events);
-                break;
+                if(responseEvents.DialogueObject == dialogueObject)
+                {
+                    messageManager.DialogueUI.AddResponseEvents(responseEvents.Events);
+                    endEvent = responseEvents.Events[responseEvents.Events.Length - 1];
+                    break;
+                }
             }
-        }
 
-        InventoryDialogueLinker linker = GetComponent<InventoryDialogueLinker>();
-        messageManager.DialogueUI.ShowDialogue(dialogueObject, linker);
+            InventoryDialogueLinker linker = GetComponent<InventoryDialogueLinker>();
+            messageManager.DialogueUI.ShowDialogue(dialogueObject, linker, endEvent);
+        }
     }
 
     public void NearestIndicator(bool activate)

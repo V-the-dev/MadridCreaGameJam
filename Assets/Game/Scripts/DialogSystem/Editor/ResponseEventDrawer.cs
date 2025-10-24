@@ -41,6 +41,19 @@ public class ResponseEventDrawer : PropertyDrawer
             }
             height += EditorGUIUtility.singleLineHeight + 4; // Add button
         }
+        
+        if (property.FindPropertyRelative("showStringBoolEvent").boolValue)
+        {
+            var stringBoolEvents = property.FindPropertyRelative("customStringBoolEvents");
+            for (int i = 0; i < stringBoolEvents.arraySize; i++)
+            {
+                var element = stringBoolEvents.GetArrayElementAtIndex(i);
+                height += EditorGUIUtility.singleLineHeight * 2 + 8; // String + Int fields
+                height += EditorGUI.GetPropertyHeight(element.FindPropertyRelative("unityEvent"), true) + 4;
+                height += EditorGUIUtility.singleLineHeight + 4; // Remove button
+            }
+            height += EditorGUIUtility.singleLineHeight + 4; // Add button
+        }
 
         return height;
     }
@@ -53,6 +66,7 @@ public class ResponseEventDrawer : PropertyDrawer
         var showVoidProp = property.FindPropertyRelative("showVoidEvent");
         var showStringProp = property.FindPropertyRelative("showStringEvent");
         var showStringIntProp = property.FindPropertyRelative("showStringIntEvent");
+        var showStringBoolProp = property.FindPropertyRelative("showStringBoolEvent");
 
         position.y += 2;
 
@@ -84,6 +98,8 @@ public class ResponseEventDrawer : PropertyDrawer
                 () => ToggleEventType(property, "showStringEvent"));
             menu.AddItem(new GUIContent("void Foo(string, int)"), showStringIntProp.boolValue, 
                 () => ToggleEventType(property, "showStringIntEvent"));
+            menu.AddItem(new GUIContent("void Foo(string, bool)"), showStringBoolProp.boolValue,
+                () => ToggleEventType(property, "showStringBoolEvent"));
             menu.ShowAsContext();
         }
 
@@ -190,6 +206,55 @@ public class ResponseEventDrawer : PropertyDrawer
             }
             y += EditorGUIUtility.singleLineHeight + 4;
         }
+        
+        // String + Bool events
+        if (showStringBoolProp.boolValue)
+        {
+            var stringBoolEvents = property.FindPropertyRelative("customStringBoolEvents");
+            
+            for (int i = 0; i < stringBoolEvents.arraySize; i++)
+            {
+                var element = stringBoolEvents.GetArrayElementAtIndex(i);
+                var stringValue = element.FindPropertyRelative("stringValue");
+                var boolValue = element.FindPropertyRelative("boolValue");
+                var unityEvent = element.FindPropertyRelative("unityEvent");
+
+                // String parameter field
+                EditorGUI.PropertyField(new Rect(position.x, y, position.width, EditorGUIUtility.singleLineHeight),
+                    stringValue, new GUIContent("Nombre"));
+                y += EditorGUIUtility.singleLineHeight + 4;
+
+                // Int parameter field
+                EditorGUI.PropertyField(new Rect(position.x, y, position.width, EditorGUIUtility.singleLineHeight),
+                    boolValue, new GUIContent("Valor"));
+                y += EditorGUIUtility.singleLineHeight + 4;
+
+                // Unity event
+                float h = EditorGUI.GetPropertyHeight(unityEvent, true);
+                EditorGUI.PropertyField(new Rect(position.x, y, position.width, h), unityEvent, 
+                    new GUIContent($"Event (string, bool) [{i}]"), true);
+                y += h + 4;
+
+                // Remove button
+                if (GUI.Button(new Rect(position.x, y, position.width, EditorGUIUtility.singleLineHeight), 
+                    $"Remove Event [{i}]"))
+                {
+                    stringBoolEvents.DeleteArrayElementAtIndex(i);
+                    property.serializedObject.ApplyModifiedProperties();
+                    break;
+                }
+                y += EditorGUIUtility.singleLineHeight + 4;
+            }
+
+            // Add new event button
+            if (GUI.Button(new Rect(position.x, y, position.width, EditorGUIUtility.singleLineHeight), 
+                "+ Add String-Bool Event"))
+            {
+                stringBoolEvents.arraySize++;
+                property.serializedObject.ApplyModifiedProperties();
+            }
+            y += EditorGUIUtility.singleLineHeight + 4;
+        }
 
         EditorGUI.indentLevel--;
         EditorGUI.EndProperty();
@@ -215,6 +280,10 @@ public class ResponseEventDrawer : PropertyDrawer
             else if (flagName == "showStringIntEvent")
             {
                 property.FindPropertyRelative("customStringIntEvents").ClearArray();
+            }
+            else if (flagName == "showStringBoolEvent")
+            {
+                property.FindPropertyRelative("customStringBoolEvents").ClearArray();
             }
         }
 

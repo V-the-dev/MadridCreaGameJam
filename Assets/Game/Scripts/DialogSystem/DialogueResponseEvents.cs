@@ -1,46 +1,66 @@
 using UnityEngine;
 using System;
+using System.Collections.Generic;
 
-public class DialogueResponseEvents : MonoBehaviour
+[Serializable]
+public class DialogueResponseEventType
 {
-    [SerializeField]
-    private DialogueObject dialogueObject;
-    [SerializeField]
-    private ResponseEvent[] events;
+    public DialogueObject dialogueObject;
+    public ResponseEvent[] events;
 
     public DialogueObject DialogueObject => dialogueObject;
 
     public ResponseEvent[] Events => events;
+}
+
+public class DialogueResponseEvents : MonoBehaviour
+{
+    public List<DialogueResponseEventType> DREvents = new List<DialogueResponseEventType>();
 
     public void OnValidate()
     {
-        if (!dialogueObject)
-            return;
-        if (dialogueObject.Responses == null)
-            return;
-        if (events != null && events.Length == dialogueObject.Responses.Length)
-            return;
-
-        if(events == null)
+        foreach (DialogueResponseEventType drEvent in DREvents)
         {
-            events = new ResponseEvent[dialogueObject.Responses.Length];
-        }
-        else
-        {
-            Array.Resize(ref events, dialogueObject.Responses.Length);
-        }
+            if (!drEvent.dialogueObject)
+                return;
+            if (drEvent.dialogueObject.Responses == null)
+                return;
+            if (drEvent.events != null && drEvent.events.Length == drEvent.dialogueObject.Responses.Length)
+                return;
 
-        for(int i = 0; i < dialogueObject.Responses.Length; ++i)
-        {
-            Response response = dialogueObject.Responses[i];
-
-            if (events[i] != null)
+            if(drEvent.events == null)
             {
-                events[i].name = response.ResponseText;
-                continue;
+                drEvent.events = new ResponseEvent[drEvent.dialogueObject.Responses.Length + 1];
+            }
+            else
+            {
+                Array.Resize(ref drEvent.events, drEvent.dialogueObject.Responses.Length + 1);
             }
 
-            events[i] = new ResponseEvent() { name=response.ResponseText };
+
+            for(int i = 0; i < drEvent.dialogueObject.Responses.Length + 1; ++i)
+            {
+                if (i == drEvent.dialogueObject.Responses.Length && drEvent.events[i] != null)
+                {
+                    drEvent.events[i].name = "END_CONVERSATION";
+                    continue;
+                }
+
+                if (i == drEvent.dialogueObject.Responses.Length)
+                {
+                    drEvent.events[i] = new ResponseEvent() { name = "END_CONVERSATION" };
+                    continue;
+                }
+                
+                Response response = drEvent.dialogueObject.Responses[i];
+                
+                if (drEvent.events[i] != null)
+                {
+                    drEvent.events[i].name = response.ResponseText;
+                    continue;
+                }
+                drEvent.events[i] = new ResponseEvent() { name=response.ResponseText };
+            }
         }
     }
 }

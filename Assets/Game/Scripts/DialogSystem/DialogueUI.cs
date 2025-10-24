@@ -61,7 +61,7 @@ public class DialogueUI : MonoBehaviour
         CloseDialogueBox();
     }
 
-    public void ShowDialogue(DialogueObject dialogueObject, InventoryDialogueLinker linker = null)
+    public void ShowDialogue(DialogueObject dialogueObject, InventoryDialogueLinker linker = null, ResponseEvent endEvent = null)
     {
         IsOpen = true;
         dialogueBox.SetActive(true);
@@ -91,7 +91,7 @@ public class DialogueUI : MonoBehaviour
             rightCharacter.GetComponent<Image>().sprite = dialogueObject.Characters[index++];
         }
     
-        StartCoroutine(StepThroughDialogue(dialogueObject, linker));
+        StartCoroutine(StepThroughDialogue(dialogueObject, linker, endEvent));
     }
 
     public void AddResponseEvents(ResponseEvent[] responseEvents)
@@ -99,7 +99,7 @@ public class DialogueUI : MonoBehaviour
         responseHandler.AddResponseEvents(responseEvents);
     }
 
-    private IEnumerator StepThroughDialogue(DialogueObject dialogueObject, InventoryDialogueLinker linker = null)
+    private IEnumerator StepThroughDialogue(DialogueObject dialogueObject, InventoryDialogueLinker linker = null, ResponseEvent endEvent = null)
     {
         GameManager.Instance.PauseGame();
         
@@ -237,6 +237,7 @@ public class DialogueUI : MonoBehaviour
             }
             
             responseHandler.ShowResponses(validResponses.ToArray(), validResponseIndices.ToArray());
+            if (endEvent != null) endEvent.OnPickedResponse?.Invoke();
             
             if (dialogueObject.MainCharacterWhenResponses)
             {
@@ -247,6 +248,7 @@ public class DialogueUI : MonoBehaviour
         {
             // Detener efectos al cerrar el diálogo
             typewritterEffect.StopEffects();
+            if (endEvent != null) endEvent.OnPickedResponse?.Invoke();
             CloseDialogueBox();
             GameManager.Instance.ResumeGame();
         }

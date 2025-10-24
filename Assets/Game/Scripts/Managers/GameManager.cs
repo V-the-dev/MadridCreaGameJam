@@ -30,6 +30,11 @@ public class GameManager : MonoBehaviour
             messageManager.Interactuar();
     }
 
+    public void DebugMessage()
+    {
+        Debug.Log("Prueba");
+    }
+
     private void Update()
     {
         

@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using UnityEngine;
 
 [Serializable]
@@ -34,6 +35,11 @@ public class InventarioObject : ScriptableObject
     public List<Evento> internalEvents = new List<Evento>();
 
     // ----------------Métodos de utilidad para acceder a los datos----------------
+
+    public Evento[] GetEventos()
+    {
+        return Enumerable.Concat(eventos, internalEvents).ToArray();
+    }
     
     /// <summary>
     /// Permite tomar el valor de una moneda dado el nombre de la misma.

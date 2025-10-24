@@ -102,8 +102,8 @@ public class InventoryDialogueLinkerEditor : Editor
                                 associatedEventsProp.arraySize++;
                             }
 
-                            var eventos = inventoryObject.eventos != null
-                                ? inventoryObject.eventos.Select(e => e.nombre).ToArray()
+                            var eventos = inventoryObject.GetEventos() != null
+                                ? inventoryObject.GetEventos().Select(e => e.nombre).ToArray()
                                 : new string[0];
 
                             for (int j = 0; j < associatedEventsProp.arraySize; j++)

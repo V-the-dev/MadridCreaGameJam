@@ -86,16 +86,23 @@ public class ResponseHandler : MonoBehaviour
             DialogueActivator dialogueActivator = MessageManager.Instance.dialogueActivator;
             dialogueActivator.UpdateDialogueObject(response.DialogueObject);
             InventoryDialogueLinker linker = dialogueActivator.GetInventoryDialogueLinker();
-        
-            foreach (DialogueResponseEvents responseEvents in dialogueActivator.GetComponents<DialogueResponseEvents>())
+            DialogueResponseEvents dialogueResponseEvents = dialogueActivator.GetComponent<DialogueResponseEvents>();
+            if (dialogueResponseEvents)
             {
-                if(responseEvents.DialogueObject == response.DialogueObject)
+                DialogueResponseEventType[] drEvents = dialogueResponseEvents.DREvents.ToArray();
+                ResponseEvent endEvent = null;
+                
+                foreach (DialogueResponseEventType responseEventsVar in drEvents)
                 {
-                    MessageManager.Instance.DialogueUI.AddResponseEvents(responseEvents.Events);
-                    break;
+                    if(responseEventsVar.DialogueObject == response.DialogueObject)
+                    {
+                        MessageManager.Instance.DialogueUI.AddResponseEvents(responseEventsVar.Events);
+                        endEvent = responseEventsVar.Events[responseEventsVar.Events.Length - 1];
+                        break;
+                    }
                 }
+                dialogueUI.ShowDialogue(response.DialogueObject, linker, endEvent);
             }
-            dialogueUI.ShowDialogue(response.DialogueObject, linker);
         }
         else
         {
