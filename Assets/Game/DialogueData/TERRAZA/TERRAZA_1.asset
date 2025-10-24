@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: TERRAZA_1
   m_EditorClassIdentifier: Assembly-CSharp::DialogueObject
   characters:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 549493287585794655, guid: 5c8396e9f4edacb42946f1f1c44bb638, type: 3}
+  - {fileID: 8342926242404002262, guid: a0882240fb9cc6c4fa36cbee39658fda, type: 3}
+  - {fileID: 21300000, guid: 6094f5e9382781749836d3297c790174, type: 3}
   charactersName:
   - JUGADOR 1
   - JUGADOR 2
@@ -25,8 +25,8 @@ MonoBehaviour:
   - "El gru\xF1\xF3n"
   - 
   charactersSide: 000000000000000001000000
-  mainCharacterWhenResponses: 0
-  mainCharacterIndex: 0
+  mainCharacterWhenResponses: 1
+  mainCharacterIndex: 2
   conversationLine:
   - dialogue: (Un par de sujetos juegan a las cartas, levantan la mirada al verte.)
     spriteIndex: 2

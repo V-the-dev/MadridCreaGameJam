@@ -616,7 +616,7 @@ MonoBehaviour:
   titleLabel: {fileID: 7219209223526624185}
   flechita: {fileID: 7255733515492098201}
   obscuredPeople: {r: 0.3529412, g: 0.3529412, b: 0.3529412, a: 1}
-  scaledObscuredPeople: 0.8
+  scaledObscuredPeople: 0.85
   characterSpacing: 200
   textBackground: {fileID: 4424400422513451638}
   backgroundWithName: {fileID: -7042109798174304468, guid: 1e34755527b0c9b469c6eadd1ddadb0b, type: 3}
