@@ -1,14 +1,15 @@
 using UnityEngine;
 
-public class VerjaScript : MonoBehaviour
+public class VerjaScript : CharacterBaseScript
 {
     private SpriteRenderer spriteRenderer;
     private Sprite verjaCerrada;
     [SerializeField] private Sprite verjaAbierta;
     [SerializeField] private GameObject barrier;
 
-    public void BucleReset()
+    public override void BucleReset()
     {
+        base.BucleReset();
         spriteRenderer.sprite = verjaCerrada;
         barrier.SetActive(true);
     }
@@ -19,7 +20,7 @@ public class VerjaScript : MonoBehaviour
         verjaCerrada = spriteRenderer.sprite;
     }
 
-    public void OpenPasadizo()
+    public void OpenVerja()
     {
         spriteRenderer.sprite = verjaAbierta;
         barrier.SetActive(false);

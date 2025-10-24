@@ -1,5 +1,7 @@
+using System;
 using UnityEngine;
 
+[Serializable]
 public class CharacterBaseScript : MonoBehaviour
 {
     private bool deactivateTrigger = false;

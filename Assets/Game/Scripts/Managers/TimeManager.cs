@@ -20,6 +20,10 @@ public class TimeManager : MonoBehaviour
     private int currentStage = 0;
     private float currentTime = 0;
     
+    [SerializeField] private PlayerMovement player;
+    [Header("NPCs & puertas")]
+    [SerializeField] private List<CharacterBaseScript> restartLoopList = new List<CharacterBaseScript>();
+    
     private void Awake()
     {
         if (Instance == null)
@@ -75,6 +79,9 @@ public class TimeManager : MonoBehaviour
                     MessageManager.Instance.dialogueActivator.UpdateDialogueObject(etapasTemporales[currentStage].dialogoFinalEtapa);
                     MessageManager.Instance.Interactuar();
                 }
+                
+                // Reiniciar información al completo
+                RestartLoopInfo();
             }
             else
             {
@@ -87,6 +94,16 @@ public class TimeManager : MonoBehaviour
             }
             
             //TODO: Lanzar sonidos de campanadas cuando termine una etapa
+        }
+    }
+
+    public void RestartLoopInfo()
+    {
+        player.RestartAnimator();
+        InventoryManager.Instance.RestartLoopInventory();
+        foreach (CharacterBaseScript character in restartLoopList)
+        {
+            character.BucleReset();
         }
     }
 }

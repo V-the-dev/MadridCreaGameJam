@@ -1,14 +1,15 @@
 using UnityEngine;
 
-public class PasadizoScript : MonoBehaviour
+public class PasadizoScript : CharacterBaseScript
 {
     private SpriteRenderer spriteRenderer;
     private Sprite pasadizoCerrado;
     [SerializeField] private Sprite pasadizoAbierto;
     [SerializeField] private GameObject barrier;
 
-    public void BucleReset()
+    public override void BucleReset()
     {
+        base.BucleReset();
         spriteRenderer.sprite = pasadizoCerrado;
         barrier.SetActive(true);
     }
