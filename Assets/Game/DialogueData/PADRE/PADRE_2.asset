@@ -25,6 +25,6 @@ MonoBehaviour:
   mainCharacterWhenResponses: 0
   mainCharacterIndex: 0
   conversationLine:
-  - dialogue: "Sereno, \xBFsupiste algo del disparo?"
+  - dialogue: "Sereno, \xBFsupiste algo del <color=#7b1f1f>disparo</color>?"
     spriteIndex: 0
   responses: []

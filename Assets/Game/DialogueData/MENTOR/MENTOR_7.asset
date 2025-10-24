@@ -22,6 +22,7 @@ MonoBehaviour:
   mainCharacterWhenResponses: 0
   mainCharacterIndex: 1
   conversationLine:
-  - dialogue: "Escoges la chatarra. Ahora tienes X pedazos de chatarra en tu posesi\xF3n."
+  - dialogue: (Te quedas con la <color=#1f5f8d>chatarra</color><img=chatarra>. Todo
+      puede intercambiarse en tiempos de necesidad)
     spriteIndex: 0
   responses: []

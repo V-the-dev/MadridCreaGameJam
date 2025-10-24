@@ -32,8 +32,6 @@ MonoBehaviour:
       gesto de respeto, agarra el trozo de metal y se lo lleva a rastras, desapareciendo
       en la oscuridad.)"
     spriteIndex: 0
-  - dialogue: "Oye t\xFA, ay\xFAdame a mover este trozo de metal de aqu\xED."
-    spriteIndex: 0
   - dialogue: (Te pones en pie. Cuando el polvo se disipa, ves que lo que antes era
       una pared se ha convertido en una rampa maltrecha que lleva al interior del
       edificio abandonado.)

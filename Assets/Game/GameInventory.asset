@@ -30,7 +30,7 @@ MonoBehaviour:
     - nombre: Chuzo
       sprite: {fileID: 993983420032589135, guid: c12de6364b77516409bd5b86b64708a6, type: 3}
       valor: 1
-    - nombre: "Jam\xF3n"
+    - nombre: Jamon
       sprite: {fileID: 993983420032589135, guid: c12de6364b77516409bd5b86b64708a6, type: 3}
       valor: 1
     - nombre: Reloj

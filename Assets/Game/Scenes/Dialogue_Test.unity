@@ -211,6 +211,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: DialogueCanvas_Final
       objectReference: {fileID: 0}
+    - target: {fileID: 5765567979385646336, guid: 088803ca7f141a14da94ed3890ab44c2, type: 3}
+      propertyPath: imageDatabase.Array.data[1].key
+      value: jamon
+      objectReference: {fileID: 0}
     - target: {fileID: 6774272375953118034, guid: 088803ca7f141a14da94ed3890ab44c2, type: 3}
       propertyPath: m_Enabled
       value: 0
@@ -510,7 +514,7 @@ PrefabInstance:
     - target: {fileID: 2168822247181156500, guid: c1ad5743db976ec46ab8dda058e3c7a9, type: 3}
       propertyPath: dialogueObject
       value: 
-      objectReference: {fileID: 11400000, guid: 23fd3b433f7bcfa4a80cbe7353a48754, type: 2}
+      objectReference: {fileID: 11400000, guid: 100d0196cc1aaf64f8133e3e60b88f90, type: 2}
     - target: {fileID: 2850149195111994021, guid: c1ad5743db976ec46ab8dda058e3c7a9, type: 3}
       propertyPath: m_Name
       value: MessageManager

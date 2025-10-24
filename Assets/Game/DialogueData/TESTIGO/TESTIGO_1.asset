@@ -31,13 +31,14 @@ MonoBehaviour:
   - dialogue: "Oh, santo cielo. Por fin una cara conocida. Ver\xE1, Sereno, yo estaba
       en la cocina de mi casa cuando todo ocurri\xF3."
     spriteIndex: 0
-  - dialogue: "Desde ah\xED, no pod\xEDa ver pero escuch\xE9 a Manuel discutir con
-      otro hombre en el puente"
+  - dialogue: "Desde ah\xED, no pod\xEDa ver pero escuch\xE9 a <color=#7b1f1f>Manuel</color>
+      discutir con otro hombre en el puente"
     spriteIndex: 0
   - dialogue: "Luego se oy\xF3 el disparo y me escond\xED. Cuando me atrev\xED a
       mirar, el otro hombre ya se hab\xEDa ido."
     spriteIndex: 0
-  - dialogue: "Pilar, la viuda, debe estar destrozada. Sali\xF3 disparada hacia la
-      casa de no s\xE9 qui\xE9n. Se fue en direcci\xF3n a la calle oscura."
+  - dialogue: "Pilar, la <color=#7b1f1f>viuda</color>, debe estar destrozada. Sali\xF3
+      disparada hacia la casa de no s\xE9 qui\xE9n. Se fue en direcci\xF3n a la <color=#7b1f1f>calle
+      oscura</color>."
     spriteIndex: 0
   responses: []

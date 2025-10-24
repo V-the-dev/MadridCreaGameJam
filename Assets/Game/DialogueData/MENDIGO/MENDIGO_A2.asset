@@ -25,17 +25,17 @@ MonoBehaviour:
   mainCharacterWhenResponses: 1
   mainCharacterIndex: 1
   conversationLine:
-  - dialogue: (Los ojos del mendigo se iluminan. Al comer el pan, parece recobrar
-      la vida.)
+  - dialogue: (Los ojos del mendigo se iluminan. Al comer el <color=#1f5f8d>trozo
+      de pan</color><img=pan>, parece recobrar la vida.)
     spriteIndex: 0
   - dialogue: (Entonces, parece ponerse nervioso y se agarra a tu abrigo.)
     spriteIndex: 0
   - dialogue: "Yo los vi, \xA1estaba ah\xED cuando ocurri\xF3! Al principio hab\xEDa
-      dos hombres, un tercero les segu\xEDa de cerca. "
+      dos, pero un <color=#7b1f1f>tercer hombre</color> les segu\xEDa de cerca. "
     spriteIndex: 0
   - dialogue: "El tercer hombre les arrincon\xF3 en el puente. Discutieron. Uno de
-      ellos intent\xF3 atacar al tercero, ah\xED se escuch\xF3 el disparo. En ese
-      momento hu\xED..."
+      ellos intent\xF3 atacar al tercero, ah\xED se escuch\xF3 el <color=#7b1f1f>disparo</color>.
+      En ese momento hu\xED..."
     spriteIndex: 0
   - dialogue: (Se deja caer contra la pared, aliviado.)
     spriteIndex: 0

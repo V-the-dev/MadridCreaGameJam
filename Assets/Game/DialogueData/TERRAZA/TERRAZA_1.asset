@@ -30,15 +30,15 @@ MonoBehaviour:
   conversationLine:
   - dialogue: (Un par de sujetos juegan a las cartas, levantan la mirada al verte.)
     spriteIndex: 2
-  - dialogue: "\xA1Sereno! \xBFTiene algunas pesetas en mano? \xBFQuiere unirse a
-      la partida?"
+  - dialogue: "\xA1Sereno! \xBFTiene algunas <color=#1f5f8d>pesetas</color><img=pesetas>
+      en mano? \xBFQuiere unirse a la partida?"
     spriteIndex: 0
   responses:
   - responseText: Preguntar por Manuel
     dialogueObject: {fileID: 11400000, guid: b9ed284345374ed499c01a7339e10565, type: 2}
-  - responseText: Preguntar por Bernardo
+  - responseText: Preguntar por <color=#7b1f1f>Garrido</color>
     dialogueObject: {fileID: 11400000, guid: 269c27022c4e3d94c98ba276180ad9af, type: 2}
-  - responseText: Jugar una partida
+  - responseText: Apostar <color=#1f5f8d>50 pesetas</color><img=pesetas>
     dialogueObject: {fileID: 11400000, guid: 60754857ba5b54f4bb61ef6250580c5e, type: 2}
   - responseText: Volver
     dialogueObject: {fileID: 0}

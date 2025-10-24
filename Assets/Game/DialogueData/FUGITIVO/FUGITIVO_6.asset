@@ -37,9 +37,9 @@ MonoBehaviour:
   - dialogue: "(El vidrio del coche refleja moment\xE1neamente una luz cegadora.)"
     spriteIndex: 0
   - dialogue: (Al darte la vuelta, ves el sol emerger entre los edificios. Por fin
-      Amanece.)
+      <color=#7b1f1f>amanece</color>.)
     spriteIndex: 1
-  - dialogue: (Elegiste perdonar.)
+  - dialogue: (Elegiste <color=#7b1f1f>perdonar</color>.)
     spriteIndex: 0
   responses:
   - responseText: El bucle se ha roto

@@ -25,10 +25,11 @@ MonoBehaviour:
   - dialogue: "Este juego transcurre a lo largo de una fr\xEDa noche madrile\xF1a."
     spriteIndex: 0
   - dialogue: "Los personajes podr\xE1n comportarse de forma distinta seg\xFAn el
-      tiempo transcurrido, las conversaciones previas o los objetos que poseas. "
+      <color=#7b1f1f>tiempo</color> transcurrido, las conversaciones previas o los
+      objetos que poseas. "
     spriteIndex: 0
-  - dialogue: "Ten esto en cuenta. Este juego es c\xEDclico: no esperes resolverlo
-      todo en un intento. "
+  - dialogue: "Ten esto en cuenta. Este juego es <color=#7b1f1f>c\xEDclico</color>:
+      no esperes resolverlo todo en un intento. "
     spriteIndex: 0
   - dialogue: Su encanto reside en conocer a los personajes y aprender a moverse
       mejor por el mundo.

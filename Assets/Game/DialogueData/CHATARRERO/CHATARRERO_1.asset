@@ -25,11 +25,11 @@ MonoBehaviour:
   mainCharacterWhenResponses: 1
   mainCharacterIndex: 1
   conversationLine:
-  - dialogue: Escucha, te puedo dar unas pocas pesetas si me traes trozos de chatarra
-      de calidad.
+  - dialogue: Escucha, te puedo dar unas pocas <color=#1f5f8d>pesetas</color><img=pesetas>
+      si me traes trozos de <color=#1f5f8d>chatarra</color><img=chatarra> de calidad.
     spriteIndex: 0
   responses:
-  - responseText: Vender chatarra por 50 pesetas.
+  - responseText: Vender la <color=#1f5f8d>chatarra</color><img=chatarra>
     dialogueObject: {fileID: 11400000, guid: a067fb58cc6fccb478e9e7834fe5d986, type: 2}
   - responseText: Volver
     dialogueObject: {fileID: 0}

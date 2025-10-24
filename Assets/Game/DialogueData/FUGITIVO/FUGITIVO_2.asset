@@ -16,7 +16,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 05f05d3e2699dc64b8010fe0cb6c6e4c, type: 3}
   - {fileID: 21300000, guid: 6094f5e9382781749836d3297c790174, type: 3}
   charactersName:
-  - MATEO
+  - ISIDRO
   - SERENO
   charactersTitle:
   - Fugitivo
@@ -26,13 +26,13 @@ MonoBehaviour:
   mainCharacterIndex: 1
   conversationLine:
   - dialogue: "Debi\xF3 verme venir. Sab\xEDa que ven\xEDa. Estaba armado."
-    spriteIndex: 1
+    spriteIndex: 0
   - dialogue: "No quer\xEDa matarlo, pero lo hice en defensa propia."
     spriteIndex: 0
   - dialogue: "Dios... Me promet\xED que no har\xEDa esto. No puedo sentir pena por
       \xE9l, despu\xE9s de todo..."
     spriteIndex: 0
-  - dialogue: "\xBFPor qu\xE9 me duele tanto? \xA1Me dejasteis para morir!"
+  - dialogue: "<shake>\xBFPor qu\xE9 me duele tanto? \xA1Me dejasteis para morir!</shake>"
     spriteIndex: 0
   responses:
   - responseText: ...

@@ -28,10 +28,11 @@ MonoBehaviour:
   - dialogue: "(Un mendigo fam\xE9lico est\xE1 tumbado bajo el puente. Su estado
       es deplorable.)"
     spriteIndex: 0
-  - dialogue: "Sereno... \xBFNo tendr\xEDa usted un cacho de pan que darme?"
+  - dialogue: "Sereno... \xBFNo tendr\xEDa usted un <color=#1f5f8d>cacho de pan</color><img=pan>
+      que darme?"
     spriteIndex: 0
   responses:
-  - responseText: Ofrecer Pan
+  - responseText: Ofrecer <color=#1f5f8d>pan</color><img=pan>
     dialogueObject: {fileID: 11400000, guid: e0ec3383abdb6494eabb8c528f93b1b3, type: 2}
   - responseText: Volver
     dialogueObject: {fileID: 0}

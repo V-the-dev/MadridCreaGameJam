@@ -16041,9 +16041,7 @@ MonoBehaviour:
     hasAssociatedObject: 0
     associatedObjects: []
     eventResponseAssociated: 
-    eventsAssociatedPerResponse: []
     objectResponseAssociated: 
-    objectsAssociatedPerResponse: []
   - dialogueObject: {fileID: 11400000, guid: d84dc061d90ebcc469bbca0fa1dc7718, type: 2}
     hasAssociatedEvent: 1
     associatedEvents:
@@ -16052,9 +16050,7 @@ MonoBehaviour:
     hasAssociatedObject: 0
     associatedObjects: []
     eventResponseAssociated: 
-    eventsAssociatedPerResponse: []
     objectResponseAssociated: 
-    objectsAssociatedPerResponse: []
 --- !u!4 &1076668592 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1530911083960404698, guid: c1ad5743db976ec46ab8dda058e3c7a9, type: 3}

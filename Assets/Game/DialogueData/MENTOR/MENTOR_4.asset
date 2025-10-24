@@ -28,5 +28,5 @@ MonoBehaviour:
   - dialogue: "Cu\xE9ntame, \xBFc\xF3mo va la noche?"
     spriteIndex: 0
   responses:
-  - responseText: Entregar licor
+  - responseText: Entregar <color=#1f5f8d>licor</color><img=licor>
     dialogueObject: {fileID: 11400000, guid: f63992c0395af0245aee5340d98c7c22, type: 2}

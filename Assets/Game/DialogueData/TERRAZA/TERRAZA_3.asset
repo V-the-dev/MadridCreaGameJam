@@ -28,7 +28,8 @@ MonoBehaviour:
   mainCharacterWhenResponses: 0
   mainCharacterIndex: 0
   conversationLine:
-  - dialogue: "Bernardo, s\xED, suele venir con nosotros a jugar."
+  - dialogue: "<color=#7b1f1f>Garrido</color>, s\xED, suele venir con nosotros a
+      jugar."
     spriteIndex: 0
   - dialogue: Pero hoy no estaba de humor.
     spriteIndex: 0
@@ -36,10 +37,12 @@ MonoBehaviour:
     spriteIndex: 1
   - dialogue: "Ni cuando pierde se pone as\xED... hehehe"
     spriteIndex: 0
-  - dialogue: "Yo dir\xEDa que Bernardo estaba amenazando al otro tipo por algo,
-      o le advert\xEDa, vete a saber."
+  - dialogue: "<color=#7b1f1f>Garrido</color> dijo que le estaban siguiendo, o algo
+      as\xED..."
     spriteIndex: 1
-  - dialogue: "Definitivamente ten\xEDan mala noche. No sabemos m\xE1s. \xBFPodemos
-      ayudarle con otra cosa?"
+  - dialogue: "Ese hombre no est\xE1 bien, ve fantasmas desde que estuvo en Brunete
+      duante la guerra."
     spriteIndex: 0
+  - dialogue: "\xBFAlgo m\xE1s, maestro?"
+    spriteIndex: 1
   responses: []

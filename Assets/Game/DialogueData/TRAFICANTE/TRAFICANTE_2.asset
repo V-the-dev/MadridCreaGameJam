@@ -22,7 +22,7 @@ MonoBehaviour:
   mainCharacterWhenResponses: 0
   mainCharacterIndex: 1
   conversationLine:
-  - dialogue: "Compras el chuzo <img=chuzo>, un bast\xF3n con punta de pica que puedes
-      usar para defenderte."
+  - dialogue: "Compras el <color=#1f5f8d>chuzo</color><img=chuzo>, un bast\xF3n con
+      punta de pica que puedes usar para defenderte."
     spriteIndex: 0
   responses: []

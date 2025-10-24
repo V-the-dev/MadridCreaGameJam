@@ -25,7 +25,7 @@ MonoBehaviour:
   mainCharacterWhenResponses: 1
   mainCharacterIndex: 1
   conversationLine:
-  - dialogue: (Avanzas y el perro se lanza a tu cuello. Tu instinto es levantar el
-      chuzo y el pobre animal se ensarta en la pica.)
+  - dialogue: (<shake>Avanzas y el perro se lanza a tu cuello.</shake> Tu instinto
+      es levantar el chuzo y el pobre animal se ensarta en la pica.)
     spriteIndex: 0
   responses: []

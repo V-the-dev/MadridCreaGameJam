@@ -22,6 +22,6 @@ MonoBehaviour:
   mainCharacterWhenResponses: 0
   mainCharacterIndex: 1
   conversationLine:
-  - dialogue: Compras un trozo de pan.
+  - dialogue: Compras un <color=#1f5f8d>trozo de pan</color><img=pan>.
     spriteIndex: 0
   responses: []

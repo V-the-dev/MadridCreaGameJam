@@ -31,7 +31,7 @@ MonoBehaviour:
     spriteIndex: 0
   - dialogue: "Claro que no. \xBFC\xF3mo podr\xEDas?"
     spriteIndex: 0
-  - dialogue: Escuchas un disparo.
+  - dialogue: <shake>Escuchas un <color=#7b1f1f>disparo</color>.</shake>
     spriteIndex: 0
   - dialogue: Tu vientre se humedece. Caes de rodillas.
     spriteIndex: 1
@@ -42,7 +42,7 @@ MonoBehaviour:
     spriteIndex: 0
   - dialogue: "T\xFA hiciste lo mismo aquel d\xEDa."
     spriteIndex: 0
-  - dialogue: Caes de plomo al suelo.
+  - dialogue: <shake><color=#7b1f1f>(Caes de plomo al suelo.)</shake></color>
     spriteIndex: 1
   responses:
   - responseText: Reiniciar el bucle

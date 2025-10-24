@@ -29,7 +29,7 @@ MonoBehaviour:
     spriteIndex: 0
   - dialogue: Mi doncella no me ama. Toma esto. Supongo que ya no lo necesito.
     spriteIndex: 0
-  - dialogue: "(Te entrega una paleta de jam\xF3n, un bien muy preciado en estos
-      tiempos.)"
+  - dialogue: "(Te entrega una <color=#1f5f8d>paleta de jam\xF3n</color><img=jamon>,
+      un bien muy preciado en estos tiempos.)"
     spriteIndex: 0
   responses: []

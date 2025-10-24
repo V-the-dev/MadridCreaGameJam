@@ -93,7 +93,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 520
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -146,9 +146,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 1038
-        width: 500
-        height: 518
+        y: 4420
+        width: 2130
+        height: 2210
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -167,10 +167,10 @@ TextureImporter:
       name: mentor_1
       rect:
         serializedVersion: 2
-        x: 500
-        y: 1038
-        width: 500
-        height: 518
+        x: 2130
+        y: 4420
+        width: 2130
+        height: 2210
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -189,10 +189,10 @@ TextureImporter:
       name: mentor_2
       rect:
         serializedVersion: 2
-        x: 1000
-        y: 1038
-        width: 500
-        height: 518
+        x: 4260
+        y: 4420
+        width: 2130
+        height: 2210
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -211,10 +211,10 @@ TextureImporter:
       name: mentor_3
       rect:
         serializedVersion: 2
-        x: 1500
-        y: 1038
-        width: 500
-        height: 518
+        x: 6390
+        y: 4420
+        width: 2130
+        height: 2210
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -233,10 +233,10 @@ TextureImporter:
       name: mentor_4
       rect:
         serializedVersion: 2
-        x: 2000
-        y: 1038
-        width: 500
-        height: 518
+        x: 8520
+        y: 4420
+        width: 2130
+        height: 2210
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -256,9 +256,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 520
-        width: 500
-        height: 518
+        y: 2210
+        width: 2130
+        height: 2210
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -277,10 +277,10 @@ TextureImporter:
       name: mentor_6
       rect:
         serializedVersion: 2
-        x: 500
-        y: 520
-        width: 500
-        height: 518
+        x: 2130
+        y: 2210
+        width: 2130
+        height: 2210
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -299,10 +299,10 @@ TextureImporter:
       name: mentor_7
       rect:
         serializedVersion: 2
-        x: 1000
-        y: 520
-        width: 500
-        height: 518
+        x: 4260
+        y: 2210
+        width: 2130
+        height: 2210
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -321,10 +321,10 @@ TextureImporter:
       name: mentor_8
       rect:
         serializedVersion: 2
-        x: 1500
-        y: 520
-        width: 500
-        height: 518
+        x: 6390
+        y: 2210
+        width: 2130
+        height: 2210
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -343,10 +343,10 @@ TextureImporter:
       name: mentor_9
       rect:
         serializedVersion: 2
-        x: 2000
-        y: 520
-        width: 500
-        height: 518
+        x: 8520
+        y: 2210
+        width: 2130
+        height: 2210
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -366,9 +366,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 2
-        width: 500
-        height: 518
+        y: 0
+        width: 2130
+        height: 2210
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -387,10 +387,10 @@ TextureImporter:
       name: mentor_11
       rect:
         serializedVersion: 2
-        x: 500
-        y: 2
-        width: 500
-        height: 518
+        x: 2130
+        y: 0
+        width: 2130
+        height: 2210
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -409,10 +409,10 @@ TextureImporter:
       name: mentor_12
       rect:
         serializedVersion: 2
-        x: 1000
-        y: 2
-        width: 500
-        height: 518
+        x: 4260
+        y: 0
+        width: 2130
+        height: 2210
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -431,10 +431,10 @@ TextureImporter:
       name: mentor_13
       rect:
         serializedVersion: 2
-        x: 1500
-        y: 2
-        width: 500
-        height: 518
+        x: 6390
+        y: 0
+        width: 2130
+        height: 2210
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -453,10 +453,10 @@ TextureImporter:
       name: mentor_14
       rect:
         serializedVersion: 2
-        x: 2000
-        y: 2
-        width: 500
-        height: 518
+        x: 8520
+        y: 0
+        width: 2130
+        height: 2210
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -485,7 +485,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries:
       - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":3.0},"gridSpriteSize":{"x":500.0,"y":518.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":3.0},"gridSpriteSize":{"x":2130.0,"y":2210.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       mentor_0: 5524473740377097280
       mentor_1: -470726428532650115

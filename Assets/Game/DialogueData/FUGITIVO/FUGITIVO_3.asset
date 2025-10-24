@@ -16,7 +16,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 05f05d3e2699dc64b8010fe0cb6c6e4c, type: 3}
   - {fileID: 21300000, guid: 6094f5e9382781749836d3297c790174, type: 3}
   charactersName:
-  - MATEO
+  - ISIDRO
   - SERENO
   charactersTitle:
   - Fugitivo
@@ -27,7 +27,7 @@ MonoBehaviour:
   conversationLine:
   - dialogue: "De los tres, siempre fuiste mi favorito. Pensaba que t\xFA y yo ten\xEDamos
       algo especial. Me salvaste la vida en varias ocasiones."
-    spriteIndex: 1
+    spriteIndex: 0
   - dialogue: "\xBFPor qu\xE9 no volviste a por m\xED?"
     spriteIndex: 0
   - dialogue: "Bernardo rompi\xF3 a llorar en cu\xE1nto me reconoci\xF3. Tiene m\xE9rito.
@@ -35,6 +35,9 @@ MonoBehaviour:
     spriteIndex: 0
   - dialogue: "Est\xE1 abajo, en el s\xF3tano. Su destino depende mucho de lo que
       hagas a continuaci\xF3n."
+    spriteIndex: 0
+  - dialogue: "No sientas l\xE1stima por \xE9l. Me ha dicho d\xF3nde vives. No he
+      tenido que pregunt\xE1rselo dos veces."
     spriteIndex: 0
   responses:
   - responseText: ...

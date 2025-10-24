@@ -25,12 +25,12 @@ MonoBehaviour:
   mainCharacterWhenResponses: 1
   mainCharacterIndex: 1
   conversationLine:
-  - dialogue: (Antes de poder hacer nada, escuchas un sonido estruendoso.)
+  - dialogue: <shake>(Antes de poder hacer nada, escuchas un sonido estruendoso.)</shake>
     spriteIndex: 1
-  - dialogue: (Caes de rodillas.)
-    spriteIndex: 1
-  - dialogue: "(El hombre, nervioso, deja caer su rev\xF3lver.)"
+  - dialogue: "<shake>(El hombre, nervioso, deja caer su rev\xF3lver.)</shake>"
     spriteIndex: 0
+  - dialogue: <shake><color=#7b1f1f>(Caes de rodillas.)</shake></color>
+    spriteIndex: 1
   - dialogue: "(Un gesto casi imperceptible de l\xE1stima es lo \xFAnico que te dedica
       antes de salir corriendo y desaparecer en la oscuridad.)"
     spriteIndex: 0

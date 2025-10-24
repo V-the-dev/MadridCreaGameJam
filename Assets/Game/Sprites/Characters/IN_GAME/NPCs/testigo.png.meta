@@ -52,12 +52,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 600
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -109,12 +109,12 @@ TextureImporter:
       name: testigo_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1196
-        width: 500
-        height: 597
+        x: 386
+        y: 434
+        width: 7
+        height: 7
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -131,12 +131,12 @@ TextureImporter:
       name: testigo_1
       rect:
         serializedVersion: 2
-        x: 500
-        y: 1196
-        width: 500
-        height: 597
+        x: 388
+        y: 349
+        width: 41
+        height: 86
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -153,12 +153,12 @@ TextureImporter:
       name: testigo_2
       rect:
         serializedVersion: 2
-        x: 1000
-        y: 1196
-        width: 500
-        height: 597
+        x: 501
+        y: 77
+        width: 1710
+        height: 2809
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -167,270 +167,6 @@ TextureImporter:
       bones: []
       spriteID: 14d618abaf16f80a0800000000000000
       internalID: -6877170376472695487
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: testigo_3
-      rect:
-        serializedVersion: 2
-        x: 1500
-        y: 1196
-        width: 500
-        height: 597
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0759e7144957fde49aacd39d29edabc6
-      internalID: 1666171723
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: testigo_4
-      rect:
-        serializedVersion: 2
-        x: 2000
-        y: 1196
-        width: 500
-        height: 597
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f0975ed05ac63d64c8f7319e76c5ee1f
-      internalID: -1895391267
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: testigo_5
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 599
-        width: 500
-        height: 597
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 04a8187e7750f7e4d8ca2d6d3cc4e13b
-      internalID: -1715784499
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: testigo_6
-      rect:
-        serializedVersion: 2
-        x: 500
-        y: 599
-        width: 500
-        height: 597
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 79d5686ef5a181740b039dc36f6f31e5
-      internalID: -241926990
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: testigo_7
-      rect:
-        serializedVersion: 2
-        x: 1000
-        y: 599
-        width: 500
-        height: 597
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1bf7be8613960a64dbd48a7e447eea0f
-      internalID: -296041175
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: testigo_8
-      rect:
-        serializedVersion: 2
-        x: 1500
-        y: 599
-        width: 500
-        height: 597
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 782bffcc06bde6b4799dd5cfdcfd147f
-      internalID: -1636639227
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: testigo_9
-      rect:
-        serializedVersion: 2
-        x: 2000
-        y: 599
-        width: 500
-        height: 597
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 617665286673b144c9a3450424a5fcb9
-      internalID: 1654939894
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: testigo_10
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 2
-        width: 500
-        height: 597
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 60630348604b8684cb68c7d2afb7bfdb
-      internalID: -400087810
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: testigo_11
-      rect:
-        serializedVersion: 2
-        x: 500
-        y: 2
-        width: 500
-        height: 597
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0321a16d191af02458d8231ce3c383b3
-      internalID: -667992714
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: testigo_12
-      rect:
-        serializedVersion: 2
-        x: 1000
-        y: 2
-        width: 500
-        height: 597
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f1cb443de9af68e438d6c9b268869245
-      internalID: 2001693348
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: testigo_13
-      rect:
-        serializedVersion: 2
-        x: 1500
-        y: 2
-        width: 500
-        height: 597
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 12dfc2e5408168d45b4f681cf58131e3
-      internalID: -47618817
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: testigo_14
-      rect:
-        serializedVersion: 2
-        x: 2000
-        y: 2
-        width: 500
-        height: 597
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1e3d007aaf57c6e4eab1a56fa8d796c0
-      internalID: 1180316747
       vertices: []
       indices: 
       edges: []
@@ -447,25 +183,11 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries:
-      - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":3.0},"gridSpriteSize":{"x":500.0,"y":597.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+      entries: []
     nameFileIdTable:
       testigo_0: 2721725068644624084
       testigo_1: 9074094396924936741
-      testigo_10: -400087810
-      testigo_11: -667992714
-      testigo_12: 2001693348
-      testigo_13: -47618817
-      testigo_14: 1180316747
       testigo_2: -6877170376472695487
-      testigo_3: 1666171723
-      testigo_4: -1895391267
-      testigo_5: -1715784499
-      testigo_6: -241926990
-      testigo_7: -296041175
-      testigo_8: -1636639227
-      testigo_9: 1654939894
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

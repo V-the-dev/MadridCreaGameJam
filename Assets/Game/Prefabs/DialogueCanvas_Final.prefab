@@ -646,7 +646,7 @@ MonoBehaviour:
   - key: chuzo
     sprite: {fileID: 21300000, guid: 3c5376697f5c17548bf76b625b310931, type: 3}
     sizeMultiplier: 50
-  - key: Jamon
+  - key: jamon
     sprite: {fileID: 21300000, guid: cfa1fa17c66b5794d8490a2aa6ced41c, type: 3}
     sizeMultiplier: 50
   - key: lampara

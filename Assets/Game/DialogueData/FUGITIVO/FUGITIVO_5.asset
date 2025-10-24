@@ -25,8 +25,8 @@ MonoBehaviour:
   mainCharacterWhenResponses: 1
   mainCharacterIndex: 1
   conversationLine:
-  - dialogue: "(Levantas el chuzo. Est\xE1s lo bastante cerca. Hundes la pica en
-      su vientre.)"
+  - dialogue: "(Levantas el chuzo. Est\xE1s lo bastante cerca. <shake>Hundes la pica
+      en su <color=#7b1f1f>vientre</color>.</shake>)"
     spriteIndex: 1
   - dialogue: "(Mateo tiene el rev\xF3lver alzado, apunt\xE1ndote, pero no aprieta
       el gatillo.)"
@@ -35,8 +35,8 @@ MonoBehaviour:
     spriteIndex: 0
   - dialogue: "(Una vez m\xE1s, eligi\xF3 sacrificarse.)"
     spriteIndex: 0
-  - dialogue: (Elegiste el castigo.)
+  - dialogue: (Elegiste el <color=#7b1f1f>castigo</color>.)
     spriteIndex: 1
   responses:
-  - responseText: El bucle se ha roto
+  - responseText: "La noche contin\xFAa"
     dialogueObject: {fileID: 0}

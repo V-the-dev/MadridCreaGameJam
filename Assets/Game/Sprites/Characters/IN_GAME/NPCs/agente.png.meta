@@ -120,7 +120,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 500
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -173,9 +173,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 2091
-        width: 500
-        height: 696
+        y: 10368
+        width: 2480
+        height: 3456
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -194,10 +194,10 @@ TextureImporter:
       name: agente_1
       rect:
         serializedVersion: 2
-        x: 500
-        y: 2091
-        width: 500
-        height: 696
+        x: 2480
+        y: 10368
+        width: 2480
+        height: 3456
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -216,10 +216,10 @@ TextureImporter:
       name: agente_2
       rect:
         serializedVersion: 2
-        x: 1000
-        y: 2091
-        width: 500
-        height: 696
+        x: 4960
+        y: 10368
+        width: 2480
+        height: 3456
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -238,10 +238,10 @@ TextureImporter:
       name: agente_3
       rect:
         serializedVersion: 2
-        x: 1500
-        y: 2091
-        width: 500
-        height: 696
+        x: 7440
+        y: 10368
+        width: 2480
+        height: 3456
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -260,10 +260,10 @@ TextureImporter:
       name: agente_4
       rect:
         serializedVersion: 2
-        x: 2000
-        y: 2091
-        width: 500
-        height: 696
+        x: 9920
+        y: 10368
+        width: 2480
+        height: 3456
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -282,10 +282,10 @@ TextureImporter:
       name: agente_5
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1395
-        width: 500
-        height: 696
+        x: 12400
+        y: 10368
+        width: 2480
+        height: 3456
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -304,10 +304,10 @@ TextureImporter:
       name: agente_6
       rect:
         serializedVersion: 2
-        x: 500
-        y: 1395
-        width: 500
-        height: 696
+        x: 0
+        y: 6912
+        width: 2480
+        height: 3456
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -326,10 +326,10 @@ TextureImporter:
       name: agente_7
       rect:
         serializedVersion: 2
-        x: 1000
-        y: 1395
-        width: 500
-        height: 696
+        x: 2480
+        y: 6912
+        width: 2480
+        height: 3456
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -348,10 +348,10 @@ TextureImporter:
       name: agente_8
       rect:
         serializedVersion: 2
-        x: 1500
-        y: 1395
-        width: 500
-        height: 696
+        x: 4960
+        y: 6912
+        width: 2480
+        height: 3456
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -370,10 +370,10 @@ TextureImporter:
       name: agente_9
       rect:
         serializedVersion: 2
-        x: 2000
-        y: 1395
-        width: 500
-        height: 696
+        x: 7440
+        y: 6912
+        width: 2480
+        height: 3456
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -392,10 +392,10 @@ TextureImporter:
       name: agente_10
       rect:
         serializedVersion: 2
-        x: 0
-        y: 699
-        width: 500
-        height: 696
+        x: 9920
+        y: 6912
+        width: 2480
+        height: 3456
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -414,10 +414,10 @@ TextureImporter:
       name: agente_11
       rect:
         serializedVersion: 2
-        x: 500
-        y: 699
-        width: 500
-        height: 696
+        x: 12400
+        y: 6912
+        width: 2480
+        height: 3456
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -436,10 +436,10 @@ TextureImporter:
       name: agente_12
       rect:
         serializedVersion: 2
-        x: 1000
-        y: 699
-        width: 500
-        height: 696
+        x: 0
+        y: 3456
+        width: 2480
+        height: 3456
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -458,10 +458,10 @@ TextureImporter:
       name: agente_13
       rect:
         serializedVersion: 2
-        x: 1500
-        y: 699
-        width: 500
-        height: 696
+        x: 2480
+        y: 3456
+        width: 2480
+        height: 3456
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -480,10 +480,10 @@ TextureImporter:
       name: agente_14
       rect:
         serializedVersion: 2
-        x: 2000
-        y: 699
-        width: 500
-        height: 696
+        x: 4960
+        y: 3456
+        width: 2480
+        height: 3456
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -502,10 +502,10 @@ TextureImporter:
       name: agente_15
       rect:
         serializedVersion: 2
-        x: 0
-        y: 3
-        width: 500
-        height: 696
+        x: 7440
+        y: 3456
+        width: 2480
+        height: 3456
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -524,10 +524,10 @@ TextureImporter:
       name: agente_16
       rect:
         serializedVersion: 2
-        x: 500
-        y: 3
-        width: 500
-        height: 696
+        x: 9920
+        y: 3456
+        width: 2480
+        height: 3456
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -546,10 +546,10 @@ TextureImporter:
       name: agente_17
       rect:
         serializedVersion: 2
-        x: 1000
-        y: 3
-        width: 500
-        height: 696
+        x: 12400
+        y: 3456
+        width: 2480
+        height: 3456
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -568,10 +568,10 @@ TextureImporter:
       name: agente_18
       rect:
         serializedVersion: 2
-        x: 1500
-        y: 3
-        width: 500
-        height: 696
+        x: 0
+        y: 0
+        width: 2480
+        height: 3456
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -582,6 +582,116 @@ TextureImporter:
       bones: []
       spriteID: 13caf442ea53648d0800000000000000
       internalID: -2862541491097588687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agente_19
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 0
+        width: 2480
+        height: 3456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897abe3c0475903a0800000000000000
+      internalID: -6698727035060377704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agente_20
+      rect:
+        serializedVersion: 2
+        x: 4960
+        y: 0
+        width: 2480
+        height: 3456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dccc8a5bef275a230800000000000000
+      internalID: 3649449511348653261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agente_21
+      rect:
+        serializedVersion: 2
+        x: 7440
+        y: 0
+        width: 2480
+        height: 3456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101247aa96aebfb50800000000000000
+      internalID: 6628149016158019841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agente_22
+      rect:
+        serializedVersion: 2
+        x: 9920
+        y: 0
+        width: 2480
+        height: 3456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c98e8db492e0040800000000000000
+      internalID: 4615672073839746155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agente_23
+      rect:
+        serializedVersion: 2
+        x: 12400
+        y: 0
+        width: 2480
+        height: 3456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b729de8dc746e6b0800000000000000
+      internalID: -5267443765972752455
       vertices: []
       indices: 
       edges: []
@@ -600,7 +710,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries:
       - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":4.0},"gridSpriteSize":{"x":500.0,"y":696.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":4.0},"gridSpriteSize":{"x":2480.0,"y":3456.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       agente_0: -8573093137507226030
       agente_1: 4080375598076504279
@@ -613,7 +723,12 @@ TextureImporter:
       agente_16: 6805611053426219890
       agente_17: 3536987395819694541
       agente_18: -2862541491097588687
+      agente_19: -6698727035060377704
       agente_2: 1404099482913361322
+      agente_20: 3649449511348653261
+      agente_21: 6628149016158019841
+      agente_22: 4615672073839746155
+      agente_23: -5267443765972752455
       agente_3: 4612208601704475533
       agente_4: 8709255414602501032
       agente_5: -7533041968142590789
