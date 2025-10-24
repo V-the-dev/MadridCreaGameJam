@@ -2586,7 +2586,7 @@ PrefabInstance:
       objectReference: {fileID: 1922916440}
     - target: {fileID: 5114856200574024201, guid: d306e410a471e2643b08221685436cbd, type: 3}
       propertyPath: Loop
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5114856200574024201, guid: d306e410a471e2643b08221685436cbd, type: 3}
       propertyPath: m_Resource
@@ -3934,6 +3934,7 @@ SceneRoots:
   - {fileID: 619394802}
   - {fileID: 3242657478529228417}
   - {fileID: 1720201302}
+  - {fileID: 1298918787}
   - {fileID: 2027034042}
   - {fileID: 1197097336}
   - {fileID: 1635596671}
@@ -3951,7 +3952,6 @@ SceneRoots:
   - {fileID: 1452466}
   - {fileID: 2122188480}
   - {fileID: 1369414389}
-  - {fileID: 1298918787}
   - {fileID: 1384594417}
   - {fileID: 727049893}
   - {fileID: 1061162125}

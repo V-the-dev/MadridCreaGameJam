@@ -53,8 +53,6 @@ public class SoundManager : MonoBehaviour
     private void delayedplay()
     {
         SoundManager.PlaySound(SoundType.BELL1, AudioSourceName.Campanario, volume: 0.5f, loop: false);
-
-        SoundManager.PlaySound(SoundType.BELL2, AudioSourceName.Campanario, volume: 0.5f, loop: false,useRandomPitch:true,minPitch:0.1f,maxPitch:0.5f);
     }
 
 
