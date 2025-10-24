@@ -31,4 +31,7 @@ MonoBehaviour:
   - dialogue: "\xA1Vaya! Tenga, qu\xE9dese este pan. No es mucho, pero le estoy muy
       agradecido por lo que ha hecho."
     spriteIndex: 0
+  - dialogue: (Te entrega un <color=#1f5f8d>trozo de pan</color><img=pan>. Nunca
+      viene mal tener la tripa llena.)
+    spriteIndex: 0
   responses: []

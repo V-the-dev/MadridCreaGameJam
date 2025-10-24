@@ -44,6 +44,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 96b4580f922fd4343a19296ae83e082d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TimeManager
-  etapasTemporales: []
+  etapasTemporales:
+  - duracion: 90
+    eventos: []
+    dialogoFinalEtapa: {fileID: 0}
+  - duracion: 60
+    eventos: []
+    dialogoFinalEtapa: {fileID: 0}
+  - duracion: 30
+    eventos: []
+    dialogoFinalEtapa: {fileID: 11400000, guid: c51dd84d69c59ef4aa9e30d4a420fbbd, type: 2}
   player: {fileID: 0}
   restartLoopList: []

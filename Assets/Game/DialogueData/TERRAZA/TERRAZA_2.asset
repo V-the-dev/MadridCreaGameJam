@@ -28,8 +28,8 @@ MonoBehaviour:
   mainCharacterWhenResponses: 0
   mainCharacterIndex: 0
   conversationLine:
-  - dialogue: "Manuel? Claro! El hombre que estuvo aqu\xED con Bernardo hace un rato.
-      Se tomaron algo, charlaron."
+  - dialogue: "<color=#7b1f1f>Manuel</color>? Claro! El hombre que estuvo aqu\xED
+      con <color=#7b1f1f>Garrido</color> hace un rato. Se tomaron algo, charlaron."
     spriteIndex: 0
   - dialogue: "Definitivamente no fue una buena conversaci\xF3n. Estaban acojonados."
     spriteIndex: 1

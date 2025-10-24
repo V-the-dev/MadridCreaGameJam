@@ -27,7 +27,8 @@ MonoBehaviour:
   conversationLine:
   - dialogue: (Con aire altivo y despectivo, el agente se acerca a ti.)
     spriteIndex: 0
-  - dialogue: Mantenga la distancia, Sereno. Se ha cometido un crimen recientemente.
+  - dialogue: Mantenga la distancia, Sereno. Se ha cometido un <color=#7b1f1f>asesinato</color>
+      recientemente.
     spriteIndex: 0
   - dialogue: "Podemos afirmar que se trata de un crimen de odio que ser\xE1 castigado
       de manera ejemplar. "

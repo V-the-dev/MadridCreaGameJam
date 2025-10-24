@@ -28,7 +28,8 @@ MonoBehaviour:
     spriteIndex: 0
   - dialogue: No puedes verlo.
     spriteIndex: 0
-  - dialogue: Recibes un golpe seco en la cabeza... caes al suelo inconsciente.
+  - dialogue: <shake><color=#7b1f1f>Recibes un golpe seco en la cabeza... caes al
+      suelo inconsciente.</color></shake>
     spriteIndex: 0
   responses:
   - responseText: Reiniciar bucle

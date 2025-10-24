@@ -28,6 +28,7 @@ MonoBehaviour:
   - dialogue: "Bueno, hace un tiempo vi... S\xED, dos hombres, hacia la terraza,
       a mano derecha."
     spriteIndex: 0
-  - dialogue: Bernardo era uno, puede ser. Se pasa la vida jugando a las cartas.
+  - dialogue: <color=#7b1f1f>Garrido</color> era uno, puede ser. Se pasa la vida
+      jugando a las cartas.
     spriteIndex: 0
   responses: []

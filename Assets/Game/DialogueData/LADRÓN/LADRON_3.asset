@@ -25,7 +25,8 @@ MonoBehaviour:
   mainCharacterWhenResponses: 0
   mainCharacterIndex: 0
   conversationLine:
-  - dialogue: "(Armado con tu chuzo, intimidas al ladr\xF3n, que se rinde y te entrega
-      todo su bot\xEDn: 150 pesetas)"
+  - dialogue: "(Armado con tu <color=#1f5f8d>chuzo</color><img=chuzo>, intimidas
+      al ladr\xF3n, que se rinde y te entrega todo su bot\xEDn: <color=#1f5f8d>150
+      pesetas</color><img=pesetas>)"
     spriteIndex: 0
   responses: []

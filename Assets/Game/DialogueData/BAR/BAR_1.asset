@@ -31,7 +31,7 @@ MonoBehaviour:
   - dialogue: (Un cocinero te hace un gesto para que te acerques.)
     spriteIndex: 0
   - dialogue: "\xA1Sereno! Que alivio verle por aqu\xED. Escuche, se han producido
-      robos por aqu\xED \xFAltimamente."
+      <color=#7b1f1f>robos</color> por aqu\xED \xFAltimamente."
     spriteIndex: 2
   - dialogue: "Alg\xFAn malnacido est\xE1 aprovechando la falta de luz en la calle
       de aqu\xED al lado para emboscar a los residentes. Tenga ciudado."

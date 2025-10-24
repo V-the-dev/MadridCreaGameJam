@@ -27,7 +27,8 @@ MonoBehaviour:
   conversationLine:
   - dialogue: (Te acercas al borracho. No da signos de estar consciente.)
     spriteIndex: 0
-  - dialogue: "(Tomas la botella de licor. No la necesitar\xE1, ya ha bebido suficiente.)"
+  - dialogue: "(Tomas la <color=#1f5f8d>botella de licor</color><img=licor>. No la
+      necesitar\xE1, ya ha bebido suficiente.)"
     spriteIndex: 1
   responses:
   - responseText: Continuar

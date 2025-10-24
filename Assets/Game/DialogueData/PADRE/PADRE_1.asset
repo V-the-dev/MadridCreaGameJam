@@ -27,8 +27,8 @@ MonoBehaviour:
   conversationLine:
   - dialogue: "Ah, Sereno. Ya comienza tu jornada, y termina la m\xEDa."
     spriteIndex: 0
-  - dialogue: "Estoy atormentado, Sereno. Hace poco escuch\xE9 un disparo, en direcci\xF3n
-      al puente."
+  - dialogue: "Estoy atormentado, Sereno. Hace poco escuch\xE9 un <color=#7b1f1f>disparo</color>,
+      en direcci\xF3n al puente."
     spriteIndex: 0
   - dialogue: "Ruego por las almas de los fieles, espero que todos est\xE9n bien."
     spriteIndex: 0

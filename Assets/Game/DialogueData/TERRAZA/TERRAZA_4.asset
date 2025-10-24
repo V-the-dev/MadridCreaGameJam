@@ -31,7 +31,7 @@ MonoBehaviour:
   - dialogue: "Ya sab\xEDa yo que usted ven\xEDa a jugar. Reparto yo la primera."
     spriteIndex: 2
   - dialogue: (Juegas una partida con ellos. Sin mucha dificultad, ganas la apuesta,
-      y te llevas 100 pesetas.)
+      y te llevas <color=#1f5f8d>100 pesetas</color><img=pesetas>.)
     spriteIndex: 0
   - dialogue: "\xBFC\xF3mo?"
     spriteIndex: 0

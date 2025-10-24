@@ -27,7 +27,7 @@ MonoBehaviour:
   conversationLine:
   - dialogue: "(El ladr\xF3n est\xE1 armado con una porra, se abalanza sobre ti.)"
     spriteIndex: 0
-  - dialogue: (Te golpea la cabeza, caes inconsciente.)
+  - dialogue: <shake><color=#7b1f1f>(Te golpea la cabeza. Caes inconsciente)</color></shake>
     spriteIndex: 0
   responses:
   - responseText: Reiniciar bucle

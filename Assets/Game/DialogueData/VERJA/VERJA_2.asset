@@ -22,7 +22,7 @@ MonoBehaviour:
   mainCharacterWhenResponses: 0
   mainCharacterIndex: 0
   conversationLine:
-  - dialogue: "Usas la llave para liberar el candado y abrir la verja. Ahora puedes
-      acceder a la mansi\xF3n."
+  - dialogue: "Usas la <color=#1f5f8d>llave</color><img=llave> para liberar el candado
+      y abrir la verja. Ahora puedes acceder a la mansi\xF3n."
     spriteIndex: 0
   responses: []

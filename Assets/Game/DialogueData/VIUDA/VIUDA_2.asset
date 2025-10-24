@@ -25,7 +25,7 @@ MonoBehaviour:
   mainCharacterWhenResponses: 0
   mainCharacterIndex: 0
   conversationLine:
-  - dialogue: "Sereno, \xBFpudiste encontrar a Bernardo? Es la \xFAltima persona
-      que vi\xF3 a mi marido antes de su muerte."
+  - dialogue: "Sereno, \xBFpudiste encontrar a <color=#7b1f1f>Garrido</color>? Es
+      la \xFAltima persona que vi\xF3 a mi marido antes de su muerte."
     spriteIndex: 0
   responses: []

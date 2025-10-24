@@ -22,6 +22,7 @@ MonoBehaviour:
   mainCharacterWhenResponses: 0
   mainCharacterIndex: 1
   conversationLine:
-  - dialogue: "Escoges las pesetas. Ahora tienes X pesetas en tu posesi\xF3n."
+  - dialogue: "(Escoges las <color=#1f5f8d>50 pesetas</color><img=pesetas>. Te debe
+      eso y m\xE1s.)"
     spriteIndex: 0
   responses: []

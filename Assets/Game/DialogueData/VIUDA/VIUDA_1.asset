@@ -25,19 +25,20 @@ MonoBehaviour:
   mainCharacterWhenResponses: 0
   mainCharacterIndex: 0
   conversationLine:
-  - dialogue: (Rabiosa, Pilar, la viuda del asesinado, aporrea la puerta de una casa.)
+  - dialogue: (Rabiosa, Pilar, la viuda del <color=#7b1f1f>asesinado</color>, aporrea
+      la puerta de una casa.)
     spriteIndex: 0
-  - dialogue: "\xA1Sereno! Usted conoc\xEDa a mi Manuel. Ver\xE1. Mi esposo, antes
-      de morir, estuvo con Bernardo."
+  - dialogue: "\xA1Sereno! Usted conoc\xEDa a mi <color=#7b1f1f>Manuel</color>. Ver\xE1.
+      Mi esposo, antes de morir, estuvo con <color=#7b1f1f>Garrido</color>."
     spriteIndex: 0
-  - dialogue: "Recuerda usted a Bernardo, fue con usted y con Manuel a la guerra.
-      Bernardo lleg\xF3 a casa alterado, y discuti\xF3 con Manuel antes de irse con
-      \xE9l."
+  - dialogue: "Recuerda usted a <color=#7b1f1f>Garrido</color>, fue con usted y con
+      <color=#7b1f1f>Manuel</color> a la guerra. <color=#7b1f1f>Garrido</color> lleg\xF3
+      a casa alterado, y discutieron antes de irse juntos."
     spriteIndex: 0
-  - dialogue: Esta es la casa de Bernardo, llevo veinte minutos llamando a su puerta
-      pero no responde.
+  - dialogue: "Esta es la casa del hombre, llevo veinte minutos llamando a su puerta
+      pero no responde. Si no est\xE1n aqu\xED..."
     spriteIndex: 0
-  - dialogue: "Sereno, \xBFcree usted que puede encontrar a Bernardo por m\xED? Me
-      temo lo peor."
+  - dialogue: "Sereno, \xBFcree usted que puede encontrar a <color=#7b1f1f>Garrido</color>
+      por m\xED? Me temo lo peor."
     spriteIndex: 0
   responses: []
