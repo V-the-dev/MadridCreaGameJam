@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: e8d14e4b8f1c45c4789b7930bac75d5b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4358978965925401891
+    second: Tejado Edificio esquina Nor Oeste_0
+  - first:
+      213: -1523899297772835745
+    second: Tejado Edificio esquina Nor Oeste_1
+  - first:
+      213: -359801621753598472
+    second: Tejado Edificio esquina Nor Oeste_2
+  - first:
+      213: -7522001788365954529
+    second: Tejado Edificio esquina Nor Oeste_3
+  - first:
+      213: -5777350708453882564
+    second: Tejado Edificio esquina Nor Oeste_4
+  - first:
+      213: 789317773382092973
+    second: Tejado Edificio esquina Nor Oeste_5
+  - first:
+      213: 3363276757754742618
+    second: Tejado Edificio esquina Nor Oeste_6
+  - first:
+      213: -2016537275924566731
+    second: Tejado Edificio esquina Nor Oeste_7
+  - first:
+      213: 7476495226434961110
+    second: Tejado Edificio esquina Nor Oeste_8
+  - first:
+      213: -7417759142021542085
+    second: Tejado Edificio esquina Nor Oeste_9
+  - first:
+      213: -4244802877523354153
+    second: Tejado Edificio esquina Nor Oeste_10
+  - first:
+      213: 4604474167510657597
+    second: Tejado Edificio esquina Nor Oeste_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 159
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tejado Edificio esquina Nor Oeste_0
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 3222
+        width: 132
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddaed90b9bbc183c0800000000000000
+      internalID: -4358978965925401891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tejado Edificio esquina Nor Oeste_1
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 3672
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c68c2a9a50adae0800000000000000
+      internalID: -1523899297772835745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tejado Edificio esquina Nor Oeste_2
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 3665
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd64c1d45ab10bf0800000000000000
+      internalID: -359801621753598472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tejado Edificio esquina Nor Oeste_3
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 1220
+        width: 1593
+        height: 2872
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f12289c0a3b7c9790800000000000000
+      internalID: -7522001788365954529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tejado Edificio esquina Nor Oeste_4
+      rect:
+        serializedVersion: 2
+        x: 4040
+        y: 395
+        width: 349
+        height: 3408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3541cfe32ab2dfa0800000000000000
+      internalID: -5777350708453882564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tejado Edificio esquina Nor Oeste_5
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 3664
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da88759355834fa00800000000000000
+      internalID: 789317773382092973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tejado Edificio esquina Nor Oeste_6
+      rect:
+        serializedVersion: 2
+        x: 5368
+        y: 835
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a578c4b4462ccae20800000000000000
+      internalID: 3363276757754742618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tejado Edificio esquina Nor Oeste_7
+      rect:
+        serializedVersion: 2
+        x: 4343
+        y: 323
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53dae281802d304e0800000000000000
+      internalID: -2016537275924566731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tejado Edificio esquina Nor Oeste_8
+      rect:
+        serializedVersion: 2
+        x: 4353
+        y: 309
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de3f88dbc8d1c760800000000000000
+      internalID: 7476495226434961110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tejado Edificio esquina Nor Oeste_9
+      rect:
+        serializedVersion: 2
+        x: 4353
+        y: 272
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f466e7c53de0990800000000000000
+      internalID: -7417759142021542085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tejado Edificio esquina Nor Oeste_10
+      rect:
+        serializedVersion: 2
+        x: 4371
+        y: 275
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd1aa7d54e6715c0800000000000000
+      internalID: -4244802877523354153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tejado Edificio esquina Nor Oeste_11
+      rect:
+        serializedVersion: 2
+        x: 4229
+        y: 59
+        width: 196
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a6feb1cd066ef30800000000000000
+      internalID: 4604474167510657597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tejado Edificio esquina Nor Oeste_0: -4358978965925401891
+      Tejado Edificio esquina Nor Oeste_1: -1523899297772835745
+      Tejado Edificio esquina Nor Oeste_10: -4244802877523354153
+      Tejado Edificio esquina Nor Oeste_11: 4604474167510657597
+      Tejado Edificio esquina Nor Oeste_2: -359801621753598472
+      Tejado Edificio esquina Nor Oeste_3: -7522001788365954529
+      Tejado Edificio esquina Nor Oeste_4: -5777350708453882564
+      Tejado Edificio esquina Nor Oeste_5: 789317773382092973
+      Tejado Edificio esquina Nor Oeste_6: 3363276757754742618
+      Tejado Edificio esquina Nor Oeste_7: -2016537275924566731
+      Tejado Edificio esquina Nor Oeste_8: 7476495226434961110
+      Tejado Edificio esquina Nor Oeste_9: -7417759142021542085
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

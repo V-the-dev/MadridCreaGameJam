@@ -1,0 +1,871 @@
+fileFormatVersion: 2
+guid: 0048558a26925014fa56b2b21ade038f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9013207244857446399
+    second: Fahcada Edificio esquina Nor Oeste_0
+  - first:
+      213: 1734852194722268150
+    second: Fahcada Edificio esquina Nor Oeste_1
+  - first:
+      213: 929298824582784465
+    second: Fahcada Edificio esquina Nor Oeste_2
+  - first:
+      213: -2892378338786386049
+    second: Fahcada Edificio esquina Nor Oeste_3
+  - first:
+      213: -7989264198042664196
+    second: Fahcada Edificio esquina Nor Oeste_4
+  - first:
+      213: -7647867697158426869
+    second: Fahcada Edificio esquina Nor Oeste_5
+  - first:
+      213: 4362270730819473596
+    second: Fahcada Edificio esquina Nor Oeste_6
+  - first:
+      213: -5198059084238640715
+    second: Fahcada Edificio esquina Nor Oeste_7
+  - first:
+      213: -7687420667657622902
+    second: Fahcada Edificio esquina Nor Oeste_8
+  - first:
+      213: 7211838342067063671
+    second: Fahcada Edificio esquina Nor Oeste_9
+  - first:
+      213: -4926966606893360068
+    second: Fahcada Edificio esquina Nor Oeste_10
+  - first:
+      213: -4081566110222692702
+    second: Fahcada Edificio esquina Nor Oeste_11
+  - first:
+      213: 4233196670664340735
+    second: Fahcada Edificio esquina Nor Oeste_12
+  - first:
+      213: 2418868343288480235
+    second: Fahcada Edificio esquina Nor Oeste_13
+  - first:
+      213: 2011623051903792502
+    second: Fahcada Edificio esquina Nor Oeste_14
+  - first:
+      213: -1580848994398119685
+    second: Fahcada Edificio esquina Nor Oeste_15
+  - first:
+      213: -809483505863120047
+    second: Fahcada Edificio esquina Nor Oeste_16
+  - first:
+      213: 111929509310652038
+    second: Fahcada Edificio esquina Nor Oeste_17
+  - first:
+      213: -5900140537731106435
+    second: Fahcada Edificio esquina Nor Oeste_18
+  - first:
+      213: 4686051782481408536
+    second: Fahcada Edificio esquina Nor Oeste_19
+  - first:
+      213: 113419438461147306
+    second: Fahcada Edificio esquina Nor Oeste_20
+  - first:
+      213: -8024248797587457454
+    second: Fahcada Edificio esquina Nor Oeste_21
+  - first:
+      213: -4557987911364729283
+    second: Fahcada Edificio esquina Nor Oeste_22
+  - first:
+      213: 4066510525860896141
+    second: Fahcada Edificio esquina Nor Oeste_23
+  - first:
+      213: 9214205151347475115
+    second: Fahcada Edificio esquina Nor Oeste_24
+  - first:
+      213: -2003480470686571062
+    second: Fahcada Edificio esquina Nor Oeste_25
+  - first:
+      213: 467070504121818874
+    second: Fahcada Edificio esquina Nor Oeste_26
+  - first:
+      213: -4026401181746454809
+    second: Fahcada Edificio esquina Nor Oeste_27
+  - first:
+      213: -1984389750190905331
+    second: Fahcada Edificio esquina Nor Oeste_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 159
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fahcada Edificio esquina Nor Oeste_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5975
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff84b43c38551d70800000000000000
+      internalID: 9013207244857446399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fahcada Edificio esquina Nor Oeste_1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5967
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f34a3421ee631810800000000000000
+      internalID: 1734852194722268150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fahcada Edificio esquina Nor Oeste_2
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 5977
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5e1797b5885ec00800000000000000
+      internalID: 929298824582784465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fahcada Edificio esquina Nor Oeste_3
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 5973
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f5a90b9353cd7d0800000000000000
+      internalID: -2892378338786386049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fahcada Edificio esquina Nor Oeste_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 5958
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2cbe27a8e602190800000000000000
+      internalID: -7989264198042664196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fahcada Edificio esquina Nor Oeste_5
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 5442
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0fefad79d05dd590800000000000000
+      internalID: -7647867697158426869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fahcada Edificio esquina Nor Oeste_6
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 5432
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb0149c0e16e98c30800000000000000
+      internalID: 4362270730819473596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fahcada Edificio esquina Nor Oeste_7
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 5447
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9a67aadc8ccd7b0800000000000000
+      internalID: -5198059084238640715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fahcada Edificio esquina Nor Oeste_8
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 238
+        width: 2810
+        height: 5569
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a6549e1abc05590800000000000000
+      internalID: -7687420667657622902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fahcada Edificio esquina Nor Oeste_9
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 5363
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b037c13c8951460800000000000000
+      internalID: 7211838342067063671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fahcada Edificio esquina Nor Oeste_10
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 4834
+        width: 265
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3cd8e7a9f5ef9bb0800000000000000
+      internalID: -4926966606893360068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fahcada Edificio esquina Nor Oeste_11
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 5374
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae47e07f3d5b57c0800000000000000
+      internalID: -4081566110222692702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fahcada Edificio esquina Nor Oeste_12
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 5374
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4705b81f55fba30800000000000000
+      internalID: 4233196670664340735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fahcada Edificio esquina Nor Oeste_13
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 5382
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1c52841fb819120800000000000000
+      internalID: 2418868343288480235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fahcada Edificio esquina Nor Oeste_14
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 5375
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67576b6f188baeb10800000000000000
+      internalID: 2011623051903792502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fahcada Edificio esquina Nor Oeste_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 5179
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf8dd5d1732bf0ae0800000000000000
+      internalID: -1580848994398119685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fahcada Edificio esquina Nor Oeste_16
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 4832
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15bad7d4a0324c4f0800000000000000
+      internalID: -809483505863120047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fahcada Edificio esquina Nor Oeste_17
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 4667
+        width: 17
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e5852bb47ad8100800000000000000
+      internalID: 111929509310652038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fahcada Edificio esquina Nor Oeste_18
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 4655
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d79b7a3f07d7e1ea0800000000000000
+      internalID: -5900140537731106435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fahcada Edificio esquina Nor Oeste_19
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 4653
+        width: 11
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 812f3e5b443380140800000000000000
+      internalID: 4686051782481408536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fahcada Edificio esquina Nor Oeste_20
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 4628
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8d91cd062f29100800000000000000
+      internalID: 113419438461147306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fahcada Edificio esquina Nor Oeste_21
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 4694
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25ab17e9b3424a090800000000000000
+      internalID: -8024248797587457454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fahcada Edificio esquina Nor Oeste_22
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 4675
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36a494d426ceb0c0800000000000000
+      internalID: -4557987911364729283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fahcada Edificio esquina Nor Oeste_23
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 4664
+        width: 61
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d535927c52f6830800000000000000
+      internalID: 4066510525860896141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fahcada Edificio esquina Nor Oeste_24
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 3708
+        width: 75
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba204a524ce6fdf70800000000000000
+      internalID: 9214205151347475115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fahcada Edificio esquina Nor Oeste_25
+      rect:
+        serializedVersion: 2
+        x: 5550
+        y: 2545
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac56b4670253234e0800000000000000
+      internalID: -2003480470686571062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fahcada Edificio esquina Nor Oeste_26
+      rect:
+        serializedVersion: 2
+        x: 4636
+        y: 1831
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe5e3b162e5b7600800000000000000
+      internalID: 467070504121818874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fahcada Edificio esquina Nor Oeste_27
+      rect:
+        serializedVersion: 2
+        x: 3677
+        y: 135
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee1ace35795f18c0800000000000000
+      internalID: -4026401181746454809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fahcada Edificio esquina Nor Oeste_28
+      rect:
+        serializedVersion: 2
+        x: 3363
+        y: 0
+        width: 236
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d08e1f339080674e0800000000000000
+      internalID: -1984389750190905331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Fahcada Edificio esquina Nor Oeste_0: 9013207244857446399
+      Fahcada Edificio esquina Nor Oeste_1: 1734852194722268150
+      Fahcada Edificio esquina Nor Oeste_10: -4926966606893360068
+      Fahcada Edificio esquina Nor Oeste_11: -4081566110222692702
+      Fahcada Edificio esquina Nor Oeste_12: 4233196670664340735
+      Fahcada Edificio esquina Nor Oeste_13: 2418868343288480235
+      Fahcada Edificio esquina Nor Oeste_14: 2011623051903792502
+      Fahcada Edificio esquina Nor Oeste_15: -1580848994398119685
+      Fahcada Edificio esquina Nor Oeste_16: -809483505863120047
+      Fahcada Edificio esquina Nor Oeste_17: 111929509310652038
+      Fahcada Edificio esquina Nor Oeste_18: -5900140537731106435
+      Fahcada Edificio esquina Nor Oeste_19: 4686051782481408536
+      Fahcada Edificio esquina Nor Oeste_2: 929298824582784465
+      Fahcada Edificio esquina Nor Oeste_20: 113419438461147306
+      Fahcada Edificio esquina Nor Oeste_21: -8024248797587457454
+      Fahcada Edificio esquina Nor Oeste_22: -4557987911364729283
+      Fahcada Edificio esquina Nor Oeste_23: 4066510525860896141
+      Fahcada Edificio esquina Nor Oeste_24: 9214205151347475115
+      Fahcada Edificio esquina Nor Oeste_25: -2003480470686571062
+      Fahcada Edificio esquina Nor Oeste_26: 467070504121818874
+      Fahcada Edificio esquina Nor Oeste_27: -4026401181746454809
+      Fahcada Edificio esquina Nor Oeste_28: -1984389750190905331
+      Fahcada Edificio esquina Nor Oeste_3: -2892378338786386049
+      Fahcada Edificio esquina Nor Oeste_4: -7989264198042664196
+      Fahcada Edificio esquina Nor Oeste_5: -7647867697158426869
+      Fahcada Edificio esquina Nor Oeste_6: 4362270730819473596
+      Fahcada Edificio esquina Nor Oeste_7: -5198059084238640715
+      Fahcada Edificio esquina Nor Oeste_8: -7687420667657622902
+      Fahcada Edificio esquina Nor Oeste_9: 7211838342067063671
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
