@@ -5,7 +5,6 @@ using UnityEngine.Audio;
 using System.Collections;
 using UnityEngine.SceneManagement;
 
-
 #if UNITY_EDITOR
 using UnityEditor;
 using UnityEditor.SceneManagement;
@@ -24,7 +23,8 @@ public enum SoundType
     MONEYPAY,
     STREETAMBIENT,
     MUSIC1,
-    MUSIC2
+    MUSIC2,
+    UICLICKBUTTON
 }
 
 [ExecuteInEditMode]
@@ -60,11 +60,7 @@ public class SoundManager : MonoBehaviour
         }
 
         if (Camera.main != null)
-        {
-            transform.SetParent(Camera.main.transform);
-            transform.localPosition = Vector3.zero; // Align with camera's position
             camSource = Camera.main.GetComponent<AudioSource>();
-        }
 
         if(Application.isPlaying)
             SceneManager.sceneLoaded += OnSceneLoaded;
@@ -83,7 +79,7 @@ public class SoundManager : MonoBehaviour
 
         musicSource = SoundManager.instance.getSource(AudioSourceName.MusicSource);
 
-        if(!hasPlayedMusic)
+        if(!isInitialScene)
         {
             StartCoroutine(PlayMusic());
             hasPlayedMusic=true;
@@ -124,12 +120,7 @@ public class SoundManager : MonoBehaviour
 
     private void OnSceneLoaded(Scene scene, LoadSceneMode mode)
     {
-        if (Camera.main != null)
-        {
-            transform.SetParent(Camera.main.transform);
-            transform.localPosition = Vector3.zero; // Align with camera's position
-            camSource = Camera.main.GetComponent<AudioSource>();
-        }
+
 
         // Rebuild audio sources to account for new scene objects
         RebuildAudioSourcesFromList();
@@ -137,6 +128,13 @@ public class SoundManager : MonoBehaviour
         // Play ambient sound in the new scene
         if(!isInitialScene)
         {
+            if (Camera.main != null)
+            {
+                transform.SetParent(Camera.main.transform);
+                transform.localPosition = Vector3.zero; // Align with camera's position
+                camSource = Camera.main.GetComponent<AudioSource>();
+            }
+
             SoundManager.PlaySound(
             SoundType.STREETAMBIENT,
             source: AudioSourceName.AmbientSource,
