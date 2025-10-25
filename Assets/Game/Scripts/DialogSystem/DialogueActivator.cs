@@ -37,8 +37,4 @@ public class DialogueActivator : MonoBehaviour, IInteractuable
         }
     }
 
-    public void NearestIndicator(bool activate)
-    {
-        // Implement visual indicator logic here if needed
-    }
 }

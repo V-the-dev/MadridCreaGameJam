@@ -1,5 +1,6 @@
 using System;
 using UnityEngine;
+using UnityEngine.EventSystems;
 using UnityEngine.InputSystem;
 
 public class PlayerUIManager : MonoBehaviour
@@ -51,6 +52,8 @@ public class PlayerUIManager : MonoBehaviour
         panel.SetActive(!panel.activeSelf);
         
         activePanel = panel;
+
+        //EventSystem.current.firstSelectedGameObject = panel;
     }
     
     public void ExitGame()
