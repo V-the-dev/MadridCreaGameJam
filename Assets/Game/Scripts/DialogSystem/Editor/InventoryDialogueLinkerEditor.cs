@@ -8,7 +8,7 @@ public class InventoryDialogueLinkerEditor : Editor
 {
     private SerializedProperty inventoryObjectProp = null;
     private SerializedProperty entriesProp = null;
-    private bool showEntries = true;
+    private bool showEntries = false;
     private Dictionary<int, bool> showEntryDetails = new Dictionary<int, bool>();
     private Dictionary<int, bool> showEventsDict = new Dictionary<int, bool>();
     private Dictionary<int, bool> showObjectsDict = new Dictionary<int, bool>();
@@ -30,30 +30,6 @@ public class InventoryDialogueLinkerEditor : Editor
         EditorGUILayout.PropertyField(inventoryObjectProp);
 
         InventarioObject inventoryObject = (InventarioObject)inventoryObjectProp.objectReferenceValue;
-
-        EditorGUILayout.Space();
-
-        // ---- BOTÓN PARA AÑADIR ELEMENTOS ----
-        if (GUILayout.Button("+ Añadir entrada de diálogo"))
-        {
-            int newIndex = entriesProp.arraySize;
-            entriesProp.arraySize++;
-
-            SerializedProperty newEntry = entriesProp.GetArrayElementAtIndex(newIndex);
-
-            // Limpia las referencias y valores básicos
-            newEntry.FindPropertyRelative("dialogueObject").objectReferenceValue = null;
-            newEntry.FindPropertyRelative("hasAssociatedEvent").boolValue = false;
-            newEntry.FindPropertyRelative("hasAssociatedObject").boolValue = false;
-
-            // Vacía las listas internas
-            newEntry.FindPropertyRelative("associatedEvents").ClearArray();
-            newEntry.FindPropertyRelative("associatedObjects").ClearArray();
-            newEntry.FindPropertyRelative("eventResponseAssociated").ClearArray();
-            newEntry.FindPropertyRelative("objectResponseAssociated").ClearArray();
-            newEntry.FindPropertyRelative("eventsAssociatedPerResponse").ClearArray();
-            newEntry.FindPropertyRelative("objectsAssociatedPerResponse").ClearArray();
-        }
 
         EditorGUILayout.Space();
 
@@ -404,6 +380,30 @@ public class InventoryDialogueLinkerEditor : Editor
             }
 
             EditorGUI.indentLevel--;
+        }
+
+        EditorGUILayout.Space();
+
+        // ---- BOTÓN PARA AÑADIR ELEMENTOS ----
+        if (GUILayout.Button("+ Añadir entrada de diálogo"))
+        {
+            int newIndex = entriesProp.arraySize;
+            entriesProp.arraySize++;
+
+            SerializedProperty newEntry = entriesProp.GetArrayElementAtIndex(newIndex);
+
+            // Limpia las referencias y valores básicos
+            newEntry.FindPropertyRelative("dialogueObject").objectReferenceValue = null;
+            newEntry.FindPropertyRelative("hasAssociatedEvent").boolValue = false;
+            newEntry.FindPropertyRelative("hasAssociatedObject").boolValue = false;
+
+            // Vacía las listas internas
+            newEntry.FindPropertyRelative("associatedEvents").ClearArray();
+            newEntry.FindPropertyRelative("associatedObjects").ClearArray();
+            newEntry.FindPropertyRelative("eventResponseAssociated").ClearArray();
+            newEntry.FindPropertyRelative("objectResponseAssociated").ClearArray();
+            newEntry.FindPropertyRelative("eventsAssociatedPerResponse").ClearArray();
+            newEntry.FindPropertyRelative("objectsAssociatedPerResponse").ClearArray();
         }
 
         serializedObject.ApplyModifiedProperties();
