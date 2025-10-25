@@ -16,7 +16,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 62254b8ba79e1b849a1239414c639085, type: 3}
   - {fileID: 21300000, guid: 6094f5e9382781749836d3297c790174, type: 3}
   charactersName:
-  - DON BENAVIDE
+  - BENAVIDE
   - SERENO
   charactersTitle:
   - Sereno
@@ -32,7 +32,7 @@ MonoBehaviour:
     spriteIndex: 0
   responses:
   - responseText: <color=#1f5f8d>50 pesetas</color>
-    dialogueObject: {fileID: 11400000, guid: f63992c0395af0245aee5340d98c7c22, type: 2}
+    dialogueObject: {fileID: 11400000}
   - responseText: <color=#1f5f8d>Pedazo de chatarra</color>
     dialogueObject: {fileID: 11400000, guid: 5a22267dcc159c3499400f21481025a0, type: 2}
   - responseText: <color=#1f5f8d>Farol de aceite</color>

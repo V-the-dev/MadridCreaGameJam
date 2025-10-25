@@ -16,7 +16,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 62254b8ba79e1b849a1239414c639085, type: 3}
   - {fileID: 21300000, guid: 6094f5e9382781749836d3297c790174, type: 3}
   charactersName:
-  - DON BENAVIDE
+  - BENAVIDE
   - SERENO
   charactersTitle:
   - Sereno
@@ -25,8 +25,8 @@ MonoBehaviour:
   mainCharacterWhenResponses: 1
   mainCharacterIndex: 1
   conversationLine:
-  - dialogue: "(Tu mentor est\xE1 apoyado en el \xE1rbol con una botella de licor
-      en mano y un par m\xE1s ya vac\xEDas a su lado.)"
+  - dialogue: "(Don Benavide, tu mentor est\xE1 apoyado en el \xE1rbol con una botella
+      de licor en mano y un par m\xE1s ya vac\xEDas a su lado.)"
     spriteIndex: 0
   - dialogue: "Hombre, ah\xED est\xE1s. Oye, no me encuentro muy bien la verdad.
       \xBFCrees que puedes cubrir mi zona hoy?"
