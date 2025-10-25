@@ -32,6 +32,9 @@ public class TimeManager : MonoBehaviour
     [Header("NPCs & puertas")]
     [SerializeField] private List<CharacterBaseScript> restartLoopList = new List<CharacterBaseScript>();
     
+    [Header("RestartBucle vars")]
+    [SerializeField] private Transform playerFirstPosition;
+    
     private void Awake()
     {
         if (Instance == null)
@@ -113,7 +116,7 @@ public class TimeManager : MonoBehaviour
                 PlayBellSound(4);
                 
                 // Reiniciar información al completo
-                RestartLoopInfo();
+                RestartLoop();
             }
             else
             {
@@ -151,14 +154,17 @@ public class TimeManager : MonoBehaviour
         }
     }
 
-    public void RestartLoopInfo()
+    public void RestartLoop()
     {
         player.RestartAnimator();
+        if(playerFirstPosition) player.gameObject.transform.position = playerFirstPosition.position;
         InventoryManager.Instance.RestartLoopInventory();
         foreach (CharacterBaseScript character in restartLoopList)
         {
             character.BucleReset();
         }
+        
+        /// TODO: Terminar de implementar la lógica del reinicio del bucle
     }
 }
 
