@@ -156,7 +156,7 @@ public class InventoryManager : MonoBehaviour
 
     public void RemoveItemFromInventory(string itemName, int amount)
     {
-        if (amount >= 0) return;
+        if (amount <= 0) return;
         
         if (inventoryDictionary.TryGetValue(itemName, out var item))
         {
@@ -268,6 +268,11 @@ public class InventoryManager : MonoBehaviour
         }
 
         foreach (Evento evento in inventarioInicial.eventos)
+        {
+            eventsDictionary.Add(evento.nombre, evento.startValue);
+        }
+
+        foreach (Evento evento in inventarioInicial.internalEvents)
         {
             eventsDictionary.Add(evento.nombre, evento.startValue);
         }

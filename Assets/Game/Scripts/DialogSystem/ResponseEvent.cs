@@ -35,6 +35,12 @@ public class ResponseEvent
             foreach (var evt in customStringIntEvents)
                 evt.Invoke();
         }
+
+        if (showStringBoolEvent)
+        {
+            foreach (var evt in customStringBoolEvents)
+                evt.Invoke();
+        }
     }
 }
 

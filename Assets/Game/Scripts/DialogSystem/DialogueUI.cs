@@ -195,7 +195,11 @@ public class DialogueUI : MonoBehaviour
             }
             
             responseHandler.ShowResponses(validResponses.ToArray(), validResponseIndices.ToArray());
-            if (endEvent != null) endEvent.OnPickedResponse?.Invoke();
+            if (endEvent != null)
+            {
+                
+                endEvent.Invoke();
+            }
             
             if (dialogueObject.MainCharacterWhenResponses)
             {
@@ -206,7 +210,7 @@ public class DialogueUI : MonoBehaviour
         {
             // Detener efectos al cerrar el diálogo
             typewritterEffect.StopEffects();
-            if (endEvent != null) endEvent.OnPickedResponse?.Invoke();
+            if (endEvent != null) endEvent.Invoke();
             
             // Limpiar imágenes antes de la siguiente línea
             if (imageHandler)

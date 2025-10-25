@@ -2,24 +2,24 @@ using UnityEngine;
 
 public class MendigoScript : CharacterBaseScript
 {
-    private Animator animator;
-    private RuntimeAnimatorController firstAnimator;
-    [SerializeField] private AnimatorOverrideController mendigoDeadAnimator;
+    private SpriteRenderer spriteRenderer;
+    private Sprite firstSprite;
+    [SerializeField] private Sprite mendigoDead;
     
     public override void BucleReset()
     {
         base.BucleReset();
-        animator.runtimeAnimatorController = firstAnimator;
+        spriteRenderer.sprite = firstSprite;
     }
 
-    private void Awake()
+    private void Start()
     {
-        animator = GetComponentInChildren<Animator>();
-        firstAnimator = animator.runtimeAnimatorController;
+        spriteRenderer = GetComponentInChildren<SpriteRenderer>();
+        firstSprite = spriteRenderer.sprite;
     }
 
     public void KillMendigo()
     {
-        animator.runtimeAnimatorController = mendigoDeadAnimator;
+        spriteRenderer.sprite = mendigoDead;
     }
 }
