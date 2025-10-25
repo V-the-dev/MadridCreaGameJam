@@ -9,12 +9,15 @@ public class NPCcontroller :  InteractableObject
 
     void Awake()
     {
-        inventoryDialogueLinker = MessageManager.Instance.GetComponent<InventoryDialogueLinker>();
         //if(transform.GetChild)
     }
 
     public override void Trigger()
     {
+        if (!inventoryDialogueLinker)
+        {
+            inventoryDialogueLinker = MessageManager.Instance.GetComponent<InventoryDialogueLinker>();
+        }
         if (interactionDialogues.Count <= 0) return;
         if (!inventoryDialogueLinker) return;
         foreach (DialogueObject interactionDialogue in interactionDialogues)
@@ -30,6 +33,10 @@ public class NPCcontroller :  InteractableObject
 
     public override void AutoTrigger()
     {
+        if (!inventoryDialogueLinker)
+        {
+            inventoryDialogueLinker = MessageManager.Instance.GetComponent<InventoryDialogueLinker>();
+        }
         if (proximityDialogues.Count <= 0) return;
         if (!inventoryDialogueLinker) return;
         foreach (DialogueObject proximityDialogue in proximityDialogues)
