@@ -195,7 +195,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 650
+  spritePixelsToUnits: 130
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -248,9 +248,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 10440
-        width: 2480
-        height: 3480
+        y: 2105
+        width: 500
+        height: 701
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -269,10 +269,10 @@ TextureImporter:
       name: traficante_1
       rect:
         serializedVersion: 2
-        x: 2480
-        y: 10440
-        width: 2480
-        height: 3480
+        x: 500
+        y: 2105
+        width: 500
+        height: 701
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -291,10 +291,10 @@ TextureImporter:
       name: traficante_2
       rect:
         serializedVersion: 2
-        x: 4960
-        y: 10440
-        width: 2480
-        height: 3480
+        x: 1000
+        y: 2105
+        width: 500
+        height: 701
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -313,10 +313,10 @@ TextureImporter:
       name: traficante_3
       rect:
         serializedVersion: 2
-        x: 7440
-        y: 10440
-        width: 2480
-        height: 3480
+        x: 1500
+        y: 2105
+        width: 500
+        height: 701
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -335,10 +335,10 @@ TextureImporter:
       name: traficante_4
       rect:
         serializedVersion: 2
-        x: 9920
-        y: 10440
-        width: 2480
-        height: 3480
+        x: 2000
+        y: 2105
+        width: 500
+        height: 701
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -357,10 +357,10 @@ TextureImporter:
       name: traficante_5
       rect:
         serializedVersion: 2
-        x: 12400
-        y: 10440
-        width: 2480
-        height: 3480
+        x: 2500
+        y: 2105
+        width: 500
+        height: 701
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -380,9 +380,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 6960
-        width: 2480
-        height: 3480
+        y: 1404
+        width: 500
+        height: 701
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -401,10 +401,10 @@ TextureImporter:
       name: traficante_7
       rect:
         serializedVersion: 2
-        x: 2480
-        y: 6960
-        width: 2480
-        height: 3480
+        x: 500
+        y: 1404
+        width: 500
+        height: 701
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -423,10 +423,10 @@ TextureImporter:
       name: traficante_8
       rect:
         serializedVersion: 2
-        x: 4960
-        y: 6960
-        width: 2480
-        height: 3480
+        x: 1000
+        y: 1404
+        width: 500
+        height: 701
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -445,10 +445,10 @@ TextureImporter:
       name: traficante_9
       rect:
         serializedVersion: 2
-        x: 7440
-        y: 6960
-        width: 2480
-        height: 3480
+        x: 1500
+        y: 1404
+        width: 500
+        height: 701
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -467,10 +467,10 @@ TextureImporter:
       name: traficante_10
       rect:
         serializedVersion: 2
-        x: 9920
-        y: 6960
-        width: 2480
-        height: 3480
+        x: 2000
+        y: 1404
+        width: 500
+        height: 701
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -489,10 +489,10 @@ TextureImporter:
       name: traficante_11
       rect:
         serializedVersion: 2
-        x: 12400
-        y: 6960
-        width: 2480
-        height: 3480
+        x: 2500
+        y: 1404
+        width: 500
+        height: 701
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -512,9 +512,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 3480
-        width: 2480
-        height: 3480
+        y: 703
+        width: 500
+        height: 701
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -533,10 +533,10 @@ TextureImporter:
       name: traficante_13
       rect:
         serializedVersion: 2
-        x: 2480
-        y: 3480
-        width: 2480
-        height: 3480
+        x: 500
+        y: 703
+        width: 500
+        height: 701
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -555,10 +555,10 @@ TextureImporter:
       name: traficante_14
       rect:
         serializedVersion: 2
-        x: 4960
-        y: 3480
-        width: 2480
-        height: 3480
+        x: 1000
+        y: 703
+        width: 500
+        height: 701
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -577,10 +577,10 @@ TextureImporter:
       name: traficante_15
       rect:
         serializedVersion: 2
-        x: 7440
-        y: 3480
-        width: 2480
-        height: 3480
+        x: 1500
+        y: 703
+        width: 500
+        height: 701
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -599,10 +599,10 @@ TextureImporter:
       name: traficante_16
       rect:
         serializedVersion: 2
-        x: 9920
-        y: 3480
-        width: 2480
-        height: 3480
+        x: 2000
+        y: 703
+        width: 500
+        height: 701
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -621,10 +621,10 @@ TextureImporter:
       name: traficante_17
       rect:
         serializedVersion: 2
-        x: 12400
-        y: 3480
-        width: 2480
-        height: 3480
+        x: 2500
+        y: 703
+        width: 500
+        height: 701
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -644,9 +644,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 2480
-        height: 3480
+        y: 2
+        width: 500
+        height: 701
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -665,10 +665,10 @@ TextureImporter:
       name: traficante_19
       rect:
         serializedVersion: 2
-        x: 2480
-        y: 0
-        width: 2480
-        height: 3480
+        x: 500
+        y: 2
+        width: 500
+        height: 701
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -687,10 +687,10 @@ TextureImporter:
       name: traficante_20
       rect:
         serializedVersion: 2
-        x: 4960
-        y: 0
-        width: 2480
-        height: 3480
+        x: 1000
+        y: 2
+        width: 500
+        height: 701
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -709,10 +709,10 @@ TextureImporter:
       name: traficante_21
       rect:
         serializedVersion: 2
-        x: 7440
-        y: 0
-        width: 2480
-        height: 3480
+        x: 1500
+        y: 2
+        width: 500
+        height: 701
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -731,10 +731,10 @@ TextureImporter:
       name: traficante_22
       rect:
         serializedVersion: 2
-        x: 9920
-        y: 0
-        width: 2480
-        height: 3480
+        x: 2000
+        y: 2
+        width: 500
+        height: 701
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -763,7 +763,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries:
       - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":4.0},"gridSpriteSize":{"x":2480.0,"y":3480.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":4.0},"gridSpriteSize":{"x":500.0,"y":701.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       traficante_0: -1853861207980998914
       traficante_1: 4038846419973805884
