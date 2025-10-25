@@ -10,26 +10,21 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5272d69de47d6724f8fa0d53e5052b27, type: 3}
-  m_Name: LADRON_1
+  m_Name: TRAFICANTE_5
   m_EditorClassIdentifier: Assembly-CSharp::DialogueObject
   characters:
-  - {fileID: 21300000, guid: c7f227758eac4034698f17de7ad1ed10, type: 3}
+  - {fileID: 21300000, guid: fea5175ab6bab92458c266168c0545ce, type: 3}
   - {fileID: 21300000, guid: 6094f5e9382781749836d3297c790174, type: 3}
   charactersName:
-  - "LADR\xD3N"
+  - CARDO
   - SERENO
   charactersTitle:
-  - Maleante
+  - Traficante
   - 
   charactersSide: 0000000001000000
-  mainCharacterWhenResponses: 1
+  mainCharacterWhenResponses: 0
   mainCharacterIndex: 1
   conversationLine:
-  - dialogue: "(Te acercas a la figura oscura. Es un vil ladr\xF3n. Ahora puedes
-      verle bien gracias a tu <color=#1f5f8d>farol</color> <img=farol>.)"
+  - dialogue: Lo siento, me has dejado sin existencias.
     spriteIndex: 0
-  responses:
-  - responseText: Continuar
-    dialogueObject: {fileID: 11400000, guid: 9f3ec0ec7b35d8e4a94eca7855d607d6, type: 2}
-  - responseText: "Enfrentar al ladr\xF3n"
-    dialogueObject: {fileID: 11400000, guid: cee5e1295b087e34ca308f3d12d33120, type: 2}
+  responses: []

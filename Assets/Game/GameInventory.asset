@@ -121,6 +121,27 @@ MonoBehaviour:
   - isLoopPersistent: 0
     startValue: 0
     nombre: Traficante_4
+  - isLoopPersistent: 0
+    startValue: 0
+    nombre: Mendigo_1
+  - isLoopPersistent: 0
+    startValue: 0
+    nombre: Nina_2
+  - isLoopPersistent: 0
+    startValue: 0
+    nombre: Pared_1
+  - isLoopPersistent: 0
+    startValue: 0
+    nombre: Perro_3
+  - isLoopPersistent: 0
+    startValue: 0
+    nombre: Perro_4
+  - isLoopPersistent: 0
+    startValue: 0
+    nombre: Terraza_4
+  - isLoopPersistent: 0
+    startValue: 0
+    nombre: Verja_1
   internalEvents:
   - isLoopPersistent: 0
     startValue: 0
