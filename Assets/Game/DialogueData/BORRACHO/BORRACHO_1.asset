@@ -33,5 +33,5 @@ MonoBehaviour:
   responses:
   - responseText: Volver
     dialogueObject: {fileID: 0}
-  - responseText: Robar la <color=#1f5f8d>botella de licor</color><img=licor>
+  - responseText: Robar la <color=#1f5f8d>botella de licor</color>
     dialogueObject: {fileID: 11400000, guid: 53e80befc37528c48980f2537d9ac466, type: 2}

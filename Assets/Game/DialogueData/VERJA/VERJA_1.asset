@@ -28,5 +28,5 @@ MonoBehaviour:
   responses:
   - responseText: Volver
     dialogueObject: {fileID: 0}
-  - responseText: Usar las <color=#1f5f8d>Llaves</color><img=llaves>
+  - responseText: Usar las <color=#1f5f8d>Llaves</color>
     dialogueObject: {fileID: 11400000, guid: 45ba98594694259419257e4d41546ce1, type: 2}

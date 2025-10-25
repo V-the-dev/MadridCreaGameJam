@@ -14,17 +14,17 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::DialogueObject
   characters:
   - {fileID: 21300000, guid: 5cca7556c0a8d7245a69a6828bdec4ad, type: 3}
-  - {fileID: 21300000, guid: 6094f5e9382781749836d3297c790174, type: 3}
   - {fileID: 21300000, guid: 06df070056594d541bc4ac4a37b81d96, type: 3}
+  - {fileID: 21300000, guid: 6094f5e9382781749836d3297c790174, type: 3}
   charactersName:
   - COCINERO
-  - SERENO
   - CAMARERA
+  - SERENO
   charactersTitle:
   - del Bar
-  - 
   - del Bar
-  charactersSide: 000000000100000000000000
+  - 
+  charactersSide: 000000000000000001000000
   mainCharacterWhenResponses: 0
   mainCharacterIndex: 0
   conversationLine:
@@ -32,8 +32,10 @@ MonoBehaviour:
     spriteIndex: 0
   - dialogue: "\xA1Sereno! Que alivio verle por aqu\xED. Escuche, se han producido
       <color=#7b1f1f>robos</color> por aqu\xED \xFAltimamente."
-    spriteIndex: 2
+    spriteIndex: 1
   - dialogue: "Alg\xFAn malnacido est\xE1 aprovechando la falta de luz en la calle
-      de aqu\xED al lado para emboscar a los residentes. Tenga ciudado."
+      de aqu\xED al lado para emboscar a los residentes."
     spriteIndex: 0
+  - dialogue: Le advertimos, debe tener cuidado.
+    spriteIndex: 1
   responses: []

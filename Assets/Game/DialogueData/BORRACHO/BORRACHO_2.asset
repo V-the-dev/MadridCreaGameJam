@@ -30,6 +30,4 @@ MonoBehaviour:
   - dialogue: "(Tomas la <color=#1f5f8d>botella de licor</color><img=licor>. No la
       necesitar\xE1, ya ha bebido suficiente.)"
     spriteIndex: 1
-  responses:
-  - responseText: Continuar
-    dialogueObject: {fileID: 0}
+  responses: []

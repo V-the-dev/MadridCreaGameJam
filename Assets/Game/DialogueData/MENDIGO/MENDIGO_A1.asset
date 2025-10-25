@@ -32,7 +32,7 @@ MonoBehaviour:
       que darme?"
     spriteIndex: 0
   responses:
-  - responseText: Ofrecer <color=#1f5f8d>pan</color><img=pan>
+  - responseText: Ofrecer <color=#1f5f8d>pan</color>
     dialogueObject: {fileID: 11400000, guid: e0ec3383abdb6494eabb8c528f93b1b3, type: 2}
   - responseText: Volver
     dialogueObject: {fileID: 0}

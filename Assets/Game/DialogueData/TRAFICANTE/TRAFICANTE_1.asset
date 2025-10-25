@@ -30,13 +30,11 @@ MonoBehaviour:
   - dialogue: "\xBFQu\xE9 buscas?"
     spriteIndex: 0
   responses:
-  - responseText: ' <color=#1f5f8d>Chuzo</color><img=chuzo> por <color=#1f5f8d>150
-      pesetas</color><img=pesetas>'
+  - responseText: ' <color=#1f5f8d>Chuzo</color> por <color=#1f5f8d>150 pesetas</color>'
     dialogueObject: {fileID: 11400000, guid: c6a0f2a10b3e6b74fba792435752fe7a, type: 2}
-  - responseText: <color=#1f5f8d>Reloj</color><img=reloj> por <color=#1f5f8d>100
-      pesetas</color><img=pesetas>
+  - responseText: <color=#1f5f8d>Reloj</color> por <color=#1f5f8d>100 pesetas</color>
     dialogueObject: {fileID: 11400000, guid: c6a0f2a10b3e6b74fba792435752fe7a, type: 2}
-  - responseText: <color=#1f5f8d>Pan</color><img=pan> por <color=#1f5f8d>50 pesetas</color><img=pesetas>
+  - responseText: <color=#1f5f8d>Pan</color> por <color=#1f5f8d>50 pesetas</color>
     dialogueObject: {fileID: 11400000, guid: 7ceb8aa1fa9ccfe42b5d2d0dcea1b7d6, type: 2}
   - responseText: Volver
     dialogueObject: {fileID: 0}

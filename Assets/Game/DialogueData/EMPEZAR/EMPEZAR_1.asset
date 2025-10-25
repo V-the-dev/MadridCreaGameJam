@@ -22,7 +22,8 @@ MonoBehaviour:
   mainCharacterWhenResponses: 0
   mainCharacterIndex: 0
   conversationLine:
-  - dialogue: "Una campanada anuncia el comienzo de la noche. El Sereno despierta
-      de su sue\xF1o, comienza su jornada."
+  - dialogue: Una campanada anuncia el comienzo de la noche.
+    spriteIndex: 0
+  - dialogue: "El Sereno despierta de su sue\xF1o, comienza su jornada."
     spriteIndex: 0
   responses: []

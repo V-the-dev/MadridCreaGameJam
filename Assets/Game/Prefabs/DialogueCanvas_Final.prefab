@@ -169,8 +169,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0}
   m_AnchorMax: {x: 1, y: 0}
-  m_AnchoredPosition: {x: 674, y: -77}
-  m_SizeDelta: {x: 600, y: 900}
+  m_AnchoredPosition: {x: 674, y: -250}
+  m_SizeDelta: {x: 800, y: 1300}
   m_Pivot: {x: 1, y: 0}
 --- !u!222 &9184628760409923758
 CanvasRenderer:
@@ -360,8 +360,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: -484, y: -115}
-  m_SizeDelta: {x: 600, y: 900}
+  m_AnchoredPosition: {x: -484, y: -300}
+  m_SizeDelta: {x: 800, y: 1500}
   m_Pivot: {x: 0, y: 0}
 --- !u!222 &7639147010428906181
 CanvasRenderer:
@@ -621,7 +621,8 @@ MonoBehaviour:
   textBackground: {fileID: 4424400422513451638}
   backgroundWithName: {fileID: -7042109798174304468, guid: 1e34755527b0c9b469c6eadd1ddadb0b, type: 3}
   backgroundWithoutName: {fileID: 21300000, guid: e7ad3e285d2e6c64dbb6e845a9796e28, type: 3}
-  thingsToHideWhenBackgroundWithoutName: []
+  thingsToHideWhenBackgroundWithoutName:
+  - {fileID: 2552946259315280143}
 --- !u!222 &1201645541742592404
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -760,8 +761,8 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 960530527497389371}
-  - {fileID: 6206320728943271646}
   - {fileID: 8550320363937354188}
+  - {fileID: 6206320728943271646}
   m_Father: {fileID: 436239636941502057}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
