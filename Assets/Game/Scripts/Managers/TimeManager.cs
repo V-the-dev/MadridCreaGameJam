@@ -88,8 +88,6 @@ public class TimeManager : MonoBehaviour
                 Debug.Log("Game Over");
                 
                 gameOver = true;
-
-                //TODO: Función de finalizar el juego (Fundido a negro, sonido de disparo...)
                 
                 //Lanza todos los eventos que se tuvieran que activar al final de la etapa
                 for (int i = 0; i < etapasTemporales[currentStage].eventos.Count; i++)
@@ -114,14 +112,9 @@ public class TimeManager : MonoBehaviour
                 }
                 
                 PlayBellSound(4);
-                
-                // Reiniciar información al completo
-                RestartLoop();
             }
             else
             {
-                //Si hay más etapas resetear chrono y avanzar.
-
                 Debug.Log("Cambio de etapa");
             
                 currentTime = 0;
@@ -157,13 +150,21 @@ public class TimeManager : MonoBehaviour
     public void RestartLoop()
     {
         player.RestartAnimator();
+        
         if(playerFirstPosition) player.gameObject.transform.position = playerFirstPosition.position;
+        
         InventoryManager.Instance.RestartLoopInventory();
+        
         foreach (CharacterBaseScript character in restartLoopList)
         {
             character.BucleReset();
         }
-        
+
+        currentStage = 0;
+        currentTime = 0;
+
+        gameOver = false;
+
         /// TODO: Terminar de implementar la lógica del reinicio del bucle
     }
 }
