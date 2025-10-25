@@ -21,7 +21,7 @@ public class TimeManager : MonoBehaviour
     private float currentTime = 0;
 
     private float totalTime = 0;
-    public float timeMultipliyer;
+    public float timeMultipliyer = 1;
 
     public bool timeManipulated = false;
     
@@ -101,6 +101,8 @@ public class TimeManager : MonoBehaviour
                     MessageManager.Instance.Interactuar();
                 }
                 
+                PlayBellSound(4);
+                
                 // Reiniciar información al completo
                 RestartLoopInfo();
             }
@@ -114,7 +116,29 @@ public class TimeManager : MonoBehaviour
                 currentStage++;
             }
             
-            //TODO: Lanzar sonidos de campanadas cuando termine una etapa
+            PlayBellSound(currentStage);
+        }
+    }
+
+    private void PlayBellSound(int i)
+    {
+        switch (i)
+        {
+            case 1:
+                SoundManager.PlaySound(SoundType.BELL1);
+                break;
+            
+            case 2:
+                SoundManager.PlaySound(SoundType.BELL2);
+                break;
+            
+            case 3:
+                SoundManager.PlaySound(SoundType.BELL3);
+                break;
+            
+            case 4:
+                SoundManager.PlaySound(SoundType.BELL4);
+                break;
         }
     }
 
