@@ -90,7 +90,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 375
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -143,9 +143,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 1920
-        width: 1920
-        height: 1920
+        y: 1254
+        width: 500
+        height: 626
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -164,10 +164,10 @@ TextureImporter:
       name: Ladron_1
       rect:
         serializedVersion: 2
-        x: 1920
-        y: 1920
-        width: 1920
-        height: 1920
+        x: 500
+        y: 1254
+        width: 500
+        height: 626
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -186,10 +186,10 @@ TextureImporter:
       name: Ladron_2
       rect:
         serializedVersion: 2
-        x: 3840
-        y: 1920
-        width: 1920
-        height: 1920
+        x: 1000
+        y: 1254
+        width: 500
+        height: 626
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -208,10 +208,10 @@ TextureImporter:
       name: Ladron_3
       rect:
         serializedVersion: 2
-        x: 5760
-        y: 1920
-        width: 1920
-        height: 1920
+        x: 1500
+        y: 1254
+        width: 500
+        height: 626
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -230,10 +230,10 @@ TextureImporter:
       name: Ladron_4
       rect:
         serializedVersion: 2
-        x: 7680
-        y: 1920
-        width: 1920
-        height: 1920
+        x: 0
+        y: 628
+        width: 500
+        height: 626
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -252,10 +252,10 @@ TextureImporter:
       name: Ladron_5
       rect:
         serializedVersion: 2
-        x: 9600
-        y: 1920
-        width: 1920
-        height: 1920
+        x: 500
+        y: 628
+        width: 500
+        height: 626
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -274,10 +274,10 @@ TextureImporter:
       name: Ladron_6
       rect:
         serializedVersion: 2
-        x: 11520
-        y: 1920
-        width: 1920
-        height: 1920
+        x: 1000
+        y: 628
+        width: 500
+        height: 626
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -296,10 +296,10 @@ TextureImporter:
       name: Ladron_7
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1920
-        height: 1920
+        x: 1500
+        y: 628
+        width: 500
+        height: 626
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -318,10 +318,10 @@ TextureImporter:
       name: Ladron_8
       rect:
         serializedVersion: 2
-        x: 1920
-        y: 0
-        width: 1920
-        height: 1920
+        x: 0
+        y: 2
+        width: 500
+        height: 626
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -340,10 +340,10 @@ TextureImporter:
       name: Ladron_9
       rect:
         serializedVersion: 2
-        x: 3840
-        y: 0
-        width: 1920
-        height: 1920
+        x: 500
+        y: 2
+        width: 500
+        height: 626
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -354,94 +354,6 @@ TextureImporter:
       bones: []
       spriteID: 9201ed971ea58a050800000000000000
       internalID: 5811995243580362793
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Ladron_10
-      rect:
-        serializedVersion: 2
-        x: 5760
-        y: 0
-        width: 1920
-        height: 1920
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: eeb5252d1bcf4daa0800000000000000
-      internalID: -6137002551531119634
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Ladron_11
-      rect:
-        serializedVersion: 2
-        x: 7680
-        y: 0
-        width: 1920
-        height: 1920
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9671fdfaf1e873ad0800000000000000
-      internalID: -2722551182976411799
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Ladron_12
-      rect:
-        serializedVersion: 2
-        x: 9600
-        y: 0
-        width: 1920
-        height: 1920
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0378a418113da6880800000000000000
-      internalID: -8616842864882972880
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Ladron_13
-      rect:
-        serializedVersion: 2
-        x: 11520
-        y: 0
-        width: 1920
-        height: 1920
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6815aabf6c7b694f0800000000000000
-      internalID: -822267816694886010
       vertices: []
       indices: 
       edges: []
@@ -460,14 +372,10 @@ TextureImporter:
     spriteCustomMetadata:
       entries:
       - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":7.0,"y":2.0},"gridSpriteSize":{"x":1920.0,"y":1920.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":3.0},"gridSpriteSize":{"x":500.0,"y":626.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Ladron_0: -8767168177789668426
       Ladron_1: -4828049850244106145
-      Ladron_10: -6137002551531119634
-      Ladron_11: -2722551182976411799
-      Ladron_12: -8616842864882972880
-      Ladron_13: -822267816694886010
       Ladron_2: -8501358551845005541
       Ladron_3: -1395739074680027227
       Ladron_4: 3127542186212697277

@@ -117,7 +117,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 650
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -170,9 +170,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 9309
-        width: 2480
-        height: 3103
+        y: 1877
+        width: 500
+        height: 625
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -191,10 +191,10 @@ TextureImporter:
       name: Chatarrero_1
       rect:
         serializedVersion: 2
-        x: 2480
-        y: 9309
-        width: 2480
-        height: 3103
+        x: 500
+        y: 1877
+        width: 500
+        height: 625
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -213,10 +213,10 @@ TextureImporter:
       name: Chatarrero_2
       rect:
         serializedVersion: 2
-        x: 4960
-        y: 9309
-        width: 2480
-        height: 3103
+        x: 1000
+        y: 1877
+        width: 500
+        height: 625
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -235,10 +235,10 @@ TextureImporter:
       name: Chatarrero_3
       rect:
         serializedVersion: 2
-        x: 7440
-        y: 9309
-        width: 2480
-        height: 3103
+        x: 1500
+        y: 1877
+        width: 500
+        height: 625
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -257,10 +257,10 @@ TextureImporter:
       name: Chatarrero_4
       rect:
         serializedVersion: 2
-        x: 9920
-        y: 9309
-        width: 2480
-        height: 3103
+        x: 2000
+        y: 1877
+        width: 500
+        height: 625
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -279,10 +279,10 @@ TextureImporter:
       name: Chatarrero_5
       rect:
         serializedVersion: 2
-        x: 12400
-        y: 9309
-        width: 2480
-        height: 3103
+        x: 2500
+        y: 1877
+        width: 500
+        height: 625
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -302,9 +302,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 6206
-        width: 2480
-        height: 3103
+        y: 1252
+        width: 500
+        height: 625
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -323,10 +323,10 @@ TextureImporter:
       name: Chatarrero_7
       rect:
         serializedVersion: 2
-        x: 2480
-        y: 6206
-        width: 2480
-        height: 3103
+        x: 500
+        y: 1252
+        width: 500
+        height: 625
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -345,10 +345,10 @@ TextureImporter:
       name: Chatarrero_8
       rect:
         serializedVersion: 2
-        x: 4960
-        y: 6206
-        width: 2480
-        height: 3103
+        x: 1000
+        y: 1252
+        width: 500
+        height: 625
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -367,10 +367,10 @@ TextureImporter:
       name: Chatarrero_9
       rect:
         serializedVersion: 2
-        x: 7440
-        y: 6206
-        width: 2480
-        height: 3103
+        x: 1500
+        y: 1252
+        width: 500
+        height: 625
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -389,10 +389,10 @@ TextureImporter:
       name: Chatarrero_10
       rect:
         serializedVersion: 2
-        x: 9920
-        y: 6206
-        width: 2480
-        height: 3103
+        x: 2000
+        y: 1252
+        width: 500
+        height: 625
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -411,10 +411,10 @@ TextureImporter:
       name: Chatarrero_11
       rect:
         serializedVersion: 2
-        x: 12400
-        y: 6206
-        width: 2480
-        height: 3103
+        x: 2500
+        y: 1252
+        width: 500
+        height: 625
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -434,9 +434,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 3103
-        width: 2480
-        height: 3103
+        y: 627
+        width: 500
+        height: 625
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -455,10 +455,10 @@ TextureImporter:
       name: Chatarrero_13
       rect:
         serializedVersion: 2
-        x: 2480
-        y: 3103
-        width: 2480
-        height: 3103
+        x: 500
+        y: 627
+        width: 500
+        height: 625
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -477,10 +477,10 @@ TextureImporter:
       name: Chatarrero_14
       rect:
         serializedVersion: 2
-        x: 4960
-        y: 3103
-        width: 2480
-        height: 3103
+        x: 1000
+        y: 627
+        width: 500
+        height: 625
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -499,10 +499,10 @@ TextureImporter:
       name: Chatarrero_15
       rect:
         serializedVersion: 2
-        x: 7440
-        y: 3103
-        width: 2480
-        height: 3103
+        x: 1500
+        y: 627
+        width: 500
+        height: 625
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -521,10 +521,10 @@ TextureImporter:
       name: Chatarrero_16
       rect:
         serializedVersion: 2
-        x: 9920
-        y: 3103
-        width: 2480
-        height: 3103
+        x: 2000
+        y: 627
+        width: 500
+        height: 625
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -543,10 +543,10 @@ TextureImporter:
       name: Chatarrero_17
       rect:
         serializedVersion: 2
-        x: 12400
-        y: 3103
-        width: 2480
-        height: 3103
+        x: 2500
+        y: 627
+        width: 500
+        height: 625
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -566,9 +566,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 2480
-        height: 3103
+        y: 2
+        width: 500
+        height: 625
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -587,10 +587,10 @@ TextureImporter:
       name: Chatarrero_19
       rect:
         serializedVersion: 2
-        x: 2480
-        y: 0
-        width: 2480
-        height: 3103
+        x: 500
+        y: 2
+        width: 500
+        height: 625
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -609,10 +609,10 @@ TextureImporter:
       name: Chatarrero_20
       rect:
         serializedVersion: 2
-        x: 4960
-        y: 0
-        width: 2480
-        height: 3103
+        x: 1000
+        y: 2
+        width: 500
+        height: 625
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -631,10 +631,10 @@ TextureImporter:
       name: Chatarrero_21
       rect:
         serializedVersion: 2
-        x: 7440
-        y: 0
-        width: 2480
-        height: 3103
+        x: 1500
+        y: 2
+        width: 500
+        height: 625
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -653,10 +653,10 @@ TextureImporter:
       name: Chatarrero_22
       rect:
         serializedVersion: 2
-        x: 9920
-        y: 0
-        width: 2480
-        height: 3103
+        x: 2000
+        y: 2
+        width: 500
+        height: 625
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -685,7 +685,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries:
       - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":4.0},"gridSpriteSize":{"x":2480.0,"y":3103.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":4.0},"gridSpriteSize":{"x":500.0,"y":625.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Chatarrero_0: 2228618714592057424
       Chatarrero_1: -8917992950759832914
@@ -703,7 +703,6 @@ TextureImporter:
       Chatarrero_20: -2964184089301499237
       Chatarrero_21: 3980085085304274143
       Chatarrero_22: 3042085126096816833
-      Chatarrero_23: -1740584279
       Chatarrero_3: -2694912486777081240
       Chatarrero_4: 7991866362875833372
       Chatarrero_5: 8063869739339760291
