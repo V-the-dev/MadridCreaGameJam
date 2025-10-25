@@ -22,8 +22,10 @@ MonoBehaviour:
   mainCharacterWhenResponses: 0
   mainCharacterIndex: 0
   conversationLine:
-  - dialogue: "La mayor\xEDa jam\xE1s tuvieron un entierro digno. Ahora estas tumbas
-      son compartidas, al menos metaf\xF3ricamente. Representan una p\xE9rdida irremediable
-      para la comunidad."
+  - dialogue: "La mayor\xEDa jam\xE1s tuvieron un entierro digno."
+    spriteIndex: 0
+  - dialogue: "Ahora estas tumbas son compartidas, al menos metaf\xF3ricamente."
+    spriteIndex: 0
+  - dialogue: "Representan una p\xE9rdida irremediable para la comunidad."
     spriteIndex: 0
   responses: []
