@@ -318,16 +318,20 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 1922916444}
     - target: {fileID: 8476707806612027900, guid: 49654e6898c4ec241a23b5912c0062fe, type: 3}
-      propertyPath: etapasTemporales.Array.data[0].duracion
+      propertyPath: DebugTime
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8476707806612027900, guid: 49654e6898c4ec241a23b5912c0062fe, type: 3}
+      propertyPath: etapasTemporales.Array.data[0].duracion
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 8476707806612027900, guid: 49654e6898c4ec241a23b5912c0062fe, type: 3}
       propertyPath: etapasTemporales.Array.data[1].duracion
-      value: 1
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 8476707806612027900, guid: 49654e6898c4ec241a23b5912c0062fe, type: 3}
       propertyPath: etapasTemporales.Array.data[2].duracion
-      value: 1
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 8958233336667752319, guid: 49654e6898c4ec241a23b5912c0062fe, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3594,6 +3598,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 371328589978861666, guid: 0b3be3e6c12cdd546a29bed934201371, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: ba9d8e56c039dee4dae43f7c55633abd, type: 3}
     - target: {fileID: 499466544921091991, guid: 0b3be3e6c12cdd546a29bed934201371, type: 3}
       propertyPath: playerInput
       value: 
