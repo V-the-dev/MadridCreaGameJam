@@ -21,9 +21,12 @@ public class TimeManager : MonoBehaviour
     private float currentTime = 0;
 
     private float totalTime = 0;
-    public float timeMultipliyer = 1;
+    private float timeMultipliyer = 1;
 
-    public bool timeManipulated = false;
+    public bool DebugTime;
+    
+    [HideInInspector] public bool timeManipulated = false;
+    private bool gameOver = false;
     
     [SerializeField] private PlayerMovement player;
     [Header("NPCs & puertas")]
@@ -54,28 +57,34 @@ public class TimeManager : MonoBehaviour
         return totalTime;
     }
 
-    public void AddTime(float addedTime)
+    public void SlowTime(float percentageSlowed)
     {
-        currentTime -= addedTime;
+        timeMultipliyer = percentageSlowed;
         timeManipulated = true;
     }
     
     private void Update()
     {
+        if (gameOver)
+            return;
+        
         if(!playerIsInterating)
             currentTime += Time.deltaTime * timeMultipliyer;
         
         if(totalTime <= 0)
             return;
         
-        Debug.Log("Etapa: " + currentStage + " Tiempo: " + currentTime);
+        if(DebugTime)
+            Debug.Log("Etapa: " + currentStage + " Tiempo: " + currentTime);
         
         if (currentTime >= etapasTemporales[currentStage].duracion)
         {
-            //Se acabó el juego
             if (currentStage + 1 >= etapasTemporales.Count)
             {
+                //Se acabó el juego
                 Debug.Log("Game Over");
+                
+                gameOver = true;
 
                 //TODO: Función de finalizar el juego (Fundido a negro, sonido de disparo...)
                 

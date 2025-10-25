@@ -54,5 +54,6 @@ MonoBehaviour:
   - duracion: 30
     eventos: []
     dialogoFinalEtapa: {fileID: 11400000, guid: c51dd84d69c59ef4aa9e30d4a420fbbd, type: 2}
+  timeManipulated: 0
   player: {fileID: 0}
   restartLoopList: []

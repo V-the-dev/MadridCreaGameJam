@@ -301,6 +301,79 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d64ee0569cb2fc841aa4e6c63173fec3, type: 3}
+--- !u!1001 &59194385
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2459531610423637921, guid: 49654e6898c4ec241a23b5912c0062fe, type: 3}
+      propertyPath: m_Name
+      value: TimeManager
+      objectReference: {fileID: 0}
+    - target: {fileID: 8476707806612027900, guid: 49654e6898c4ec241a23b5912c0062fe, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 1922916444}
+    - target: {fileID: 8476707806612027900, guid: 49654e6898c4ec241a23b5912c0062fe, type: 3}
+      propertyPath: etapasTemporales.Array.data[0].duracion
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8476707806612027900, guid: 49654e6898c4ec241a23b5912c0062fe, type: 3}
+      propertyPath: etapasTemporales.Array.data[1].duracion
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8476707806612027900, guid: 49654e6898c4ec241a23b5912c0062fe, type: 3}
+      propertyPath: etapasTemporales.Array.data[2].duracion
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8958233336667752319, guid: 49654e6898c4ec241a23b5912c0062fe, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -3.04054
+      objectReference: {fileID: 0}
+    - target: {fileID: 8958233336667752319, guid: 49654e6898c4ec241a23b5912c0062fe, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.7103
+      objectReference: {fileID: 0}
+    - target: {fileID: 8958233336667752319, guid: 49654e6898c4ec241a23b5912c0062fe, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8958233336667752319, guid: 49654e6898c4ec241a23b5912c0062fe, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8958233336667752319, guid: 49654e6898c4ec241a23b5912c0062fe, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8958233336667752319, guid: 49654e6898c4ec241a23b5912c0062fe, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8958233336667752319, guid: 49654e6898c4ec241a23b5912c0062fe, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8958233336667752319, guid: 49654e6898c4ec241a23b5912c0062fe, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8958233336667752319, guid: 49654e6898c4ec241a23b5912c0062fe, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8958233336667752319, guid: 49654e6898c4ec241a23b5912c0062fe, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 49654e6898c4ec241a23b5912c0062fe, type: 3}
 --- !u!1001 &85343917
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2996,6 +3069,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 62899f850307741f2a39c98a8b639597, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Unity.InputSystem::UnityEngine.InputSystem.PlayerInput
+--- !u!114 &1922916444 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 699155370300028337, guid: 6a425c3cdbce40b4a8e480f70c853dbd, type: 3}
+  m_PrefabInstance: {fileID: 3242657478529228417}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd78677c1fd5a394f91f2f1d1acfa81f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerMovement
 --- !u!1001 &1972087128
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4016,6 +4100,7 @@ SceneRoots:
   - {fileID: 85343917}
   - {fileID: 620574387}
   - {fileID: 241050160}
+  - {fileID: 59194385}
   - {fileID: 90526367}
   - {fileID: 1159627617}
   - {fileID: 1452466}
