@@ -137,14 +137,11 @@ public class DialogueUI : MonoBehaviour
             yield return null;
             yield return new WaitUntil(() => _acceptAction.WasReleasedThisFrame());
             
-            // Limpiar imágenes antes de la siguiente línea
-            if (imageHandler)
-                imageHandler.ClearImages();
-            
             // Detener efectos antes de la siguiente línea
             typewritterEffect.StopEffects();
         }
 
+        
         if (dialogueObject.HasResponses)
         {
             // Cuando termine el texto muestra la flechita
@@ -210,6 +207,11 @@ public class DialogueUI : MonoBehaviour
             // Detener efectos al cerrar el diálogo
             typewritterEffect.StopEffects();
             if (endEvent != null) endEvent.OnPickedResponse?.Invoke();
+            
+            // Limpiar imágenes antes de la siguiente línea
+            if (imageHandler)
+                imageHandler.ClearImages();
+            
             CloseDialogueBox();
             GameManager.Instance.ResumeGame();
         }
