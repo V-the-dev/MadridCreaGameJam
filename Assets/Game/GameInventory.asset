@@ -14,101 +14,113 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::InventarioObject
   objetos:
     monedas:
-    - nombre: Pesetas
-      sprite: {fileID: 7696206910382328649, guid: 4d51074d49a0553438533c59afe24c90, type: 3}
+    - nombre: pesetas
+      sprite: {fileID: 21300000, guid: d10fe0e7f377ceb43ae2c3608d3ba663, type: 3}
       valor: 0
-    - nombre: Chatarra
-      sprite: {fileID: 4969764150213461430, guid: 7b9075163f32ac14fb9fb973d6e128a9, type: 3}
+    - nombre: chatarra
+      sprite: {fileID: 21300000, guid: 7a3544e41d70b004487e507fb7aa6a04, type: 3}
       valor: 0
-    - nombre: Pan
-      sprite: {fileID: 4969764150213461430, guid: 7b9075163f32ac14fb9fb973d6e128a9, type: 3}
+    - nombre: pan
+      sprite: {fileID: 21300000, guid: 52792df6017f85646bee0d83cf453aa5, type: 3}
       valor: 0
     objetosClave:
-    - nombre: Farol
-      sprite: {fileID: -4194584041537302659, guid: 9ef23ad098da5ac429826265ca6610b4, type: 3}
+    - nombre: farol
+      sprite: {fileID: -520320261171042114, guid: 43dda2a5e7672b34293f5b9c2c0f1f6c, type: 3}
       valor: 0
-    - nombre: Chuzo
-      sprite: {fileID: 993983420032589135, guid: c12de6364b77516409bd5b86b64708a6, type: 3}
-      valor: 1
-    - nombre: Jamon
-      sprite: {fileID: 993983420032589135, guid: c12de6364b77516409bd5b86b64708a6, type: 3}
-      valor: 1
-    - nombre: Reloj
-      sprite: {fileID: 993983420032589135, guid: c12de6364b77516409bd5b86b64708a6, type: 3}
-      valor: 1
-    - nombre: Llaves
-      sprite: {fileID: 993983420032589135, guid: c12de6364b77516409bd5b86b64708a6, type: 3}
-      valor: 1
-    - nombre: Licor
-      sprite: {fileID: 993983420032589135, guid: c12de6364b77516409bd5b86b64708a6, type: 3}
-      valor: 1
+    - nombre: chuzo
+      sprite: {fileID: 21300000, guid: 3c5376697f5c17548bf76b625b310931, type: 3}
+      valor: 0
+    - nombre: jamon
+      sprite: {fileID: 21300000, guid: cfa1fa17c66b5794d8490a2aa6ced41c, type: 3}
+      valor: 0
+    - nombre: reloj
+      sprite: {fileID: 21300000, guid: 800845ace5ef3904aad89aa1694600f3, type: 3}
+      valor: 0
+    - nombre: llaves
+      sprite: {fileID: 21300000, guid: 7e30c9790ff6d3a4c8cd7843db81347a, type: 3}
+      valor: 0
+    - nombre: licor
+      sprite: {fileID: 21300000, guid: b4680b23d9856f748b0978c31c9facdc, type: 3}
+      valor: 0
   eventos:
-  - isLoopPersistent: 0
-    startValue: 0
-    nombre: Nuevo_Benavide
   - isLoopPersistent: 0
     startValue: 0
     nombre: Ladron_Derrotado
   - isLoopPersistent: 0
     startValue: 0
-    nombre: Amante_Retirado
-  - isLoopPersistent: 0
-    startValue: 0
-    nombre: Acceso_Ruinas
-  - isLoopPersistent: 0
-    startValue: 0
-    nombre: Acceso_Mansion
-  - isLoopPersistent: 0
-    startValue: 0
-    nombre: Bernardo_Info
+    nombre: Garrido_Info
   - isLoopPersistent: 0
     startValue: 0
     nombre: Manuel_Info
   - isLoopPersistent: 0
     startValue: 0
-    nombre: Paredon_Looteado
+    nombre: Agente_1
   - isLoopPersistent: 0
     startValue: 0
-    nombre: Mendigo_Salvado
+    nombre: Cadaver_1
   - isLoopPersistent: 0
     startValue: 0
-    nombre: Propietarios_Ayudados
-  - isLoopPersistent: 0
-    startValue: 0
-    nombre: Apuesta_Realizada
-  - isLoopPersistent: 0
-    startValue: 0
-    nombre: Perro_Muerto
-  - isLoopPersistent: 0
-    startValue: 0
-    nombre: Perro_Alimentado
-  - isLoopPersistent: 0
-    startValue: 0
-    nombre: Licor_Robado
-  - isLoopPersistent: 0
-    startValue: 0
-    nombre: Padre_Haro
-  - isLoopPersistent: 0
-    startValue: 0
-    nombre: Viuda
-  - isLoopPersistent: 0
-    startValue: 0
-    nombre: Benavide
-  - isLoopPersistent: 0
-    startValue: 0
-    nombre: Agente
-  - isLoopPersistent: 0
-    startValue: 0
-    nombre: Cadaver
-  - isLoopPersistent: 0
-    startValue: 0
-    nombre: Tumbas
-  - isLoopPersistent: 0
-    startValue: 0
-    nombre: Nina_retirada
+    nombre: Tumbas_1
   - isLoopPersistent: 0
     startValue: 0
     nombre: DebugAlejandro
+  - isLoopPersistent: 0
+    startValue: 0
+    nombre: Agente_2
+  - isLoopPersistent: 0
+    startValue: 0
+    nombre: Amante_1
+  - isLoopPersistent: 0
+    startValue: 0
+    nombre: Amante_2
+  - isLoopPersistent: 0
+    startValue: 0
+    nombre: Amante_3
+  - isLoopPersistent: 0
+    startValue: 0
+    nombre: Amante_4
+  - isLoopPersistent: 0
+    startValue: 0
+    nombre: Amante_5
+  - isLoopPersistent: 0
+    startValue: 0
+    nombre: Viuda_1
+  - isLoopPersistent: 0
+    startValue: 0
+    nombre: Bar_1
+  - isLoopPersistent: 0
+    startValue: 0
+    nombre: Bar_2
+  - isLoopPersistent: 0
+    startValue: 0
+    nombre: Borracho_1
+  - isLoopPersistent: 0
+    startValue: 0
+    nombre: Mentor_1
+  - isLoopPersistent: 0
+    startValue: 0
+    nombre: Mentor_farol
+  - isLoopPersistent: 0
+    startValue: 0
+    nombre: Mentor_llaves
+  - isLoopPersistent: 0
+    startValue: 0
+    nombre: Mentor_4
+  - isLoopPersistent: 0
+    startValue: 0
+    nombre: Testigo_1
+  - isLoopPersistent: 0
+    startValue: 0
+    nombre: Traficante_1
+  - isLoopPersistent: 0
+    startValue: 0
+    nombre: Traficante_2
+  - isLoopPersistent: 0
+    startValue: 0
+    nombre: Traficante_3
+  - isLoopPersistent: 0
+    startValue: 0
+    nombre: Traficante_4
   internalEvents:
   - isLoopPersistent: 0
     startValue: 0

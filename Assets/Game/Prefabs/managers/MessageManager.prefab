@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 5184736034060616338}
   - component: {fileID: 2168822247181156500}
   - component: {fileID: 1159144844076581338}
+  - component: {fileID: 4829471587761950912}
   m_Layer: 0
   m_Name: MessageManager
   m_TagString: Untagged
@@ -60,7 +61,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 183c7b9e1f9299643960caa3be632df2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DialogueActivator
-  dialogueObject: {fileID: 11400000, guid: 262e32e91d68e8c4ebb4d95667250de6, type: 2}
+  dialogueObject: {fileID: 11400000, guid: 41476965bd6ebbe418b7f9541e119c09, type: 2}
 --- !u!114 &1159144844076581338
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -73,21 +74,419 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 11194b960255c0c47a6786a9e2010d40, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DialogueResponseEvents
-  dialogueObject: {fileID: 11400000, guid: 53e80befc37528c48980f2537d9ac466, type: 2}
-  events:
-  - name: Continuar
-    onPickedResponse:
-      m_PersistentCalls:
-        m_Calls:
-        - m_Target: {fileID: 0}
-          m_TargetAssemblyTypeName: 
-          m_MethodName: 
-          m_Mode: 1
-          m_Arguments:
-            m_ObjectArgument: {fileID: 0}
-            m_ObjectArgumentAssemblyTypeName: 
-            m_IntArgument: 0
-            m_FloatArgument: 0
-            m_StringArgument: 
-            m_BoolArgument: 0
-          m_CallState: 2
+  DREvents:
+  - dialogueObject: {fileID: 11400000, guid: 23fd3b433f7bcfa4a80cbe7353a48754, type: 2}
+    events:
+    - name: END_CONVERSATION
+      onPickedResponse:
+        m_PersistentCalls:
+          m_Calls: []
+      customStringEvents: []
+      customStringIntEvents: []
+      customStringBoolEvents:
+      - stringValue: PrimerMensajePadreHaro
+        boolValue: 1
+        unityEvent:
+          m_PersistentCalls:
+            m_Calls:
+            - m_Target: {fileID: 0}
+              m_TargetAssemblyTypeName: InventoryManager, Assembly-CSharp
+              m_MethodName: SetEventValue
+              m_Mode: 0
+              m_Arguments:
+                m_ObjectArgument: {fileID: 0}
+                m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+                m_IntArgument: 0
+                m_FloatArgument: 0
+                m_StringArgument: 
+                m_BoolArgument: 0
+              m_CallState: 2
+      showVoidEvent: 0
+      showStringEvent: 0
+      showStringIntEvent: 0
+      showStringBoolEvent: 1
+  - dialogueObject: {fileID: 11400000, guid: f8b9e371b43e22047ae77959c94ac58b, type: 2}
+    events:
+    - name: END_CONVERSATION
+      onPickedResponse:
+        m_PersistentCalls:
+          m_Calls: []
+      customStringEvents: []
+      customStringIntEvents: []
+      customStringBoolEvents:
+      - stringValue: Agente
+        boolValue: 1
+        unityEvent:
+          m_PersistentCalls:
+            m_Calls:
+            - m_Target: {fileID: 0}
+              m_TargetAssemblyTypeName: InventoryManager, Assembly-CSharp
+              m_MethodName: SetEventValue
+              m_Mode: 0
+              m_Arguments:
+                m_ObjectArgument: {fileID: 0}
+                m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+                m_IntArgument: 0
+                m_FloatArgument: 0
+                m_StringArgument: 
+                m_BoolArgument: 0
+              m_CallState: 2
+      showVoidEvent: 0
+      showStringEvent: 0
+      showStringIntEvent: 0
+      showStringBoolEvent: 1
+  - dialogueObject: {fileID: 11400000, guid: 1b32ff2301346754f9043d3e90ea9c17, type: 2}
+    events:
+    - name: END_CONVERSATION
+      onPickedResponse:
+        m_PersistentCalls:
+          m_Calls: []
+      customStringEvents: []
+      customStringIntEvents: []
+      customStringBoolEvents:
+      - stringValue: Agente_2
+        boolValue: 1
+        unityEvent:
+          m_PersistentCalls:
+            m_Calls:
+            - m_Target: {fileID: 0}
+              m_TargetAssemblyTypeName: InventoryManager, Assembly-CSharp
+              m_MethodName: SetEventValue
+              m_Mode: 0
+              m_Arguments:
+                m_ObjectArgument: {fileID: 0}
+                m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+                m_IntArgument: 0
+                m_FloatArgument: 0
+                m_StringArgument: 
+                m_BoolArgument: 0
+              m_CallState: 2
+      showVoidEvent: 0
+      showStringEvent: 0
+      showStringIntEvent: 0
+      showStringBoolEvent: 1
+  - dialogueObject: {fileID: 11400000, guid: 946da7ef41a7841478215418c450df58, type: 2}
+    events:
+    - name: ...
+      onPickedResponse:
+        m_PersistentCalls:
+          m_Calls: []
+      customStringEvents: []
+      customStringIntEvents: []
+      customStringBoolEvents: []
+      showVoidEvent: 0
+      showStringEvent: 0
+      showStringIntEvent: 0
+      showStringBoolEvent: 0
+    - name: END_CONVERSATION
+      onPickedResponse:
+        m_PersistentCalls:
+          m_Calls: []
+      customStringEvents: []
+      customStringIntEvents: []
+      customStringBoolEvents:
+      - stringValue: Amante_1
+        boolValue: 1
+        unityEvent:
+          m_PersistentCalls:
+            m_Calls:
+            - m_Target: {fileID: 0}
+              m_TargetAssemblyTypeName: InventoryManager, Assembly-CSharp
+              m_MethodName: SetEventValue
+              m_Mode: 0
+              m_Arguments:
+                m_ObjectArgument: {fileID: 0}
+                m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+                m_IntArgument: 0
+                m_FloatArgument: 0
+                m_StringArgument: 
+                m_BoolArgument: 0
+              m_CallState: 2
+      showVoidEvent: 0
+      showStringEvent: 0
+      showStringIntEvent: 0
+      showStringBoolEvent: 1
+  - dialogueObject: {fileID: 11400000, guid: 307cc64afce17b64496991a333b7cd4c, type: 2}
+    events:
+    - name: ...
+      onPickedResponse:
+        m_PersistentCalls:
+          m_Calls: []
+      customStringEvents: []
+      customStringIntEvents: []
+      customStringBoolEvents: []
+      showVoidEvent: 0
+      showStringEvent: 0
+      showStringIntEvent: 0
+      showStringBoolEvent: 0
+    - name: END_CONVERSATION
+      onPickedResponse:
+        m_PersistentCalls:
+          m_Calls: []
+      customStringEvents: []
+      customStringIntEvents: []
+      customStringBoolEvents:
+      - stringValue: Amante_2
+        boolValue: 1
+        unityEvent:
+          m_PersistentCalls:
+            m_Calls:
+            - m_Target: {fileID: 0}
+              m_TargetAssemblyTypeName: InventoryManager, Assembly-CSharp
+              m_MethodName: SetEventValue
+              m_Mode: 0
+              m_Arguments:
+                m_ObjectArgument: {fileID: 0}
+                m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+                m_IntArgument: 0
+                m_FloatArgument: 0
+                m_StringArgument: 
+                m_BoolArgument: 0
+              m_CallState: 2
+      showVoidEvent: 0
+      showStringEvent: 0
+      showStringIntEvent: 0
+      showStringBoolEvent: 1
+  - dialogueObject: {fileID: 11400000, guid: 90f09b6d46f6b4d46a255c048ce0efd2, type: 2}
+    events:
+    - name: ...
+      onPickedResponse:
+        m_PersistentCalls:
+          m_Calls: []
+      customStringEvents: []
+      customStringIntEvents: []
+      customStringBoolEvents: []
+      showVoidEvent: 0
+      showStringEvent: 0
+      showStringIntEvent: 0
+      showStringBoolEvent: 0
+    - name: END_CONVERSATION
+      onPickedResponse:
+        m_PersistentCalls:
+          m_Calls: []
+      customStringEvents: []
+      customStringIntEvents: []
+      customStringBoolEvents:
+      - stringValue: Amante_3
+        boolValue: 1
+        unityEvent:
+          m_PersistentCalls:
+            m_Calls:
+            - m_Target: {fileID: 0}
+              m_TargetAssemblyTypeName: InventoryManager, Assembly-CSharp
+              m_MethodName: SetEventValue
+              m_Mode: 0
+              m_Arguments:
+                m_ObjectArgument: {fileID: 0}
+                m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+                m_IntArgument: 0
+                m_FloatArgument: 0
+                m_StringArgument: 
+                m_BoolArgument: 0
+              m_CallState: 2
+      showVoidEvent: 0
+      showStringEvent: 0
+      showStringIntEvent: 0
+      showStringBoolEvent: 1
+  - dialogueObject: {fileID: 11400000, guid: 6f2b06fa6dd6a7641a554b47f62273ba, type: 2}
+    events:
+    - name: "(Esto empieza a ser inc\xF3modo)"
+      onPickedResponse:
+        m_PersistentCalls:
+          m_Calls: []
+      customStringEvents: []
+      customStringIntEvents: []
+      customStringBoolEvents: []
+      showVoidEvent: 0
+      showStringEvent: 0
+      showStringIntEvent: 0
+      showStringBoolEvent: 0
+    - name: END_CONVERSATION
+      onPickedResponse:
+        m_PersistentCalls:
+          m_Calls: []
+      customStringEvents: []
+      customStringIntEvents: []
+      customStringBoolEvents:
+      - stringValue: Amante_4
+        boolValue: 1
+        unityEvent:
+          m_PersistentCalls:
+            m_Calls:
+            - m_Target: {fileID: 0}
+              m_TargetAssemblyTypeName: InventoryManager, Assembly-CSharp
+              m_MethodName: SetEventValue
+              m_Mode: 0
+              m_Arguments:
+                m_ObjectArgument: {fileID: 0}
+                m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+                m_IntArgument: 0
+                m_FloatArgument: 0
+                m_StringArgument: 
+                m_BoolArgument: 0
+              m_CallState: 2
+      showVoidEvent: 0
+      showStringEvent: 0
+      showStringIntEvent: 0
+      showStringBoolEvent: 1
+  - dialogueObject: {fileID: 11400000, guid: bf7c79574abda8d45ae3c3de87286852, type: 2}
+    events:
+    - name: END_CONVERSATION
+      onPickedResponse:
+        m_PersistentCalls:
+          m_Calls: []
+      customStringEvents: []
+      customStringIntEvents: []
+      customStringBoolEvents:
+      - stringValue: Amante_5
+        boolValue: 1
+        unityEvent:
+          m_PersistentCalls:
+            m_Calls:
+            - m_Target: {fileID: 0}
+              m_TargetAssemblyTypeName: InventoryManager, Assembly-CSharp
+              m_MethodName: SetEventValue
+              m_Mode: 0
+              m_Arguments:
+                m_ObjectArgument: {fileID: 0}
+                m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+                m_IntArgument: 0
+                m_FloatArgument: 0
+                m_StringArgument: 
+                m_BoolArgument: 0
+              m_CallState: 2
+      showVoidEvent: 0
+      showStringEvent: 0
+      showStringIntEvent: 0
+      showStringBoolEvent: 1
+--- !u!114 &4829471587761950912
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2850149195111994021}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 29ce947d9338f1c44919fb27b4277a05, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::InventoryDialogueLinker
+  inventoryObject: {fileID: 11400000, guid: 851110b7dceec0c4ea9c8ff25be7d8b1, type: 2}
+  entries:
+  - dialogueObject: {fileID: 11400000, guid: 23fd3b433f7bcfa4a80cbe7353a48754, type: 2}
+    hasAssociatedEvent: 1
+    associatedEvents:
+    - eventIndex: 28
+      eventFlag: 0
+    hasAssociatedObject: 0
+    associatedObjects: []
+    eventResponseAssociated: 
+    eventsAssociatedPerResponse: []
+    objectResponseAssociated: 
+    objectsAssociatedPerResponse: []
+  - dialogueObject: {fileID: 11400000, guid: d84dc061d90ebcc469bbca0fa1dc7718, type: 2}
+    hasAssociatedEvent: 1
+    associatedEvents:
+    - eventIndex: 28
+      eventFlag: 1
+    hasAssociatedObject: 0
+    associatedObjects: []
+    eventResponseAssociated: 
+    eventsAssociatedPerResponse: []
+    objectResponseAssociated: 
+    objectsAssociatedPerResponse: []
+  - dialogueObject: {fileID: 11400000, guid: f8b9e371b43e22047ae77959c94ac58b, type: 2}
+    hasAssociatedEvent: 1
+    associatedEvents:
+    - eventIndex: 16
+      eventFlag: 0
+    hasAssociatedObject: 0
+    associatedObjects: []
+    eventResponseAssociated: 
+    eventsAssociatedPerResponse: []
+    objectResponseAssociated: 
+    objectsAssociatedPerResponse: []
+  - dialogueObject: {fileID: 11400000, guid: 1b32ff2301346754f9043d3e90ea9c17, type: 2}
+    hasAssociatedEvent: 1
+    associatedEvents:
+    - eventIndex: 16
+      eventFlag: 1
+    - eventIndex: 21
+      eventFlag: 0
+    hasAssociatedObject: 0
+    associatedObjects: []
+    eventResponseAssociated: 
+    eventsAssociatedPerResponse: []
+    objectResponseAssociated: 
+    objectsAssociatedPerResponse: []
+  - dialogueObject: {fileID: 11400000, guid: 946da7ef41a7841478215418c450df58, type: 2}
+    hasAssociatedEvent: 1
+    associatedEvents:
+    - eventIndex: 22
+      eventFlag: 0
+    hasAssociatedObject: 0
+    associatedObjects: []
+    eventResponseAssociated: 00
+    eventsAssociatedPerResponse:
+    - events: []
+    objectResponseAssociated: 00
+    objectsAssociatedPerResponse:
+    - objects: []
+  - dialogueObject: {fileID: 11400000, guid: 307cc64afce17b64496991a333b7cd4c, type: 2}
+    hasAssociatedEvent: 1
+    associatedEvents:
+    - eventIndex: 22
+      eventFlag: 1
+    - eventIndex: 23
+      eventFlag: 0
+    hasAssociatedObject: 0
+    associatedObjects: []
+    eventResponseAssociated: 00
+    eventsAssociatedPerResponse:
+    - events: []
+    objectResponseAssociated: 00
+    objectsAssociatedPerResponse:
+    - objects: []
+  - dialogueObject: {fileID: 11400000, guid: 90f09b6d46f6b4d46a255c048ce0efd2, type: 2}
+    hasAssociatedEvent: 1
+    associatedEvents:
+    - eventIndex: 23
+      eventFlag: 1
+    - eventIndex: 24
+      eventFlag: 0
+    hasAssociatedObject: 0
+    associatedObjects: []
+    eventResponseAssociated: 00
+    eventsAssociatedPerResponse:
+    - events: []
+    objectResponseAssociated: 00
+    objectsAssociatedPerResponse:
+    - objects: []
+  - dialogueObject: {fileID: 11400000, guid: 6f2b06fa6dd6a7641a554b47f62273ba, type: 2}
+    hasAssociatedEvent: 1
+    associatedEvents:
+    - eventIndex: 24
+      eventFlag: 1
+    - eventIndex: 25
+      eventFlag: 0
+    hasAssociatedObject: 0
+    associatedObjects: []
+    eventResponseAssociated: 00
+    eventsAssociatedPerResponse:
+    - events: []
+    objectResponseAssociated: 00
+    objectsAssociatedPerResponse:
+    - objects: []
+  - dialogueObject: {fileID: 11400000, guid: bf7c79574abda8d45ae3c3de87286852, type: 2}
+    hasAssociatedEvent: 1
+    associatedEvents:
+    - eventIndex: 25
+      eventFlag: 1
+    - eventIndex: 26
+      eventFlag: 0
+    hasAssociatedObject: 0
+    associatedObjects: []
+    eventResponseAssociated: 
+    eventsAssociatedPerResponse: []
+    objectResponseAssociated: 
+    objectsAssociatedPerResponse: []

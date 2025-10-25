@@ -32,6 +32,6 @@ MonoBehaviour:
     spriteIndex: 0
   responses:
   - responseText: "El ladr\xF3n no volver\xE1"
-    dialogueObject: {fileID: 11400000, guid: df25ecf2bd34df249a02d74933f35a1c, type: 2}
+    dialogueObject: {fileID: 11400000, guid: 8bcfca5ee1e8ce34eb016ca42cbe1eb3, type: 2}
   - responseText: Volver
     dialogueObject: {fileID: 0}

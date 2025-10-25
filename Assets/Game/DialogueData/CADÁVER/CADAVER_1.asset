@@ -14,14 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::DialogueObject
   characters:
   - {fileID: 0}
-  - {fileID: 0}
   charactersName:
-  - 
   - 
   charactersTitle:
   - 
-  - 
-  charactersSide: 0000000000000000
+  charactersSide: 00000000
   mainCharacterWhenResponses: 0
   mainCharacterIndex: 0
   conversationLine:

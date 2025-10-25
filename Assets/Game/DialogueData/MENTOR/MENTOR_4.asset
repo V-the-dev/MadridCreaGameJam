@@ -30,3 +30,5 @@ MonoBehaviour:
   responses:
   - responseText: Entregar <color=#1f5f8d>licor</color>
     dialogueObject: {fileID: 11400000, guid: f63992c0395af0245aee5340d98c7c22, type: 2}
+  - responseText: Volver
+    dialogueObject: {fileID: 11400000, guid: 4abd8ecda7f92034e960b0880af1332a, type: 2}
