@@ -29,9 +29,12 @@ MonoBehaviour:
     spriteIndex: 0
   - dialogue: "\xBFQu\xE9 buscas? "
     spriteIndex: 0
-  - dialogue: 'Te puedo vender:  <color=#1f5f8d>Chuzo</color> por <color=#1f5f8d>150
-      pesetas, <color=#1f5f8d>Reloj</color> por <color=#1f5f8d>100 pesetas</color></color>,
-      <color=#1f5f8d>Pan</color> por <color=#1f5f8d>50 pesetas</color>'
+  - dialogue: Te puedo ofrecer un <color=#1f5f8d>Chuzo</color><img=chuzo>por <color=#1f5f8d>150
+      pesetas</color> <img=pesetas>, un <color=#1f5f8d>reloj</color><img=reloj>por
+      <color=#1f5f8d>100 pesetas</color></color><img=pesetas> o un <color=#1f5f8d>pan</color><img=pan>por
+      <color=#1f5f8d>50 pesetas</color><img=pesetas>
+    spriteIndex: 0
+  - dialogue: Se mira pero no se toca. O lo tomas o lo dejas, Sereno.
     spriteIndex: 0
   responses:
   - responseText: ' <color=#1f5f8d>Chuzo</color> por <color=#1f5f8d>150 pesetas</color>'

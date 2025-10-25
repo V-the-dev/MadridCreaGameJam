@@ -25,6 +25,12 @@ MonoBehaviour:
   mainCharacterWhenResponses: 0
   mainCharacterIndex: 1
   conversationLine:
-  - dialogue: Lo siento, me has dejado sin existencias.
+  - dialogue: "\xBFYa est\xE1 aqu\xED otra vez?"
+    spriteIndex: 0
+  - dialogue: "Me he quedado sin existencias, buen se\xF1or."
+    spriteIndex: 0
+  - dialogue: "Vuelva ma\xF1ana, si eso."
+    spriteIndex: 0
+  - dialogue: Ha sido un placer hacer negocios con usted.
     spriteIndex: 0
   responses: []
