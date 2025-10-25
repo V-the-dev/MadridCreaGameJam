@@ -19,6 +19,11 @@ public class PlayerUIManager : MonoBehaviour
 
     private void Update()
     {
+        if (pausePanel.activeInHierarchy)
+            GameManager.Instance.PauseGame();
+        else
+            GameManager.Instance.ResumeGame();
+        
         if (playerInput.actions["OpenPauseMenu"].WasPressedThisFrame())
         {
             if(activePanel == null)

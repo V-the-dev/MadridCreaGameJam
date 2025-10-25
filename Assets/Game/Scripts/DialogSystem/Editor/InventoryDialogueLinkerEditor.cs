@@ -33,30 +33,6 @@ public class InventoryDialogueLinkerEditor : Editor
 
         EditorGUILayout.Space();
 
-        // ---- BOTÓN PARA AÑADIR ELEMENTOS ----
-        if (GUILayout.Button("+ Añadir entrada de diálogo"))
-        {
-            int newIndex = entriesProp.arraySize;
-            entriesProp.arraySize++;
-
-            SerializedProperty newEntry = entriesProp.GetArrayElementAtIndex(newIndex);
-
-            // Limpia las referencias y valores básicos
-            newEntry.FindPropertyRelative("dialogueObject").objectReferenceValue = null;
-            newEntry.FindPropertyRelative("hasAssociatedEvent").boolValue = false;
-            newEntry.FindPropertyRelative("hasAssociatedObject").boolValue = false;
-
-            // Vacía las listas internas
-            newEntry.FindPropertyRelative("associatedEvents").ClearArray();
-            newEntry.FindPropertyRelative("associatedObjects").ClearArray();
-            newEntry.FindPropertyRelative("eventResponseAssociated").ClearArray();
-            newEntry.FindPropertyRelative("objectResponseAssociated").ClearArray();
-            newEntry.FindPropertyRelative("eventsAssociatedPerResponse").ClearArray();
-            newEntry.FindPropertyRelative("objectsAssociatedPerResponse").ClearArray();
-        }
-
-        EditorGUILayout.Space();
-
         // ---- LISTA ----
         showEntries = EditorGUILayout.Foldout(showEntries, "Entradas de Diálogo", true);
         if (showEntries)
@@ -81,7 +57,7 @@ public class InventoryDialogueLinkerEditor : Editor
                 EditorGUILayout.BeginHorizontal();
                 
                 if (!showEntryDetails.ContainsKey(i))
-                    showEntryDetails[i] = true;
+                    showEntryDetails[i] = false;
 
                 string entryLabel = dialogueObjectProp.objectReferenceValue != null
                     ? dialogueObjectProp.objectReferenceValue.name
@@ -404,6 +380,30 @@ public class InventoryDialogueLinkerEditor : Editor
             }
 
             EditorGUI.indentLevel--;
+        }
+
+        EditorGUILayout.Space();
+
+        // ---- BOTÓN PARA AÑADIR ELEMENTOS ----
+        if (GUILayout.Button("+ Añadir entrada de diálogo"))
+        {
+            int newIndex = entriesProp.arraySize;
+            entriesProp.arraySize++;
+
+            SerializedProperty newEntry = entriesProp.GetArrayElementAtIndex(newIndex);
+
+            // Limpia las referencias y valores básicos
+            newEntry.FindPropertyRelative("dialogueObject").objectReferenceValue = null;
+            newEntry.FindPropertyRelative("hasAssociatedEvent").boolValue = false;
+            newEntry.FindPropertyRelative("hasAssociatedObject").boolValue = false;
+
+            // Vacía las listas internas
+            newEntry.FindPropertyRelative("associatedEvents").ClearArray();
+            newEntry.FindPropertyRelative("associatedObjects").ClearArray();
+            newEntry.FindPropertyRelative("eventResponseAssociated").ClearArray();
+            newEntry.FindPropertyRelative("objectResponseAssociated").ClearArray();
+            newEntry.FindPropertyRelative("eventsAssociatedPerResponse").ClearArray();
+            newEntry.FindPropertyRelative("objectsAssociatedPerResponse").ClearArray();
         }
 
         serializedObject.ApplyModifiedProperties();
