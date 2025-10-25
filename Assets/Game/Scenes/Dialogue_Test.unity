@@ -207,6 +207,46 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 748866746400312793, guid: 088803ca7f141a14da94ed3890ab44c2, type: 3}
+      propertyPath: m_text
+      value: Don Benavides
+      objectReference: {fileID: 0}
+    - target: {fileID: 748866746400312793, guid: 088803ca7f141a14da94ed3890ab44c2, type: 3}
+      propertyPath: m_fontSize
+      value: 28
+      objectReference: {fileID: 0}
+    - target: {fileID: 748866746400312793, guid: 088803ca7f141a14da94ed3890ab44c2, type: 3}
+      propertyPath: m_fontSizeMax
+      value: 36
+      objectReference: {fileID: 0}
+    - target: {fileID: 748866746400312793, guid: 088803ca7f141a14da94ed3890ab44c2, type: 3}
+      propertyPath: m_fontSizeMin
+      value: 28
+      objectReference: {fileID: 0}
+    - target: {fileID: 748866746400312793, guid: 088803ca7f141a14da94ed3890ab44c2, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 32
+      objectReference: {fileID: 0}
+    - target: {fileID: 748866746400312793, guid: 088803ca7f141a14da94ed3890ab44c2, type: 3}
+      propertyPath: m_enableAutoSizing
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3419417068967158011, guid: 088803ca7f141a14da94ed3890ab44c2, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: -60.3218
+      objectReference: {fileID: 0}
+    - target: {fileID: 3419417068967158011, guid: 088803ca7f141a14da94ed3890ab44c2, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -7.1609
+      objectReference: {fileID: 0}
+    - target: {fileID: 3956458982511926458, guid: 088803ca7f141a14da94ed3890ab44c2, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: -60.322
+      objectReference: {fileID: 0}
+    - target: {fileID: 3956458982511926458, guid: 088803ca7f141a14da94ed3890ab44c2, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -7.1608
+      objectReference: {fileID: 0}
     - target: {fileID: 4709541143000056941, guid: 088803ca7f141a14da94ed3890ab44c2, type: 3}
       propertyPath: m_Name
       value: DialogueCanvas_Final
@@ -218,6 +258,22 @@ PrefabInstance:
     - target: {fileID: 6774272375953118034, guid: 088803ca7f141a14da94ed3890ab44c2, type: 3}
       propertyPath: m_Enabled
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7219209223526624185, guid: 088803ca7f141a14da94ed3890ab44c2, type: 3}
+      propertyPath: m_fontSize
+      value: 36
+      objectReference: {fileID: 0}
+    - target: {fileID: 7219209223526624185, guid: 088803ca7f141a14da94ed3890ab44c2, type: 3}
+      propertyPath: m_fontSizeMax
+      value: 36
+      objectReference: {fileID: 0}
+    - target: {fileID: 7219209223526624185, guid: 088803ca7f141a14da94ed3890ab44c2, type: 3}
+      propertyPath: m_fontSizeMin
+      value: 28
+      objectReference: {fileID: 0}
+    - target: {fileID: 7219209223526624185, guid: 088803ca7f141a14da94ed3890ab44c2, type: 3}
+      propertyPath: m_enableAutoSizing
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
