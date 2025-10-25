@@ -19,17 +19,20 @@ MonoBehaviour:
   - PILAR
   - SERENO
   charactersTitle:
-  - Viuda del asesinado
+  - Viuda
   - 
   charactersSide: 0000000001000000
   mainCharacterWhenResponses: 0
   mainCharacterIndex: 0
   conversationLine:
-  - dialogue: (Rabiosa, Pilar, la viuda del <color=#7b1f1f>asesinado</color>, aporrea
-      la puerta de una casa.)
+  - dialogue: (Rabiosa, Pilar aporrea la puerta de una casa.)
     spriteIndex: 0
-  - dialogue: "\xA1Sereno! Usted conoc\xEDa a mi <color=#7b1f1f>Manuel</color>. Ver\xE1.
-      Mi esposo, antes de morir, estuvo con <color=#7b1f1f>Garrido</color>."
+  - dialogue: "\xA1Sereno! Usted conoc\xEDa a mi <color=#7b1f1f>Manuel</color>."
+    spriteIndex: 0
+  - dialogue: "Se ha enterado, \xBFverdad? <shake>\xA1Han asesinado a mi marido!</shake>"
+    spriteIndex: 0
+  - dialogue: "Ver\xE1. <color=#7b1f1f>Garrido</color> fue la \xFAltima persona que
+      le vi\xF3 con vida, o eso dicen."
     spriteIndex: 0
   - dialogue: "Recuerda usted a <color=#7b1f1f>Garrido</color>, fue con usted y con
       <color=#7b1f1f>Manuel</color> a la guerra. <color=#7b1f1f>Garrido</color> lleg\xF3
