@@ -8,6 +8,8 @@ public class PlayerUIManager : MonoBehaviour
 
     public GameObject pausePanel;
 
+    private GameObject activePanel;
+    
     public PlayerInput playerInput;
     
     private void Start()
@@ -19,7 +21,13 @@ public class PlayerUIManager : MonoBehaviour
     {
         if (playerInput.actions["OpenPauseMenu"].WasPressedThisFrame())
         {
-            TogglePanel(pausePanel);
+            if(activePanel == null)
+                TogglePanel(pausePanel);
+            else
+            {
+                TogglePanel(activePanel);
+                activePanel = pausePanel;
+            }
         }
     }
 
@@ -36,6 +44,8 @@ public class PlayerUIManager : MonoBehaviour
             return;
         }
         panel.SetActive(!panel.activeSelf);
+        
+        activePanel = panel;
     }
     
     public void ExitGame()

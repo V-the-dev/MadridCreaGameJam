@@ -74,6 +74,13 @@ public class DialogueResponseEventsEditor : Editor
             serializedObject.ApplyModifiedProperties();
             Repaint();
         }
+        
+        // Botón para borrar ultimo elemento
+        if (GUILayout.Button("- Eliminar ultimo Dialogue Event"))
+        {
+            if (drEventsProp.arraySize > 0)
+                drEventsProp.DeleteArrayElementAtIndex(drEventsProp.arraySize - 1);
+        }
 
         serializedObject.ApplyModifiedProperties();
     }

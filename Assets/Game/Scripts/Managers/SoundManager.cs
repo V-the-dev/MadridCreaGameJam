@@ -1,12 +1,18 @@
 ﻿using System;
 using System.Collections.Generic;
-using UnityEditor;
 using UnityEngine;
 using UnityEngine.Audio;
+using System.Collections;
+using UnityEngine.SceneManagement;
+
+#if UNITY_EDITOR
+using UnityEditor;
+using UnityEditor.SceneManagement;
+#endif
 
 public enum SoundType
 {
-    BELL1,BELL2,BELL3,BELL4,
+    BELL1, BELL2, BELL3, BELL4,
     DOGBARK,
     DOGGROWL,
     FENCEOPEN,
@@ -15,47 +21,131 @@ public enum SoundType
     KOCKNORMAL,
     MONEYEARN,
     MONEYPAY,
-    STREETAMBIENT
+    STREETAMBIENT,
+    MUSIC1,
+    MUSIC2,
+    UICLICKBUTTON,
+    UIHOVERBUTTON
 }
 
 [ExecuteInEditMode]
 public class SoundManager : MonoBehaviour
 {
     [SerializeField] private SoundList[] soundList;
-    public Dictionary<AudioSourceName, AudioSource> audioSources=new Dictionary<AudioSourceName, AudioSource>();
+    public Dictionary<AudioSourceName, AudioSource> audioSources = new Dictionary<AudioSourceName, AudioSource>();
 
     [SerializeField] private AudioMixerGroup musicMixer;
     [SerializeField] private AudioMixerGroup sfxMixer;
     [SerializeField] private AudioMixerGroup ambientMixer;
 
-    AudioSource camSource;
+    private AudioSource musicSource;
+    private AudioSource camSource;
 
+    private bool hasPlayedMusic = false;
+    private bool isInitialScene = true;
     public static SoundManager instance { get; private set; }
 
     private void Awake()
     {
-        if (!instance)
+        if (instance==null)
         {
             instance = this;
-            camSource = Camera.main.GetComponent<AudioSource>();
+            if(Application.isPlaying)
+                DontDestroyOnLoad(gameObject);
+        }
+        else
+        {
+            if(Application.isPlaying)
+                Destroy(gameObject);
+            return;
         }
 
+        if (Camera.main != null)
+            camSource = Camera.main.GetComponent<AudioSource>();
 
+        if(Application.isPlaying)
+            SceneManager.sceneLoaded += OnSceneLoaded;
+
+        RebuildAudioSourcesFromList();
     }
 
-    private void Start()
+    private void OnDestroy()
     {
-        SoundManager.PlaySound(SoundType.STREETAMBIENT, volume: 0.5f, loop: true);
-        Invoke("delayedplay", 5f);
-
+        if(Application.isPlaying)
+            SceneManager.sceneLoaded -= OnSceneLoaded;
     }
-
-    private void delayedplay()
+    void Start()
     {
-        SoundManager.PlaySound(SoundType.BELL1, AudioSourceName.Campanario, volume: 0.5f, loop: false);
+        if (!Application.isPlaying) return;
+
+        musicSource = SoundManager.instance.getSource(AudioSourceName.MusicSource);
+
+        if(!isInitialScene)
+        {
+            StartCoroutine(PlayMusic());
+            hasPlayedMusic=true;
+        }
     }
 
+    
+    private IEnumerator PlayMusic()
+    {
+        yield return null;
 
+        SoundManager.PlaySound(
+            SoundType.MUSIC1,
+            source: AudioSourceName.MusicSource,
+            volume: 1f,
+            loop: false
+        );
+
+        yield return new WaitUntil(() => musicSource != null && musicSource.clip != null && musicSource.clip.loadState == AudioDataLoadState.Loaded);
+
+        // Si por alguna razón no está sonando, asegura arrancarlo
+        if (!musicSource.isPlaying)
+            musicSource.Play();
+
+        // Espera a que termine MUSIC1
+        yield return new WaitUntil(() => musicSource.time >= musicSource.clip.length - 0.25);
+
+        // Reproduce MUSIC2 en bucle
+        SoundManager.PlaySound(
+            SoundType.MUSIC2,
+            volume: 1f,
+            loop: true
+        );
+
+        // Desactiva este componente para que no vuelva a ejecutarse
+        enabled = false;
+    }
+
+    private void OnSceneLoaded(Scene scene, LoadSceneMode mode)
+    {
+
+
+        // Rebuild audio sources to account for new scene objects
+        RebuildAudioSourcesFromList();
+
+        // Play ambient sound in the new scene
+        if(!isInitialScene)
+        {
+            if (Camera.main != null)
+            {
+                transform.SetParent(Camera.main.transform);
+                transform.localPosition = Vector3.zero; // Align with camera's position
+                camSource = Camera.main.GetComponent<AudioSource>();
+            }
+
+            SoundManager.PlaySound(
+            SoundType.STREETAMBIENT,
+            source: AudioSourceName.AmbientSource,
+            volume: 0.5f,
+            loop: true
+            );
+        }
+
+        isInitialScene = false;
+    }
     public static void PlaySound(
         SoundType sound,
         AudioSourceName source = AudioSourceName.Main_Camera,
@@ -77,13 +167,24 @@ public class SoundManager : MonoBehaviour
 
         AudioClip randomClip = clips[UnityEngine.Random.Range(0, clips.Length)];
 
-        // Selecciona el AudioSource
-        AudioSource targetSource;
-        if (!instance.audioSources.TryGetValue(source, out targetSource))
+        //Selecciona el AudioSource
+        AudioSource targetSource = null;
+        if (instance.audioSources != null)
+            instance.audioSources.TryGetValue(source, out targetSource);
+
+        //Si no se encontró, intenta reconstruir el diccionario
+        if (targetSource == null)
+        {
+            instance.RebuildAudioSourcesFromList();
+            if (instance.audioSources != null)
+                instance.audioSources.TryGetValue(source, out targetSource);
+        }
+
+        //Si sigue sin encontrarse, usa la cámara
+        if (targetSource == null)
             targetSource = instance.camSource;
 
-
-        // Asigna el mixer correcto según categoría
+        //Asigna el mixer correcto
         switch (soundData.category)
         {
             case SoundCategory.Music:
@@ -97,25 +198,61 @@ public class SoundManager : MonoBehaviour
                 break;
         }
 
-        // Configura el pitch si está activado
+        //Configura pitch y looping
         targetSource.pitch = useRandomPitch
             ? UnityEngine.Random.Range(minPitch, maxPitch)
             : 1f;
 
-        // Configura looping, se para con source.Stop();
         targetSource.loop = loop;
 
         if (loop)
         {
             targetSource.clip = randomClip;
+            targetSource.volume = volume;
             targetSource.Play();
         }
         else
         {
-            targetSource.PlayOneShot(randomClip, volume);
+            targetSource.clip = randomClip;
+            targetSource.volume = volume;
+            targetSource.Play();
         }
     }
 
+    public AudioSource getSource(AudioSourceName name)
+    {
+        AudioSource source = null;
+        instance.audioSources.TryGetValue(name, out source);
+        return source;
+    }
+
+    private void RebuildAudioSourcesFromList()
+    {
+        if (audioSources == null)
+            audioSources = new Dictionary<AudioSourceName, AudioSource>();
+
+        audioSources.Clear();
+
+        var allSources = FindObjectsByType<AudioSource>(FindObjectsSortMode.InstanceID);
+
+        foreach (var src in allSources)
+        {
+            if (src == null) continue;
+
+            string cleanName = src.gameObject.name
+                .Replace(" ", "_")
+                .Replace("-", "_")
+                .Replace("(", "")
+                .Replace(")", "")
+                .Replace(".", "_");
+
+            if (Enum.TryParse<AudioSourceName>(cleanName, out var enumVal))
+            {
+                if (!audioSources.ContainsKey(enumVal))
+                    audioSources[enumVal] = src;
+            }
+        }
+    }
 
 #if UNITY_EDITOR
     private void OnEnable()
@@ -127,14 +264,13 @@ public class SoundManager : MonoBehaviour
             soundList[i].name = names[i];
         }
 
-        instance=this;
+        instance = this;
     }
 
     //Busca audioSources en la escena, crea un valor de enum de nombre para cada uno y llena el diccionario con ellos
     [MenuItem("Tools/Generate Audio Cosas")]
     private static void GenerateAudioSourceEnum()
     {
-        //toma instancia o crea una
         if (instance == null)
         {
             instance = FindAnyObjectByType<SoundManager>();
@@ -145,36 +281,31 @@ public class SoundManager : MonoBehaviour
             }
         }
 
-        //toma todos los audiosources en la escena
         var sources = new List<AudioSource>();
         foreach (var src in FindObjectsByType<AudioSource>(FindObjectsSortMode.InstanceID))
             sources.Add(src);
 
         sources.Sort((a, b) => string.Compare(a.gameObject.name, b.gameObject.name, StringComparison.Ordinal));
 
-        //limpia y llena el diccionario
         instance.audioSources.Clear();
         List<string> enumNames = new List<string>();
 
         foreach (var src in sources)
         {
             string cleanName = src.gameObject.name
-            .Replace(" ", "_")
-            .Replace("-", "_")
-            .Replace("(", "")
-            .Replace(")", "")
-            .Replace(".", "_");
+                .Replace(" ", "_")
+                .Replace("-", "_")
+                .Replace("(", "")
+                .Replace(")", "")
+                .Replace(".", "_");
 
             enumNames.Add(cleanName);
 
-            //permite llenar el diccionario con valores que todavia no existen en el enum
-            if (System.Enum.TryParse<AudioSourceName>(cleanName, out AudioSourceName enumValue))
-            {
+            if (Enum.TryParse<AudioSourceName>(cleanName, out AudioSourceName enumValue))
                 instance.audioSources[enumValue] = src;
-            }
         }
 
-        //genera el enum en el path indicado
+        // Genera el enum
         string enumCode = "public enum AudioSourceName\n{\n";
         foreach (string name in enumNames)
             enumCode += $"    {name},\n";
@@ -184,7 +315,12 @@ public class SoundManager : MonoBehaviour
         System.IO.File.WriteAllText(path, enumCode);
         AssetDatabase.Refresh();
 
-        Debug.Log($"AudioSources: {instance.audioSources.Count} \nEnum generado en: Assets/Game/Scripts/Enums/AudioSourceName.cs");
+        // Marca cambios como sucios para guardar automáticamente
+        EditorUtility.SetDirty(instance);
+        if (instance.gameObject.scene.IsValid())
+            EditorSceneManager.MarkSceneDirty(instance.gameObject.scene);
+
+        Debug.Log($"{instance.audioSources.Count} AudioSources detectados.\nEnum generado en: {path}");
     }
 #endif
 }

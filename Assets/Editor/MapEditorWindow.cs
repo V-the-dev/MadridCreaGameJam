@@ -13,7 +13,7 @@ public class EditorMapTool : EditorWindow
     private GameObject previewObject;
 
     //Propiedades de grid (chatarra)
-    private bool useGrid = true;
+    private bool useGrid = false;
     private bool isIsometric = true;
     private float gridSize = 1f;
 
