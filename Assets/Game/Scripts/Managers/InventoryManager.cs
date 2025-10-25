@@ -93,6 +93,7 @@ public class InventoryManager : MonoBehaviour
 
     public void RestartLoopInventory()
     {
+        bool needAddSprites = objectsSprite.Count == 0;
         foreach (GameObject inventoryItemVar in inventoryDictionary.Values)
         {
             Destroy(inventoryItemVar);
@@ -101,7 +102,7 @@ public class InventoryManager : MonoBehaviour
         
         foreach (Objeto moneda in inventarioInicial.objetos.monedas)
         {
-            objectsSprite.Add(moneda.nombre, moneda.sprite);
+            if(needAddSprites) objectsSprite.Add(moneda.nombre, moneda.sprite);
             if (moneda.valor > 0)
             {
                 AddItemToInventory(moneda.nombre, moneda.valor);
@@ -110,7 +111,7 @@ public class InventoryManager : MonoBehaviour
 
         foreach (Objeto objetoClave in inventarioInicial.objetos.objetosClave)
         {
-            objectsSprite.Add(objetoClave.nombre, objetoClave.sprite);
+            if(needAddSprites) objectsSprite.Add(objetoClave.nombre, objetoClave.sprite);
             if (objetoClave.valor > 0)
             {
                 AddItemToInventory(objetoClave.nombre, objetoClave.valor);
