@@ -8,7 +8,7 @@ public class InventoryDialogueLinkerEditor : Editor
 {
     private SerializedProperty inventoryObjectProp = null;
     private SerializedProperty entriesProp = null;
-    private bool showEntries = false;
+    private bool showEntries = true;
     private Dictionary<int, bool> showEntryDetails = new Dictionary<int, bool>();
     private Dictionary<int, bool> showEventsDict = new Dictionary<int, bool>();
     private Dictionary<int, bool> showObjectsDict = new Dictionary<int, bool>();
@@ -57,7 +57,7 @@ public class InventoryDialogueLinkerEditor : Editor
                 EditorGUILayout.BeginHorizontal();
                 
                 if (!showEntryDetails.ContainsKey(i))
-                    showEntryDetails[i] = true;
+                    showEntryDetails[i] = false;
 
                 string entryLabel = dialogueObjectProp.objectReferenceValue != null
                     ? dialogueObjectProp.objectReferenceValue.name
