@@ -9,7 +9,7 @@ public class NPCcontroller :  InteractableObject
 
     void Awake()
     {
-        inventoryDialogueLinker = InventoryManager.Instance.GetComponent<InventoryDialogueLinker>();
+        inventoryDialogueLinker = MessageManager.Instance.GetComponent<InventoryDialogueLinker>();
         //if(transform.GetChild)
     }
 
