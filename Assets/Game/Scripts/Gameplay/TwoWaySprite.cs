@@ -5,9 +5,19 @@ using UnityEngine;
 public class TwoWaySprite : MonoBehaviour
 {
     private bool ZchangeOccured = false;
+
+    private bool playerIn = false;
     
+    private void OnTriggerExit2D(Collider2D other)
+    {
+        playerIn = false;
+    }
+
     private void OnTriggerEnter2D(Collider2D other)
     {
+        if(playerIn)
+            return;
+        
         if (!other.CompareTag("Player")) return;
 
         Transform playerTransform = other.transform;
@@ -25,6 +35,8 @@ public class TwoWaySprite : MonoBehaviour
             newZ
         );
 
+        playerIn = true;
+        
         // Toggle for next time
         ZchangeOccured = !ZchangeOccured;
     }
