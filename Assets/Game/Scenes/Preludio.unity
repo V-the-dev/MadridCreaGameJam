@@ -686,9 +686,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PreludioTextScript
   textList:
-  - Me cago en tus muertos
-  - Juega mi juego
-  - Pendejo <3
+  - "Este juego transcurre a lo largo de una fr\xEDa noche madrile\xF1a."
+  - "Los personajes podr\xE1n comportarse de forma distinta seg\xFAn tus acciones
+    y el tiempo transcurrido."
+  - Ten esto en cuenta.
+  - Usa W,A,S y D para moverte, o el joystick si usas mando.
+  - "Puedes interactuar con los personajes pulsando E o el bot\xF3n de interacci\xF3n
+    izquierdo en tu mando."
+  - "Usa i o el bot\xF3n de interacci\xF3n superior para mostrar tu inventario."
+  - LOOP CORE presenta
   fadeInTime: 1
   fadeOutTime: 1
   textTime: 1
