@@ -8,8 +8,10 @@ public class PlayerUIManager : MonoBehaviour
 
     [SerializeField] private PlayerInput playerInput;
 
+    private InputAction pauseUI;
+    private InputAction pausePlayer;
+
     private GameObject activePanel;
-    private InputAction pauseAction;
 
     private bool alreadyPaused = false;
 
@@ -24,18 +26,26 @@ public class PlayerUIManager : MonoBehaviour
 
     private void OnEnable()
     {
-        pauseAction = playerInput.actions.FindActionMap("UI")?.FindAction("PauseUI");
-        if (pauseAction != null)
+        pauseUI = playerInput.actions.FindActionMap("UI")?.FindAction("PauseUI");
+        pausePlayer = playerInput.actions.FindActionMap("Player")?.FindAction("PausePlayer");
+
+        if (pauseUI != null)
         {
-            pauseAction.performed += OnPausePressed;
-            pauseAction.Enable();
+            pauseUI.performed += OnPausePressed;
+            pauseUI.Enable();
+        }
+
+        if (pausePlayer != null)
+        {
+            pausePlayer.performed += OnPausePressed;
+            pausePlayer.Enable();
         }
     }
 
     private void OnDisable()
     {
-        if (pauseAction != null)
-            pauseAction.performed -= OnPausePressed;
+        if (pauseUI != null)
+            pauseUI.performed -= OnPausePressed;
     }
 
     private void OnPausePressed(InputAction.CallbackContext context)

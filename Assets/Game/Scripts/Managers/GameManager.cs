@@ -39,6 +39,8 @@ public class GameManager : MonoBehaviour
         }
 
         playerInput = FindAnyObjectByType<UnityEngine.InputSystem.PlayerInput>();
+
+        playerInput.SwitchCurrentActionMap("Player");
     }
 
     private void Start()
@@ -162,6 +164,8 @@ public class GameManager : MonoBehaviour
     public void EndGame()
     {
         PauseGame();
+
+        Debug.Log("end game");
         isEndingGame = true;
         ActivateFadeOutEffect();
     }

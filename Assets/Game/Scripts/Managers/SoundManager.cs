@@ -109,7 +109,7 @@ public class SoundManager : MonoBehaviour
         SoundManager.PlaySound(
             SoundType.MUSIC1,
             source: AudioSourceName.MusicSource,
-            volume: 1f,
+            volume: 0.8f,
             loop: false
         );
 
@@ -125,7 +125,7 @@ public class SoundManager : MonoBehaviour
         // Reproduce MUSIC2 en bucle
         SoundManager.PlaySound(
             SoundType.MUSIC2,
-            volume: 1f,
+            volume: 0.8f,
             loop: true
         );
 
