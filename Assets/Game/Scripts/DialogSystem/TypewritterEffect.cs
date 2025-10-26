@@ -94,6 +94,7 @@ public class TypewritterEffect : MonoBehaviour
 
             yield return new WaitForSecondsRealtime(delayForThisChar);
 
+
             charIndex++;
             textLabel.maxVisibleCharacters = charIndex;
 

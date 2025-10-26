@@ -1,5 +1,7 @@
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.EventSystems;
+using UnityEngine.Windows;
 
 public class NPCcontroller :  InteractableObject
 {
@@ -7,10 +9,6 @@ public class NPCcontroller :  InteractableObject
     [SerializeField] private List<DialogueObject> proximityDialogues;
     InventoryDialogueLinker inventoryDialogueLinker;
 
-    void Awake()
-    {
-        //if(transform.GetChild)
-    }
 
     public override void Trigger()
     {
@@ -20,6 +18,9 @@ public class NPCcontroller :  InteractableObject
         }
         if (interactionDialogues.Count <= 0) return;
         if (!inventoryDialogueLinker) return;
+
+        //InitiateDialogueProtocol();
+
         foreach (DialogueObject interactionDialogue in interactionDialogues)
         {
             if (inventoryDialogueLinker.CanShowDialogue(interactionDialogue) == true)
@@ -39,6 +40,9 @@ public class NPCcontroller :  InteractableObject
         }
         if (proximityDialogues.Count <= 0) return;
         if (!inventoryDialogueLinker) return;
+
+        //InitiateDialogueProtocol();
+
         foreach (DialogueObject proximityDialogue in proximityDialogues)
         {
             if (inventoryDialogueLinker.CanShowDialogue(proximityDialogue) == true)

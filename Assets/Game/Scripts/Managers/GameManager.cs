@@ -20,6 +20,8 @@ public class GameManager : MonoBehaviour
     [SerializeField] private GameObject videoVictoryTexture = null;
 
     private bool isEndingGame = false;
+
+    private PlayerInput playerInput;
     
     private void Awake()
     {
@@ -32,6 +34,8 @@ public class GameManager : MonoBehaviour
             Destroy(gameObject);
             return;
         }
+
+        playerInput = FindAnyObjectByType<UnityEngine.InputSystem.PlayerInput>();
     }
 
     private void Start()
@@ -68,11 +72,26 @@ public class GameManager : MonoBehaviour
     public void PauseGame()
     {
         Time.timeScale = 0f;
+
+        if (playerInput != null)
+        {
+            Debug.Log("disable");
+            playerInput.actions.FindActionMap("Player")?.Disable();
+        }
+        SoundManager.ToggleFilters();
+
     }
 
     public void ResumeGame()
     {
         Time.timeScale = 1f;
+
+        if (playerInput != null)
+        {
+            Debug.Log("enable");
+            playerInput.actions.FindActionMap("Player")?.Enable();
+        }
+        SoundManager.ToggleFilters();
     }
 
     public void ActivateDeathEffect()

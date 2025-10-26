@@ -1,63 +1,87 @@
-using System;
 using UnityEngine;
-using UnityEngine.EventSystems;
 using UnityEngine.InputSystem;
 
 public class PlayerUIManager : MonoBehaviour
 {
-    private SceneTransitions sceneTransitioner;
+    [SerializeField] private SceneTransitions sceneTransitioner;
+    [SerializeField] private GameObject pausePanel;
 
-    public GameObject pausePanel;
+    [SerializeField] private PlayerInput playerInput;
 
     private GameObject activePanel;
-    
-    public PlayerInput playerInput;
-    
-    private void Start()
+    private InputAction pauseAction;
+
+    private void Awake()
     {
-        sceneTransitioner = GetComponent<SceneTransitions>();
+        if (sceneTransitioner == null)
+            sceneTransitioner = GetComponent<SceneTransitions>();
+
+        if (playerInput == null)
+            playerInput = GetComponent<PlayerInput>();
     }
 
-    private void Update()
+    private void OnEnable()
     {
-        if (pausePanel.activeInHierarchy)
-            GameManager.Instance.PauseGame();
-        else
-            GameManager.Instance.ResumeGame();
-        
-        if (playerInput.actions["OpenPauseMenu"].WasPressedThisFrame())
+        pauseAction = playerInput.actions.FindActionMap("UI")?.FindAction("PauseUI");
+        if (pauseAction != null)
         {
-            if(activePanel == null)
-                TogglePanel(pausePanel);
-            else
-            {
-                TogglePanel(activePanel);
-                activePanel = pausePanel;
-            }
+            pauseAction.performed += OnPausePressed;
+            pauseAction.Enable();
         }
     }
 
-    public void LoadMainMenu()
+    private void OnDisable()
     {
-        sceneTransitioner.LoadScene("MainMenu");
+        if (pauseAction != null)
+            pauseAction.performed -= OnPausePressed;
     }
-    
+
+    private void OnPausePressed(InputAction.CallbackContext context)
+    {
+        TogglePause();
+    }
+
+    public void TogglePause()
+    {
+        if (activePanel == null)
+        {
+            TogglePanel(pausePanel);
+            GameManager.Instance.PauseGame();
+        }
+        else
+        {
+            TogglePanel(activePanel);
+            GameManager.Instance.ResumeGame();
+        }
+    }
+
+ 
     public void TogglePanel(GameObject panel)
     {
         if (panel == null)
         {
-            Debug.LogWarning("TogglePanel was called with a null GameObject.");
+            Debug.LogWarning("[PlayerUIManager] TogglePanel was called with a null GameObject.");
             return;
         }
-        panel.SetActive(!panel.activeSelf);
-        
-        activePanel = panel;
 
-        //EventSystem.current.firstSelectedGameObject = panel;
+        bool newState = !panel.activeSelf;
+        panel.SetActive(newState);
+        activePanel = newState ? panel : null;
     }
-    
+
+    public void LoadMainMenu()
+    {
+        if (sceneTransitioner != null)
+            sceneTransitioner.LoadScene("MainMenu");
+        else
+            Debug.LogWarning("[PlayerUIManager] No SceneTransitions component assigned.");
+    }
     public void ExitGame()
     {
+#if UNITY_EDITOR
+        UnityEditor.EditorApplication.isPlaying = false;
+#else
         Application.Quit();
+#endif
     }
 }
