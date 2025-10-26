@@ -5,6 +5,7 @@ public class PlayerUIManager : MonoBehaviour
 {
     [SerializeField] private SceneTransitions sceneTransitioner;
     [SerializeField] private GameObject pausePanel;
+    [SerializeField] private GameObject settingsPanel;
 
     [SerializeField] private PlayerInput playerInput;
 
@@ -82,6 +83,8 @@ public class PlayerUIManager : MonoBehaviour
             }
                 
             TogglePanel(pausePanel);
+            if(settingsPanel.activeSelf)
+                TogglePanel(settingsPanel);
         }
 
     }

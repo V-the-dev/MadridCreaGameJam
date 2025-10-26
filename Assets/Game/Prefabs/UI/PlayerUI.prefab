@@ -1780,6 +1780,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: '::'
   sceneTransitioner: {fileID: 0}
   pausePanel: {fileID: 4732598950667777070}
+  settingsPanel: {fileID: 5564513620074805357}
   playerInput: {fileID: 0}
 --- !u!114 &1019476147891062296
 MonoBehaviour:

@@ -135,19 +135,19 @@ public class TimeManager : MonoBehaviour
         switch (i)
         {
             case 1:
-                SoundManager.PlaySound(SoundType.BELL1);
+                SoundManager.PlaySound(SoundType.BELL1,volume: 0.15f);
                 break;
             
             case 2:
-                SoundManager.PlaySound(SoundType.BELL2);
+                SoundManager.PlaySound(SoundType.BELL2, volume: 0.15f);
                 break;
             
             case 3:
-                SoundManager.PlaySound(SoundType.BELL3);
+                SoundManager.PlaySound(SoundType.BELL3, volume: 0.15f);
                 break;
             
             case 4:
-                SoundManager.PlaySound(SoundType.BELL4);
+                SoundManager.PlaySound(SoundType.BELL4, volume: 0.15f);
                 break;
         }
     }
