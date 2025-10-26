@@ -26,5 +26,5 @@ MonoBehaviour:
       suelo inconsciente.</color></shake>
     spriteIndex: 0
   responses:
-  - responseText: Reiniciar bucle
+  - responseText: "La noche contin\xFAa..."
     dialogueObject: {fileID: 0}

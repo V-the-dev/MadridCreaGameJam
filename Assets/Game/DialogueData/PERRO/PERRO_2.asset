@@ -30,5 +30,5 @@ MonoBehaviour:
   - dialogue: <shake><color=#7b1f1f>Te muerde sin piedad.</color></shake>
     spriteIndex: 0
   responses:
-  - responseText: Reiniciar bucle
+  - responseText: "La noche contin\xFAa..."
     dialogueObject: {fileID: 0}

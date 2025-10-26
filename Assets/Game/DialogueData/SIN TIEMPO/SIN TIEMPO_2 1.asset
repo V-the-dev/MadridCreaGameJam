@@ -39,5 +39,5 @@ MonoBehaviour:
   - dialogue: <shake><color=#7b1f1f>(Caes de plomo al suelo.)</shake></color>
     spriteIndex: 1
   responses:
-  - responseText: Reiniciar el bucle
+  - responseText: "La noche contin\xFAa..."
     dialogueObject: {fileID: 0}

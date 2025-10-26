@@ -31,5 +31,5 @@ MonoBehaviour:
       antes de salir corriendo y desaparecer en la oscuridad.)"
     spriteIndex: 0
   responses:
-  - responseText: Reiniciar el bucle
+  - responseText: "La noche contin\xFAa..."
     dialogueObject: {fileID: 0}

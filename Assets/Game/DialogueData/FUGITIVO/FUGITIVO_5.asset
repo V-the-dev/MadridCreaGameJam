@@ -38,5 +38,5 @@ MonoBehaviour:
   - dialogue: (Elegiste el <color=#7b1f1f>castigo</color>.)
     spriteIndex: 1
   responses:
-  - responseText: "La noche contin\xFAa"
+  - responseText: "La noche contin\xFAa..."
     dialogueObject: {fileID: 0}
