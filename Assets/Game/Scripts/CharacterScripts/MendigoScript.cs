@@ -25,13 +25,27 @@ public class MendigoScript : CharacterBaseScript
         base.OnBecameInvisible();
         if (isDead)
         {
-            spriteRenderer.sprite = mendigoDead;
-            InventoryManager.Instance.SetEventValue("Mendigo_muerto", true);
+            if (InventoryManager.Instance.GetEventValue("Mendigo_1") != true)
+            {
+                spriteRenderer.sprite = mendigoDead;
+                InventoryManager.Instance.SetEventValue("Mendigo_muerto", true);
+            }
         }
     }
 
     public void KillMendigo()
     {
-        isDead = true;
+        if (!IsVisibleFrom(Camera.main))
+        {
+            if (InventoryManager.Instance.GetEventValue("Mendigo_1") != true)
+            {
+                spriteRenderer.sprite = mendigoDead;
+                InventoryManager.Instance.SetEventValue("Mendigo_muerto", true);
+            }
+        }
+        else
+        {
+            isDead = true;
+        }
     }
 }

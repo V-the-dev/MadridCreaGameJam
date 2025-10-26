@@ -5,7 +5,7 @@ using UnityEngine;
 public class CharacterBaseScript : MonoBehaviour
 {
     private bool deactivateTrigger = false;
-    
+
     public virtual void BucleReset()
     {
         deactivateTrigger = false;
@@ -14,7 +14,14 @@ public class CharacterBaseScript : MonoBehaviour
 
     public virtual void DeactivateCharacter()
     {
-        deactivateTrigger = true;
+        if (!IsVisibleFrom(Camera.main))
+        {
+            gameObject.SetActive(false);
+        }
+        else
+        {
+            deactivateTrigger = true;
+        }
     }
 
     public virtual void OnBecameInvisible()
@@ -23,5 +30,12 @@ public class CharacterBaseScript : MonoBehaviour
         {
             gameObject.SetActive(false);
         }
+    }
+    
+    public bool IsVisibleFrom(Camera camera)
+    {
+        SpriteRenderer renderer = GetComponentInChildren<SpriteRenderer>();
+        Plane[] planes = GeometryUtility.CalculateFrustumPlanes(camera);
+        return GeometryUtility.TestPlanesAABB(planes, renderer.bounds);
     }
 }
