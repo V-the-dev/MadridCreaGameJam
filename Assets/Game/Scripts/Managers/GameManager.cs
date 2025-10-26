@@ -125,7 +125,7 @@ public class GameManager : MonoBehaviour
         {
             Debug.Log("disable");
             playerInput.SwitchCurrentActionMap("UI");
-            SoundManager.ToggleFilters(true);
+            //SoundManager.ToggleFilters(true);
         }
 
         Time.timeScale = 0f;
@@ -138,7 +138,7 @@ public class GameManager : MonoBehaviour
         {
             Debug.Log("enable");
             playerInput.SwitchCurrentActionMap("Player");
-            SoundManager.ToggleFilters(false);
+            //SoundManager.ToggleFilters(false);
         }
 
         Time.timeScale = 1f;
