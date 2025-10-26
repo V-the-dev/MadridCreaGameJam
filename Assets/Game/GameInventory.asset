@@ -146,3 +146,6 @@ MonoBehaviour:
   - isLoopPersistent: 0
     startValue: 0
     nombre: PrimerMensajePadreHaro
+  - isLoopPersistent: 0
+    startValue: 0
+    nombre: Mendigo_muerto

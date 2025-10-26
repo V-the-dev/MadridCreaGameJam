@@ -19,7 +19,7 @@ MonoBehaviour:
   charactersTitle:
   - 
   charactersSide: 00000000
-  mainCharacterWhenResponses: 1
+  mainCharacterWhenResponses: 0
   mainCharacterIndex: 1
   conversationLine:
   - dialogue: "(Un mendigo de aspecto fam\xE9lico ha muerto recientemente bajo este

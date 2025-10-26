@@ -547,10 +547,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 1136913567}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 1, y: 1}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_SizeDelta: {x: 980.1687, y: 692.9827}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!95 &1856885394
 Animator:
@@ -594,10 +594,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Soy tonto :3
+  m_text: "Probando el largo del texto y como va saltando de l\xEDnea, tambi\xE9n
+    su grosor. La E en may\xFAscula y la I o i"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 92dce3fe2cc2dc84886a0538b4a8c27e, type: 2}
-  m_sharedMaterial: {fileID: 5783959703281274285, guid: 92dce3fe2cc2dc84886a0538b4a8c27e, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 645ca20ce19493546a59430b750c1711, type: 2}
+  m_sharedMaterial: {fileID: 3216762367035813337, guid: 645ca20ce19493546a59430b750c1711, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -621,8 +622,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 36
-  m_fontSizeBase: 36
+  m_fontSize: 44
+  m_fontSizeBase: 44
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -633,7 +634,7 @@ MonoBehaviour:
   m_textAlignment: 65535
   m_characterSpacing: 0
   m_wordSpacing: 0
-  m_lineSpacing: 0
+  m_lineSpacing: 33
   m_lineSpacingMax: 0
   m_paragraphSpacing: 0
   m_charWidthMaxAdj: 0
@@ -690,11 +691,13 @@ MonoBehaviour:
   - "Los personajes podr\xE1n comportarse de forma distinta seg\xFAn tus acciones
     y el tiempo transcurrido."
   - Ten esto en cuenta.
-  - Usa las teclas W,A,S, D para moverte, o el joystick si usas mando.
-  - "Puedes interactuar con los personajes pulsando E o el bot\xF3n de interacci\xF3n
+  - Usa las teclas W,A,S,D para moverte, o el joystick izquierdo.
+  - "Puedes interactuar con los personajes pulsando \"e\" o el bot\xF3n de interacci\xF3n
     izquierdo en tu mando."
-  - "Usa la tecla i o el bot\xF3n de interacci\xF3n superior para mostrar tu inventario."
-  - LOOP CORE presenta
+  - "Usa la tecla \"i\" o el bot\xF3n de interacci\xF3n superior para mostrar tu
+    inventario."
+  - LOOP CORE                                                                                                                                                        
+    presenta
   fadeInTime: 1
   fadeOutTime: 2
   textTime: 3
