@@ -28,8 +28,8 @@ MonoBehaviour:
   - dialogue: "(Un mendigo fam\xE9lico est\xE1 tumbado bajo el puente. Su estado
       es deplorable.)"
     spriteIndex: 0
-  - dialogue: "Sereno... \xBFNo tendr\xEDa usted un <color=#1f5f8d>cacho de pan</color><img=pan>
-      que darme?"
+  - dialogue: "Sereno... \xBFNo tendr\xEDa usted un <color=#1f5f8d>cacho de pan</color>
+      <img=pan> que darme?"
     spriteIndex: 0
   responses:
   - responseText: Ofrecer <color=#1f5f8d>pan</color>
