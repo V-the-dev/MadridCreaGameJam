@@ -7503,6 +7503,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 2097095884}
     - target: {fileID: 8476707806612027900, guid: 49654e6898c4ec241a23b5912c0062fe, type: 3}
+      propertyPath: DebugTime
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8476707806612027900, guid: 49654e6898c4ec241a23b5912c0062fe, type: 3}
       propertyPath: playerFirstPosition
       value: 
       objectReference: {fileID: 367994118}
