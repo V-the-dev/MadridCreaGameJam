@@ -128,8 +128,6 @@ public class PlayerMovement : MonoBehaviour
             {
                 interactuable.AutoTrigger();
                 //Debug.Log("Entered Proximity Zone: " + collision.name);
-
-                collision.enabled = false; // Desactivar el collider para que no se vuelva a activar
             }
         }
         if (collision.CompareTag("Stairs"))

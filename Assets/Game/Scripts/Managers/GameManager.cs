@@ -217,7 +217,7 @@ public class GameManager : MonoBehaviour
     {
         PauseGame();
         isRestartingLoop = true;
-        dawnEffect.GetComponent<DawnLightReseter>().ResetLight();
+        // dawnEffect.GetComponent<DawnLightReseter>().ResetLight();
         DeactivateDawnEffect();
         ActivateFadeOutEffect();
     }

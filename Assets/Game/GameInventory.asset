@@ -26,10 +26,10 @@ MonoBehaviour:
     objetosClave:
     - nombre: farol
       sprite: {fileID: -520320261171042114, guid: 43dda2a5e7672b34293f5b9c2c0f1f6c, type: 3}
-      valor: 0
+      valor: 1
     - nombre: chuzo
       sprite: {fileID: 21300000, guid: 3c5376697f5c17548bf76b625b310931, type: 3}
-      valor: 0
+      valor: 1
     - nombre: jamon
       sprite: {fileID: 21300000, guid: cfa1fa17c66b5794d8490a2aa6ced41c, type: 3}
       valor: 0
