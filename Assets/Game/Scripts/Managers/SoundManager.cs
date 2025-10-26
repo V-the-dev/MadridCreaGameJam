@@ -27,10 +27,14 @@ public enum SoundType
     MONEYEARN,
     MONEYPAY,
     STREETAMBIENT,
+    SHOT,
+    WRITE,
     MUSIC1,
     MUSIC2,
     UICLICKBUTTON,
-    UIHOVERBUTTON
+    UIHOVERBUTTON,
+    GLASSBOTTLE,
+    CASINO
 }
 
 [ExecuteInEditMode]
@@ -221,9 +225,7 @@ public class SoundManager : MonoBehaviour
         }
         else
         {
-            targetSource.clip = randomClip;
-            targetSource.volume = volume;
-            targetSource.Play();
+            targetSource.PlayOneShot(randomClip, volume);
         }
     }
 

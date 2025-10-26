@@ -218,4 +218,49 @@ public class GameManager : MonoBehaviour
             videoVictoryTexture.SetActive(false);
         }
     }
+
+    public void PlayShootSound()
+    {
+        SoundManager.PlaySound(SoundType.SHOT);
+    }
+
+    public void PlayPayMoney()
+    {
+        SoundManager.PlaySound(SoundType.MONEYPAY);
+    }
+
+    public void PlayEarnMoney()
+    {
+        SoundManager.PlaySound(SoundType.MONEYEARN);
+    }
+
+    public void PlayOpenDoor()
+    {
+        SoundManager.PlaySound(SoundType.FENCEOPEN);
+    }
+
+    public void PlayLicorBottle()
+    {
+        SoundManager.PlaySound(SoundType.GLASSBOTTLE);
+    }
+
+    public void PlayKnockKnock()
+    {
+        SoundManager.PlaySound(SoundType.KNOCKLOUD);
+    }
+
+    public void PlayDogBark()
+    {
+        SoundManager.PlaySound(SoundType.DOGBARK);
+    }
+
+    public void PlayDogGrowl()
+    {
+        SoundManager.PlaySound(SoundType.DOGGROWL);
+    }
+
+    public void PlayCasino()
+    {
+        SoundManager.PlaySound(SoundType.CASINO);
+    }
 }

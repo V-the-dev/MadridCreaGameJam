@@ -4,22 +4,23 @@ using UnityEngine;
 public class PerroScript : CharacterBaseScript
 {
     private Animator animator;
+    private RuntimeAnimatorController animatorController;
     private SpriteRenderer spriteRenderer;
 
     [SerializeField] private Sprite perroMuerto;
-    [SerializeField] private Sprite perroFeliz;
+    [SerializeField] private AnimatorOverrideController perroFeliz;
 
     private void Start()
     {
-        animator = GetComponent<Animator>();
-        spriteRenderer = GetComponent<SpriteRenderer>();
+        animator = GetComponentInChildren<Animator>();
+        spriteRenderer = GetComponentInChildren<SpriteRenderer>();
+        animatorController = animator.runtimeAnimatorController;
     }
 
     public override void BucleReset()
     {
         base.BucleReset();
         animator.enabled = true;
-        spriteRenderer.enabled = false;
     }
 
     public void DeadDog()
@@ -27,18 +28,16 @@ public class PerroScript : CharacterBaseScript
         if (animator.enabled)
         {
             animator.enabled = false;
-            spriteRenderer.enabled = true;
         }
         spriteRenderer.sprite = perroMuerto;
     }
 
     public void HappyDog()
     {
+        animator.runtimeAnimatorController = perroFeliz;
         if (animator.enabled)
         {
-            animator.enabled = false;
-            spriteRenderer.enabled = true;
+            animator.enabled = true;
         }
-        spriteRenderer.sprite = perroFeliz;
     }
 }

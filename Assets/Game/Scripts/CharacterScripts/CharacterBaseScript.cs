@@ -34,8 +34,17 @@ public class CharacterBaseScript : MonoBehaviour
     
     public bool IsVisibleFrom(Camera camera)
     {
-        SpriteRenderer renderer = GetComponentInChildren<SpriteRenderer>();
+        bool result = true;
+        SpriteRenderer[] renderers = GetComponentsInChildren<SpriteRenderer>();
         Plane[] planes = GeometryUtility.CalculateFrustumPlanes(camera);
-        return GeometryUtility.TestPlanesAABB(planes, renderer.bounds);
+        foreach (SpriteRenderer renderer in renderers)
+        {
+            if (!GeometryUtility.TestPlanesAABB(planes, renderer.bounds))
+            {
+                result = false;
+            }
+        }
+
+        return result;
     }
 }

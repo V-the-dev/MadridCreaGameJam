@@ -1,14 +1,20 @@
+using System.Collections;
 using UnityEngine;
 using UnityEngine.InputSystem;
 using System.Collections.Generic;
-using System.ComponentModel;
-using System.Linq;
-using UnityEngine.EventSystems;
 
 public class PlayerMovement : MonoBehaviour
 {
     [SerializeField]
     private MessageManager messageManager;
+
+    [Header("SFX")]
+    [SerializeField] private float stepSoundDelay = 0.35f;
+
+    private bool canPlayStep = true;
+
+    [SerializeField] private float stepSoundMinPitch = 0.8f;
+    [SerializeField] private float stepSoundMaxPitch = 1.2f;
 
     //Transform tr;
     Rigidbody2D rb;
@@ -64,6 +70,11 @@ public class PlayerMovement : MonoBehaviour
 
         if (isMoving)
         {
+            if (canPlayStep)
+            {
+                SoundManager.PlaySound(SoundType.FOOTSTEPS, useRandomPitch: true, minPitch: stepSoundMinPitch, maxPitch: stepSoundMaxPitch);
+                StartCoroutine(SFX_stepSound());
+            }
             lastMoveDir = inputVector.normalized;
             inputVector.Normalize();
 
@@ -90,6 +101,12 @@ public class PlayerMovement : MonoBehaviour
         rb.MovePosition(rb.position + inputVector * currentMults * speed * Time.deltaTime);
     }
 
+    private IEnumerator SFX_stepSound()
+    {
+        canPlayStep = false;
+        yield return new WaitForSeconds(stepSoundDelay);
+        canPlayStep = true;
+    }
     
 
     private void OnTriggerEnter2D(Collider2D collision)

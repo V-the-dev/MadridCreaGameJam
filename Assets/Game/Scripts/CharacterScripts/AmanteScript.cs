@@ -4,23 +4,25 @@ using UnityEngine;
 public class AmanteScript : CharacterBaseScript
 {
     private Animator animator;
-    private RuntimeAnimatorController firstAnimator;
-    [SerializeField] private AnimatorOverrideController anotherAnimator;
+    private SpriteRenderer spriteRenderer;
+    [SerializeField] private Sprite amanteDecepcionado;
+
+    private void Start()
+    {
+        animator = GetComponentInChildren<Animator>();
+        spriteRenderer = GetComponentInChildren<SpriteRenderer>();
+        animator.enabled = true;
+    }
 
     public override void BucleReset()
     {
         base.BucleReset();
-        animator.runtimeAnimatorController = firstAnimator;
-    }
-
-    private void Awake()
-    {
-        animator = GetComponentInChildren<Animator>();
-        firstAnimator = animator.runtimeAnimatorController;
+        animator.enabled = true;
     }
 
     public void ChangeAnimation()
     {
-        animator.runtimeAnimatorController = anotherAnimator;
+        animator.enabled = false;
+        spriteRenderer.sprite = amanteDecepcionado;
     }
 }

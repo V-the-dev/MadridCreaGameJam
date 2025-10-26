@@ -91,6 +91,7 @@ public class TypewritterEffect : MonoBehaviour
             // Obtener velocidad modificada para este carácter
             float speedMultiplier = GetSpeedMultiplier(charIndex);
             float delayForThisChar = (1f / currentSpeed) / speedMultiplier;
+            SoundManager.PlaySound(SoundType.WRITE, useRandomPitch: true, minPitch: 0.8f, maxPitch: 1.2f);
 
             yield return new WaitForSecondsRealtime(delayForThisChar);
 
