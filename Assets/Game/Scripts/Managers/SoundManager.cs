@@ -6,10 +6,6 @@ using System.Collections;
 using UnityEngine.SceneManagement;
 using UnityEngine.InputSystem;
 
-
-
-
-
 #if UNITY_EDITOR
 using UnityEditor;
 using UnityEditor.SceneManagement;
@@ -47,14 +43,21 @@ public class SoundManager : MonoBehaviour
     [SerializeField] private AudioMixerGroup sfxMixer;
     [SerializeField] private AudioMixerGroup ambientMixer;
 
+    public float highpassActive = 1100f;
+    public float lowpassActive = 600f;
+    public float volumeActive = 2f;
+
+
+    public float highpassOff = 10f;
+    public float lowpassOff = 22000f;
+    public float volumeOff = 0f;
+
     private AudioSource musicSource;
     private AudioSource camSource;
 
-    private bool filtersActive = false;
     private Coroutine fadeRoutine;
     [SerializeField] private float fadeTime=3f;
 
-    private bool hasPlayedMusic = false;
     private bool isInitialScene = true;
     public static SoundManager instance { get; private set; }
 
@@ -96,7 +99,6 @@ public class SoundManager : MonoBehaviour
         if(!isInitialScene)
         {
             StartCoroutine(PlayMusic());
-            hasPlayedMusic=true;
         }
     }
 
@@ -133,8 +135,6 @@ public class SoundManager : MonoBehaviour
 
     private void OnSceneLoaded(Scene scene, LoadSceneMode mode)
     {
-
-
         // Rebuild audio sources to account for new scene objects
         RebuildAudioSourcesFromList();
 
@@ -151,7 +151,7 @@ public class SoundManager : MonoBehaviour
             SoundManager.PlaySound(
             SoundType.STREETAMBIENT,
             source: AudioSourceName.AmbientSource,
-            volume: 0.5f,
+            volume: 0.3f,
             loop: true
             );
         }
@@ -230,29 +230,23 @@ public class SoundManager : MonoBehaviour
     }
 
 
-    public static void ToggleFilters()
+    public static void ToggleFilters(bool activate)
     {
         if (instance == null) return;
 
         if (instance.fadeRoutine != null)
             instance.StopCoroutine(instance.fadeRoutine);
 
-        if (instance.filtersActive)
-            instance.fadeRoutine = instance.StartCoroutine(instance.FadeFilters(false, instance.fadeTime));
-        else
-            instance.fadeRoutine = instance.StartCoroutine(instance.FadeFilters(true, instance.fadeTime));
+        instance.fadeRoutine = instance.StartCoroutine(instance.FadeFilters(activate, instance.fadeTime));
 
-        instance.filtersActive = !instance.filtersActive;
     }
-
-
 
     private IEnumerator FadeFilters(bool activate, float duration)
     {
         // Define los valores objetivo
-        float targetHigh = activate ? 1100f : 10f;
-        float targetLow = activate ? 600f : 22000f;
-        float targetVol = activate ? 3f : 0f;
+        float targetHigh = activate ? highpassActive : highpassOff;
+        float targetLow = activate ? lowpassActive : lowpassOff;
+        float targetVol = activate ? volumeActive : volumeOff;
 
         // Lee los valores actuales
         musicMixer.audioMixer.GetFloat("Highpass", out float currentHigh);

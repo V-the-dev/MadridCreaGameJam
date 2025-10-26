@@ -229,7 +229,7 @@ MonoBehaviour:
   - name: STREETAMBIENT
     category: 2
     sounds:
-    - {fileID: 8300000, guid: 35679b3fd6621004a97d88465753e2a0, type: 3}
+    - {fileID: 8300000, guid: 5ca2daa93cf76b24684810e5d537e437, type: 3}
   - name: MUSIC1
     category: 1
     sounds:
@@ -242,10 +242,19 @@ MonoBehaviour:
     category: 0
     sounds:
     - {fileID: 8300000, guid: bcb7f9b66f5843045953bdb752c3161c, type: 3}
+  - name: UIHOVERBUTTON
+    category: 0
+    sounds: []
   musicMixer: {fileID: 922707833684651164, guid: 22a537a8d4ef72e4eb519f44237598d8, type: 2}
   sfxMixer: {fileID: -8307745599265934666, guid: 22a537a8d4ef72e4eb519f44237598d8, type: 2}
   ambientMixer: {fileID: 8933248571027341452, guid: 22a537a8d4ef72e4eb519f44237598d8, type: 2}
-  fadeTime: 1
+  highpassActive: 1100
+  lowpassActive: 600
+  volumeActive: 5
+  highpassOff: 2
+  lowpassOff: 22000
+  volumeOff: 0
+  fadeTime: 0.5
 --- !u!1 &4688731486428498882
 GameObject:
   m_ObjectHideFlags: 0
