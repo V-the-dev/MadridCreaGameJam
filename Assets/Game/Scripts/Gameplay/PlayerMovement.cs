@@ -37,7 +37,6 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private AnimatorOverrideController animWithLampAndChuzo;
 
     [SerializeField] private GameObject lampObject;
-    [SerializeField] private GameObject smallLightObject;
     [SerializeField] private Transform[] lampPositions;
 
     bool isMoving = false;
@@ -104,7 +103,7 @@ public class PlayerMovement : MonoBehaviour
     private IEnumerator SFX_stepSound()
     {
         canPlayStep = false;
-        yield return new WaitForSeconds(stepSoundDelay);
+        yield return new WaitForSecondsRealtime(stepSoundDelay);
         canPlayStep = true;
     }
     
@@ -253,37 +252,31 @@ public class PlayerMovement : MonoBehaviour
         {
             //FRONT
             case "IdleFrontLAMP" or "WalkFrontLAMP":
-                smallLightObject.SetActive(true);
                 lampObject.transform.position = lampPositions[0].position;
                 break;
             
             //RIGHT
             case "IdleSideLAMP_Right" or "WalkSideLAMP_Right":
-                smallLightObject.SetActive(true);
                 lampObject.transform.position = lampPositions[6].position;
                 break;
             
             //LEFT
             case "IdleSideLAMP_Left" or "WalkSideLAMP_Left":
-                smallLightObject.SetActive(true);
                 lampObject.transform.position = lampPositions[7].position;
                 break;
             
             //BACK
             case "IdleBackLAMP" or "WalkBackLAMP":
-                smallLightObject.SetActive(false);
                 lampObject.transform.position = lampPositions[3].position;
                 break;
             
             //BACK RIGHT
             case "IdleDiagBackLAMP_Right" or "WalkDiagBackLAMP_Right":
-                smallLightObject.SetActive(true);
                 lampObject.transform.position = lampPositions[1].position;
                 break;
             
             //BACK LEFT
             case "IdleDiagBackLAMP_Left" or "WalkDiagBackLAMP_Left":
-                smallLightObject.SetActive(true);
                 lampObject.transform.position = lampPositions[2].position;
                 break;
         }

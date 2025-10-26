@@ -33,8 +33,6 @@ public class TimeManager : MonoBehaviour
     [Header("NPCs & puertas")]
     [SerializeField] private List<CharacterBaseScript> restartLoopList = new List<CharacterBaseScript>();
     
-    [Header("RestartBucle vars")]
-    [SerializeField] private Transform playerFirstPosition;
     
     private void Awake()
     {
@@ -154,11 +152,10 @@ public class TimeManager : MonoBehaviour
         }
     }
 
+    [ContextMenu("RestartLoop")]
     public void RestartLoop()
     {
         player.RestartAnimator();
-        
-        if(playerFirstPosition) player.gameObject.transform.position = playerFirstPosition.position;
         
         InventoryManager.Instance.RestartLoopInventory();
         

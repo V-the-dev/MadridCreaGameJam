@@ -19,10 +19,18 @@ public class GameManager : MonoBehaviour
     [SerializeField] private GameObject postProFaint = null;
     [SerializeField] private GameObject postProFadeOut = null;
     [SerializeField] private GameObject videoVictory = null;
+    [SerializeField] private GameObject videoRestartLoop = null;
     [SerializeField] private GameObject videoVictoryTexture = null;
+    [SerializeField] private GameObject videoRestartLoopTexture = null;
     [SerializeField] private WatchUI watch = null;
+    [SerializeField] private GameObject player = null;
+    [SerializeField] private GameObject fadeInAnimation = null;
+    
+    [Header("RestartBucle vars")]
+    [SerializeField] private Transform playerFirstPosition;
 
     private bool isEndingGame = false;
+    private bool isRestartingLoop = false;
 
     private PlayerInput playerInput;
     
@@ -53,7 +61,7 @@ public class GameManager : MonoBehaviour
 
         if (dawnEffect != null)
         {
-            dawnEffect.SetActive(true);
+            dawnEffect.SetActive(false);
         }
 
         if (rainEffect != null)
@@ -75,6 +83,26 @@ public class GameManager : MonoBehaviour
         {
             videoVictory.SetActive(false);
             videoVictoryTexture.SetActive(false);
+        }
+        
+        if (watch != null)
+        {
+            watch.ResetTimer();
+            watch.SetVisibility(false);
+        }
+        
+        if(playerFirstPosition && player) player.gameObject.transform.position = playerFirstPosition.position;
+        
+        if (videoRestartLoop)
+        {
+            isRestartingLoop = true;
+            PauseGame();
+            VideoPlayer videoPlayer = videoRestartLoop.GetComponent<VideoPlayer>();
+            videoRestartLoop.SetActive(true);
+            videoRestartLoopTexture.SetActive(true);
+            videoPlayer.Play();
+            videoPlayer.loopPointReached += FinishRestartVideo;
+            postProFadeOut.SetActive(false);
         }
     }
 
@@ -164,9 +192,70 @@ public class GameManager : MonoBehaviour
         isEndingGame = true;
         ActivateFadeOutEffect();
     }
+    
+    [ContextMenu("RestartLoopInfo")]
+    public void RestartLoopInfo()
+    {
+        PauseGame();
+        isRestartingLoop = true;
+        ActivateFadeOutEffect();
+    }
 
     public void FinishedFadeOut()
     {
+        if (isRestartingLoop)
+        {
+            if (postProDeath != null)
+            {
+                postProDeath.SetActive(false);
+            }
+
+            if (postProFaint != null)
+            {
+                postProFaint.SetActive(false);
+            }
+
+            if (dawnEffect != null)
+            {
+                dawnEffect.SetActive(true);
+            }
+
+            if (rainEffect != null)
+            {
+                rainEffect.SetActive(false);
+            }
+
+            if (videoVictory != null)
+            {
+                videoVictory.SetActive(false);
+                videoVictoryTexture.SetActive(false);
+            }
+
+            if (watch != null)
+            {
+                watch.ResetTimer();
+                watch.SetVisibility(false);
+            }
+        
+            if(playerFirstPosition && player) player.gameObject.transform.position = playerFirstPosition.position;
+        
+            if (videoRestartLoop)
+            {
+                VideoPlayer videoPlayer = videoRestartLoop.GetComponent<VideoPlayer>();
+                videoRestartLoop.SetActive(true);
+                videoRestartLoopTexture.SetActive(true);
+                videoPlayer.Play();
+                videoPlayer.loopPointReached += FinishRestartVideo;
+                postProFadeOut.SetActive(false);
+            }
+            
+            if (postProFadeOut != null)
+            {
+                postProFadeOut.SetActive(false);
+            }
+
+            isRestartingLoop = false;
+        }
         if (isEndingGame)
         {
             if (videoVictory)
@@ -186,44 +275,17 @@ public class GameManager : MonoBehaviour
         SceneManager.LoadScene("MainMenu");
     }
 
-    public void RestartLoopInfo()
+    private void FinishRestartVideo(VideoPlayer vp)
     {
-        if (postProDeath != null)
+        ResumeGame();
+        isRestartingLoop = false;
+        if (fadeInAnimation != null)
         {
-            postProDeath.SetActive(false);
+            fadeInAnimation.SetActive(false);
+            fadeInAnimation.SetActive(true);
         }
-
-        if (postProFaint != null)
-        {
-            postProFaint.SetActive(false);
-        }
-
-        if (dawnEffect != null)
-        {
-            dawnEffect.SetActive(true);
-        }
-
-        if (rainEffect != null)
-        {
-            rainEffect.SetActive(false);
-        }
-        
-        if (postProFadeOut != null)
-        {
-            postProFadeOut.SetActive(false);
-        }
-
-        if (videoVictory != null)
-        {
-            videoVictory.SetActive(false);
-            videoVictoryTexture.SetActive(false);
-        }
-
-        if (watch != null)
-        {
-            watch.ResetTimer();
-            watch.SetVisibility(false);
-        }
+        videoRestartLoop.SetActive(false);
+        videoRestartLoopTexture.SetActive(false);
     }
 
     public void PlayShootSound()
