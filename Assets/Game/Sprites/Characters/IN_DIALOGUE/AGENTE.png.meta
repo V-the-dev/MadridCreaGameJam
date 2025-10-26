@@ -1,13 +1,13 @@
 fileFormatVersion: 2
-guid: 1a7eff629703e9c41b61bb8a29a5dcf9
+guid: c6fe0b41957f01d4fb46f821ee620e8e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 532594029478027808
-    second: Pilar (1)_0
+      213: 98903293989748889
+    second: AGENTE_0
   - first:
-      213: 4418378524947468576
-    second: Pilar (1)_1
+      213: -5658544039718739105
+    second: AGENTE_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -103,13 +103,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Pilar (1)_0
+      name: AGENTE_0
       rect:
         serializedVersion: 2
-        x: 6
-        y: 182
-        width: 9
-        height: 10
+        x: 92
+        y: 0
+        width: 1032
+        height: 1175
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -118,20 +118,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0222880b277246700800000000000000
-      internalID: 532594029478027808
+      spriteID: 990006995006f5100800000000000000
+      internalID: 98903293989748889
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pilar (1)_1
+      name: AGENTE_1
       rect:
         serializedVersion: 2
-        x: 12
-        y: 0
-        width: 2331
-        height: 3169
+        x: 315
+        y: 149
+        width: 31
+        height: 92
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -140,8 +140,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 02155bedbdb315d30800000000000000
-      internalID: 4418378524947468576
+      spriteID: f5329a61d20d871b0800000000000000
+      internalID: -5658544039718739105
       vertices: []
       indices: 
       edges: []
@@ -160,8 +160,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Pilar (1)_0: 532594029478027808
-      Pilar (1)_1: 4418378524947468576
+      AGENTE_0: 98903293989748889
+      AGENTE_1: -5658544039718739105
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

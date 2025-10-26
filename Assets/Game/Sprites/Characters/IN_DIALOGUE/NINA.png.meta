@@ -1,13 +1,10 @@
 fileFormatVersion: 2
-guid: 5c8396e9f4edacb42946f1f1c44bb638
+guid: 198aaf56ed4d0344f8004d78e883c6f3
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 549493287585794655
-    second: Persona cartas 1_0
-  - first:
-      213: -2679802334534866649
-    second: Persona cartas 1_1
+      213: 1044207953363155507
+    second: NINA_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -49,7 +46,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -103,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Persona cartas 1_0
+      name: NINA_0
       rect:
         serializedVersion: 2
-        x: 29
-        y: 1
-        width: 904
-        height: 1207
+        x: 135
+        y: 0
+        width: 860
+        height: 1175
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -118,30 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f5a4305db3130a700800000000000000
-      internalID: 549493287585794655
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Persona cartas 1_1
-      rect:
-        serializedVersion: 2
-        x: 921
-        y: 901
-        width: 16
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 72969c599fd6fcad0800000000000000
-      internalID: -2679802334534866649
+      spriteID: 33a39d3e995cd7e00800000000000000
+      internalID: 1044207953363155507
       vertices: []
       indices: 
       edges: []
@@ -150,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -160,8 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Persona cartas 1_0: 549493287585794655
-      Persona cartas 1_1: -2679802334534866649
+      NINA_0: 1044207953363155507
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

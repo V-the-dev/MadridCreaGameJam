@@ -1,22 +1,10 @@
 fileFormatVersion: 2
-guid: 8b3ea7bd450ab394a9dfe0294d8b16c5
+guid: f27febe02b354284c8470859647bf2e5
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1884451632457067409
-    second: perrro_0
-  - first:
-      213: 584391941765355868
-    second: perrro_1
-  - first:
-      213: 5257665176224839964
-    second: perrro_2
-  - first:
-      213: 1795621519010407632
-    second: perrro_3
-  - first:
-      213: -2935990343240874227
-    second: perrro_4
+      213: 6660682976057747850
+    second: PADRE_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -112,101 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: perrro_0
+      name: PADRE_0
       rect:
         serializedVersion: 2
-        x: 150
-        y: 7
-        width: 3973
-        height: 3403
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f64ddfa793519d5e0800000000000000
-      internalID: -1884451632457067409
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: perrro_1
-      rect:
-        serializedVersion: 2
-        x: 2653
-        y: 3072
-        width: 168
-        height: 499
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c595682ff5d2c1800800000000000000
-      internalID: 584391941765355868
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: perrro_2
-      rect:
-        serializedVersion: 2
-        x: 2906
-        y: 3133
-        width: 421
-        height: 543
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c19b2d81f9af6f840800000000000000
-      internalID: 5257665176224839964
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: perrro_3
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 1125
-        width: 204
-        height: 602
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0d4a9a702445be810800000000000000
-      internalID: 1795621519010407632
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: perrro_4
-      rect:
-        serializedVersion: 2
-        x: 2040
+        x: 103
         y: 0
-        width: 230
-        height: 218
+        width: 874
+        height: 1175
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -215,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d07862f96544147d0800000000000000
-      internalID: -2935990343240874227
+      spriteID: a89e96d70ef7f6c50800000000000000
+      internalID: 6660682976057747850
       vertices: []
       indices: 
       edges: []
@@ -235,11 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      perrro_0: -1884451632457067409
-      perrro_1: 584391941765355868
-      perrro_2: 5257665176224839964
-      perrro_3: 1795621519010407632
-      perrro_4: -2935990343240874227
+      PADRE_0: 6660682976057747850
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

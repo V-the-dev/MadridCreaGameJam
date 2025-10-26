@@ -3,11 +3,11 @@ guid: 05f05d3e2699dc64b8010fe0cb6c6e4c
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2594053911313266810
-    second: Fujitivo_0
+      213: -5074669601971293171
+    second: FUGITIVO_0
   - first:
-      213: 1548894871573129987
-    second: Fujitivo_1
+      213: -3612893554210247525
+    second: FUGITIVO_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -103,13 +103,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Fujitivo_0
+      name: FUGITIVO_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 3027
-        width: 34
-        height: 41
+        x: 98
+        y: 0
+        width: 1020
+        height: 1175
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -118,20 +118,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a783a08d94eeff320800000000000000
-      internalID: 2594053911313266810
+      spriteID: d04370e32e62399b0800000000000000
+      internalID: -5074669601971293171
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fujitivo_1
+      name: FUGITIVO_1
       rect:
         serializedVersion: 2
-        x: 18
-        y: 0
-        width: 3278
-        height: 4017
+        x: 154
+        y: 812
+        width: 12
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -140,8 +140,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 30b6a86eda7ce7510800000000000000
-      internalID: 1548894871573129987
+      spriteID: b9ceff1547c6cddc0800000000000000
+      internalID: -3612893554210247525
       vertices: []
       indices: 
       edges: []
@@ -160,8 +160,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Fujitivo_0: 2594053911313266810
-      Fujitivo_1: 1548894871573129987
+      FUGITIVO_0: -5074669601971293171
+      FUGITIVO_1: -3612893554210247525
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

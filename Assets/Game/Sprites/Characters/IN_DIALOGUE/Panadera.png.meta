@@ -3,41 +3,26 @@ guid: 06df070056594d541bc4ac4a37b81d96
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8962727113632950555
-    second: Panadera_0
+      213: -2146363822319246904
+    second: PANADERA_0
   - first:
-      213: 3442957746580516797
-    second: Panadera_1
+      213: -1800598732642265685
+    second: PANADERA_1
   - first:
-      213: 6472968699926679895
-    second: Panadera_2
+      213: -3416293434168602930
+    second: PANADERA_2
   - first:
-      213: 5597372357074458253
-    second: Panadera_3
+      213: -4746879354911218621
+    second: PANADERA_3
   - first:
-      213: 3691549177954038050
-    second: Panadera_4
+      213: 7487414953489386950
+    second: PANADERA_4
   - first:
-      213: -6926318760354029830
-    second: Panadera_5
+      213: 2549547647021073573
+    second: PANADERA_5
   - first:
-      213: 8354991697482353041
-    second: Panadera_6
-  - first:
-      213: 1304013648835839906
-    second: Panadera_7
-  - first:
-      213: 8748970114775877156
-    second: Panadera_8
-  - first:
-      213: -6352262579866838268
-    second: Panadera_9
-  - first:
-      213: 6574981385198048888
-    second: Panadera_10
-  - first:
-      213: -61023213802324803
-    second: Panadera_11
+      213: 5652403255333998262
+    second: PANADERA_6
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -133,13 +118,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Panadera_0
+      name: PANADERA_0
       rect:
         serializedVersion: 2
-        x: 66
+        x: 165
         y: 0
-        width: 1940
-        height: 3208
+        width: 798
+        height: 1175
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -148,20 +133,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5e6552d3d2ffd9380800000000000000
-      internalID: -8962727113632950555
+      spriteID: 8c169ebb9759632e0800000000000000
+      internalID: -2146363822319246904
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Panadera_1
+      name: PANADERA_1
       rect:
         serializedVersion: 2
-        x: 1995
-        y: 991
-        width: 48
-        height: 103
+        x: 374
+        y: 313
+        width: 10
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -170,20 +155,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: dbf6c9534d7d7cf20800000000000000
-      internalID: 3442957746580516797
+      spriteID: ba5d6dd1efcf207e0800000000000000
+      internalID: -1800598732642265685
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Panadera_2
+      name: PANADERA_2
       rect:
         serializedVersion: 2
-        x: 19
-        y: 573
-        width: 32
-        height: 51
+        x: 377
+        y: 327
+        width: 11
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -192,20 +177,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7511a51ccba94d950800000000000000
-      internalID: 6472968699926679895
+      spriteID: ece81efc833e690d0800000000000000
+      internalID: -3416293434168602930
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Panadera_3
+      name: PANADERA_3
       rect:
         serializedVersion: 2
-        x: 31
-        y: 623
-        width: 33
-        height: 60
+        x: 930
+        y: 202
+        width: 17
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -214,129 +199,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d86930ba08cddad40800000000000000
-      internalID: 5597372357074458253
+      spriteID: 344a1e27062bf1eb0800000000000000
+      internalID: -4746879354911218621
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Panadera_4
+      name: PANADERA_4
       rect:
         serializedVersion: 2
-        x: 12
-        y: 183
-        width: 28
-        height: 112
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 221f5de2b640b3330800000000000000
-      internalID: 3691549177954038050
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Panadera_5
-      rect:
-        serializedVersion: 2
-        x: 1968
-        y: 186
-        width: 49
-        height: 132
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: afe59ffd8c5c0ef90800000000000000
-      internalID: -6926318760354029830
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Panadera_6
-      rect:
-        serializedVersion: 2
-        x: 2014
-        y: 193
-        width: 18
-        height: 45
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 19906c5aea4e2f370800000000000000
-      internalID: 8354991697482353041
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Panadera_7
-      rect:
-        serializedVersion: 2
-        x: 28
-        y: 155
-        width: 9
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2a70f113189c81210800000000000000
-      internalID: 1304013648835839906
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Panadera_8
-      rect:
-        serializedVersion: 2
-        x: 55
-        y: 18
-        width: 52
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 42689b127f59a6970800000000000000
-      internalID: 8748970114775877156
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Panadera_9
-      rect:
-        serializedVersion: 2
-        x: 67
-        y: 66
-        width: 12
+        x: 945
+        y: 204
+        width: 6
         height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -346,20 +221,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 40bd70fd6da38d7a0800000000000000
-      internalID: -6352262579866838268
+      spriteID: 6cdceacea34a8e760800000000000000
+      internalID: 7487414953489386950
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Panadera_10
+      name: PANADERA_5
       rect:
         serializedVersion: 2
-        x: 2057
-        y: 18
-        width: 13
-        height: 66
+        x: 368
+        y: 153
+        width: 8
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -368,19 +243,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 876198debb60f3b50800000000000000
-      internalID: 6574981385198048888
+      spriteID: 5a4cf9ea310d16320800000000000000
+      internalID: 2549547647021073573
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Panadera_11
+      name: PANADERA_6
       rect:
         serializedVersion: 2
-        x: 0
-        y: 18
-        width: 23
+        x: 384
+        y: 153
+        width: 16
         height: 17
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -390,8 +265,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: dbc724ad5b3372ff0800000000000000
-      internalID: -61023213802324803
+      spriteID: 6bec17120de517e40800000000000000
+      internalID: 5652403255333998262
       vertices: []
       indices: 
       edges: []
@@ -410,18 +285,13 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Panadera_0: -8962727113632950555
-      Panadera_1: 3442957746580516797
-      Panadera_10: 6574981385198048888
-      Panadera_11: -61023213802324803
-      Panadera_2: 6472968699926679895
-      Panadera_3: 5597372357074458253
-      Panadera_4: 3691549177954038050
-      Panadera_5: -6926318760354029830
-      Panadera_6: 8354991697482353041
-      Panadera_7: 1304013648835839906
-      Panadera_8: 8748970114775877156
-      Panadera_9: -6352262579866838268
+      PANADERA_0: -2146363822319246904
+      PANADERA_1: -1800598732642265685
+      PANADERA_2: -3416293434168602930
+      PANADERA_3: -4746879354911218621
+      PANADERA_4: 7487414953489386950
+      PANADERA_5: 2549547647021073573
+      PANADERA_6: 5652403255333998262
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

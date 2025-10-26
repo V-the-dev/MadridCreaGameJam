@@ -3,8 +3,8 @@ guid: 57b9bfcf1c01ead4ba3e01fed173ce1a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5982538888209298157
-    second: Mendigo_0
+      213: 3636628718069732882
+    second: MENDIGO_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Mendigo_0
+      name: MENDIGO_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 3276
-        height: 2970
+        y: 1
+        width: 1123
+        height: 1174
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 31d0359f390c9fca0800000000000000
-      internalID: -5982538888209298157
+      spriteID: 216d7882d86e77230800000000000000
+      internalID: 3636628718069732882
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Mendigo_0: -5982538888209298157
+      MENDIGO_0: 3636628718069732882
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

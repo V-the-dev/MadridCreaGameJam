@@ -1,19 +1,31 @@
 fileFormatVersion: 2
-guid: 5cca7556c0a8d7245a69a6828bdec4ad
+guid: bda0fd681e524d449b347b223f73e665
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4377331240303269109
-    second: PANADERO_0
+      213: -9012680135896847612
+    second: PERRO_0
   - first:
-      213: -7949670027471260673
-    second: PANADERO_1
+      213: -4349369412579403875
+    second: PERRO_1
   - first:
-      213: 4442628137170625885
-    second: PANADERO_2
+      213: 6693973373531981374
+    second: PERRO_2
   - first:
-      213: 8113286313026495118
-    second: PANADERO_3
+      213: 7080997040182295400
+    second: PERRO_3
+  - first:
+      213: 6705866860810757472
+    second: PERRO_4
+  - first:
+      213: 6951287653995321938
+    second: PERRO_5
+  - first:
+      213: -5535556746002908653
+    second: PERRO_6
+  - first:
+      213: 1648222377351984506
+    second: PERRO_7
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -109,13 +121,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: PANADERO_0
+      name: PERRO_0
       rect:
         serializedVersion: 2
-        x: 150
-        y: 0
-        width: 831
-        height: 1175
+        x: 57
+        y: 46
+        width: 1160
+        height: 1006
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -124,19 +136,107 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b0be085dd689043c0800000000000000
-      internalID: -4377331240303269109
+      spriteID: 40b26a9ea278ce280800000000000000
+      internalID: -9012680135896847612
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PANADERO_1
+      name: PERRO_1
       rect:
         serializedVersion: 2
-        x: 974
-        y: 262
-        width: 7
+        x: 782
+        y: 951
+        width: 52
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97514e209fe3a3c0800000000000000
+      internalID: -4349369412579403875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PERRO_2
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 969
+        width: 126
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e360c492155c5ec50800000000000000
+      internalID: 6693973373531981374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PERRO_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 393
+        width: 61
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b78a39a41c44260800000000000000
+      internalID: 7080997040182295400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PERRO_4
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 283
+        width: 73
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06560b57166001d50800000000000000
+      internalID: 6705866860810757472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PERRO_5
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 278
+        width: 6
         height: 6
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -146,41 +246,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ff3710baa391da190800000000000000
-      internalID: -7949670027471260673
+      spriteID: 25a13f3ba4fe77060800000000000000
+      internalID: 6951287653995321938
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PANADERO_2
+      name: PERRO_6
       rect:
         serializedVersion: 2
-        x: 976
-        y: 268
-        width: 7
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d55e531b0c267ad30800000000000000
-      internalID: 4442628137170625885
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PANADERO_3
-      rect:
-        serializedVersion: 2
-        x: 303
-        y: 232
-        width: 12
+        x: 45
+        y: 258
+        width: 10
         height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -190,8 +268,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e82abf86aee289070800000000000000
-      internalID: 8113286313026495118
+      spriteID: 31aba78d770cd23b0800000000000000
+      internalID: -5535556746002908653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PERRO_7
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 44
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a753ae00589afd610800000000000000
+      internalID: 1648222377351984506
       vertices: []
       indices: 
       edges: []
@@ -210,10 +310,14 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      PANADERO_0: -4377331240303269109
-      PANADERO_1: -7949670027471260673
-      PANADERO_2: 4442628137170625885
-      PANADERO_3: 8113286313026495118
+      PERRO_0: -9012680135896847612
+      PERRO_1: -4349369412579403875
+      PERRO_2: 6693973373531981374
+      PERRO_3: 7080997040182295400
+      PERRO_4: 6705866860810757472
+      PERRO_5: 6951287653995321938
+      PERRO_6: -5535556746002908653
+      PERRO_7: 1648222377351984506
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

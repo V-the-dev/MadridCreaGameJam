@@ -3,8 +3,8 @@ guid: 62254b8ba79e1b849a1239414c639085
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6917474381550652228
-    second: Mentor_0
+      213: 2463258826317748399
+    second: MENTOR_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Mentor_0
+      name: MENTOR_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 124
         y: 0
-        width: 2635
-        height: 2815
+        width: 841
+        height: 1175
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 44b0137bc4ecfff50800000000000000
-      internalID: 6917474381550652228
+      spriteID: fa8d3840ad04f2220800000000000000
+      internalID: 2463258826317748399
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Mentor_0: 6917474381550652228
+      MENTOR_0: 2463258826317748399
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
