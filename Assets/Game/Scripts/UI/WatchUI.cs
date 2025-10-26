@@ -31,20 +31,17 @@ public class WatchUI : MonoBehaviour
             currentTime += Time.deltaTime;
         }
 
-
-        currentTime = Mathf.Clamp(currentTime, 0f, totalTime);
-
         float t = currentTime / totalTime;
 
-        float angle = t * -360f;
+        float angle = t * -360f * 2f;
 
         if (watchHandle != null)
         {
-            watchHandle.rectTransform.localEulerAngles = new Vector3(0, 0, angle + startAngleOffset);
+            watchHandle.rectTransform.localEulerAngles = new Vector3(0f, 0f, angle + startAngleOffset);
         }
         else
         {
-            transform.localEulerAngles = new Vector3(0, 0, angle + startAngleOffset);
+            transform.localEulerAngles = new Vector3(0f, 0f, angle + startAngleOffset);
         }
     }
 
