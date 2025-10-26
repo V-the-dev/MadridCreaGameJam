@@ -283,7 +283,7 @@ public class GameManager : MonoBehaviour
 
     private void GoToMainMenu(VideoPlayer vp)
     {
-        SceneManager.LoadScene("MainMenu");
+        SceneManager.LoadScene("Creditos");
     }
 
     private void FinishRestartVideo(VideoPlayer vp)

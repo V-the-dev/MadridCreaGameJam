@@ -12552,6 +12552,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Animations
       objectReference: {fileID: 0}
+    - target: {fileID: 983284940435818496, guid: 1b8c5a815677d51448c85b1323915ed8, type: 3}
+      propertyPath: m_UpdateMode
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 4719890176273204365, guid: 1b8c5a815677d51448c85b1323915ed8, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5

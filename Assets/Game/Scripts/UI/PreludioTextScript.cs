@@ -85,7 +85,7 @@ public class PreludioTextScript : MonoBehaviour
             animator.Play(fadeIn.name);
         }
         
-        timeToFunction -= Time.deltaTime;
+        timeToFunction -= Time.unscaledDeltaTime;
     }
 
     // Cuando se termina el FadeIn
