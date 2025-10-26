@@ -55,7 +55,7 @@
                     "name": "Jump",
                     "type": "Button",
                     "id": "f1ba0d36-48eb-4cd5-b651-1c94a6531f70",
-                    "expectedControlType": "Button",
+                    "expectedControlType": "",
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false
@@ -88,18 +88,18 @@
                     "initialStateCheck": false
                 },
                 {
-                    "name": "PausePlayer",
+                    "name": "ShowInventory",
                     "type": "Button",
-                    "id": "6a012a92-a0ce-47f3-9a89-8ef7a2362a1a",
+                    "id": "724ae01e-2545-42c5-961f-753479b1f875",
                     "expectedControlType": "",
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false
                 },
                 {
-                    "name": "ShowInventory",
+                    "name": "PausePlayer",
                     "type": "Button",
-                    "id": "724ae01e-2545-42c5-961f-753479b1f875",
+                    "id": "6a012a92-a0ce-47f3-9a89-8ef7a2362a1a",
                     "expectedControlType": "",
                     "processors": "",
                     "interactions": "",
@@ -552,15 +552,6 @@
                     "initialStateCheck": false
                 },
                 {
-                    "name": "PauseUI",
-                    "type": "Button",
-                    "id": "dfe4f752-d936-400f-8310-8403875d9484",
-                    "expectedControlType": "",
-                    "processors": "",
-                    "interactions": "",
-                    "initialStateCheck": false
-                },
-                {
                     "name": "Submit",
                     "type": "Button",
                     "id": "7607c7b6-cd76-4816-beef-bd0341cfe950",
@@ -645,6 +636,15 @@
                     "name": "UIShowInventory",
                     "type": "Button",
                     "id": "0be884ea-7eeb-4412-896b-503ab1f1d962",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "PauseUI",
+                    "type": "Button",
+                    "id": "dfe4f752-d936-400f-8310-8403875d9484",
                     "expectedControlType": "",
                     "processors": "",
                     "interactions": "",

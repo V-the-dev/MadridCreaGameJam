@@ -30,6 +30,7 @@ public class GameManager : MonoBehaviour
     [SerializeField] private Transform playerFirstPosition;
 
     private bool isEndingGame = false;
+    public bool isPaused = false;
     private bool isRestartingLoop = false;
 
     private PlayerInput playerInput;
@@ -49,6 +50,9 @@ public class GameManager : MonoBehaviour
         playerInput = FindAnyObjectByType<UnityEngine.InputSystem.PlayerInput>();
 
         playerInput.SwitchCurrentActionMap("Player");
+
+        playerInput.actions.FindActionMap("UI").Disable();
+
     }
 
     private void Start()
@@ -124,19 +128,21 @@ public class GameManager : MonoBehaviour
             SoundManager.ToggleFilters(true);
         }
 
-
+        Time.timeScale = 0f;
+        isPaused = true;
     }
 
     public void ResumeGame()
     {
-        Time.timeScale = 1f;
-
         if (playerInput != null)
         {
             Debug.Log("enable");
             playerInput.SwitchCurrentActionMap("Player");
             SoundManager.ToggleFilters(false);
         }
+
+        Time.timeScale = 1f;
+        isPaused = false;
 
     }
 
