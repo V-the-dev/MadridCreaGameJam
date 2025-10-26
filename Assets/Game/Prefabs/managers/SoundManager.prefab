@@ -129,6 +129,135 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!1 &1639510773436215734
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6525625989420736463}
+  - component: {fileID: 5700413955538854622}
+  m_Layer: 0
+  m_Name: MusicSource 2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6525625989420736463
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1639510773436215734}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 7859453949397447974}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!82 &5700413955538854622
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1639510773436215734}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_Resource: {fileID: 0}
+  m_PlayOnAwake: 0
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
 --- !u!1 &4382585762761439046
 GameObject:
   m_ObjectHideFlags: 0
@@ -160,6 +289,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 2723797696208110095}
+  - {fileID: 6525625989420736463}
   - {fileID: 430500527953608110}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -179,19 +309,19 @@ MonoBehaviour:
   - name: BELL1
     category: 0
     sounds:
-    - {fileID: 8300000, guid: 0a6787a015ad98e48995cda387983eaf, type: 3}
+    - {fileID: 8300000, guid: e5f0e160b78552c4abf60bc5df216de3, type: 3}
   - name: BELL2
     category: 0
     sounds:
-    - {fileID: 8300000, guid: f703a950578d5ca4c87c7d9bb39a6924, type: 3}
+    - {fileID: 8300000, guid: b14f1eca103cf534d9a998df0096cd2f, type: 3}
   - name: BELL3
     category: 0
     sounds:
-    - {fileID: 8300000, guid: 0df71cc26b7615c44a6a9465b133fa9e, type: 3}
+    - {fileID: 8300000, guid: 54d8354e2c7dc18479366664ecb6fb49, type: 3}
   - name: BELL4
     category: 0
     sounds:
-    - {fileID: 8300000, guid: 6aedfffc7627b3c42b01dbad4ad40bf4, type: 3}
+    - {fileID: 8300000, guid: c4971d978b824da4a8efc1fef1211214, type: 3}
   - name: DOGBARK
     category: 0
     sounds:
@@ -230,6 +360,15 @@ MonoBehaviour:
     category: 2
     sounds:
     - {fileID: 8300000, guid: 5ca2daa93cf76b24684810e5d537e437, type: 3}
+  - name: SHOT
+    category: 0
+    sounds:
+    - {fileID: 8300000, guid: 375b5f9b7e88b6a46a838de6761bd01a, type: 3}
+  - name: WRITE
+    category: 0
+    sounds:
+    - {fileID: 8300000, guid: 1423608bc0855a742a6d42da4e62de0b, type: 3}
+    - {fileID: 8300000, guid: 5844b056043728f46a64d78fac2f34e4, type: 3}
   - name: MUSIC1
     category: 1
     sounds:
@@ -244,17 +383,25 @@ MonoBehaviour:
     - {fileID: 8300000, guid: bcb7f9b66f5843045953bdb752c3161c, type: 3}
   - name: UIHOVERBUTTON
     category: 0
-    sounds: []
+    sounds:
+    - {fileID: 8300000, guid: 68d71d2c1aeb5554897ac0757f2563c0, type: 3}
+  - name: GLASSBOTTLE
+    category: 0
+    sounds:
+    - {fileID: 8300000, guid: 50a4a753ea47552408f12c62545c08a5, type: 3}
+  - name: CASINO
+    category: 0
+    sounds:
+    - {fileID: 8300000, guid: 9c6c66d3dd246ac4b86b7cf0f351485a, type: 3}
   musicMixer: {fileID: 922707833684651164, guid: 22a537a8d4ef72e4eb519f44237598d8, type: 2}
   sfxMixer: {fileID: -8307745599265934666, guid: 22a537a8d4ef72e4eb519f44237598d8, type: 2}
   ambientMixer: {fileID: 8933248571027341452, guid: 22a537a8d4ef72e4eb519f44237598d8, type: 2}
   highpassActive: 1100
   lowpassActive: 600
-  volumeActive: 0.1
   highpassOff: 2
   lowpassOff: 22000
-  volumeOff: 0
-  fadeTime: 0.5
+  musicSource: {fileID: 0}
+  fadeTime: 0.75
 --- !u!1 &4688731486428498882
 GameObject:
   m_ObjectHideFlags: 0
@@ -296,9 +443,9 @@ AudioSource:
   m_GameObject: {fileID: 4688731486428498882}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
+  OutputAudioMixerGroup: {fileID: 922707833684651164, guid: 22a537a8d4ef72e4eb519f44237598d8, type: 2}
   m_audioClip: {fileID: 0}
-  m_Resource: {fileID: 0}
+  m_Resource: {fileID: 8300000, guid: 9765d39757325814faae115af700d8e6, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1

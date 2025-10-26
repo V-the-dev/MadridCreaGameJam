@@ -49,7 +49,7 @@ public class SoundManager : MonoBehaviour
     public float highpassOff = 10f;
     public float lowpassOff = 22000f;
 
-    private AudioSource musicSource;
+    public AudioSource musicSource;
     private AudioSource camSource;
 
     private Coroutine fadeRoutine;
@@ -64,7 +64,16 @@ public class SoundManager : MonoBehaviour
         {
             instance = this;
             if(Application.isPlaying)
+            {
                 DontDestroyOnLoad(gameObject);
+
+                foreach (Transform child in transform)
+                {
+                    if (child.GetComponent<AudioSource>() != null)
+                        DontDestroyOnLoad(child.gameObject);
+                }
+            }
+                
         }
         else
         {
@@ -103,32 +112,61 @@ public class SoundManager : MonoBehaviour
     {
         yield return null;
 
+
+        if (musicSource == null)
+            musicSource = SoundManager.instance?.getSource(AudioSourceName.MusicSource);
+
+        if (musicSource == null)
+        {
+            SoundManager.instance?.RebuildAudioSourcesFromList();
+            musicSource = SoundManager.instance?.getSource(AudioSourceName.MusicSource);
+        }
+
+        if (musicSource == null)
+        {
+            Debug.LogError("LOCO NO HAY AUDIO SOURCE POR QUE");
+            yield break;
+        }
+
+        //inicio de musica
         SoundManager.PlaySound(
             SoundType.MUSIC1,
             source: AudioSourceName.MusicSource,
             volume: 0.8f,
-            loop: false
+            loop: true
+
         );
 
-        yield return new WaitUntil(() => musicSource != null && musicSource.clip != null && musicSource.clip.loadState == AudioDataLoadState.Loaded);
+        musicSource.loop = false;
 
-        // Si por alguna razón no está sonando, asegura arrancarlo
+
+        yield return new WaitUntil(() => musicSource.clip != null);
+
+
+        //asegura que esté sonando
         if (!musicSource.isPlaying)
             musicSource.Play();
 
-        // Espera a que termine MUSIC1
-        yield return new WaitUntil(() => musicSource.time >= musicSource.clip.length - 0.25);
+        if (musicSource.clip.length > 110f)
+        {
+            musicSource.time = 110f;
+            Debug.Log("MUSIC1 adelantada al minuto 2");
+        }
 
-        // Reproduce MUSIC2 en bucle
+
+        //justo antes de acabar la primera pista
+        yield return new WaitUntil(() => musicSource.time >= musicSource.clip.length - 0.25);
         SoundManager.PlaySound(
-            SoundType.MUSIC2,
-            volume: 0.8f,
-            loop: true
+                    SoundType.MUSIC2,
+                    source: AudioSourceName.MusicSource_2, // o la misma si prefieres
+                    volume: 0.8f,
+                    loop: true
         );
 
-        // Desactiva este componente para que no vuelva a ejecutarse
+
         enabled = false;
     }
+
 
     private void OnSceneLoaded(Scene scene, LoadSceneMode mode)
     {
@@ -247,7 +285,6 @@ public class SoundManager : MonoBehaviour
         // Lee los valores actuales
         musicMixer.audioMixer.GetFloat("Highpass", out float currentHigh);
         musicMixer.audioMixer.GetFloat("Lowpass", out float currentLow);
-        musicMixer.audioMixer.GetFloat("Volume_Music", out float currentVol);
 
         float t = 0f;
         while (t < duration)
