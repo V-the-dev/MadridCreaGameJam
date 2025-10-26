@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using UnityEngine;
+using UnityEngine.Events;
 
 /// <summary>
 /// Script que controla el tiempo global de la escena, divide la noche en etapas controlables que contienen
@@ -82,34 +83,40 @@ public class TimeManager : MonoBehaviour
         
         if (currentTime >= etapasTemporales[currentStage].duracion)
         {
+            //Lanza todos los eventos que se tuvieran que activar al final de la etapa
+            for (int i = 0; i < etapasTemporales[currentStage].eventos.Count; i++)
+            {
+                //Consigue la variable actual del evento del inventory manager y si existe ese evento se la devuelve al revés para triggerearlo
+                bool? eventValue = InventoryManager.Instance.GetEventValue(etapasTemporales[currentStage].eventos[i]);
+                    
+                if (eventValue != null)
+                {
+                    InventoryManager.Instance.SetEventValue(etapasTemporales[currentStage].eventos[i], !eventValue.Value);
+                }
+                else
+                {
+                    Debug.LogError("Evento no encontrado en la lista del Inventory Manager. Posiblemente el nombre del evento este mal escrito");
+                }
+            }
+                
+            //Lanzar todas las funciones que se tengan que ejecutar
+            for (int i = 0; i < etapasTemporales[currentStage].funciones.Count; i++)
+            {
+                etapasTemporales[currentStage].funciones[i].Invoke();
+            }
+
+            if (etapasTemporales[currentStage].dialogoFinalEtapa != null)
+            {
+                MessageManager.Instance.dialogueActivator.UpdateDialogueObject(etapasTemporales[currentStage].dialogoFinalEtapa);
+                MessageManager.Instance.Interactuar();
+            }
+            
             if (currentStage + 1 >= etapasTemporales.Count)
             {
                 //Se acabó el juego
                 Debug.Log("Game Over");
                 
                 gameOver = true;
-                
-                //Lanza todos los eventos que se tuvieran que activar al final de la etapa
-                for (int i = 0; i < etapasTemporales[currentStage].eventos.Count; i++)
-                {
-                    //Consigue la variable actual del evento del inventory manager y si existe ese evento se la devuelve al revés para triggerearlo
-                    bool? eventValue = InventoryManager.Instance.GetEventValue(etapasTemporales[currentStage].eventos[i]);
-                    
-                    if (eventValue != null)
-                    {
-                        InventoryManager.Instance.SetEventValue(etapasTemporales[currentStage].eventos[i], !eventValue.Value);
-                    }
-                    else
-                    {
-                        Debug.LogError("Evento no encontrado en la lista del Inventory Manager. Posiblemente el nombre del evento este mal escrito");
-                    }
-                }
-
-                if (etapasTemporales[currentStage].dialogoFinalEtapa != null)
-                {
-                    MessageManager.Instance.dialogueActivator.UpdateDialogueObject(etapasTemporales[currentStage].dialogoFinalEtapa);
-                    MessageManager.Instance.Interactuar();
-                }
                 
                 PlayBellSound(4);
             }
@@ -177,5 +184,6 @@ public class TimeStage
     public float duracion;
     [Description("Eventos que se lanzaran al finalizar la duracion de la etapa")]
     public List<string> eventos;
+    public List<UnityEvent> funciones = new List<UnityEvent>();
     public DialogueObject dialogoFinalEtapa;
 }

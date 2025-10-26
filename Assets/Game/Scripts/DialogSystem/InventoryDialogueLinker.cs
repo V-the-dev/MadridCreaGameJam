@@ -160,7 +160,7 @@ public class InventoryDialogueLinker : MonoBehaviour
         List<Evento> eventos = new List<Evento>();
         foreach (var eventData in entry.associatedEvents)
         {
-            if (eventData.eventIndex >= 0 && eventData.eventIndex <= inventoryObject.eventos.Count)
+            if (eventData.eventIndex >= 0 && eventData.eventIndex <= inventoryObject.GetEventos().Length)
             {
                 eventos.Add(inventoryObject.GetEventos()[eventData.eventIndex]);
             }

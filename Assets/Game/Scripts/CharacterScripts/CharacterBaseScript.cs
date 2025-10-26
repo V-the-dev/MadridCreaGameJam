@@ -17,7 +17,7 @@ public class CharacterBaseScript : MonoBehaviour
         deactivateTrigger = true;
     }
 
-    private void OnBecameInvisible()
+    public virtual void OnBecameInvisible()
     {
         if (deactivateTrigger)
         {
