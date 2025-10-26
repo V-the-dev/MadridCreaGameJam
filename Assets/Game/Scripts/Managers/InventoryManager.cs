@@ -127,6 +127,14 @@ public class InventoryManager : MonoBehaviour
                 eventsDictionary[evento.nombre] = evento.startValue;
             }
         }
+        
+        foreach (Evento evento in inventarioInicial.internalEvents)
+        {
+            if (!evento.isLoopPersistent)
+            {
+                eventsDictionary[evento.nombre] = evento.startValue;
+            }
+        }
     }
 
     public void AddItemToInventory(string itemName, int amount)

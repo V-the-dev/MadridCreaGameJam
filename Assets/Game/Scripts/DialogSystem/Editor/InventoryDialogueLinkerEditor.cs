@@ -231,7 +231,7 @@ public class InventoryDialogueLinkerEditor : Editor
 
                                 if (eventResponseVar.boolValue)
                                 {
-                                    if (inventoryObject && inventoryObject.eventos != null && inventoryObject.eventos.Count > 0)
+                                    if (inventoryObject && inventoryObject.GetEventos() != null && inventoryObject.GetEventos().Length > 0)
                                     {
                                         string responseEventKey = $"{i}_{j}_events";
                                         if (!showResponseEventsDict.ContainsKey(responseEventKey))
