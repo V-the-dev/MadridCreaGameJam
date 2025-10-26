@@ -242,6 +242,15 @@ public class DialogueUI : MonoBehaviour
         dialogueBox.SetActive(false);
         nameTitleBox.SetActive(false);
         flechita.SetActive(false);
+        foreach (GameObject character in leftCharacters)
+        {
+            Destroy(character);
+        }
+        leftCharacters.Clear();
+        foreach (GameObject character in rightCharacters)
+        {
+            Destroy(character);
+        }
         leftCharacters.Clear();
         rightCharacters.Clear();
         characterBoxIzqPosition.gameObject.SetActive(false);
