@@ -217,7 +217,7 @@ public class DialogueUI : MonoBehaviour
                 imageHandler.ClearImages();
             
             CloseDialogueBox();
-            GameManager.Instance.ResumeGame();
+
         }
     }
 
@@ -253,10 +253,10 @@ public class DialogueUI : MonoBehaviour
         if (imageHandler)
             imageHandler.ClearImages();
 
-        //if (GameManager.Instance)
-        //{
-        //    GameManager.Instance.ResumeGame();
-        //}
+        if (GameManager.Instance)
+        {
+            GameManager.Instance.ResumeGame();
+        }
     }
 
     public void SetCharacterSpritesInScene(DialogueObject dialogueObject)
