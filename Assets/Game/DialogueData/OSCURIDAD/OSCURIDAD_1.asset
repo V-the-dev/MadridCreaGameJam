@@ -28,4 +28,6 @@ MonoBehaviour:
     spriteIndex: 0
   - dialogue: No puedes verlo.
     spriteIndex: 0
-  responses: []
+  responses:
+  - responseText: ...
+    dialogueObject: {fileID: 11400000, guid: df63e30d1eeebcc4484174972bd64ef3, type: 2}
