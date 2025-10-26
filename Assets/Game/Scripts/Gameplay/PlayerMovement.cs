@@ -71,7 +71,7 @@ public class PlayerMovement : MonoBehaviour
         {
             if (canPlayStep)
             {
-                SoundManager.PlaySound(SoundType.FOOTSTEPS, useRandomPitch: true, minPitch: stepSoundMinPitch, maxPitch: stepSoundMaxPitch);
+                SoundManager.PlaySound(SoundType.FOOTSTEPS, useRandomPitch: true, minPitch: stepSoundMinPitch, maxPitch: stepSoundMaxPitch, volume:0.2f);
                 StartCoroutine(SFX_stepSound());
             }
             lastMoveDir = inputVector.normalized;
