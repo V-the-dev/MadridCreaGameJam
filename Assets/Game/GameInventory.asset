@@ -142,6 +142,9 @@ MonoBehaviour:
   - isLoopPersistent: 0
     startValue: 0
     nombre: Verja_1
+  - isLoopPersistent: 0
+    startValue: 0
+    nombre: Mentor_3
   internalEvents:
   - isLoopPersistent: 0
     startValue: 0

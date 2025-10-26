@@ -32,7 +32,7 @@ MonoBehaviour:
     spriteIndex: 0
   responses:
   - responseText: <color=#1f5f8d>50 pesetas</color>
-    dialogueObject: {fileID: 11400000}
+    dialogueObject: {fileID: 11400000, guid: f63992c0395af0245aee5340d98c7c22, type: 2}
   - responseText: <color=#1f5f8d>Pedazo de chatarra</color>
     dialogueObject: {fileID: 11400000, guid: 5a22267dcc159c3499400f21481025a0, type: 2}
   - responseText: <color=#1f5f8d>Farol de aceite</color>
