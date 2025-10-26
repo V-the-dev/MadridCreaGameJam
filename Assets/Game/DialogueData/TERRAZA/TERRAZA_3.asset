@@ -23,7 +23,7 @@ MonoBehaviour:
   charactersTitle:
   - El confiado
   - "El gru\xF1\xF3n"
-  - New Title
+  - 
   charactersSide: 000000000000000001000000
   mainCharacterWhenResponses: 0
   mainCharacterIndex: 0

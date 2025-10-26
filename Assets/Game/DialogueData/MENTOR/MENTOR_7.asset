@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: MENTOR_7
   m_EditorClassIdentifier: Assembly-CSharp::DialogueObject
   characters:
-  - {fileID: 0}
+  - {fileID: -8366912485313597508, guid: 70efdc2f32e26d94298e8662f278406c, type: 3}
   charactersName:
   - 
   charactersTitle:

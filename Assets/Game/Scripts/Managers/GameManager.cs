@@ -3,6 +3,9 @@ using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
 using UnityEngine.InputSystem;
+using UnityEngine.SceneManagement;
+using UnityEngine.UI;
+using UnityEngine.Video;
 
 public class GameManager : MonoBehaviour
 {
@@ -10,6 +13,12 @@ public class GameManager : MonoBehaviour
 
     [SerializeField] private MessageManager messageManager = null;
     [SerializeField] private bool defaultStart = true;
+    [SerializeField] private GameObject postProDeath = null;
+    [SerializeField] private GameObject postProFaint = null;
+    [SerializeField] private GameObject postProFadeOut = null;
+    [SerializeField] private GameObject videoVictory = null;
+
+    private bool isEndingGame = false;
     
     private void Awake()
     {
@@ -28,18 +37,32 @@ public class GameManager : MonoBehaviour
     {
         if(defaultStart)
             messageManager.Interactuar();
+        if (postProDeath != null)
+        {
+            postProDeath.SetActive(false);
+        }
+
+        if (postProFaint != null)
+        {
+            postProFaint.SetActive(false);
+        }
+
+        if (postProFadeOut != null)
+        {
+            postProFadeOut.SetActive(false);
+        }
+
+        if (videoVictory != null)
+        {
+            videoVictory.SetActive(false);
+        }
     }
 
     public void DebugMessage()
     {
         Debug.Log("Prueba");
     }
-
-    private void Update()
-    {
-        
-    }
-
+    
     public void PauseGame()
     {
         Time.timeScale = 0f;
@@ -48,5 +71,56 @@ public class GameManager : MonoBehaviour
     public void ResumeGame()
     {
         Time.timeScale = 1f;
+    }
+
+    public void ActivateDeathEffect()
+    {
+        if (postProDeath != null)
+        {
+            postProDeath.SetActive(true);
+        }
+    }
+
+    public void ActivateFaintEffect()
+    {
+        if (postProFaint != null)
+        {
+            postProFaint.SetActive(true);
+        }
+    }
+
+    public void ActivateFadeOutEffect()
+    {
+        if (postProFadeOut != null)
+        {
+            postProFadeOut.SetActive(true);
+        }
+    }
+    
+    [ContextMenu("EndGame")]
+    public void EndGame()
+    {
+        PauseGame();
+        isEndingGame = true;
+        ActivateFadeOutEffect();
+    }
+
+    public void FinishedFadeOut()
+    {
+        if (isEndingGame)
+        {
+            if (videoVictory)
+            {
+                VideoPlayer videoPlayer = videoVictory.GetComponent<VideoPlayer>();
+                videoVictory.SetActive(true);
+                videoPlayer.Play();
+                videoPlayer.loopPointReached += GoToMainMenu;
+            }
+        }
+    }
+
+    private void GoToMainMenu(VideoPlayer vp)
+    {
+        SceneManager.LoadScene("MainMenu");
     }
 }

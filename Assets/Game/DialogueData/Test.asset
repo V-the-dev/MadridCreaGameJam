@@ -14,11 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::DialogueObject
   characters:
   - {fileID: 5162997256646205289, guid: 65cad5022ccc83f4b8d07507d5b13200, type: 3}
+  - {fileID: 0}
   charactersName:
   - Manolo
+  - 
   charactersTitle:
   - "El m\xE1s guapolo"
-  charactersSide: 00000000
+  - 
+  charactersSide: 0000000000000000
   mainCharacterWhenResponses: 0
   mainCharacterIndex: 0
   conversationLine:
@@ -40,7 +43,7 @@ MonoBehaviour:
 
       Shrek <img=shrek> is love, Shrek <img=shrek> is
       life.'
-    spriteIndex: 0
+    spriteIndex: 1
   - dialogue: Prueba
     spriteIndex: 0
   responses:
