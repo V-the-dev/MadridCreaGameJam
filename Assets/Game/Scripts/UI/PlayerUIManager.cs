@@ -13,7 +13,7 @@ public class PlayerUIManager : MonoBehaviour
 
     private GameObject activePanel;
 
-    private bool alreadyPaused = false;
+    private bool pausedByMenu = false;
 
     private void Awake()
     {
@@ -22,13 +22,13 @@ public class PlayerUIManager : MonoBehaviour
 
         if (playerInput == null)
             playerInput = GetComponent<PlayerInput>();
+
+        pauseUI = playerInput.actions.FindActionMap("UI")?.FindAction("PauseUI");
+        pausePlayer = playerInput.actions.FindActionMap("Player")?.FindAction("PausePlayer");
     }
 
     private void OnEnable()
     {
-        pauseUI = playerInput.actions.FindActionMap("UI")?.FindAction("PauseUI");
-        pausePlayer = playerInput.actions.FindActionMap("Player")?.FindAction("PausePlayer");
-
         if (pauseUI != null)
         {
             pauseUI.performed += OnPausePressed;
@@ -45,31 +45,52 @@ public class PlayerUIManager : MonoBehaviour
     private void OnDisable()
     {
         if (pauseUI != null)
+        {
             pauseUI.performed -= OnPausePressed;
+        }
+            
+        if (pausePlayer != null)
+        {
+            pausePlayer.performed -= OnPausePressed;
+        }
+
     }
 
     private void OnPausePressed(InputAction.CallbackContext context)
     {
         TogglePause();
+
     }
 
     public void TogglePause()
     {
+        bool isPaused = GameManager.Instance.isPaused; // asumiendo que GameManager lo expone
+
         if (activePanel == null)
         {
+            // Abrir menú de pausa
             TogglePanel(pausePanel);
 
-            if(Time.timeScale > 0)
+            // Solo pausar si el juego no estaba ya pausado por otro sistema
+            if (!isPaused)
+            {
                 GameManager.Instance.PauseGame();
-            else
-                alreadyPaused = true;
+                pausedByMenu = true;
+            }
+
         }
         else
         {
+            // Cerrar menú de pausa
             TogglePanel(activePanel);
 
-            if(!alreadyPaused) 
+            // Solo reanudar si este menú fue quien pausó
+            if (pausedByMenu)
+            {
                 GameManager.Instance.ResumeGame();
+                pausedByMenu = false;
+            }
+
         }
     }
 
