@@ -66,32 +66,24 @@ public class PlayerUIManager : MonoBehaviour
     {
         bool isPaused = GameManager.Instance.isPaused; // asumiendo que GameManager lo expone
 
-        if (activePanel == null)
+        // Solo pausar si el juego no estaba ya pausado por otro sistema
+        if (!isPaused)
         {
-            // Abrir menú de pausa
+            GameManager.Instance.PauseGame();
+            pausedByMenu = true;
             TogglePanel(pausePanel);
-
-            // Solo pausar si el juego no estaba ya pausado por otro sistema
-            if (!isPaused)
-            {
-                GameManager.Instance.PauseGame();
-                pausedByMenu = true;
-            }
-
         }
-        else
+        else 
         {
-            // Cerrar menú de pausa
-            TogglePanel(activePanel);
-
-            // Solo reanudar si este menú fue quien pausó
             if (pausedByMenu)
             {
                 GameManager.Instance.ResumeGame();
                 pausedByMenu = false;
             }
-
+                
+            TogglePanel(pausePanel);
         }
+
     }
 
  
