@@ -164,6 +164,8 @@ public class TimeManager : MonoBehaviour
         currentTime = 0;
 
         gameOver = false;
+        
+        GameManager.Instance.RestartLoopInfo();
 
         /// TODO: Terminar de implementar la lógica del reinicio del bucle
     }

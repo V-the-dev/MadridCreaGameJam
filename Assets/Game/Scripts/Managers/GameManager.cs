@@ -146,4 +146,28 @@ public class GameManager : MonoBehaviour
     {
         SceneManager.LoadScene("MainMenu");
     }
+
+    public void RestartLoopInfo()
+    {
+        if (postProDeath != null)
+        {
+            postProDeath.SetActive(false);
+        }
+
+        if (postProFaint != null)
+        {
+            postProFaint.SetActive(false);
+        }
+
+        if (postProFadeOut != null)
+        {
+            postProFadeOut.SetActive(false);
+        }
+
+        if (videoVictory != null)
+        {
+            videoVictory.SetActive(false);
+            videoVictoryTexture.SetActive(false);
+        }
+    }
 }
