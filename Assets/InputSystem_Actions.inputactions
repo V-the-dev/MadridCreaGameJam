@@ -95,6 +95,15 @@
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false
+                },
+                {
+                    "name": "ShowInventory",
+                    "type": "Button",
+                    "id": "724ae01e-2545-42c5-961f-753479b1f875",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
                 }
             ],
             "bindings": [
@@ -504,6 +513,28 @@
                     "action": "OpenPauseMenu",
                     "isComposite": false,
                     "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "6a338564-2c79-4c39-a589-dd4c5ecba735",
+                    "path": "<Keyboard>/#(I)",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": ";Keyboard&Mouse",
+                    "action": "ShowInventory",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "8e991931-c854-43b0-94a5-153c4a37fd42",
+                    "path": "<Gamepad>/buttonNorth",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": ";Gamepad",
+                    "action": "ShowInventory",
+                    "isComposite": false,
+                    "isPartOfComposite": false
                 }
             ]
         },
@@ -611,9 +642,9 @@
                     "initialStateCheck": false
                 },
                 {
-                    "name": "ShowInventory",
+                    "name": "UIShowInventory",
                     "type": "Button",
-                    "id": "1e6c82cf-19fa-4092-9277-4a059622f227",
+                    "id": "0be884ea-7eeb-4412-896b-503ab1f1d962",
                     "expectedControlType": "",
                     "processors": "",
                     "interactions": "",
@@ -1063,23 +1094,23 @@
                 },
                 {
                     "name": "",
-                    "id": "2f5f30ec-0faf-48b3-93e0-c57528280d46",
+                    "id": "df263df3-07ec-43bf-a845-b38e0ad4c751",
                     "path": "<Keyboard>/#(I)",
                     "interactions": "",
                     "processors": "",
                     "groups": ";Keyboard&Mouse",
-                    "action": "ShowInventory",
+                    "action": "UIShowInventory",
                     "isComposite": false,
                     "isPartOfComposite": false
                 },
                 {
                     "name": "",
-                    "id": "d73a604d-60d6-4f96-90d3-d7573f4e4fd5",
+                    "id": "1baa0086-bd56-4d38-8034-92d0c1e0dcea",
                     "path": "<Gamepad>/buttonNorth",
                     "interactions": "",
                     "processors": "",
                     "groups": ";Gamepad",
-                    "action": "ShowInventory",
+                    "action": "UIShowInventory",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }

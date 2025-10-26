@@ -22,7 +22,7 @@ public class InventoryManager : MonoBehaviour
     private Dictionary<string, Sprite> objectsSprite = new Dictionary<string, Sprite>();
     private Dictionary<string, bool> eventsDictionary = new Dictionary<string, bool>();
 
-    private InputAction _showInventoryAction;
+    private InputAction _showInventoryAction_Player, _showInventoryAction_UI;
     private bool inputBlocked = false;
 
     private bool inventoryVisible = false;
@@ -43,7 +43,9 @@ public class InventoryManager : MonoBehaviour
 
     private void Start()
     {
-        _showInventoryAction = InputSystem.actions.FindAction("UI/ShowInventory");
+        _showInventoryAction_Player = InputSystem.actions.FindAction("Player/ShowInventory");
+        _showInventoryAction_UI = InputSystem.actions.FindAction("UI/UIShowInventory");
+
         if (inventoryDictionary.Count == 0)
         {
             InitializeInventory();
@@ -54,11 +56,11 @@ public class InventoryManager : MonoBehaviour
     {
         if (!inputBlocked)
         {
-            if (_showInventoryAction.WasPressedThisFrame())
+            if (_showInventoryAction_Player.WasPressedThisFrame()|| _showInventoryAction_UI.WasPressedThisFrame())
             {
                 ShowInventoryPanel();
             }
-            if (_showInventoryAction.WasReleasedThisFrame())
+            if (_showInventoryAction_Player.WasReleasedThisFrame() || _showInventoryAction_UI.WasReleasedThisFrame())
             {
                 HideInventoryPanel();
             }
