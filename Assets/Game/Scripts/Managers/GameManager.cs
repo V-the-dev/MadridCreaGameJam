@@ -17,6 +17,7 @@ public class GameManager : MonoBehaviour
     [SerializeField] private GameObject postProFaint = null;
     [SerializeField] private GameObject postProFadeOut = null;
     [SerializeField] private GameObject videoVictory = null;
+    [SerializeField] private GameObject videoVictoryTexture = null;
 
     private bool isEndingGame = false;
     
@@ -55,6 +56,7 @@ public class GameManager : MonoBehaviour
         if (videoVictory != null)
         {
             videoVictory.SetActive(false);
+            videoVictoryTexture.SetActive(false);
         }
     }
 
@@ -113,8 +115,10 @@ public class GameManager : MonoBehaviour
             {
                 VideoPlayer videoPlayer = videoVictory.GetComponent<VideoPlayer>();
                 videoVictory.SetActive(true);
+                videoVictoryTexture.SetActive(true);
                 videoPlayer.Play();
                 videoPlayer.loopPointReached += GoToMainMenu;
+                postProFadeOut.SetActive(false);
             }
         }
     }
