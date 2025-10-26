@@ -20,6 +20,7 @@ public class GameManager : MonoBehaviour
     [SerializeField] private GameObject postProFadeOut = null;
     [SerializeField] private GameObject videoVictory = null;
     [SerializeField] private GameObject videoVictoryTexture = null;
+    [SerializeField] private WatchUI watch = null;
 
     private bool isEndingGame = false;
 
@@ -216,6 +217,12 @@ public class GameManager : MonoBehaviour
         {
             videoVictory.SetActive(false);
             videoVictoryTexture.SetActive(false);
+        }
+
+        if (watch != null)
+        {
+            watch.ResetTimer();
+            watch.SetVisibility(false);
         }
     }
 

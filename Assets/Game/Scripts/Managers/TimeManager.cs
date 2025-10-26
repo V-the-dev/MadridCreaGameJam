@@ -22,7 +22,7 @@ public class TimeManager : MonoBehaviour
     private float currentTime = 0;
 
     private float totalTime = 0;
-    private float timeMultipliyer = 1;
+    [HideInInspector] public float timeMultipliyer = 1;
 
     public bool DebugTime;
     

@@ -1,4 +1,3 @@
-using System;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -7,6 +6,7 @@ public class WatchUI : MonoBehaviour
     public float startAngleOffset = 0f;
 
     public Image watchHandle;
+    public Image watchBG;
     
     private float currentTime;
     private float totalTime;
@@ -24,10 +24,13 @@ public class WatchUI : MonoBehaviour
 
         if (TimeManager.Instance.timeManipulated)
         {
-            //Do something here to the current time
+            currentTime += Time.deltaTime * TimeManager.Instance.timeMultipliyer;
+        }
+        else
+        {
+            currentTime += Time.deltaTime;
         }
 
-        currentTime += Time.deltaTime;
 
         currentTime = Mathf.Clamp(currentTime, 0f, totalTime);
 
@@ -48,5 +51,18 @@ public class WatchUI : MonoBehaviour
     public void ResetTimer()
     {
         currentTime = 0f;
+        TimeManager.Instance.timeManipulated = false;
+    }
+
+    public void ToogleVisibility()
+    {
+        watchBG.enabled = true;
+        watchHandle.enabled = true;
+    }
+
+    public void SetVisibility(bool visibility)
+    {
+        watchBG.enabled = visibility;
+        watchHandle.enabled = visibility;
     }
 }
