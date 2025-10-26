@@ -64,19 +64,19 @@ public class GameManager : MonoBehaviour
         }
     }
 
-    public void DebugMessage()
-    {
-        Debug.Log("Prueba");
-    }
-    
+    //private void Update()
+    //{
+    //    Debug.Log($"Active map: {playerInput.currentActionMap?.name}");
+    //}
+
     public void PauseGame()
     {
         Time.timeScale = 0f;
 
         if (playerInput != null)
         {
-            Debug.Log("disable");
-            playerInput.actions.FindActionMap("Player")?.Disable();
+            //Debug.Log("disable");
+            playerInput.SwitchCurrentActionMap("UI");
         }
         SoundManager.ToggleFilters();
 
@@ -88,8 +88,9 @@ public class GameManager : MonoBehaviour
 
         if (playerInput != null)
         {
-            Debug.Log("enable");
-            playerInput.actions.FindActionMap("Player")?.Enable();
+            //Debug.Log("enable");
+            playerInput.SwitchCurrentActionMap("Player");
+
         }
         SoundManager.ToggleFilters();
     }

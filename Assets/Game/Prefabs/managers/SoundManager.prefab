@@ -245,6 +245,7 @@ MonoBehaviour:
   musicMixer: {fileID: 922707833684651164, guid: 22a537a8d4ef72e4eb519f44237598d8, type: 2}
   sfxMixer: {fileID: -8307745599265934666, guid: 22a537a8d4ef72e4eb519f44237598d8, type: 2}
   ambientMixer: {fileID: 8933248571027341452, guid: 22a537a8d4ef72e4eb519f44237598d8, type: 2}
+  fadeTime: 1
 --- !u!1 &4688731486428498882
 GameObject:
   m_ObjectHideFlags: 0

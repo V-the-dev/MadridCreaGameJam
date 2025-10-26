@@ -19,8 +19,6 @@ public class NPCcontroller :  InteractableObject
         if (interactionDialogues.Count <= 0) return;
         if (!inventoryDialogueLinker) return;
 
-        //InitiateDialogueProtocol();
-
         foreach (DialogueObject interactionDialogue in interactionDialogues)
         {
             if (inventoryDialogueLinker.CanShowDialogue(interactionDialogue) == true)
@@ -41,8 +39,6 @@ public class NPCcontroller :  InteractableObject
         if (proximityDialogues.Count <= 0) return;
         if (!inventoryDialogueLinker) return;
 
-        //InitiateDialogueProtocol();
-
         foreach (DialogueObject proximityDialogue in proximityDialogues)
         {
             if (inventoryDialogueLinker.CanShowDialogue(proximityDialogue) == true)
@@ -52,6 +48,25 @@ public class NPCcontroller :  InteractableObject
                 break;
             }
         }
+    }
+
+    public bool exclamate()
+    {
+        if (!inventoryDialogueLinker)
+        {
+            inventoryDialogueLinker = MessageManager.Instance.GetComponent<InventoryDialogueLinker>();
+        }
+
+        foreach (DialogueObject interactionDialogue in interactionDialogues)
+        {
+            if (inventoryDialogueLinker.CanShowDialogue(interactionDialogue) == true)
+            {
+                return true;
+
+            }
+        }
+
+        return false;
     }
 
 
