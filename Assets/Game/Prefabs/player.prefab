@@ -108,9 +108,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerMovement
   messageManager: {fileID: 0}
-  camController: {fileID: 0}
   speed: 5
   movementMults: {x: 1, y: 0.57}
+  currentMults: {x: 0, y: 0}
+  animWithLamp: {fileID: 0}
+  animWithChuzo: {fileID: 0}
+  animWithLampAndChuzo: {fileID: 0}
+  lampObject: {fileID: 0}
+  smallLightObject: {fileID: 0}
+  lampPositions: []
+  nearest: {fileID: 0}
 --- !u!50 &4040318089955168302
 Rigidbody2D:
   serializedVersion: 5
@@ -239,6 +246,26 @@ MonoBehaviour:
       m_Calls: []
     m_ActionId: 9caa3d8a-6b2f-4e8e-8bad-6ede561bd9be
     m_ActionName: UI/TrackedDeviceOrientation
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: 6a012a92-a0ce-47f3-9a89-8ef7a2362a1a
+    m_ActionName: 'Player/OpenPauseMenu[/Keyboard/escape,/XInputControllerWindows/start]'
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: dfe4f752-d936-400f-8310-8403875d9484
+    m_ActionName: 'UI/PauseUI[/Keyboard/escape,/XInputControllerWindows/start]'
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: 1e6c82cf-19fa-4092-9277-4a059622f227
+    m_ActionName: 'UI/ShowInventory[/Keyboard/i,/XInputControllerWindows/buttonNorth]'
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: bca2296c-6246-4b55-a3a8-87d82d3a8660
+    m_ActionName: 'Camera/RightClick[/Mouse/rightButton]'
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: 3cf535a9-20e1-4a88-8306-03fbe37e71c8
+    m_ActionName: 'Camera/Look[/XInputControllerWindows/rightStick,/Mouse/delta]'
   m_NeverAutoSwitchControlSchemes: 0
   m_DefaultControlScheme: Keyboard&Mouse
   m_DefaultActionMap: Player

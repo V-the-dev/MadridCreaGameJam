@@ -3,6 +3,7 @@ using UnityEngine.InputSystem;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Linq;
+using UnityEngine.EventSystems;
 
 public class PlayerMovement : MonoBehaviour
 {
@@ -65,16 +66,13 @@ public class PlayerMovement : MonoBehaviour
         {
             lastMoveDir = inputVector.normalized;
             inputVector.Normalize();
+
+            SortByDistance();
         }
 
         animator.SetFloat("MoveX", lastMoveDir.x);
         animator.SetFloat("MoveY", lastMoveDir.y);
         animator.SetFloat("Speed", animatorSpeed);
-
-        if (isMoving)
-        {
-            SortByDistance();
-        }
 
         if (interactuables.Count > 0 && playerInput.actions["Interact"].WasPressedThisFrame()&&Time.timeScale>0)
         {
@@ -91,6 +89,8 @@ public class PlayerMovement : MonoBehaviour
     {
         rb.MovePosition(rb.position + inputVector * currentMults * speed * Time.deltaTime);
     }
+
+    
 
     private void OnTriggerEnter2D(Collider2D collision)
     {

@@ -41,6 +41,10 @@ public class SoundManager : MonoBehaviour
     private AudioSource musicSource;
     private AudioSource camSource;
 
+    private bool filtersActive = false;
+    private Coroutine fadeRoutine;
+    [SerializeField] private float fadeTime=3f;
+
     private bool hasPlayedMusic = false;
     private bool isInitialScene = true;
     public static SoundManager instance { get; private set; }
@@ -217,6 +221,59 @@ public class SoundManager : MonoBehaviour
             targetSource.volume = volume;
             targetSource.Play();
         }
+    }
+
+
+    public static void ToggleFilters()
+    {
+        if (instance == null) return;
+
+        if (instance.fadeRoutine != null)
+            instance.StopCoroutine(instance.fadeRoutine);
+
+        if (instance.filtersActive)
+            instance.fadeRoutine = instance.StartCoroutine(instance.FadeFilters(false, instance.fadeTime));
+        else
+            instance.fadeRoutine = instance.StartCoroutine(instance.FadeFilters(true, instance.fadeTime));
+
+        instance.filtersActive = !instance.filtersActive;
+    }
+
+
+
+    private IEnumerator FadeFilters(bool activate, float duration)
+    {
+        // Define los valores objetivo
+        float targetHigh = activate ? 1100f : 10f;
+        float targetLow = activate ? 600f : 22000f;
+        float targetVol = activate ? 10f : 0f;
+
+        // Lee los valores actuales
+        musicMixer.audioMixer.GetFloat("Highpass", out float currentHigh);
+        musicMixer.audioMixer.GetFloat("Lowpass", out float currentLow);
+        musicMixer.audioMixer.GetFloat("Volume_Music", out float currentVol);
+
+        float t = 0f;
+        while (t < duration)
+        {
+            t += Time.unscaledDeltaTime;
+            float k = Mathf.SmoothStep(0f, 1f, t / duration); // ← curva suave
+
+            float newHigh = Mathf.Lerp(currentHigh, targetHigh, k);
+            float newLow = Mathf.Lerp(currentLow, targetLow, k);
+            float newVol = Mathf.Lerp(currentVol, targetVol, k);
+
+            musicMixer.audioMixer.SetFloat("Highpass", newHigh);
+            musicMixer.audioMixer.SetFloat("Lowpass", newLow);
+            musicMixer.audioMixer.SetFloat("Volume_Music", newVol);
+
+            yield return null;
+        }
+
+        // Garantiza el valor final exacto
+        musicMixer.audioMixer.SetFloat("Highpass", targetHigh);
+        musicMixer.audioMixer.SetFloat("Lowpass", targetLow);
+        musicMixer.audioMixer.SetFloat("Volume_Music", targetVol);
     }
 
     public AudioSource getSource(AudioSourceName name)
