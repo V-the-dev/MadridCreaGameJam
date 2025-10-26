@@ -13,6 +13,8 @@ public class GameManager : MonoBehaviour
 
     [SerializeField] private MessageManager messageManager = null;
     [SerializeField] private bool defaultStart = true;
+    [SerializeField] private GameObject rainEffect = null;
+    [SerializeField] private GameObject dawnEffect = null;
     [SerializeField] private GameObject postProDeath = null;
     [SerializeField] private GameObject postProFaint = null;
     [SerializeField] private GameObject postProFadeOut = null;
@@ -42,9 +44,20 @@ public class GameManager : MonoBehaviour
     {
         if(defaultStart)
             messageManager.Interactuar();
+        
         if (postProDeath != null)
         {
             postProDeath.SetActive(false);
+        }
+
+        if (dawnEffect != null)
+        {
+            dawnEffect.SetActive(true);
+        }
+
+        if (rainEffect != null)
+        {
+            rainEffect.SetActive(false);
         }
 
         if (postProFaint != null)
@@ -95,6 +108,30 @@ public class GameManager : MonoBehaviour
         SoundManager.ToggleFilters();
     }
 
+    public void ActivateDawnEffect()
+    {
+        if (dawnEffect != null)
+        {
+            dawnEffect.SetActive(true);
+        }
+    }
+    
+    public void ActivateRainEffect()
+    {
+        if (rainEffect != null)
+        {
+            rainEffect.SetActive(true);
+        }
+    }
+    
+    public void DeactivateRainEffect()
+    {
+        if (rainEffect != null)
+        {
+            rainEffect.GetComponent<Animator>().SetTrigger("ExitRain");
+        }
+    }
+    
     public void ActivateDeathEffect()
     {
         if (postProDeath != null)
@@ -160,6 +197,16 @@ public class GameManager : MonoBehaviour
             postProFaint.SetActive(false);
         }
 
+        if (dawnEffect != null)
+        {
+            dawnEffect.SetActive(true);
+        }
+
+        if (rainEffect != null)
+        {
+            rainEffect.SetActive(false);
+        }
+        
         if (postProFadeOut != null)
         {
             postProFadeOut.SetActive(false);
