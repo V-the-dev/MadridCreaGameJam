@@ -147,11 +147,11 @@ public class SoundManager : MonoBehaviour
         if (!musicSource.isPlaying)
             musicSource.Play();
 
-        if (musicSource.clip.length > 110f)
-        {
-            musicSource.time = 110f;
-            Debug.Log("MUSIC1 adelantada al minuto 2");
-        }
+        //if (musicSource.clip.length > 110f)
+        //{
+        //    musicSource.time = 110f;
+        //    Debug.Log("MUSIC1 adelantada al minuto 2");
+        //}
 
 
         //justo antes de acabar la primera pista
