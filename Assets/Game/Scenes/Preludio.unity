@@ -690,14 +690,14 @@ MonoBehaviour:
   - "Los personajes podr\xE1n comportarse de forma distinta seg\xFAn tus acciones
     y el tiempo transcurrido."
   - Ten esto en cuenta.
-  - Usa W,A,S y D para moverte, o el joystick si usas mando.
+  - Usa las teclas W,A,S, D para moverte, o el joystick si usas mando.
   - "Puedes interactuar con los personajes pulsando E o el bot\xF3n de interacci\xF3n
     izquierdo en tu mando."
-  - "Usa i o el bot\xF3n de interacci\xF3n superior para mostrar tu inventario."
+  - "Usa la tecla i o el bot\xF3n de interacci\xF3n superior para mostrar tu inventario."
   - LOOP CORE presenta
   fadeInTime: 1
-  fadeOutTime: 1
-  textTime: 1
+  fadeOutTime: 2
+  textTime: 3
   textDelay: 1
   mainMenuSceneName: MainMenu
   fadeIn: {fileID: 7400000, guid: cc3f27082d0e6e441a9d8a560a4cb20b, type: 2}
