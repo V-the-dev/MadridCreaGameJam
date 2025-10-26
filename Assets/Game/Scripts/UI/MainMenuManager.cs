@@ -21,7 +21,6 @@ public class MainMenuManager : MonoBehaviour
     private void Start()
     {
         sceneTransitioner = GetComponent<SceneTransitions>();
-        //Invoke("FirstSelect", 3f);
     }
 
     public void PlayGame()

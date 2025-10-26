@@ -37,7 +37,7 @@ public class PlayerMovement : MonoBehaviour
     bool isMoving = false;
     private float animatorSpeed = 0f;
 
-    private PlayerInput playerInput;
+    public PlayerInput playerInput;
     private Vector2 inputVector;
     private Vector2 lastMoveDir = Vector2.down;
 
@@ -187,11 +187,12 @@ public class PlayerMovement : MonoBehaviour
             {
                 // Desactivar indicador anterior (si exist�a)
                 if (nearest != null)
-                    nearest.NearestIndicator(false);
+                        nearest.NearestIndicator(false);
 
                 // Activar indicador en el nuevo m�s cercano
                 nearest = newNearest;
-                nearest.NearestIndicator(true);
+                if(nearest.GetComponent<NPCcontroller>().exclamate())
+                    nearest.NearestIndicator(true);
 
                 var mb = nearest as MonoBehaviour;
                 Debug.Log("Nearest Interactuable: " + mb.gameObject.name);

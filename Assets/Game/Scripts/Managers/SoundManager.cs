@@ -4,6 +4,11 @@ using UnityEngine;
 using UnityEngine.Audio;
 using System.Collections;
 using UnityEngine.SceneManagement;
+using UnityEngine.InputSystem;
+
+
+
+
 
 #if UNITY_EDITOR
 using UnityEditor;
@@ -91,7 +96,6 @@ public class SoundManager : MonoBehaviour
         }
     }
 
-    
     private IEnumerator PlayMusic()
     {
         yield return null;
@@ -246,7 +250,7 @@ public class SoundManager : MonoBehaviour
         // Define los valores objetivo
         float targetHigh = activate ? 1100f : 10f;
         float targetLow = activate ? 600f : 22000f;
-        float targetVol = activate ? 10f : 0f;
+        float targetVol = activate ? 3f : 0f;
 
         // Lee los valores actuales
         musicMixer.audioMixer.GetFloat("Highpass", out float currentHigh);

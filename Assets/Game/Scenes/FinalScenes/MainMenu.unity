@@ -989,6 +989,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 922707833684651164, guid: 22a537a8d4ef72e4eb519f44237598d8, type: 2}
     - target: {fileID: 4356495017292049039, guid: f0ece1a55276bf94584d74e18a00e2da, type: 3}
+      propertyPath: fadeTime
+      value: 0.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 4356495017292049039, guid: f0ece1a55276bf94584d74e18a00e2da, type: 3}
       propertyPath: soundList.Array.size
       value: 17
       objectReference: {fileID: 0}
@@ -2362,6 +2366,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc95014256d56b843baff31f115edfdc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EditorMusicPlayer
+  playNow: 0
 --- !u!4 &586186246
 Transform:
   m_ObjectHideFlags: 0

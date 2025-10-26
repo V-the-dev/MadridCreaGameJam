@@ -11,6 +11,8 @@ public class PlayerUIManager : MonoBehaviour
     private GameObject activePanel;
     private InputAction pauseAction;
 
+    private bool alreadyPaused = false;
+
     private void Awake()
     {
         if (sceneTransitioner == null)
@@ -46,12 +48,18 @@ public class PlayerUIManager : MonoBehaviour
         if (activePanel == null)
         {
             TogglePanel(pausePanel);
-            GameManager.Instance.PauseGame();
+
+            if(Time.timeScale > 0)
+                GameManager.Instance.PauseGame();
+            else
+                alreadyPaused = true;
         }
         else
         {
             TogglePanel(activePanel);
-            GameManager.Instance.ResumeGame();
+
+            if(!alreadyPaused) 
+                GameManager.Instance.ResumeGame();
         }
     }
 
