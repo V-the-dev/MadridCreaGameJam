@@ -29,4 +29,6 @@ MonoBehaviour:
     spriteIndex: 1
   - dialogue: "(El hombre, nervioso, deja caer su rev\xF3lver.)"
     spriteIndex: 0
-  responses: []
+  responses:
+  - responseText: ...
+    dialogueObject: {fileID: 11400000, guid: 5abb4d0bfd4fa9e49a137f2e4b0fc189, type: 2}

@@ -31,4 +31,6 @@ MonoBehaviour:
     spriteIndex: 0
   - dialogue: "Claro que no. \xBFC\xF3mo podr\xEDas?"
     spriteIndex: 0
-  responses: []
+  responses:
+  - responseText: ...
+    dialogueObject: {fileID: 11400000, guid: 0e6be0317a405964e8cb25a68cb83dfd, type: 2}

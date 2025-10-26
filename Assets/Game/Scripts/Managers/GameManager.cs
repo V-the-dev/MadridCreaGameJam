@@ -47,6 +47,8 @@ public class GameManager : MonoBehaviour
         }
 
         playerInput = FindAnyObjectByType<UnityEngine.InputSystem.PlayerInput>();
+
+        playerInput.SwitchCurrentActionMap("Player");
     }
 
     private void Start()
@@ -117,10 +119,11 @@ public class GameManager : MonoBehaviour
 
         if (playerInput != null)
         {
-            //Debug.Log("disable");
+            Debug.Log("disable");
             playerInput.SwitchCurrentActionMap("UI");
+            SoundManager.ToggleFilters(true);
         }
-        SoundManager.ToggleFilters();
+
 
     }
 
@@ -130,11 +133,11 @@ public class GameManager : MonoBehaviour
 
         if (playerInput != null)
         {
-            //Debug.Log("enable");
+            Debug.Log("enable");
             playerInput.SwitchCurrentActionMap("Player");
-
+            SoundManager.ToggleFilters(false);
         }
-        SoundManager.ToggleFilters();
+
     }
 
     public void ActivateDawnEffect()
@@ -189,6 +192,8 @@ public class GameManager : MonoBehaviour
     public void EndGame()
     {
         PauseGame();
+
+        Debug.Log("end game");
         isEndingGame = true;
         ActivateFadeOutEffect();
     }

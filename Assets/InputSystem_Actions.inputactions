@@ -88,7 +88,7 @@
                     "initialStateCheck": false
                 },
                 {
-                    "name": "OpenPauseMenu",
+                    "name": "PausePlayer",
                     "type": "Button",
                     "id": "6a012a92-a0ce-47f3-9a89-8ef7a2362a1a",
                     "expectedControlType": "",
@@ -499,7 +499,7 @@
                     "interactions": "",
                     "processors": "",
                     "groups": ";Keyboard&Mouse",
-                    "action": "OpenPauseMenu",
+                    "action": "PausePlayer",
                     "isComposite": false,
                     "isPartOfComposite": false
                 },
@@ -510,7 +510,7 @@
                     "interactions": "",
                     "processors": "",
                     "groups": ";Gamepad",
-                    "action": "OpenPauseMenu",
+                    "action": "PausePlayer",
                     "isComposite": false,
                     "isPartOfComposite": false
                 },

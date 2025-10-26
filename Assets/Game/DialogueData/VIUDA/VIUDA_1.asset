@@ -13,35 +13,17 @@ MonoBehaviour:
   m_Name: VIUDA_1
   m_EditorClassIdentifier: Assembly-CSharp::DialogueObject
   characters:
-  - {fileID: 21300000, guid: 041680398325fff4aa6908dfa9b5b2ba, type: 3}
-  - {fileID: 21300000, guid: 6094f5e9382781749836d3297c790174, type: 3}
+  - {fileID: -8366912485313597508, guid: 70efdc2f32e26d94298e8662f278406c, type: 3}
   charactersName:
-  - PILAR
-  - SERENO
-  charactersTitle:
-  - Viuda
   - 
-  charactersSide: 0000000001000000
+  charactersTitle:
+  - 
+  charactersSide: 00000000
   mainCharacterWhenResponses: 0
   mainCharacterIndex: 0
   conversationLine:
   - dialogue: (Rabiosa, Pilar aporrea la puerta de una casa.)
     spriteIndex: 0
-  - dialogue: "\xA1Sereno! Usted conoc\xEDa a mi <color=#7b1f1f>Manuel</color>."
-    spriteIndex: 0
-  - dialogue: "Se ha enterado, \xBFverdad? <shake>\xA1Han asesinado a mi marido!</shake>"
-    spriteIndex: 0
-  - dialogue: "Ver\xE1. <color=#7b1f1f>Garrido</color> fue la \xFAltima persona que
-      le vi\xF3 con vida, o eso dicen."
-    spriteIndex: 0
-  - dialogue: "Recuerda usted a <color=#7b1f1f>Garrido</color>, fue con usted y con
-      <color=#7b1f1f>Manuel</color> a la guerra. <color=#7b1f1f>Garrido</color> lleg\xF3
-      a casa alterado, y discutieron antes de irse juntos."
-    spriteIndex: 0
-  - dialogue: "Esta es la casa del hombre, llevo veinte minutos llamando a su puerta
-      pero no responde. Si no est\xE1n aqu\xED..."
-    spriteIndex: 0
-  - dialogue: "Sereno, \xBFcree usted que puede encontrar a <color=#7b1f1f>Garrido</color>
-      por m\xED? Me temo lo peor."
-    spriteIndex: 0
-  responses: []
+  responses:
+  - responseText: Acercarse
+    dialogueObject: {fileID: 11400000, guid: 9f965db9645426e479f58cdd7c744794, type: 2}
