@@ -170,6 +170,14 @@ public class GameManager : MonoBehaviour
         }
     }
     
+    public void DeactivateDawnEffect()
+    {
+        if (dawnEffect != null)
+        {
+            dawnEffect.SetActive(false);
+        }
+    }
+    
     public void ActivateDeathEffect()
     {
         if (postProDeath != null)
@@ -209,6 +217,8 @@ public class GameManager : MonoBehaviour
     {
         PauseGame();
         isRestartingLoop = true;
+        dawnEffect.GetComponent<DawnLightReseter>().ResetLight();
+        DeactivateDawnEffect();
         ActivateFadeOutEffect();
     }
 
@@ -228,7 +238,7 @@ public class GameManager : MonoBehaviour
 
             if (dawnEffect != null)
             {
-                dawnEffect.SetActive(true);
+                dawnEffect.SetActive(false);
             }
 
             if (rainEffect != null)
