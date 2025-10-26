@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: NINA_1
   m_EditorClassIdentifier: Assembly-CSharp::DialogueObject
   characters:
-  - {fileID: 21300000, guid: 13edfe1051d5f7042965076e441f65ac, type: 3}
+  - {fileID: 21300000, guid: 198aaf56ed4d0344f8004d78e883c6f3, type: 3}
   - {fileID: 21300000, guid: 6094f5e9382781749836d3297c790174, type: 3}
   charactersName:
   - "NI\xD1A"
