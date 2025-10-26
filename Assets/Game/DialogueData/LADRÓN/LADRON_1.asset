@@ -29,7 +29,7 @@ MonoBehaviour:
       verle bien gracias a tu <color=#1f5f8d>farol</color> <img=farol>.)"
     spriteIndex: 0
   responses:
-  - responseText: Continuar
+  - responseText: Avanzar
     dialogueObject: {fileID: 11400000, guid: 9f3ec0ec7b35d8e4a94eca7855d607d6, type: 2}
   - responseText: "Enfrentar al ladr\xF3n"
     dialogueObject: {fileID: 11400000, guid: cee5e1295b087e34ca308f3d12d33120, type: 2}

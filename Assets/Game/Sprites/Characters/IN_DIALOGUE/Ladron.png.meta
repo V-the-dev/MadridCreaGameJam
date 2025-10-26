@@ -3,14 +3,8 @@ guid: c7f227758eac4034698f17de7ad1ed10
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -477844021060730588
-    second: "Ladr\xF3n_0"
-  - first:
-      213: 3041743356034578919
-    second: "Ladr\xF3n_1"
-  - first:
-      213: 404671256336963631
-    second: "Ladr\xF3n_2"
+      213: -7937297763172432347
+    second: LADRON_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -106,57 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: "Ladr\xF3n_0"
+      name: LADRON_0
       rect:
         serializedVersion: 2
-        x: 13
-        y: 8
-        width: 2972
-        height: 4151
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 42181a2056b5e59f0800000000000000
-      internalID: -477844021060730588
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "Ladr\xF3n_1"
-      rect:
-        serializedVersion: 2
-        x: 815
-        y: 3967
-        width: 325
-        height: 379
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7e9785a6771763a20800000000000000
-      internalID: 3041743356034578919
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "Ladr\xF3n_2"
-      rect:
-        serializedVersion: 2
-        x: 925
+        x: 112
         y: 0
-        width: 73
-        height: 60
+        width: 902
+        height: 1175
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -165,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f2896c41d5ead9500800000000000000
-      internalID: 404671256336963631
+      spriteID: 526ca9decbd09d190800000000000000
+      internalID: -7937297763172432347
       vertices: []
       indices: 
       edges: []
@@ -185,9 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      "Ladr\xF3n_0": -477844021060730588
-      "Ladr\xF3n_1": 3041743356034578919
-      "Ladr\xF3n_2": 404671256336963631
+      LADRON_0: -7937297763172432347
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

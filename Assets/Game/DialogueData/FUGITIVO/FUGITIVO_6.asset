@@ -25,14 +25,14 @@ MonoBehaviour:
   mainCharacterWhenResponses: 1
   mainCharacterIndex: 1
   conversationLine:
-  - dialogue: "(Mateo baja el brazo con el rev\xF3lver.)"
+  - dialogue: "(Isidro baja el brazo con el rev\xF3lver.)"
     spriteIndex: 0
   - dialogue: (Cierra los ojos, y luego los abre de nuevo. Se gira hacia su coche
       y abre la puerta.)
     spriteIndex: 0
   - dialogue: "No quiero volver... No puedo volver. Hasta nunca compa\xF1ero."
     spriteIndex: 0
-  - dialogue: (Mateo cierra la puerta del coche.)
+  - dialogue: (Isidro cierra la puerta del coche.)
     spriteIndex: 0
   - dialogue: "(El vidrio del coche refleja moment\xE1neamente una luz cegadora.)"
     spriteIndex: 0

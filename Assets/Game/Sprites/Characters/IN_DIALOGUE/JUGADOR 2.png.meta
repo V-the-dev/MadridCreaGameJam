@@ -1,19 +1,16 @@
 fileFormatVersion: 2
-guid: 13edfe1051d5f7042965076e441f65ac
+guid: ef0b912fdf7908e4d85671ec7ec4087c
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5138820655051597374
-    second: "NI\xF1a_0"
+      213: 8870651148752334388
+    second: JUGADOR 2_0
   - first:
-      213: -502548428944191923
-    second: "NI\xF1a_1"
+      213: 1230316927335032812
+    second: JUGADOR 2_1
   - first:
-      213: 260143767008700266
-    second: "NI\xF1a_2"
-  - first:
-      213: -6830339119698206246
-    second: "NI\xF1a_3"
+      213: -2585447020911259820
+    second: JUGADOR 2_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -109,13 +106,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: "NI\xF1a_0"
+      name: JUGADOR 2_0
       rect:
         serializedVersion: 2
-        x: 9
+        x: 92
         y: 0
-        width: 2471
-        height: 2378
+        width: 1025
+        height: 1175
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -124,20 +121,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2c9953347dd3fa8b0800000000000000
-      internalID: -5138820655051597374
+      spriteID: 43e2bc79832ea1b70800000000000000
+      internalID: 8870651148752334388
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "NI\xF1a_1"
+      name: JUGADOR 2_1
       rect:
         serializedVersion: 2
-        x: 14
-        y: 959
-        width: 6
-        height: 9
+        x: 748
+        y: 1156
+        width: 9
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -146,41 +143,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d4ec952ddd69609f0800000000000000
-      internalID: -502548428944191923
+      spriteID: ce764f61ab6f21110800000000000000
+      internalID: 1230316927335032812
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "NI\xF1a_2"
+      name: JUGADOR 2_2
       rect:
         serializedVersion: 2
-        x: 9
-        y: 605
-        width: 10
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a67e517b0673c9300800000000000000
-      internalID: 260143767008700266
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "NI\xF1a_3"
-      rect:
-        serializedVersion: 2
-        x: 21
-        y: 502
-        width: 8
+        x: 1096
+        y: 915
+        width: 29
         height: 17
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -190,8 +165,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ad12fe262c2c531a0800000000000000
-      internalID: -6830339119698206246
+      spriteID: 45f0efcf1a5ae1cd0800000000000000
+      internalID: -2585447020911259820
       vertices: []
       indices: 
       edges: []
@@ -210,10 +185,9 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      "NI\xF1a_0": -5138820655051597374
-      "NI\xF1a_1": -502548428944191923
-      "NI\xF1a_2": 260143767008700266
-      "NI\xF1a_3": -6830339119698206246
+      JUGADOR 2_0: 8870651148752334388
+      JUGADOR 2_1: 1230316927335032812
+      JUGADOR 2_2: -2585447020911259820
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

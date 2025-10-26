@@ -1,13 +1,10 @@
 fileFormatVersion: 2
-guid: 327863c6067e81541b866c15a157416f
+guid: fd5b27ab2514554468da8b96e55dfe5a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7863166865448612382
-    second: TESTIGO_0
-  - first:
-      213: 9205361923763212200
-    second: TESTIGO_1
+      213: -7560077678202104271
+    second: JUGADOR 1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -103,12 +100,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: TESTIGO_0
+      name: JUGADOR 1_0
       rect:
         serializedVersion: 2
-        x: 126
+        x: 79
         y: 0
-        width: 817
+        width: 1054
         height: 1175
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -118,30 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e12bfa07a949f1d60800000000000000
-      internalID: 7863166865448612382
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TESTIGO_1
-      rect:
-        serializedVersion: 2
-        x: 284
-        y: 326
-        width: 13
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8af00d6c5e300cf70800000000000000
-      internalID: 9205361923763212200
+      spriteID: 136576c1865351790800000000000000
+      internalID: -7560077678202104271
       vertices: []
       indices: 
       edges: []
@@ -160,8 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      TESTIGO_0: 7863166865448612382
-      TESTIGO_1: 9205361923763212200
+      JUGADOR 1_0: -7560077678202104271
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
