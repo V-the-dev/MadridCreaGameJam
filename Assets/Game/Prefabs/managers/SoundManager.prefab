@@ -250,7 +250,7 @@ MonoBehaviour:
   ambientMixer: {fileID: 8933248571027341452, guid: 22a537a8d4ef72e4eb519f44237598d8, type: 2}
   highpassActive: 1100
   lowpassActive: 600
-  volumeActive: 5
+  volumeActive: 0.1
   highpassOff: 2
   lowpassOff: 22000
   volumeOff: 0

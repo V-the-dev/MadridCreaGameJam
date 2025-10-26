@@ -45,12 +45,9 @@ public class SoundManager : MonoBehaviour
 
     public float highpassActive = 1100f;
     public float lowpassActive = 600f;
-    public float volumeActive = 2f;
-
 
     public float highpassOff = 10f;
     public float lowpassOff = 22000f;
-    public float volumeOff = 0f;
 
     private AudioSource musicSource;
     private AudioSource camSource;
@@ -246,7 +243,6 @@ public class SoundManager : MonoBehaviour
         // Define los valores objetivo
         float targetHigh = activate ? highpassActive : highpassOff;
         float targetLow = activate ? lowpassActive : lowpassOff;
-        float targetVol = activate ? volumeActive : volumeOff;
 
         // Lee los valores actuales
         musicMixer.audioMixer.GetFloat("Highpass", out float currentHigh);
@@ -261,11 +257,9 @@ public class SoundManager : MonoBehaviour
 
             float newHigh = Mathf.Lerp(currentHigh, targetHigh, k);
             float newLow = Mathf.Lerp(currentLow, targetLow, k);
-            float newVol = Mathf.Lerp(currentVol, targetVol, k);
 
             musicMixer.audioMixer.SetFloat("Highpass", newHigh);
             musicMixer.audioMixer.SetFloat("Lowpass", newLow);
-            musicMixer.audioMixer.SetFloat("Volume_Music", newVol);
 
             yield return null;
         }
@@ -273,7 +267,6 @@ public class SoundManager : MonoBehaviour
         // Garantiza el valor final exacto
         musicMixer.audioMixer.SetFloat("Highpass", targetHigh);
         musicMixer.audioMixer.SetFloat("Lowpass", targetLow);
-        musicMixer.audioMixer.SetFloat("Volume_Music", targetVol);
     }
 
     public AudioSource getSource(AudioSourceName name)
