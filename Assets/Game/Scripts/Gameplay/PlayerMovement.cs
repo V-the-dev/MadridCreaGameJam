@@ -300,8 +300,8 @@ public class PlayerMovement : MonoBehaviour
     public static void CheckIfMoreDialogues()
     {
         if(nearest?.GetComponent<NPCcontroller>().exclamate() == true)
-            nearest.NearestIndicator(true);
+            nearest?.NearestIndicator(true);
         else
-            nearest.NearestIndicator(false);
+            nearest?.NearestIndicator(false);
     }
 }
