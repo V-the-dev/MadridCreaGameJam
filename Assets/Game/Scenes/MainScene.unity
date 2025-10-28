@@ -41555,6 +41555,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1218710339}
   - component: {fileID: 1218710340}
+  - component: {fileID: 1218710341}
   m_Layer: 0
   m_Name: EndGameVideo
   m_TagString: Untagged
@@ -41595,7 +41596,7 @@ VideoPlayer:
   m_TargetMaterialProperty: <noninit>
   m_RenderMode: 2
   m_AspectRatio: 2
-  m_DataSource: 0
+  m_DataSource: 1
   m_TimeUpdateMode: 2
   m_PlaybackSpeed: 1
   m_AudioOutputMode: 2
@@ -41613,6 +41614,19 @@ VideoPlayer:
   m_WaitForFirstFrame: 1
   m_FrameReadyEventEnabled: 0
   m_VideoShaders: []
+--- !u!114 &1218710341
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1218710338}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f66a7b8550eefca4a90bf225622631bd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::VidPlayer
+  videoURL: https://v-the-dev.github.io/Sereno/Assets/StreamingAssets/finalScene.mp4
 --- !u!1001 &1221818863
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -42820,6 +42834,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1276514956}
   - component: {fileID: 1276514957}
+  - component: {fileID: 1276514958}
   m_Layer: 0
   m_Name: RestartLoopVideo
   m_TagString: Untagged
@@ -42860,7 +42875,7 @@ VideoPlayer:
   m_TargetMaterialProperty: <noninit>
   m_RenderMode: 2
   m_AspectRatio: 2
-  m_DataSource: 0
+  m_DataSource: 1
   m_TimeUpdateMode: 2
   m_PlaybackSpeed: 1
   m_AudioOutputMode: 2
@@ -42878,6 +42893,19 @@ VideoPlayer:
   m_WaitForFirstFrame: 1
   m_FrameReadyEventEnabled: 0
   m_VideoShaders: []
+--- !u!114 &1276514958
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1276514955}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f66a7b8550eefca4a90bf225622631bd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::VidPlayer
+  videoURL: https://v-the-dev.github.io/Sereno/Assets/StreamingAssets/restartLoop.mp4
 --- !u!4 &1276693397 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4005533622520692560, guid: 4eb5d792bd92dd340b54e9d74b351220, type: 3}
