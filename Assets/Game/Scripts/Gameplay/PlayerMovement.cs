@@ -46,7 +46,7 @@ public class PlayerMovement : MonoBehaviour
     private Vector2 inputVector;
     private Vector2 lastMoveDir = Vector2.down;
 
-    public InteractableObject nearest;
+    public static InteractableObject nearest;
     private Dictionary<Collider2D, InteractableObject> interactuables = new Dictionary<Collider2D, InteractableObject>();
 
     private void Awake()
@@ -295,5 +295,13 @@ public class PlayerMovement : MonoBehaviour
         {
             animator.runtimeAnimatorController = animWithLamp;
         }
+    }
+
+    public static void CheckIfMoreDialogues()
+    {
+        if(nearest.GetComponent<NPCcontroller>().exclamate())
+            nearest.NearestIndicator(true);
+        else
+            nearest.NearestIndicator(false);
     }
 }

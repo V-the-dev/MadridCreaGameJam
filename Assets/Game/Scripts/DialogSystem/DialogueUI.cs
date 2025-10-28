@@ -266,6 +266,8 @@ public class DialogueUI : MonoBehaviour
         {
             GameManager.Instance.ResumeGame();
         }
+        
+        PlayerMovement.CheckIfMoreDialogues();
     }
 
     public void SetCharacterSpritesInScene(DialogueObject dialogueObject)
