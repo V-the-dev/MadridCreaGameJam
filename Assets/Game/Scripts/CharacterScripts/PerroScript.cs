@@ -9,18 +9,21 @@ public class PerroScript : CharacterBaseScript
 
     [SerializeField] private Sprite perroMuerto;
     [SerializeField] private AnimatorOverrideController perroFeliz;
+    [SerializeField] private GameObject dogProximityZone;
 
     private void Start()
     {
         animator = GetComponentInChildren<Animator>();
         spriteRenderer = GetComponentInChildren<SpriteRenderer>();
         animatorController = animator.runtimeAnimatorController;
+        dogProximityZone.SetActive(true);
     }
 
     public override void BucleReset()
     {
         base.BucleReset();
         animator.enabled = true;
+        dogProximityZone.SetActive(true);
     }
 
     public void DeadDog()
@@ -30,6 +33,7 @@ public class PerroScript : CharacterBaseScript
             animator.enabled = false;
         }
         spriteRenderer.sprite = perroMuerto;
+        dogProximityZone.SetActive(false);
     }
 
     public void HappyDog()
@@ -39,5 +43,6 @@ public class PerroScript : CharacterBaseScript
         {
             animator.enabled = true;
         }
+        dogProximityZone.SetActive(false);
     }
 }

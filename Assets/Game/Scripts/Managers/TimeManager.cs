@@ -28,8 +28,6 @@ public class TimeManager : MonoBehaviour
     
     [HideInInspector] public bool timeManipulated = false;
     private bool gameOver = false;
-
-    int counter = 0;
     
     [SerializeField] private PlayerMovement player;
     [Header("NPCs & puertas")]

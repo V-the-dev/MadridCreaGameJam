@@ -2,27 +2,33 @@ using UnityEngine;
 
 public class VerjaScript : CharacterBaseScript
 {
-    private SpriteRenderer spriteRenderer;
-    private Sprite verjaCerrada;
-    [SerializeField] private Sprite verjaAbierta;
+    [SerializeField] private SpriteRenderer verjaCerrada;
+    [SerializeField] private SpriteRenderer verjaAbierta_Left;
+    [SerializeField] private SpriteRenderer verjaAbierta_Right;
     [SerializeField] private GameObject barrier;
 
     public override void BucleReset()
     {
         base.BucleReset();
-        spriteRenderer.sprite = verjaCerrada;
+        verjaCerrada.enabled = true;
+        verjaAbierta_Left.enabled = false;
+        verjaAbierta_Right.enabled = false;
         barrier.SetActive(true);
     }
     
     private void Start()
     {
-        spriteRenderer = GetComponentInChildren<SpriteRenderer>();
-        verjaCerrada = spriteRenderer.sprite;
+        verjaCerrada.enabled = true;
+        verjaAbierta_Left.enabled = false;
+        verjaAbierta_Right.enabled = false;
+        barrier.SetActive(true);
     }
 
     public void OpenVerja()
     {
-        spriteRenderer.sprite = verjaAbierta;
+        verjaCerrada.enabled = false;
+        verjaAbierta_Left.enabled = true;
+        verjaAbierta_Right.enabled = true;
         barrier.SetActive(false);
     }
 }
