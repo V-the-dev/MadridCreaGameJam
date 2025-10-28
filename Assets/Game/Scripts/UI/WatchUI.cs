@@ -48,7 +48,7 @@ public class WatchUI : MonoBehaviour
     public void ResetTimer()
     {
         currentTime = 0f;
-        gameObject.SetActive(false);
+        SetVisibility(false);
         TimeManager.Instance.timeManipulated = false;
     }
 
@@ -56,13 +56,11 @@ public class WatchUI : MonoBehaviour
     {
         watchBG.enabled = true;
         watchHandle.enabled = true;
-        gameObject.SetActive(true);
     }
 
     public void SetVisibility(bool visibility)
     {
         watchBG.enabled = visibility;
         watchHandle.enabled = visibility;
-        gameObject.SetActive(visibility);
     }
 }

@@ -1,28 +1,31 @@
+using System;
 using UnityEngine;
 
 public class PasadizoScript : CharacterBaseScript
 {
-    private SpriteRenderer spriteRenderer;
-    private Sprite pasadizoCerrado;
-    [SerializeField] private Sprite pasadizoAbierto;
+    [SerializeField] private SpriteRenderer pasadizoCerrado;
+    [SerializeField] private SpriteRenderer pasadizoAbierto;
     [SerializeField] private GameObject barrier;
+
+    private void Start()
+    {
+        pasadizoAbierto.enabled = false;
+        pasadizoCerrado.enabled = true;
+        barrier.SetActive(true);
+    }
 
     public override void BucleReset()
     {
         base.BucleReset();
-        spriteRenderer.sprite = pasadizoCerrado;
+        pasadizoAbierto.enabled = false;
+        pasadizoCerrado.enabled = true;
         barrier.SetActive(true);
-    }
-    
-    private void Start()
-    {
-        spriteRenderer = GetComponentInChildren<SpriteRenderer>();
-        pasadizoCerrado = spriteRenderer.sprite;
     }
 
     public void OpenPasadizo()
     {
-        spriteRenderer.sprite = pasadizoAbierto;
+        pasadizoAbierto.enabled = true;
+        pasadizoCerrado.enabled = false;
         barrier.SetActive(false);
     }
 }
