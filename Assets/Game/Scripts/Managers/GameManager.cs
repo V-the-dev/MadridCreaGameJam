@@ -118,11 +118,6 @@ public class GameManager : MonoBehaviour
         }
     }
 
-    //private void Update()
-    //{
-    //    Debug.Log($"Active map: {playerInput.currentActionMap?.name}");
-    //}
-
     public void PauseGame()
     {
         Time.timeScale = 0f;
@@ -166,6 +161,7 @@ public class GameManager : MonoBehaviour
         {
             rainEffect.SetActive(true);
         }
+        SoundManager.FadeVolume(AudioSourceName.AmbientSource_2, 0.1f, 3f);
     }
     
     public void DeactivateRainEffect()
@@ -174,6 +170,7 @@ public class GameManager : MonoBehaviour
         {
             rainEffect.GetComponent<Animator>().SetTrigger("ExitRain");
         }
+        SoundManager.FadeVolume(AudioSourceName.AmbientSource_2, 0f, 3f);
     }
     
     public void DeactivateDawnEffect()
@@ -215,6 +212,12 @@ public class GameManager : MonoBehaviour
 
         Debug.Log("end game");
         isEndingGame = true;
+
+        SoundManager.FadeVolume(AudioSourceName.MusicSource_2,0f, 5f);
+        SoundManager.FadeVolume(AudioSourceName.MusicSource,0f, 5f);
+        SoundManager.FadeVolume(AudioSourceName.AmbientSource, 0f, 5f);
+        SoundManager.FadeVolume(AudioSourceName.AmbientSource_2, 0f, 5f);
+
         ActivateFadeOutEffect();
     }
     

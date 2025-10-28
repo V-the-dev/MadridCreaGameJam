@@ -30,7 +30,8 @@ public enum SoundType
     UICLICKBUTTON,
     UIHOVERBUTTON,
     GLASSBOTTLE,
-    CASINO
+    CASINO,
+    RAIN
 }
 
 [ExecuteInEditMode]
@@ -72,8 +73,7 @@ public class SoundManager : MonoBehaviour
                     if (child.GetComponent<AudioSource>() != null)
                         DontDestroyOnLoad(child.gameObject);
                 }
-            }
-                
+            } 
         }
         else
         {
@@ -89,6 +89,20 @@ public class SoundManager : MonoBehaviour
             SceneManager.sceneLoaded += OnSceneLoaded;
 
         RebuildAudioSourcesFromList();
+
+        SoundManager.PlaySound(
+        SoundType.STREETAMBIENT,
+        source: AudioSourceName.AmbientSource,
+        volume: 0.15f,
+        loop: true
+        );
+
+        SoundManager.PlaySound(
+        SoundType.RAIN,
+        source: AudioSourceName.AmbientSource_2,
+        volume: 0f,
+        loop: true
+        );
     }
 
     private void OnDestroy()
@@ -139,20 +153,11 @@ public class SoundManager : MonoBehaviour
 
         musicSource.loop = false;
 
-
         yield return new WaitUntil(() => musicSource.clip != null);
-
 
         //asegura que esté sonando
         if (!musicSource.isPlaying)
             musicSource.Play();
-
-        //if (musicSource.clip.length > 110f)
-        //{
-        //    musicSource.time = 110f;
-        //    Debug.Log("MUSIC1 adelantada al minuto 2");
-        //}
-
 
         //justo antes de acabar la primera pista
         yield return new WaitUntil(() => musicSource.time >= musicSource.clip.length - 0.25);
@@ -167,32 +172,37 @@ public class SoundManager : MonoBehaviour
         enabled = false;
     }
 
-
-    private void OnSceneLoaded(Scene scene, LoadSceneMode mode)
+    public static void FadeVolume(AudioSourceName source, float newVolume=0f, float duration =1f)
     {
-        // Rebuild audio sources to account for new scene objects
-        RebuildAudioSourcesFromList();
+        var src=instance.getSource(source);
 
-        // Play ambient sound in the new scene
-        if(!isInitialScene)
+        if (src == null)
         {
-            if (Camera.main != null)
-            {
-                transform.SetParent(Camera.main.transform);
-                transform.localPosition = Vector3.zero; // Align with camera's position
-                camSource = Camera.main.GetComponent<AudioSource>();
-            }
-
-            SoundManager.PlaySound(
-            SoundType.STREETAMBIENT,
-            source: AudioSourceName.AmbientSource,
-            volume: 0.3f,
-            loop: true
-            );
+            Debug.LogWarning($"FadeVolume: No se encontró el AudioSource '{source}'.");
+            return;
         }
 
-        isInitialScene = false;
+        instance.StartCoroutine(instance.FadeCoroutine(src, newVolume, duration));
     }
+
+    private IEnumerator FadeCoroutine(AudioSource source, float targetVolume, float duration)
+    {
+        if (source == null)
+            yield break;
+
+        float startVolume = source.volume;
+        float time = 0f;
+
+        while (time < duration)
+        {
+            time += Time.unscaledDeltaTime;
+            source.volume = Mathf.Lerp(startVolume, targetVolume, time / duration);
+            yield return null;
+        }
+
+        source.volume = targetVolume;
+    }
+
     public static void PlaySound(
         SoundType sound,
         AudioSourceName source = AudioSourceName.Main_Camera,
@@ -262,6 +272,7 @@ public class SoundManager : MonoBehaviour
         {
             //cuando no hay source se asigna la de la camara, pero si esta en uso puede que se le este variando el pitch o el volumen,
             //por lo que en su lugar se una la fuente de la musica (que siempre esta) pero solo para one shots
+
             if (!targetSource.isPlaying)
                 targetSource.PlayOneShot(randomClip, volume);
             else
@@ -270,7 +281,31 @@ public class SoundManager : MonoBehaviour
         }
     }
 
+    private void OnSceneLoaded(Scene scene, LoadSceneMode mode)
+    {
+        // Rebuild audio sources to account for new scene objects
+        RebuildAudioSourcesFromList();
 
+        // Play ambient sound in the new scene
+        if (!isInitialScene)
+        {
+            if (Camera.main != null)
+            {
+                transform.SetParent(Camera.main.transform);
+                transform.localPosition = Vector3.zero; // Align with camera's position
+                camSource = Camera.main.GetComponent<AudioSource>();
+            }
+
+            SoundManager.PlaySound(
+            SoundType.STREETAMBIENT,
+            source: AudioSourceName.AmbientSource,
+            volume: 0.3f,
+            loop: true
+            );
+        }
+
+        isInitialScene = false;
+    }
     public static void ToggleFilters(bool activate)
     {
         if (instance == null) return;
@@ -281,7 +316,6 @@ public class SoundManager : MonoBehaviour
         instance.fadeRoutine = instance.StartCoroutine(instance.FadeFilters(activate, instance.fadeTime));
 
     }
-
     private IEnumerator FadeFilters(bool activate, float duration)
     {
         // Define los valores objetivo

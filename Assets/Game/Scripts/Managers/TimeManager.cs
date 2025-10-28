@@ -136,19 +136,19 @@ public class TimeManager : MonoBehaviour
         switch (i)
         {
             case 1:
-                SoundManager.PlaySound(SoundType.BELL1,AudioSourceName.AmbientSource,volume: 0.15f);
+                SoundManager.PlaySound(SoundType.BELL1,AudioSourceName.AmbientSource,volume: 0.25f);
                 break;
             
             case 2:
-                SoundManager.PlaySound(SoundType.BELL2, AudioSourceName.AmbientSource, volume: 0.15f);
+                SoundManager.PlaySound(SoundType.BELL2, AudioSourceName.AmbientSource, volume: 0.25f);
                 break;
             
             case 3:
-                SoundManager.PlaySound(SoundType.BELL3, AudioSourceName.AmbientSource, volume: 0.15f);
+                SoundManager.PlaySound(SoundType.BELL3, AudioSourceName.AmbientSource, volume: 0.25f);
                 break;
             
             case 4:
-                SoundManager.PlaySound(SoundType.BELL4, AudioSourceName.AmbientSource, volume: 0.15f);
+                SoundManager.PlaySound(SoundType.BELL4, AudioSourceName.AmbientSource, volume: 0.25f);
                 break;
         }
     }
