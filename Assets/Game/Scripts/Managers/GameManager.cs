@@ -99,15 +99,21 @@ public class GameManager : MonoBehaviour
         
         if(playerFirstPosition && player) player.gameObject.transform.position = playerFirstPosition.position;
         
+        PlayRestartVideo();
+    }
+
+    private void PlayRestartVideo()
+    {
         if (videoRestartLoop)
         {
             isRestartingLoop = true;
             PauseGame();
-            VideoPlayer videoPlayer = videoRestartLoop.GetComponent<VideoPlayer>();
+            VideoPlayer videoComponent = videoRestartLoop.GetComponent<VideoPlayer>();
+            VidPlayer streamingVideoPlayer = videoRestartLoop.GetComponent<VidPlayer>();
             videoRestartLoop.SetActive(true);
             videoRestartLoopTexture.SetActive(true);
-            videoPlayer.Play();
-            videoPlayer.loopPointReached += FinishRestartVideo;
+            streamingVideoPlayer.PlayVideo();
+            videoComponent.loopPointReached += FinishRestartVideo;
             postProFadeOut.SetActive(false);
         }
     }
@@ -260,6 +266,9 @@ public class GameManager : MonoBehaviour
         
             if(playerFirstPosition && player) player.gameObject.transform.position = playerFirstPosition.position;
         
+            PlayRestartVideo();
+            
+            /*
             if (videoRestartLoop)
             {
                 VideoPlayer videoPlayer = videoRestartLoop.GetComponent<VideoPlayer>();
@@ -269,6 +278,7 @@ public class GameManager : MonoBehaviour
                 videoPlayer.loopPointReached += FinishRestartVideo;
                 postProFadeOut.SetActive(false);
             }
+            */
             
             if (postProFadeOut != null)
             {
@@ -281,11 +291,12 @@ public class GameManager : MonoBehaviour
         {
             if (videoVictory)
             {
-                VideoPlayer videoPlayer = videoVictory.GetComponent<VideoPlayer>();
+                VideoPlayer videoComponent = videoVictory.GetComponent<VideoPlayer>();
+                VidPlayer streamingVideoPlayer = videoVictory.GetComponent<VidPlayer>();
                 videoVictory.SetActive(true);
                 videoVictoryTexture.SetActive(true);
-                videoPlayer.Play();
-                videoPlayer.loopPointReached += GoToMainMenu;
+                streamingVideoPlayer.PlayVideo();
+                videoComponent.loopPointReached += GoToMainMenu;
                 postProFadeOut.SetActive(false);
             }
         }
