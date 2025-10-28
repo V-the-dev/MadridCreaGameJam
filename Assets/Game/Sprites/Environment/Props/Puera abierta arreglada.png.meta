@@ -1,0 +1,975 @@
+fileFormatVersion: 2
+guid: 633b00aac3283c04c8d36037aa30a9f8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5269170943726927963
+    second: Puera abierta arreglada_0
+  - first:
+      213: -3127277008857114230
+    second: Puera abierta arreglada_1
+  - first:
+      213: 6884942399476447996
+    second: Puera abierta arreglada_2
+  - first:
+      213: 5709630055791836132
+    second: Puera abierta arreglada_3
+  - first:
+      213: 6815504248978490683
+    second: Puera abierta arreglada_4
+  - first:
+      213: 4661225443684126040
+    second: Puera abierta arreglada_5
+  - first:
+      213: 568565580136782365
+    second: Puera abierta arreglada_6
+  - first:
+      213: -7934833635954610427
+    second: Puera abierta arreglada_7
+  - first:
+      213: -7790265932258450235
+    second: Puera abierta arreglada_8
+  - first:
+      213: -8878879779985173532
+    second: Puera abierta arreglada_9
+  - first:
+      213: -5679698233255272150
+    second: Puera abierta arreglada_10
+  - first:
+      213: -4644038533937779627
+    second: Puera abierta arreglada_11
+  - first:
+      213: -5859562118656530540
+    second: Puera abierta arreglada_12
+  - first:
+      213: -5422134043699455830
+    second: Puera abierta arreglada_13
+  - first:
+      213: 4845881618417849632
+    second: Puera abierta arreglada_14
+  - first:
+      213: 8419636729167632828
+    second: Puera abierta arreglada_15
+  - first:
+      213: 8849668943178294092
+    second: Puera abierta arreglada_16
+  - first:
+      213: 1121589130258930028
+    second: Puera abierta arreglada_17
+  - first:
+      213: 431750568810164625
+    second: Puera abierta arreglada_18
+  - first:
+      213: -7691333821458289837
+    second: Puera abierta arreglada_19
+  - first:
+      213: 4162454813029636718
+    second: Puera abierta arreglada_20
+  - first:
+      213: 3755883842977429124
+    second: Puera abierta arreglada_21
+  - first:
+      213: -6179485116201356767
+    second: Puera abierta arreglada_22
+  - first:
+      213: 2687184651732686742
+    second: Puera abierta arreglada_23
+  - first:
+      213: 5365791374461799449
+    second: Puera abierta arreglada_24
+  - first:
+      213: 1092474908869555958
+    second: Puera abierta arreglada_25
+  - first:
+      213: -6244252297312431270
+    second: Puera abierta arreglada_26
+  - first:
+      213: -608908900662820334
+    second: Puera abierta arreglada_27
+  - first:
+      213: 4588273267112019113
+    second: Puera abierta arreglada_28
+  - first:
+      213: -6832939339930583192
+    second: Puera abierta arreglada_29
+  - first:
+      213: -8059818685266149679
+    second: Puera abierta arreglada_30
+  - first:
+      213: -4141278994537927883
+    second: Puera abierta arreglada_31
+  - first:
+      213: 4170416017256616514
+    second: Puera abierta arreglada_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Puera abierta arreglada_0
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1876
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5047a95e0bdf1940800000000000000
+      internalID: 5269170943726927963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puera abierta arreglada_1
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1931
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8953d4212ea994d0800000000000000
+      internalID: -3127277008857114230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puera abierta arreglada_2
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1926
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfab1d362aa3c8f50800000000000000
+      internalID: 6884942399476447996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puera abierta arreglada_3
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1889
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ebbd5ae84eac3f40800000000000000
+      internalID: 5709630055791836132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puera abierta arreglada_4
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1897
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35478d1109859e50800000000000000
+      internalID: 6815504248978490683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puera abierta arreglada_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1865
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d0ec448dfffa040800000000000000
+      internalID: 4661225443684126040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puera abierta arreglada_6
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1879
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a119bf163f3e700800000000000000
+      internalID: 568565580136782365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puera abierta arreglada_7
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1873
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50faa1149dec1e190800000000000000
+      internalID: -7934833635954610427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puera abierta arreglada_8
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1866
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c468e1c86a63e390800000000000000
+      internalID: -7790265932258450235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puera abierta arreglada_9
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1880
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3d596e1e1e7c480800000000000000
+      internalID: -8878879779985173532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puera abierta arreglada_10
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1869
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a21e7679c88ad21b0800000000000000
+      internalID: -5679698233255272150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puera abierta arreglada_11
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1857
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ca96dfe8f0d8fb0800000000000000
+      internalID: -4644038533937779627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puera abierta arreglada_12
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1862
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49764226c47aeaea0800000000000000
+      internalID: -5859562118656530540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puera abierta arreglada_13
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1847
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8ddb0a0d5b0c4b0800000000000000
+      internalID: -5422134043699455830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puera abierta arreglada_14
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1857
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 025146948a7004340800000000000000
+      internalID: 4845881618417849632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puera abierta arreglada_15
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1851
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb95edbfefe88d470800000000000000
+      internalID: 8419636729167632828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puera abierta arreglada_16
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1853
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43e2f9240750da70800000000000000
+      internalID: 8849668943178294092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puera abierta arreglada_17
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 128
+        width: 793
+        height: 1692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69d50d1f5fa09f00800000000000000
+      internalID: 1121589130258930028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puera abierta arreglada_18
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1817
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191b085dad2edf500800000000000000
+      internalID: 431750568810164625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puera abierta arreglada_19
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1785
+        width: 57
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35be70bc3a4e24590800000000000000
+      internalID: -7691333821458289837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puera abierta arreglada_20
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1818
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a1f3c499204c930800000000000000
+      internalID: 4162454813029636718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puera abierta arreglada_21
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1811
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4867c46a4749f1430800000000000000
+      internalID: 3755883842977429124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puera abierta arreglada_22
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1811
+        width: 49
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1223102f60f0e3aa0800000000000000
+      internalID: -6179485116201356767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puera abierta arreglada_23
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1812
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6979864143cca4520800000000000000
+      internalID: 2687184651732686742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puera abierta arreglada_24
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1813
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c86ad63de177a40800000000000000
+      internalID: 5365791374461799449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puera abierta arreglada_25
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1816
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f672353420492f00800000000000000
+      internalID: 1092474908869555958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puera abierta arreglada_26
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1816
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5396ca7e95f759a0800000000000000
+      internalID: -6244252297312431270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puera abierta arreglada_27
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1810
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2124b6bb498bc87f0800000000000000
+      internalID: -608908900662820334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puera abierta arreglada_28
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1769
+        width: 58
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a402aa0a32dcaf30800000000000000
+      internalID: 4588273267112019113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puera abierta arreglada_29
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1470
+        width: 27
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f35af6fd58c21a0800000000000000
+      internalID: -6832939339930583192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puera abierta arreglada_30
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 132
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1deb7a6cb95c52090800000000000000
+      internalID: -8059818685266149679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puera abierta arreglada_31
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 114
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ba7c622b83786c0800000000000000
+      internalID: -4141278994537927883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puera abierta arreglada_32
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 38
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2421e2a954b40e930800000000000000
+      internalID: 4170416017256616514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Puera abierta arreglada_0: 5269170943726927963
+      Puera abierta arreglada_1: -3127277008857114230
+      Puera abierta arreglada_10: -5679698233255272150
+      Puera abierta arreglada_11: -4644038533937779627
+      Puera abierta arreglada_12: -5859562118656530540
+      Puera abierta arreglada_13: -5422134043699455830
+      Puera abierta arreglada_14: 4845881618417849632
+      Puera abierta arreglada_15: 8419636729167632828
+      Puera abierta arreglada_16: 8849668943178294092
+      Puera abierta arreglada_17: 1121589130258930028
+      Puera abierta arreglada_18: 431750568810164625
+      Puera abierta arreglada_19: -7691333821458289837
+      Puera abierta arreglada_2: 6884942399476447996
+      Puera abierta arreglada_20: 4162454813029636718
+      Puera abierta arreglada_21: 3755883842977429124
+      Puera abierta arreglada_22: -6179485116201356767
+      Puera abierta arreglada_23: 2687184651732686742
+      Puera abierta arreglada_24: 5365791374461799449
+      Puera abierta arreglada_25: 1092474908869555958
+      Puera abierta arreglada_26: -6244252297312431270
+      Puera abierta arreglada_27: -608908900662820334
+      Puera abierta arreglada_28: 4588273267112019113
+      Puera abierta arreglada_29: -6832939339930583192
+      Puera abierta arreglada_3: 5709630055791836132
+      Puera abierta arreglada_30: -8059818685266149679
+      Puera abierta arreglada_31: -4141278994537927883
+      Puera abierta arreglada_32: 4170416017256616514
+      Puera abierta arreglada_4: 6815504248978490683
+      Puera abierta arreglada_5: 4661225443684126040
+      Puera abierta arreglada_6: 568565580136782365
+      Puera abierta arreglada_7: -7934833635954610427
+      Puera abierta arreglada_8: -7790265932258450235
+      Puera abierta arreglada_9: -8878879779985173532
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

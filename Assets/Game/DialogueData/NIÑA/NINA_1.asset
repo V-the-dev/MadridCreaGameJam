@@ -26,12 +26,12 @@ MonoBehaviour:
   mainCharacterIndex: 1
   conversationLine:
   - dialogue: "(Entre los escombros de un edificio abandonado, una ni\xF1a trata
-      de arrancar una viga de metal atrancada entre un par de bloques de piedra.)"
+      de arrancar una trozo de madera atrancada entre un par de bloques de piedra.)"
     spriteIndex: 0
   - dialogue: (Al verte, se limpia el sudor de la frente y avanza hacia ti dando
       pisotones fuertes.)
     spriteIndex: 0
-  - dialogue: "Oye t\xFA, ay\xFAdame a mover este trozo de metal de aqu\xED."
+  - dialogue: "Oye t\xFA, ay\xFAdame a mover este trozo de madera de aqu\xED."
     spriteIndex: 0
   responses:
   - responseText: "Ayudar a la ni\xF1a"
