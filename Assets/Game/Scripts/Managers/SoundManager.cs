@@ -260,7 +260,13 @@ public class SoundManager : MonoBehaviour
         }
         else
         {
-            targetSource.PlayOneShot(randomClip, volume);
+            //cuando no hay source se asigna la de la camara, pero si esta en uso puede que se le este variando el pitch o el volumen,
+            //por lo que en su lugar se una la fuente de la musica (que siempre esta) pero solo para one shots
+            if (!targetSource.isPlaying)
+                targetSource.PlayOneShot(randomClip, volume);
+            else
+                instance.musicSource.PlayOneShot(randomClip,volume);
+
         }
     }
 

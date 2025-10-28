@@ -28,6 +28,8 @@ public class TimeManager : MonoBehaviour
     
     [HideInInspector] public bool timeManipulated = false;
     private bool gameOver = false;
+
+    int counter = 0;
     
     [SerializeField] private PlayerMovement player;
     [Header("NPCs & puertas")]
@@ -47,6 +49,7 @@ public class TimeManager : MonoBehaviour
         }
 
         GetTotalTime();
+
     }
 
     public float GetTotalTime()
@@ -135,19 +138,19 @@ public class TimeManager : MonoBehaviour
         switch (i)
         {
             case 1:
-                SoundManager.PlaySound(SoundType.BELL1,volume: 0.15f);
+                SoundManager.PlaySound(SoundType.BELL1,AudioSourceName.AmbientSource,volume: 0.15f);
                 break;
             
             case 2:
-                SoundManager.PlaySound(SoundType.BELL2, volume: 0.15f);
+                SoundManager.PlaySound(SoundType.BELL2, AudioSourceName.AmbientSource, volume: 0.15f);
                 break;
             
             case 3:
-                SoundManager.PlaySound(SoundType.BELL3, volume: 0.15f);
+                SoundManager.PlaySound(SoundType.BELL3, AudioSourceName.AmbientSource, volume: 0.15f);
                 break;
             
             case 4:
-                SoundManager.PlaySound(SoundType.BELL4, volume: 0.15f);
+                SoundManager.PlaySound(SoundType.BELL4, AudioSourceName.AmbientSource, volume: 0.15f);
                 break;
         }
     }

@@ -45,15 +45,20 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TimeManager
   etapasTemporales:
-  - duracion: 90
+  - duracion: 5
     eventos: []
+    funciones: []
     dialogoFinalEtapa: {fileID: 0}
-  - duracion: 60
+  - duracion: 5
     eventos: []
+    funciones: []
     dialogoFinalEtapa: {fileID: 0}
-  - duracion: 30
+  - duracion: 5
     eventos: []
+    funciones: []
     dialogoFinalEtapa: {fileID: 11400000, guid: c51dd84d69c59ef4aa9e30d4a420fbbd, type: 2}
+  timeMultipliyer: 1
+  DebugTime: 1
   timeManipulated: 0
   player: {fileID: 0}
   restartLoopList: []
