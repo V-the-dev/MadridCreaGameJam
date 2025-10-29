@@ -106,7 +106,10 @@ public class PlayerUIManager : MonoBehaviour
     public void LoadMainMenu()
     {
         if (sceneTransitioner != null)
+        {
             sceneTransitioner.LoadScene("MainMenu");
+            TogglePause();
+        }   
         else
             Debug.LogWarning("[PlayerUIManager] No SceneTransitions component assigned.");
     }
