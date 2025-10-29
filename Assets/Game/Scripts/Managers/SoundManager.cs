@@ -112,9 +112,9 @@ public class SoundManager : MonoBehaviour
     }
     void Start()
     {
-        if (!Application.isPlaying) return;
-
         musicSource = SoundManager.instance.getSource(AudioSourceName.MusicSource);
+
+        //if (!Application.isPlaying) return;
 
         if(!isInitialScene)
         {
@@ -230,7 +230,7 @@ public class SoundManager : MonoBehaviour
             instance.audioSources.TryGetValue(source, out targetSource);
 
         //Si no se encontró, intenta reconstruir el diccionario
-        if (targetSource == null)
+        if (targetSource == null|| targetSource.isPlaying)
         {
             instance.RebuildAudioSourcesFromList();
             if (instance.audioSources != null)
@@ -239,7 +239,7 @@ public class SoundManager : MonoBehaviour
 
         //Si sigue sin encontrarse, usa la cámara
         if (targetSource == null)
-            targetSource = instance.camSource;
+            targetSource = instance.gameObject.GetComponent<AudioSource>();
 
         //Asigna el mixer correcto
         switch (soundData.category)
@@ -270,14 +270,7 @@ public class SoundManager : MonoBehaviour
         }
         else
         {
-            //cuando no hay source se asigna la de la camara, pero si esta en uso puede que se le este variando el pitch o el volumen,
-            //por lo que en su lugar se una la fuente de la musica (que siempre esta) pero solo para one shots
-
-            if (!targetSource.isPlaying)
-                targetSource.PlayOneShot(randomClip, volume);
-            else
-                instance.musicSource.PlayOneShot(randomClip,volume);
-
+            targetSource.PlayOneShot(randomClip, volume);
         }
     }
 

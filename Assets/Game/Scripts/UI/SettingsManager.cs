@@ -1,8 +1,9 @@
 using System;
-using UnityEngine;
-using UnityEngine.UI;
 using TMPro;
+using UnityEngine;
 using UnityEngine.Audio;
+using UnityEngine.EventSystems;
+using UnityEngine.UI;
 using Slider = UnityEngine.UI.Slider;
 
 public class SettingsManager : MonoBehaviour
@@ -67,5 +68,10 @@ public class SettingsManager : MonoBehaviour
     public void ToggleFullScreen()
     {
         Screen.fullScreen = !Screen.fullScreen;
+    }
+
+    public void Deselect()
+    {
+        EventSystem.current.SetSelectedGameObject(null);
     }
 }

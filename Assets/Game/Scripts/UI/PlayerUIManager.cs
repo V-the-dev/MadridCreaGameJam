@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.EventSystems;
 using UnityEngine.InputSystem;
 
 public class PlayerUIManager : MonoBehaviour
@@ -113,6 +114,9 @@ public class PlayerUIManager : MonoBehaviour
         else
             Debug.LogWarning("[PlayerUIManager] No SceneTransitions component assigned.");
     }
+
+
+
     public void ExitGame()
     {
 #if UNITY_EDITOR
