@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 using TMPro;
 using UnityEngine.UI;
@@ -83,6 +84,7 @@ public class ResponseHandler : MonoBehaviour
 
         if (response.DialogueObject)
         {
+            bool foundResponseEvent = false;
             DialogueActivator dialogueActivator = MessageManager.Instance.dialogueActivator;
             dialogueActivator.UpdateDialogueObject(response.DialogueObject);
             InventoryDialogueLinker linker = dialogueActivator.GetInventoryDialogueLinker();
@@ -98,9 +100,17 @@ public class ResponseHandler : MonoBehaviour
                     {
                         MessageManager.Instance.DialogueUI.AddResponseEvents(responseEventsVar.Events);
                         endEvent = responseEventsVar.Events[responseEventsVar.Events.Length - 1];
+                        foundResponseEvent = true;
                         break;
                     }
                 }
+
+                if (!foundResponseEvent)
+                {
+                    MessageManager.Instance.DialogueUI.ClearResponseEvents();
+                    endEvent = null;
+                }
+                
                 dialogueUI.ShowDialogue(response.DialogueObject, linker, endEvent);
             }
         }

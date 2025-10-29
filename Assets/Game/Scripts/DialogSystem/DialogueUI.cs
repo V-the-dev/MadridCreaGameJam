@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -97,6 +98,11 @@ public class DialogueUI : MonoBehaviour
     public void AddResponseEvents(ResponseEvent[] responseEvents)
     {
         responseHandler.AddResponseEvents(responseEvents);
+    }
+
+    public void ClearResponseEvents()
+    {
+        responseHandler.AddResponseEvents(Array.Empty<ResponseEvent>());
     }
 
     private IEnumerator StepThroughDialogue(DialogueObject dialogueObject, InventoryDialogueLinker linker = null, ResponseEvent endEvent = null)

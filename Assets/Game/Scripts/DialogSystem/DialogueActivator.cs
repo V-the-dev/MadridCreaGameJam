@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 
 public class DialogueActivator : MonoBehaviour, IInteractuable
@@ -17,6 +18,7 @@ public class DialogueActivator : MonoBehaviour, IInteractuable
 
     public void Interact(MessageManager messageManager)
     {
+        bool foundResponseEvent = false;
         DialogueResponseEvents dialogueResponseEvents = GetComponent<DialogueResponseEvents>();
         if (dialogueResponseEvents)
         {
@@ -28,8 +30,15 @@ public class DialogueActivator : MonoBehaviour, IInteractuable
                 {
                     messageManager.DialogueUI.AddResponseEvents(responseEvents.Events);
                     endEvent = responseEvents.Events[responseEvents.Events.Length - 1];
+                    foundResponseEvent = true;
                     break;
                 }
+            }
+
+            if (!foundResponseEvent)
+            {
+                messageManager.DialogueUI.ClearResponseEvents();
+                endEvent = null;
             }
 
             InventoryDialogueLinker linker = GetComponent<InventoryDialogueLinker>();
