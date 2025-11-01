@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-public class DialogueActivator : MonoBehaviour, IInteractuable
+public class DialogueActivator : MonoBehaviour
 {
     [SerializeField]
     private DialogueObject dialogueObject;
@@ -38,12 +38,10 @@ public class DialogueActivator : MonoBehaviour, IInteractuable
             if (!foundResponseEvent)
             {
                 messageManager.DialogueUI.ClearResponseEvents();
-                endEvent = null;
             }
 
             InventoryDialogueLinker linker = GetComponent<InventoryDialogueLinker>();
             messageManager.DialogueUI.ShowDialogue(dialogueObject, linker, endEvent);
         }
     }
-
 }

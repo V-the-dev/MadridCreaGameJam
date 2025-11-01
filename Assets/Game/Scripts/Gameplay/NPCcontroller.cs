@@ -24,7 +24,7 @@ public class NPCcontroller :  InteractableObject
             if (inventoryDialogueLinker.CanShowDialogue(interactionDialogue) == true)
             {
                 MessageManager.Instance.dialogueActivator.UpdateDialogueObject(interactionDialogue);
-                MessageManager.Instance.Interact();
+                MessageManager.Instance.Interactuar();
                 break;
             }
         }
@@ -44,7 +44,7 @@ public class NPCcontroller :  InteractableObject
             if (inventoryDialogueLinker.CanShowDialogue(proximityDialogue) == true)
             {
                 MessageManager.Instance.dialogueActivator.UpdateDialogueObject(proximityDialogue);
-                MessageManager.Instance.Interact();
+                MessageManager.Instance.Interactuar();
                 break;
             }
         }

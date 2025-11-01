@@ -27,7 +27,7 @@ public class ResponseHandler : MonoBehaviour
         typewritterEffect = GetComponent<TypewritterEffect>();
     }
 
-    public void AddResponseEvents(ResponseEvent[] responseEventsVar)
+    public void AddResponseEventos(ResponseEvent[] responseEventsVar)
     {
         this.responseEvents = responseEventsVar;
     }

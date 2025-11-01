@@ -97,12 +97,12 @@ public class DialogueUI : MonoBehaviour
 
     public void AddResponseEvents(ResponseEvent[] responseEvents)
     {
-        responseHandler.AddResponseEvents(responseEvents);
+        responseHandler.AddResponseEventos(responseEvents);
     }
 
     public void ClearResponseEvents()
     {
-        responseHandler.AddResponseEvents(Array.Empty<ResponseEvent>());
+        responseHandler.AddResponseEventos(Array.Empty<ResponseEvent>());
     }
 
     private IEnumerator StepThroughDialogue(DialogueObject dialogueObject, InventoryDialogueLinker linker = null, ResponseEvent endEvent = null)

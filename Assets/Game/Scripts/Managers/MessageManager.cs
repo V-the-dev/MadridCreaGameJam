@@ -42,11 +42,6 @@ public class MessageManager : MonoBehaviour
     }
     public void Interactuar()
     {
-        Interact();
-    }
-
-    public void Interact()
-    {
         GetComponent<DialogueActivator>().Interact(this);
     }
 }
