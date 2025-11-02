@@ -23,6 +23,6 @@ MonoBehaviour:
   mainCharacterIndex: 1
   conversationLine:
   - dialogue: "(Un mendigo de aspecto fam\xE9lico ha muerto recientemente bajo este
-      puente.)"
+      puente)."
     spriteIndex: 0
   responses: []

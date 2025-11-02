@@ -26,16 +26,16 @@ MonoBehaviour:
   mainCharacterIndex: 1
   conversationLine:
   - dialogue: (Caminas con diligencia cuando escuchas una campanada que anuncia la
-      llegada inminente del amanecer. )
+      llegada inminente del amanecer).
     spriteIndex: 1
-  - dialogue: (Te detienes.)
+  - dialogue: (Te detienes).
     spriteIndex: 1
   - dialogue: (A unos pasos delante de ti, en la oscuridad, ves una figura envuelta
-      en ropajes oscuros.)
+      en ropajes oscuros).
     spriteIndex: 0
-  - dialogue: "(Su mirada est\xE1 clavada en ti.)"
+  - dialogue: "(Su mirada est\xE1 clavada en ti)."
     spriteIndex: 0
-  - dialogue: "(Y en su mano derecha, un rev\xF3lver.)"
+  - dialogue: (Y en su mano derecha, una pistola).
     spriteIndex: 0
   responses:
   - responseText: "Mantener la posici\xF3n"

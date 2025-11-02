@@ -26,7 +26,7 @@ MonoBehaviour:
   mainCharacterIndex: 1
   conversationLine:
   - dialogue: (Benavide mira la botella que le entregas. Es <color=#1f5f8d>licor
-      barato</color><img=licor>, justo el que le gusta. Te dedica un gesto de aprecio.)
+      barato</color><img=licor>, justo el que le gusta. Te dedica un gesto de aprecio).
     spriteIndex: 0
   - dialogue: Te has ganado un regalo, venga, elige uno.
     spriteIndex: 0

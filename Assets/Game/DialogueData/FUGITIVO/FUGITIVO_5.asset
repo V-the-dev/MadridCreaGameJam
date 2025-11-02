@@ -26,16 +26,16 @@ MonoBehaviour:
   mainCharacterIndex: 1
   conversationLine:
   - dialogue: "(Levantas el chuzo. Est\xE1s lo bastante cerca. <shake>Hundes la pica
-      en su <color=#7b1f1f>vientre</color>.</shake>)"
+      en su <color=#7b1f1f>vientre</color></shake>)."
     spriteIndex: 1
-  - dialogue: "(Mateo tiene el rev\xF3lver alzado, apunt\xE1ndote, pero no aprieta
-      el gatillo.)"
+  - dialogue: "(Isidro tiene la pistola alzada, apunt\xE1ndote, pero no aprieta el
+      gatillo)."
     spriteIndex: 0
-  - dialogue: (Cae de rodillas, y luego al suelo.)
+  - dialogue: (Cae de rodillas, y luego al suelo).
     spriteIndex: 0
-  - dialogue: "(Una vez m\xE1s, eligi\xF3 sacrificarse.)"
+  - dialogue: "(Una vez m\xE1s, eligi\xF3 sacrificarse)."
     spriteIndex: 0
-  - dialogue: (Elegiste el <color=#7b1f1f>castigo</color>.)
+  - dialogue: (Elegiste el <color=#7b1f1f>castigo</color>).
     spriteIndex: 1
   responses:
   - responseText: "La noche contin\xFAa..."

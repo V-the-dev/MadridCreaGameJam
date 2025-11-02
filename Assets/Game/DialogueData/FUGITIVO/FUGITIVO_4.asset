@@ -31,7 +31,7 @@ MonoBehaviour:
   - dialogue: "Dime la verdad. \xBFNi un solo d\xEDa has pensado en que que yo cargu\xE9
       con la culpa de los cuatro? <shake>\xBFNo te molesta?</shake>"
     spriteIndex: 0
-  - dialogue: "(<color=#7b1f1f>Isidro</color> carga su rev\xF3lver.)"
+  - dialogue: (<color=#7b1f1f>Isidro</color> carga su pistola).
     spriteIndex: 0
   - dialogue: "Pasaron meses hasta que empec\xE9 a perder la fe."
     spriteIndex: 0

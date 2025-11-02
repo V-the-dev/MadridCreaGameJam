@@ -25,10 +25,10 @@ MonoBehaviour:
   mainCharacterWhenResponses: 1
   mainCharacterIndex: 1
   conversationLine:
-  - dialogue: (Escuchas movimiento tras la esquina.)
+  - dialogue: (Escuchas movimiento tras la esquina).
     spriteIndex: 1
   - dialogue: (Al acercarte, ves a un hombre cargando maletas en un coche maltrecho.
-      Al verte, se detiene.)
+      Al verte, se detiene).
     spriteIndex: 0
   - dialogue: Has venido. Tienes coraje, eso es evidente.
     spriteIndex: 0

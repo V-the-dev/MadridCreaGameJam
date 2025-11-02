@@ -26,7 +26,7 @@ MonoBehaviour:
   mainCharacterIndex: 1
   conversationLine:
   - dialogue: "(Don Benavide, tu mentor est\xE1 apoyado en el \xE1rbol con una botella
-      de licor en mano y un par m\xE1s ya vac\xEDas a su lado.)"
+      de licor en mano y un par m\xE1s ya vac\xEDas a su lado)."
     spriteIndex: 0
   - dialogue: "Hombre, ah\xED est\xE1s. Oye, no me encuentro muy bien la verdad.
       \xBFCrees que puedes cubrir mi zona hoy?"

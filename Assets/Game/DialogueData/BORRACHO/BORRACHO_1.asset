@@ -25,10 +25,10 @@ MonoBehaviour:
   mainCharacterWhenResponses: 1
   mainCharacterIndex: 1
   conversationLine:
-  - dialogue: "(Un hombre inconsciente, es evidente que bebi\xF3 demasiado.)"
+  - dialogue: "(Un hombre inconsciente, es evidente que bebi\xF3 demasiado)."
     spriteIndex: 0
   - dialogue: (A su lado, una <color=#1f5f8d>botella de licor</color><img=licor>
-      a medio terminar.)
+      a medio terminar).
     spriteIndex: 0
   responses:
   - responseText: Volver

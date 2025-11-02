@@ -23,6 +23,6 @@ MonoBehaviour:
   mainCharacterIndex: 1
   conversationLine:
   - dialogue: (Te quedas con la <color=#1f5f8d>chatarra</color><img=chatarra>. Todo
-      puede intercambiarse en tiempos de necesidad)
+      puede intercambiarse en tiempos de necesidad).
     spriteIndex: 0
   responses: []

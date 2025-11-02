@@ -26,7 +26,7 @@ MonoBehaviour:
   mainCharacterIndex: 1
   conversationLine:
   - dialogue: "(Te acercas a la figura oscura. Es un vil ladr\xF3n. Ahora puedes
-      verle bien gracias a tu <color=#1f5f8d>farol</color> <img=farol>.)"
+      verle bien gracias a tu <color=#1f5f8d>farol</color> <img=farol>)."
     spriteIndex: 0
   responses:
   - responseText: Avanzar

@@ -28,7 +28,7 @@ MonoBehaviour:
   mainCharacterWhenResponses: 0
   mainCharacterIndex: 0
   conversationLine:
-  - dialogue: (Un cocinero te hace un gesto para que te acerques.)
+  - dialogue: (Un cocinero te hace un gesto para que te acerques).
     spriteIndex: 0
   - dialogue: "\xA1Sereno! Que alivio verle por aqu\xED. Escuche, se han producido
       <color=#7b1f1f>robos</color> por aqu\xED \xFAltimamente."

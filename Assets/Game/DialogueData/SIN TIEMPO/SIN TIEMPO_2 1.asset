@@ -36,7 +36,7 @@ MonoBehaviour:
     spriteIndex: 0
   - dialogue: "T\xFA hiciste lo mismo aquel d\xEDa."
     spriteIndex: 0
-  - dialogue: <shake><color=#7b1f1f>(Caes de plomo al suelo.)</shake></color>
+  - dialogue: <shake><color=#7b1f1f>(Caes de plomo al suelo).</shake></color>
     spriteIndex: 1
   responses:
   - responseText: "La noche contin\xFAa..."

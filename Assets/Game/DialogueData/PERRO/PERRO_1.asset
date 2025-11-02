@@ -27,7 +27,7 @@ MonoBehaviour:
   conversationLine:
   - dialogue: "<shake>(Un perro rabioso se abalanza sobre ti, pero la cadena atada
       a su cuello se tensa en el \xFAltimo momento y le ahorca antes de llegar a
-      alcanzarte.)</shake>"
+      alcanzarte).</shake>"
     spriteIndex: 0
   responses:
   - responseText: Avanzar

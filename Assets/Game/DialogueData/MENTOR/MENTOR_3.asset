@@ -25,7 +25,7 @@ MonoBehaviour:
   mainCharacterWhenResponses: 1
   mainCharacterIndex: 1
   conversationLine:
-  - dialogue: (Benavide abre una bolsa maltrecha con varios objetos en mal estado)
+  - dialogue: (Benavide abre una bolsa maltrecha con varios objetos en mal estado).
     spriteIndex: 0
   responses:
   - responseText: <color=#1f5f8d>50 pesetas</color>

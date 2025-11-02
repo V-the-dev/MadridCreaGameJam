@@ -26,7 +26,7 @@ MonoBehaviour:
   mainCharacterIndex: 1
   conversationLine:
   - dialogue: "(Un mendigo fam\xE9lico est\xE1 tumbado bajo el puente. Su estado
-      es deplorable.)"
+      es deplorable)."
     spriteIndex: 0
   - dialogue: "Sereno... \xBFNo tendr\xEDa usted un <color=#1f5f8d>cacho de pan</color>
       <img=pan> que darme?"

@@ -22,7 +22,7 @@ MonoBehaviour:
   mainCharacterWhenResponses: 0
   mainCharacterIndex: 0
   conversationLine:
-  - dialogue: (Rabiosa, Pilar aporrea la puerta de una casa.)
+  - dialogue: (Rabiosa, Pilar aporrea la puerta de una casa).
     spriteIndex: 0
   responses:
   - responseText: Acercarse

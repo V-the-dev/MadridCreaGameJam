@@ -28,7 +28,7 @@ MonoBehaviour:
   mainCharacterWhenResponses: 1
   mainCharacterIndex: 2
   conversationLine:
-  - dialogue: (Un par de sujetos juegan a las cartas, levantan la mirada al verte.)
+  - dialogue: (Un par de sujetos juegan a las cartas, levantan la mirada al verte).
     spriteIndex: 2
   - dialogue: "\xA1Sereno! \xBFTiene algunas <color=#1f5f8d>pesetas</color><img=pesetas>
       en mano? \xBFQuiere unirse a la partida?"

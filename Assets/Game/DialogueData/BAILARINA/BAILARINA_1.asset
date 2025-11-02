@@ -26,7 +26,7 @@ MonoBehaviour:
   mainCharacterIndex: 1
   conversationLine:
   - dialogue: "(La bailarina est\xE1 inmersa en su danza, no te presta atenci\xF3n.
-      Canturrea algo incomprensible.)"
+      Canturrea algo incomprensible)."
     spriteIndex: 0
   responses:
   - responseText: Volver
