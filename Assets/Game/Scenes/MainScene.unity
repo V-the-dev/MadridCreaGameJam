@@ -7678,15 +7678,15 @@ PrefabInstance:
       objectReference: {fileID: 1460533640}
     - target: {fileID: 8476707806612027900, guid: 49654e6898c4ec241a23b5912c0062fe, type: 3}
       propertyPath: etapasTemporales.Array.data[0].duracion
-      value: 120
+      value: 100
       objectReference: {fileID: 0}
     - target: {fileID: 8476707806612027900, guid: 49654e6898c4ec241a23b5912c0062fe, type: 3}
       propertyPath: etapasTemporales.Array.data[1].duracion
-      value: 90
+      value: 60
       objectReference: {fileID: 0}
     - target: {fileID: 8476707806612027900, guid: 49654e6898c4ec241a23b5912c0062fe, type: 3}
       propertyPath: etapasTemporales.Array.data[2].duracion
-      value: 30
+      value: 20
       objectReference: {fileID: 0}
     - target: {fileID: 8476707806612027900, guid: 49654e6898c4ec241a23b5912c0062fe, type: 3}
       propertyPath: etapasTemporales.Array.data[0].eventos.Array.size
