@@ -22,8 +22,8 @@ MonoBehaviour:
   mainCharacterWhenResponses: 0
   mainCharacterIndex: 0
   conversationLine:
-  - dialogue: (Rabiosa, Pilar aporrea la puerta de una casa).
+  - dialogue: (Furious, Pilar pounds on the door of a house.)
     spriteIndex: 0
   responses:
-  - responseText: Acercarse
+  - responseText: Approach.
     dialogueObject: {fileID: 11400000, guid: 9f965db9645426e479f58cdd7c744794, type: 2}

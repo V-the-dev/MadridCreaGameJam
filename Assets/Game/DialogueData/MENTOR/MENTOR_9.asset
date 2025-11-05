@@ -22,7 +22,7 @@ MonoBehaviour:
   mainCharacterWhenResponses: 0
   mainCharacterIndex: 1
   conversationLine:
-  - dialogue: "(Escoges el <color=#1f5f8d>manojo de llaves</color><img=llaves>. Con
-      \xE9l podr\xE1s acceder a alguna puerta cerrada)."
+  - dialogue: (You take the <color=#1f5f8d>Bundle of keys</color><img=llaves>.They
+      can open certain locked door.)
     spriteIndex: 0
   responses: []

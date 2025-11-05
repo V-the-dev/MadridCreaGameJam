@@ -16,7 +16,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 198aaf56ed4d0344f8004d78e883c6f3, type: 3}
   - {fileID: 21300000, guid: 6094f5e9382781749836d3297c790174, type: 3}
   charactersName:
-  - "NI\xD1A"
+  - LITTLE GIRL
   - SERENO
   charactersTitle:
   - 
@@ -25,16 +25,15 @@ MonoBehaviour:
   mainCharacterWhenResponses: 1
   mainCharacterIndex: 1
   conversationLine:
-  - dialogue: "(Entre los escombros de un edificio abandonado, una ni\xF1a trata
-      de arrancar una trozo de madera atrancada entre un par de bloques de piedra)."
+  - dialogue: (Among the rubble of an abandoned building, a little girl is trying
+      to pry a piece of wood stuck between a couple of stone blocks.)
     spriteIndex: 0
-  - dialogue: (Al verte, se limpia el sudor de la frente y avanza hacia ti dando
-      pisotones fuertes).
+  - dialogue: (Seeing you, she wipes the sweat from her brow and stomps toward you.)
     spriteIndex: 0
-  - dialogue: "Oye t\xFA, ay\xFAdame a mover este trozo de madera de aqu\xED."
+  - dialogue: Hey you, help me move this piece of wood out of here.
     spriteIndex: 0
   responses:
-  - responseText: "Ayudar a la ni\xF1a"
+  - responseText: Help her.
     dialogueObject: {fileID: 11400000, guid: 38005204faa7e704da5b013564e3bd94, type: 2}
-  - responseText: Volver
+  - responseText: Ignore her.
     dialogueObject: {fileID: 0}

@@ -687,17 +687,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PreludioTextScript
   textList:
-  - "Este juego transcurre a lo largo de una fr\xEDa noche madrile\xF1a."
-  - "Los personajes podr\xE1n comportarse de forma distinta seg\xFAn tus acciones
-    y el tiempo transcurrido."
-  - Ten esto en cuenta.
-  - Usa las teclas W,A,S,D para moverte, o el joystick izquierdo.
-  - "Puedes interactuar con los personajes pulsando \"e\" o el bot\xF3n de interacci\xF3n
-    izquierdo en tu mando."
-  - "Usa la tecla \"i\" o el bot\xF3n de interacci\xF3n superior para mostrar tu
-    inventario."
+  - This game takes place over a cold night in Madrid.
+  - Characters may behave differently depending on your actions and as the night
+    wears on.
+  - Keep that in mind.
+  - Use W, A, S, D or left joystick to move.
+  - Press "e" or left interaction button on your gamepad to interact with characters.
+  - Press "i" or upper interaction button to open your inventory.
   - LOOP CORE                                                                                                                                                        
-    presenta
+    presents
   fadeInTime: 1
   fadeOutTime: 2
   textTime: 3

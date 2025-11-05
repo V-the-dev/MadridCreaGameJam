@@ -16,7 +16,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 327863c6067e81541b866c15a157416f, type: 3}
   - {fileID: 21300000, guid: 6094f5e9382781749836d3297c790174, type: 3}
   charactersName:
-  - TESTIGO
+  - WITNESS
   - SERENO
   charactersTitle:
   - 
@@ -25,20 +25,20 @@ MonoBehaviour:
   mainCharacterWhenResponses: 0
   mainCharacterIndex: 0
   conversationLine:
-  - dialogue: "(La mujer est\xE1 alterada. Al verte, se emociona, por fin una cara
-      digna de confianza)."
+  - dialogue: (The woman is upset. When she sees you, she becomes emotional... finally,
+      a face she can trust.)
     spriteIndex: 0
-  - dialogue: "Oh, santo cielo. Por fin una cara conocida. Ver\xE1, Sereno, yo estaba
-      en la cocina de mi casa cuando todo ocurri\xF3."
+  - dialogue: Oh, heavens. At last, a familiar face. You see, Sereno, I was in my
+      kitchen when it all happened.
     spriteIndex: 0
-  - dialogue: "Desde ah\xED, no pod\xEDa ver pero escuch\xE9 a <color=#7b1f1f>Manuel</color>
-      discutir con otro hombre en el puente"
+  - dialogue: "From there, I couldn\u2019t see much, but I heard <color=#7b1f1f>Manuel</color>
+      arguing with another man on the bridge."
     spriteIndex: 0
-  - dialogue: "Luego se oy\xF3 el disparo y me escond\xED. Cuando me atrev\xED a
-      mirar, el otro hombre ya se hab\xEDa ido."
+  - dialogue: Then came the gunshot, and I hid. When I dared to look, the other man
+      had already gone.
     spriteIndex: 0
-  - dialogue: "Pilar, la <color=#7b1f1f>viuda</color>, debe estar destrozada. Sali\xF3
-      disparada hacia la casa de no s\xE9 qui\xE9n. Se fue en direcci\xF3n a la <color=#7b1f1f>calle
-      oscura</color>."
+  - dialogue: "Pilar, the <color=#7b1f1f>widow</color>, must be devastated. She rushed
+      off toward someone\u2019s house. She headed in the direction of the <color=#7b1f1f>dark
+      street</color>."
     spriteIndex: 0
   responses: []

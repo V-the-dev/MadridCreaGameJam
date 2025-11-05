@@ -22,7 +22,7 @@ MonoBehaviour:
   mainCharacterWhenResponses: 0
   mainCharacterIndex: 1
   conversationLine:
-  - dialogue: "(Escoges el <color=#1f5f8d>farol de aceite</color> <img=farol>. Con
-      \xE9l puedes iluminar las zonas m\xE1s oscuras)."
+  - dialogue: "(You take the <color=#1f5f8d>Oil lantern</color> <img=farol>. It\u2019ll
+      help you shed light on even the darkest corners.)"
     spriteIndex: 0
   responses: []

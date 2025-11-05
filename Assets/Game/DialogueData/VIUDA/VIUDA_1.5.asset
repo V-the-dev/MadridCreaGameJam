@@ -19,27 +19,28 @@ MonoBehaviour:
   - PILAR
   - SERENO
   charactersTitle:
-  - Viuda
+  - Widow
   - 
   charactersSide: 0000000001000000
   mainCharacterWhenResponses: 0
   mainCharacterIndex: 0
   conversationLine:
-  - dialogue: "\xA1Sereno! Usted conoc\xEDa a mi <color=#7b1f1f>Manuel</color>."
+  - dialogue: Sereno! You knew my <color=#7b1f1f>Manuel</color>.
     spriteIndex: 0
-  - dialogue: "Se ha enterado, \xBFverdad? <shake>\xA1Han asesinado a mi marido!</shake>"
+  - dialogue: "You\u2019ve heard, haven\u2019t you? <shake>They\u2019ve murdered
+      my husband!</shake>"
     spriteIndex: 0
-  - dialogue: "Ver\xE1. <color=#7b1f1f>Garrido</color> fue la \xFAltima persona que
-      le vi\xF3 con vida, o eso dicen."
+  - dialogue: You see, <color=#7b1f1f>Garrido</color> was the last person said to
+      have seen him alive.
     spriteIndex: 0
-  - dialogue: "Recuerda usted a <color=#7b1f1f>Garrido</color>, fue con usted y con
-      <color=#7b1f1f>Manuel</color> a la guerra. <color=#7b1f1f>Garrido</color> lleg\xF3
-      a casa alterado, y discutieron antes de irse juntos."
+  - dialogue: You remember <color=#7b1f1f>Garrido</color>. He went to the war with
+      you and <color=#7b1f1f>Manuel</color>. <color=#7b1f1f>Garrido</color> came
+      home upset, and they argued before leaving together.
     spriteIndex: 0
-  - dialogue: "Esta es la casa del hombre, llevo veinte minutos llamando a su puerta
-      pero no responde. Si no est\xE1n aqu\xED..."
+  - dialogue: "This is the man\u2019s house. I\u2019ve been knocking for twenty minutes,
+      but there\u2019s no answer. If they\u2019re not here\u2026"
     spriteIndex: 0
-  - dialogue: "Sereno, \xBFcree usted que puede encontrar a <color=#7b1f1f>Garrido</color>
-      por m\xED? Me temo lo peor."
+  - dialogue: Sereno, do you think you could find <color=#7b1f1f>Garrido</color>
+      for me? I fear the worst.
     spriteIndex: 0
   responses: []

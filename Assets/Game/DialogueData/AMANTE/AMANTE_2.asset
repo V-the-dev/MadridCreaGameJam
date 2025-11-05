@@ -16,7 +16,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 2469aded923fea24c88f5abfeae8e3e4, type: 3}
   - {fileID: 21300000, guid: 6094f5e9382781749836d3297c790174, type: 3}
   charactersName:
-  - AMANTE
+  - LOVER
   - SERENO
   charactersTitle:
   - 
@@ -25,8 +25,8 @@ MonoBehaviour:
   mainCharacterWhenResponses: 1
   mainCharacterIndex: 1
   conversationLine:
-  - dialogue: "\xA1Ay, doncella... bienaventurados los borrachos porque ellos te
-      ven dos veces!"
+  - dialogue: "Darling, do you believe in love at first sight\u2026 or shall I take
+      another stroll past your window?"
     spriteIndex: 0
   responses:
   - responseText: ...

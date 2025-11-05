@@ -22,7 +22,7 @@ MonoBehaviour:
   mainCharacterWhenResponses: 0
   mainCharacterIndex: 1
   conversationLine:
-  - dialogue: (Te quedas con la <color=#1f5f8d>chatarra</color><img=chatarra>. Todo
-      puede intercambiarse en tiempos de necesidad).
+  - dialogue: (You keep a <color=#1f5f8d>Metal scrap</color><img=chatarra>. Everything
+      can be traded in times of need.)
     spriteIndex: 0
   responses: []

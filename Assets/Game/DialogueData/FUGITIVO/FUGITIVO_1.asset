@@ -16,44 +16,46 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 05f05d3e2699dc64b8010fe0cb6c6e4c, type: 3}
   - {fileID: 21300000, guid: 6094f5e9382781749836d3297c790174, type: 3}
   charactersName:
-  - FUGITIVO
+  - FUGITIVE
   - SERENO
   charactersTitle:
-  - Desconocido
+  - unknown
   - 
   charactersSide: 0000000001000000
   mainCharacterWhenResponses: 1
   mainCharacterIndex: 1
   conversationLine:
-  - dialogue: (Escuchas movimiento tras la esquina).
+  - dialogue: (You hear movement around the corner.)
     spriteIndex: 1
-  - dialogue: (Al acercarte, ves a un hombre cargando maletas en un coche maltrecho.
-      Al verte, se detiene).
+  - dialogue: (As you draw closer, you see a man loading suitcases into a battered
+      car. He stops when he sees you.)
     spriteIndex: 0
-  - dialogue: Has venido. Tienes coraje, eso es evidente.
+  - dialogue: "\u201CYou came. You\u2019ve got guts... that\u2019s plain to see."
     spriteIndex: 0
-  - dialogue: "\xBFQu\xE9 pasa, te cuesta reconocer mi aspecto?"
+  - dialogue: "What\u2019s the matter, having trouble recognizing me?"
     spriteIndex: 0
-  - dialogue: "Quiz\xE1 tres a\xF1os en un campo de trabajo han borrado mi identidad.
-      Soy <color=#7b1f1f>Isidro</color>. Tu sargento."
+  - dialogue: "Maybe three years in a labor camp have wiped away my face. I\u2019m
+      <color=#7b1f1f>Isidro</color>. Your sergeant."
     spriteIndex: 0
-  - dialogue: "Recordar\xE1s que me dejaste atr\xE1s. Ni <color=#7b1f1f>Manuel</color>,
-      ni <color=#7b1f1f>Garrido</color> ni t\xFA volvisteis a por mi. Seguisteis
-      con vuestras vidas, sin m\xE1s."
+  - dialogue: "You\u2019ll recall you left me behind. Neither <color=#7b1f1f>Manuel</color>,
+      nor <color=#7b1f1f>Garrido</color>, nor you came back for me. You all move
+      on with your lives, and that was that."
     spriteIndex: 0
-  - dialogue: Aunque he de decir que de los tres, eres quien ha salido peor parado.
+  - dialogue: "I must say, though... of the three, you\u2019re the one who fared
+      worst."
     spriteIndex: 0
-  - dialogue: "\xBFSereno? \xBFEn serio? \xBFGuardas llaves por una m\xEDsera propina?"
+  - dialogue: Sereno? Really? You keep keys for a measly tip?
     spriteIndex: 0
-  - dialogue: "T\xFA fuiste el m\xE1s despiadado de nosotros. Jam\xE1s parpadeabas
-      al apretar el gatillo."
+  - dialogue: You were the most ruthless of us. You never flinched when you pulled
+      the trigger.
     spriteIndex: 0
-  - dialogue: Justo iba a por ti. Gracias por ahorrarme el caminito hasta tu pocilga.
+  - dialogue: I was just coming for you. Thanks for saving me the little walk to
+      your pigsty.
     spriteIndex: 0
   responses:
-  - responseText: Quedarse en silencio
+  - responseText: Remain silent.
     dialogueObject: {fileID: 11400000, guid: 5c0ec9b0d246aa045bd0c6e2eaf4c735, type: 2}
-  - responseText: Preguntar por <color=#7b1f1f>Garrido</color>
+  - responseText: Ask about <color=#7b1f1f>Garrido</color>.
     dialogueObject: {fileID: 11400000, guid: 5ef52ca4d74fd0b4fa09775fc22c5346, type: 2}
-  - responseText: "Preguntar si \xE9l mat\xF3 a <color=#7b1f1f>Manuel</color>"
+  - responseText: Ask if he killed <color=#7b1f1f>Manuel</color>.
     dialogueObject: {fileID: 11400000, guid: 858890c0c9899e642823f32fadc0ce5f, type: 2}

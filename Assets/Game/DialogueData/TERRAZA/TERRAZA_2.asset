@@ -17,29 +17,30 @@ MonoBehaviour:
   - {fileID: 21300000, guid: ef0b912fdf7908e4d85671ec7ec4087c, type: 3}
   - {fileID: 21300000, guid: 6094f5e9382781749836d3297c790174, type: 3}
   charactersName:
-  - JUGADOR 1
-  - JUGADOR 2
+  - PLAYER 1
+  - PLAYER 2
   - SERENO
   charactersTitle:
-  - El confiado
-  - "El gru\xF1\xF3n"
+  - The Confident
+  - The Grumpy
   - 
   charactersSide: 000000000000000001000000
   mainCharacterWhenResponses: 0
   mainCharacterIndex: 0
   conversationLine:
-  - dialogue: "\xBF<color=#7b1f1f>Manuel</color>? \xA1Claro! El hombre que estuvo
-      aqu\xED con <color=#7b1f1f>Garrido</color> hace un rato. Se tomaron algo, charlaron."
+  - dialogue: <color=#7b1f1f>Manuel</color>? Of course! The man who was here a little
+      while ago with <color=#7b1f1f>Garrido</color>. They had a drink, chatted a
+      bit.
     spriteIndex: 0
-  - dialogue: "Definitivamente no fue una buena conversaci\xF3n. Estaban acojonados."
+  - dialogue: "Definitely wasn\u2019t a pleasant conversation. They looked terrified."
     spriteIndex: 1
-  - dialogue: "Yo no dir\xEDa acojonados. Un poco preocupados si eso."
+  - dialogue: "I wouldn\u2019t say terrified. Maybe just a little worried, if anything."
     spriteIndex: 0
-  - dialogue: "Una mierda, ya te digo yo que algo gordo se tra\xEDan entre manos"
+  - dialogue: "Bullshit, I\u2019m telling you, they were up to something big."
     spriteIndex: 1
-  - dialogue: "Que s\xED, lo que t\xFA digas. En fin, luego fueron hacia el puente,
-      ten\xEDan prisa."
+  - dialogue: Sure, sure, whatever you say. Anyway, they headed toward the bridge
+      afterward... seemed in a hurry.
     spriteIndex: 0
-  - dialogue: "\xBFPodemos ayudarte con algo m\xE1s?"
+  - dialogue: Can we help you with anything else?
     spriteIndex: 0
   responses: []

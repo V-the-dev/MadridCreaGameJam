@@ -19,29 +19,30 @@ MonoBehaviour:
   - CARDO
   - SERENO
   charactersTitle:
-  - Traficante
+  - Dealer
   - 
   charactersSide: 0000000001000000
   mainCharacterWhenResponses: 1
   mainCharacterIndex: 1
   conversationLine:
-  - dialogue: (Con un aire vanidoso, el estraperlista te hace un gesto con la barbilla).
+  - dialogue: (With a vain air, Cardo, the smuggler, gives you a nod, lifting his
+      chin.)
     spriteIndex: 0
-  - dialogue: "\xBFQu\xE9 buscas? "
+  - dialogue: "What\u2019re you after, huh?"
     spriteIndex: 0
-  - dialogue: Te puedo ofrecer un <color=#1f5f8d>Chuzo</color><img=chuzo>por <color=#1f5f8d>150
-      pesetas</color> <img=pesetas>, un <color=#1f5f8d>reloj</color><img=reloj>por
-      <color=#1f5f8d>100 pesetas</color></color><img=pesetas> o un <color=#1f5f8d>pan</color><img=pan>por
-      <color=#1f5f8d>50 pesetas</color><img=pesetas>.
+  - dialogue: I can offer you a <color=#1f5f8d>Chuzo</color><img=chuzo>for <color=#1f5f8d>150
+      pesetas</color> <img=pesetas>, a <color=#1f5f8d>Watch</color><img=reloj>for
+      <color=#1f5f8d>100 pesetas</color></color><img=pesetas> or a <color=#1f5f8d>Piece
+      of bread</color><img=pan>for <color=#1f5f8d>50 pesetas</color><img=pesetas>.
     spriteIndex: 0
-  - dialogue: Se mira pero no se toca. O lo tomas o lo dejas, Sereno.
+  - dialogue: 'Look but don''t touch. Take it or leave it, Sereno. '
     spriteIndex: 0
   responses:
-  - responseText: ' <color=#1f5f8d>Chuzo</color> por <color=#1f5f8d>150 pesetas</color>'
+  - responseText: ' <color=#1f5f8d>Chuzo</color> for <color=#1f5f8d>150 pesetas</color>'
     dialogueObject: {fileID: 11400000, guid: f84d98c9949f84a4ba7bf7f479024e4a, type: 2}
-  - responseText: <color=#1f5f8d>Reloj</color> por <color=#1f5f8d>100 pesetas</color>
+  - responseText: <color=#1f5f8d>Watch</color> for <color=#1f5f8d>100 pesetas</color>
     dialogueObject: {fileID: 11400000, guid: c6a0f2a10b3e6b74fba792435752fe7a, type: 2}
-  - responseText: <color=#1f5f8d>Pan</color> por <color=#1f5f8d>50 pesetas</color>
+  - responseText: <color=#1f5f8d>Piece of bread</color> for <color=#1f5f8d>50 pesetas</color>
     dialogueObject: {fileID: 11400000, guid: 7ceb8aa1fa9ccfe42b5d2d0dcea1b7d6, type: 2}
-  - responseText: Volver
+  - responseText: Go back.
     dialogueObject: {fileID: 0}

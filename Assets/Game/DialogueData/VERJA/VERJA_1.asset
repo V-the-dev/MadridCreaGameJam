@@ -22,11 +22,11 @@ MonoBehaviour:
   mainCharacterWhenResponses: 0
   mainCharacterIndex: 0
   conversationLine:
-  - dialogue: "Esta verja est\xE1 <color=#7b1f1f>cerrada</color> con candado y cadenas,
-      amarradas de mala manera."
+  - dialogue: This gate is <color=#7b1f1f>locked</color> with a padlock and chains,
+      tied up carelessly.
     spriteIndex: 0
   responses:
-  - responseText: Volver
+  - responseText: Go back.
     dialogueObject: {fileID: 0}
-  - responseText: Usar las <color=#1f5f8d>Llaves</color>
+  - responseText: Use the <color=#1f5f8d>Bundle of keys</color>
     dialogueObject: {fileID: 11400000, guid: 45ba98594694259419257e4d41546ce1, type: 2}

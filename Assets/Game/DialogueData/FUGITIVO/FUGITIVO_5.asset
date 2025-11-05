@@ -19,24 +19,24 @@ MonoBehaviour:
   - ISIDRO
   - SERENO
   charactersTitle:
-  - Fugitivo
+  - Fugitive
   - 
   charactersSide: 0000000001000000
   mainCharacterWhenResponses: 1
   mainCharacterIndex: 1
   conversationLine:
-  - dialogue: "(Levantas el chuzo. Est\xE1s lo bastante cerca. <shake>Hundes la pica
-      en su <color=#7b1f1f>vientre</color></shake>)."
+  - dialogue: "(You raise the Chuzo. You\u2019re close enough. <shake>You drive the
+      spike into his <color=#7b1f1f>gut</color>.</shake>)"
     spriteIndex: 1
-  - dialogue: "(Isidro tiene la pistola alzada, apunt\xE1ndote, pero no aprieta el
-      gatillo)."
+  - dialogue: "(Isidro has the gun raised, aimed at you, but he doesn\u2019t pull
+      the trigger.)"
     spriteIndex: 0
-  - dialogue: (Cae de rodillas, y luego al suelo).
+  - dialogue: (He drops to his knees, then collapses to the ground.)
     spriteIndex: 0
-  - dialogue: "(Una vez m\xE1s, eligi\xF3 sacrificarse)."
+  - dialogue: (Once again, he chose to sacrifice himself.)
     spriteIndex: 0
-  - dialogue: (Elegiste el <color=#7b1f1f>castigo</color>).
+  - dialogue: (You chose <color=#7b1f1f>punishment</color>.)
     spriteIndex: 1
   responses:
-  - responseText: "La noche contin\xFAa..."
+  - responseText: The night continues...
     dialogueObject: {fileID: 0}

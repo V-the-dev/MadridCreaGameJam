@@ -22,10 +22,10 @@ MonoBehaviour:
   mainCharacterWhenResponses: 0
   mainCharacterIndex: 0
   conversationLine:
-  - dialogue: "Un pared\xF3n con marcas de bala, aqu\xED hubo un fusilamiento hace
-      poco. Las marcas de lo sucedido son indelebles.\_"
+  - dialogue: A wall scarred with bullet holes... a firing squad struck here not
+      long ago. The marks of that day remain, impossible to erase.
     spriteIndex: 0
-  - dialogue: "En el suelo encuentras un trozo de metal que a\xFAn puede venderse
-      como <color=#1f5f8d>chatarra</color><img=chatarra>."
+  - dialogue: On the ground, you find a piece of metal that can still be sold as
+      a <color=#1f5f8d>Metal scrap</color><img=chatarra>.
     spriteIndex: 0
   responses: []

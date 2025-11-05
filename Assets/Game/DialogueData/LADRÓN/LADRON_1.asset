@@ -16,20 +16,20 @@ MonoBehaviour:
   - {fileID: 21300000, guid: c7f227758eac4034698f17de7ad1ed10, type: 3}
   - {fileID: 21300000, guid: 6094f5e9382781749836d3297c790174, type: 3}
   charactersName:
-  - "LADR\xD3N"
+  - THIEF
   - SERENO
   charactersTitle:
-  - Maleante
+  - Scoundrel
   - 
   charactersSide: 0000000001000000
   mainCharacterWhenResponses: 1
   mainCharacterIndex: 1
   conversationLine:
-  - dialogue: "(Te acercas a la figura oscura. Es un vil ladr\xF3n. Ahora puedes
-      verle bien gracias a tu <color=#1f5f8d>farol</color> <img=farol>)."
+  - dialogue: "(You approach the dark figure. He\u2019s a vile thief. Now you can
+      see him clearly, thanks to your <color=#1f5f8d>oil lantern</color><img=farol>.)"
     spriteIndex: 0
   responses:
-  - responseText: Avanzar
+  - responseText: Step closer.
     dialogueObject: {fileID: 11400000, guid: 9f3ec0ec7b35d8e4a94eca7855d607d6, type: 2}
-  - responseText: "Enfrentar al ladr\xF3n"
+  - responseText: Confront the thief.
     dialogueObject: {fileID: 11400000, guid: cee5e1295b087e34ca308f3d12d33120, type: 2}

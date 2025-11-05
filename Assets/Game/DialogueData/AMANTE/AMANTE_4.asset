@@ -16,7 +16,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 2469aded923fea24c88f5abfeae8e3e4, type: 3}
   - {fileID: 21300000, guid: 6094f5e9382781749836d3297c790174, type: 3}
   charactersName:
-  - AMANTE
+  - LOVER
   - SERENO
   charactersTitle:
   - 
@@ -28,5 +28,5 @@ MonoBehaviour:
   - dialogue: ...
     spriteIndex: 0
   responses:
-  - responseText: "(Esto empieza a ser inc\xF3modo)"
+  - responseText: "Well\u2026 this is becoming rather uncomfortable."
     dialogueObject: {fileID: 0}

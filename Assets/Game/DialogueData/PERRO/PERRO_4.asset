@@ -16,21 +16,21 @@ MonoBehaviour:
   - {fileID: 21300000, guid: bda0fd681e524d449b347b223f73e665, type: 3}
   - {fileID: 21300000, guid: 6094f5e9382781749836d3297c790174, type: 3}
   charactersName:
-  - PERRO
+  - DOG
   - SERENO
   charactersTitle:
-  - Encadenado
+  - Chained
   - 
   charactersSide: 0000000001000000
   mainCharacterWhenResponses: 1
   mainCharacterIndex: 1
   conversationLine:
-  - dialogue: "(Te agachas y sacas <color=#1f5f8d>paleta de jam\xF3n</color><img=jamon>.
-      El perro cambia inmediatamente de actitud)."
+  - dialogue: (You crouch and pull out a <color=#1f5f8d>Ham shoulder</color><img=jamon>.
+      The dog immediately changes its attitude.)
     spriteIndex: 0
-  - dialogue: "(Sabes que muchos matar\xEDan por un trozo de carne, pero lo echas
-      al suelo y el perro se lanza a por \xE9l, olvid\xE1ndose por completo de ti)."
+  - dialogue: (You know many would kill for a piece of meat, but you drop it to the
+      ground, and the dog lunges for it, forgetting all about you.)
     spriteIndex: 0
-  - dialogue: (Al menos parece feliz, y sabes que se lo merece).
+  - dialogue: (At least it seems happy, and you know it deserves it.)
     spriteIndex: 0
   responses: []

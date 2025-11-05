@@ -19,28 +19,29 @@ MonoBehaviour:
   - ISIDRO
   - SERENO
   charactersTitle:
-  - Fugitivo
+  - Fugitive
   - 
   charactersSide: 0000000001000000
   mainCharacterWhenResponses: 1
   mainCharacterIndex: 1
   conversationLine:
-  - dialogue: (Isidro baja el brazo con la pistola).
+  - dialogue: (Isidro lowers the gun.)
     spriteIndex: 0
-  - dialogue: (Cierra los ojos, y luego los abre de nuevo. Se gira hacia su coche
-      y abre la puerta).
+  - dialogue: (He closes his eyes, then opens them again. He turns toward his car
+      and opens the door.)
     spriteIndex: 0
-  - dialogue: "No quiero volver... No puedo volver. Hasta nunca compa\xF1ero."
+  - dialogue: "I don\u2019t want to go back\u2026 I can\u2019t go back. Farewell,
+      partner."
     spriteIndex: 0
-  - dialogue: (Isidro cierra la puerta del coche).
+  - dialogue: (Isidro closes the car door.)
     spriteIndex: 0
-  - dialogue: "(El vidrio del coche refleja moment\xE1neamente una luz cegadora)."
+  - dialogue: "(The car\u2019s window briefly reflects a blinding light.)"
     spriteIndex: 0
-  - dialogue: (Al darte la vuelta, ves el sol emerger entre los edificios. Por fin
-      <color=#7b1f1f>amanece</color>).
+  - dialogue: "(As you turn around, you see the sun rising between the buildings.
+      At last, it\u2019s <color=#7b1f1f>dawn</color>.)"
     spriteIndex: 1
-  - dialogue: (Elegiste <color=#7b1f1f>perdonar</color>).
+  - dialogue: (You chose <color=#1f5f8d>forgiveness</color>.)
     spriteIndex: 0
   responses:
-  - responseText: El bucle se ha roto
+  - responseText: The loop has been broken.
     dialogueObject: {fileID: 0}

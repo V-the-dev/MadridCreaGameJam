@@ -16,7 +16,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 57b9bfcf1c01ead4ba3e01fed173ce1a, type: 3}
   - {fileID: 21300000, guid: 6094f5e9382781749836d3297c790174, type: 3}
   charactersName:
-  - MENDIGO
+  - BEGGAR
   - SERENO
   charactersTitle:
   - 
@@ -25,14 +25,13 @@ MonoBehaviour:
   mainCharacterWhenResponses: 1
   mainCharacterIndex: 1
   conversationLine:
-  - dialogue: "(Un mendigo fam\xE9lico est\xE1 tumbado bajo el puente. Su estado
-      es deplorable)."
+  - dialogue: (A famished beggar lies under the bridge. His condition is deplorable.)
     spriteIndex: 0
-  - dialogue: "Sereno... \xBFNo tendr\xEDa usted un <color=#1f5f8d>cacho de pan</color>
-      <img=pan> que darme?"
+  - dialogue: "Sereno\u2026 wouldn\u2019t you happen to have a <color=#1f5f8d>Piece
+      of bread</color><img=pan> to spare?"
     spriteIndex: 0
   responses:
-  - responseText: Ofrecer <color=#1f5f8d>pan</color>
+  - responseText: Offer <color=#1f5f8d>Piece of bread</color>.
     dialogueObject: {fileID: 11400000, guid: e0ec3383abdb6494eabb8c528f93b1b3, type: 2}
-  - responseText: Volver
+  - responseText: Go back.
     dialogueObject: {fileID: 0}

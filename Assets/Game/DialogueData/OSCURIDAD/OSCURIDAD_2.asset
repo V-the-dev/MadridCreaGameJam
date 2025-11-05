@@ -22,9 +22,9 @@ MonoBehaviour:
   mainCharacterWhenResponses: 0
   mainCharacterIndex: 0
   conversationLine:
-  - dialogue: <shake><color=#7b1f1f>Recibes un golpe seco en la cabeza... caes al
-      suelo inconsciente.</color></shake>
+  - dialogue: "<shake><color=#7b1f1f>A sharp blow strikes you on the head\u2026 you
+      collapse, unconscious.</color></shake>"
     spriteIndex: 0
   responses:
-  - responseText: "La noche contin\xFAa..."
+  - responseText: The night continues...
     dialogueObject: {fileID: 0}

@@ -19,18 +19,18 @@ MonoBehaviour:
   - CARDO
   - SERENO
   charactersTitle:
-  - Traficante
+  - Dealer
   - 
   charactersSide: 0000000001000000
   mainCharacterWhenResponses: 0
   mainCharacterIndex: 1
   conversationLine:
-  - dialogue: "\xBFYa est\xE1 aqu\xED otra vez?"
+  - dialogue: Here again, are you?
     spriteIndex: 0
-  - dialogue: "Me he quedado sin existencias, buen se\xF1or."
+  - dialogue: "I\u2019m out of stock, good sir."
     spriteIndex: 0
-  - dialogue: "Vuelva ma\xF1ana, si eso."
+  - dialogue: Come back tomorrow, if you like.
     spriteIndex: 0
-  - dialogue: Ha sido un placer hacer negocios con usted.
+  - dialogue: "It\u2019s been a pleasure doing business with you."
     spriteIndex: 0
   responses: []

@@ -19,20 +19,20 @@ MonoBehaviour:
   - ISIDRO
   - SERENO
   charactersTitle:
-  - Fugitivo
+  - Fugitive
   - 
   charactersSide: 0000000001000000
   mainCharacterWhenResponses: 1
   mainCharacterIndex: 1
   conversationLine:
-  - dialogue: "Debi\xF3 verme venir. Sab\xEDa que ven\xEDa. Estaba armado."
+  - dialogue: "He must\u2019ve seen me coming. He knew I was coming. He was armed."
     spriteIndex: 0
-  - dialogue: "No quer\xEDa matarlo, pero lo hice en defensa propia."
+  - dialogue: "I didn\u2019t want to kill him, but I did... in self-defence."
     spriteIndex: 0
-  - dialogue: "Dios... Me promet\xED que no har\xEDa esto. No puedo sentir pena por
-      \xE9l, despu\xE9s de todo..."
+  - dialogue: "God\u2026 I promised myself I wouldn\u2019t do this. I can\u2019t
+      bring myself to feel sorry for him, after all\u2026"
     spriteIndex: 0
-  - dialogue: "<shake>\xBFPor qu\xE9 me duele tanto? \xA1Me dejasteis para morir!</shake>"
+  - dialogue: <shake>Why does it hurt so much? You left me to die!</shake>
     spriteIndex: 0
   responses:
   - responseText: ...

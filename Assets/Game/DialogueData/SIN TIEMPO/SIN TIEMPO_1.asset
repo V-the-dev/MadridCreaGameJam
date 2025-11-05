@@ -16,31 +16,33 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 05f05d3e2699dc64b8010fe0cb6c6e4c, type: 3}
   - {fileID: 21300000, guid: 6094f5e9382781749836d3297c790174, type: 3}
   charactersName:
-  - FUGITIVO
+  - FUGITIVE
   - SERENO
   charactersTitle:
-  - Desconocido
+  - Unknown
   - 
   charactersSide: 0000000001000000
   mainCharacterWhenResponses: 1
   mainCharacterIndex: 1
   conversationLine:
-  - dialogue: (Caminas con diligencia cuando escuchas una campanada que anuncia la
-      llegada inminente del amanecer).
+  - dialogue: (You walk with purpose when a bell tolls, announcing the imminent arrival
+      of dawn.)
     spriteIndex: 1
-  - dialogue: (Te detienes).
+  - dialogue: '(You stop.)
+
+'
     spriteIndex: 1
-  - dialogue: (A unos pasos delante de ti, en la oscuridad, ves una figura envuelta
-      en ropajes oscuros).
+  - dialogue: (A few steps ahead in the darkness, you make out a figure shrouded
+      in dark robes.)
     spriteIndex: 0
-  - dialogue: "(Su mirada est\xE1 clavada en ti)."
+  - dialogue: (Their gaze is fixed on you.)
     spriteIndex: 0
-  - dialogue: (Y en su mano derecha, una pistola).
+  - dialogue: (And in their right hand, a gun.)
     spriteIndex: 0
   responses:
-  - responseText: "Mantener la posici\xF3n"
+  - responseText: Hold your ground.
     dialogueObject: {fileID: 11400000, guid: d1f8b961642166944bc0ca0b80ddb974, type: 2}
-  - responseText: Huir
+  - responseText: Flee.
     dialogueObject: {fileID: 11400000, guid: cfe4c187aa3386845afd86e5db0eea9e, type: 2}
-  - responseText: Atacar
+  - responseText: Attack.
     dialogueObject: {fileID: 11400000, guid: cfe4c187aa3386845afd86e5db0eea9e, type: 2}

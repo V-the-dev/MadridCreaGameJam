@@ -17,21 +17,21 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5cca7556c0a8d7245a69a6828bdec4ad, type: 3}
   - {fileID: 21300000, guid: 6094f5e9382781749836d3297c790174, type: 3}
   charactersName:
-  - CAMARERA
-  - COCINERO
+  - WAITRESS
+  - CHEF
   - SERENO
   charactersTitle:
-  - del Bar
-  - del Bar
+  - at the Bar
+  - at the Bar
   - 
   charactersSide: 000000000000000001000000
   mainCharacterWhenResponses: 0
   mainCharacterIndex: 1
   conversationLine:
-  - dialogue: "\xA1Vaya! Tenga, qu\xE9dese este pan. No es mucho, pero estamos muy
-      agradecidos por lo que ha hecho por este barrio."
+  - dialogue: "Well now! Take this bread, Sereno. Ain\u2019t much, but we\u2019re
+      thankful for what you\u2019ve done \u2018round here."
     spriteIndex: 0
-  - dialogue: (Te entrega un <color=#1f5f8d>trozo de pan</color><img=pan>. Nunca
-      viene mal tener la tripa llena).
+  - dialogue: "(He hands you a <color=#1f5f8d>piece of bread</color><img=pan>. Can\u2019t
+      hurt to keep your belly full.)"
     spriteIndex: 0
   responses: []

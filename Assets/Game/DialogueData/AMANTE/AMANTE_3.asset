@@ -16,7 +16,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 2469aded923fea24c88f5abfeae8e3e4, type: 3}
   - {fileID: 21300000, guid: 6094f5e9382781749836d3297c790174, type: 3}
   charactersName:
-  - AMANTE
+  - LOVER
   - SERENO
   charactersTitle:
   - 
@@ -25,7 +25,8 @@ MonoBehaviour:
   mainCharacterWhenResponses: 1
   mainCharacterIndex: 1
   conversationLine:
-  - dialogue: "\xA1Ay, doncella, si amarte fuera trabajo, no existir\xEDa el desempleo!"
+  - dialogue: "My fair lady, If you gave me a penny for my thoughts, you\u2019d only
+      owe me one... \u2018cause all I ever think of is you."
     spriteIndex: 0
   responses:
   - responseText: ...

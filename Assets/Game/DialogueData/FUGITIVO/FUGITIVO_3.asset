@@ -19,25 +19,25 @@ MonoBehaviour:
   - ISIDRO
   - SERENO
   charactersTitle:
-  - Fugitivo
+  - Fugitive
   - 
   charactersSide: 0000000001000000
   mainCharacterWhenResponses: 1
   mainCharacterIndex: 1
   conversationLine:
-  - dialogue: "De los tres, siempre fuiste mi favorito. Pensaba que t\xFA y yo ten\xEDamos
-      algo especial. Me salvaste la vida en varias ocasiones."
+  - dialogue: Of the three, you were always my favorite. I thought you and I had
+      something special. You saved my life more than once.
     spriteIndex: 0
-  - dialogue: "\xBFPor qu\xE9 no volviste a por m\xED?"
+  - dialogue: "Why didn\u2019t you come back for me?"
     spriteIndex: 0
-  - dialogue: "Garrido rompi\xF3 a llorar en cu\xE1nto me reconoci\xF3. Tiene m\xE9rito.
-      Yo mismo tengo mis dudas al mirarme al espejo."
+  - dialogue: "Garrido broke down crying the moment he recognized me. I\u2019ll give
+      him that. Even I can barely stand to look at myself in the mirror."
     spriteIndex: 0
-  - dialogue: "Est\xE1 abajo, en el s\xF3tano. Su destino depende mucho de lo que
-      hagas a continuaci\xF3n."
+  - dialogue: "He\u2019s downstairs, in the basement. What happens to him now depends
+      a great deal on what you do next."
     spriteIndex: 0
-  - dialogue: "No sientas l\xE1stima por \xE9l. Me ha dicho d\xF3nde vives. No he
-      tenido que pregunt\xE1rselo dos veces."
+  - dialogue: "Don\u2019t pity him. He told me where you live... didn\u2019t take
+      much asking."
     spriteIndex: 0
   responses:
   - responseText: ...

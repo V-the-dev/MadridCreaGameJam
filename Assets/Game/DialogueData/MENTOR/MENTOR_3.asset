@@ -25,14 +25,15 @@ MonoBehaviour:
   mainCharacterWhenResponses: 1
   mainCharacterIndex: 1
   conversationLine:
-  - dialogue: (Benavide abre una bolsa maltrecha con varios objetos en mal estado).
+  - dialogue: Benavide opens a shabby old bag, revealing a handful of things that
+      have clearly seen better days.
     spriteIndex: 0
   responses:
   - responseText: <color=#1f5f8d>50 pesetas</color>
     dialogueObject: {fileID: 11400000, guid: f63992c0395af0245aee5340d98c7c22, type: 2}
-  - responseText: <color=#1f5f8d>Pedazo de chatarra</color>
+  - responseText: <color=#1f5f8d>Metal scrap</color>
     dialogueObject: {fileID: 11400000, guid: 5a22267dcc159c3499400f21481025a0, type: 2}
-  - responseText: <color=#1f5f8d>Farol de aceite</color>
+  - responseText: <color=#1f5f8d>Oil lantern</color>
     dialogueObject: {fileID: 11400000, guid: ac458fc3536174243ae43478c3607ad2, type: 2}
-  - responseText: <color=#1f5f8d>Manojo de llaves</color>
+  - responseText: <color=#1f5f8d>Bundle of keys</color>
     dialogueObject: {fileID: 11400000, guid: 114a6aec13f6cc64fa3dfa8a1520c204, type: 2}

@@ -16,7 +16,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 57b9bfcf1c01ead4ba3e01fed173ce1a, type: 3}
   - {fileID: 21300000, guid: 6094f5e9382781749836d3297c790174, type: 3}
   charactersName:
-  - MENDIGO
+  - BEGGAR
   - SERENO
   charactersTitle:
   - 
@@ -25,31 +25,31 @@ MonoBehaviour:
   mainCharacterWhenResponses: 1
   mainCharacterIndex: 1
   conversationLine:
-  - dialogue: (Los ojos del mendigo se iluminan. Al comer el <color=#1f5f8d>trozo
-      de pan</color><img=pan>, parece recobrar la vida).
+  - dialogue: "(The beggar\u2019s eyes light up. As he eats the <color=#1f5f8d>Piece
+      of bread</color><img=pan>, he seems to regain some life.)"
     spriteIndex: 0
-  - dialogue: (Entonces, parece ponerse nervioso y se agarra a tu abrigo).
+  - dialogue: (Then he seems nervous and clings to your coat.)
     spriteIndex: 0
-  - dialogue: "Yo los vi, \xA1estaba ah\xED cuando ocurri\xF3! Al principio hab\xEDa
-      dos, pero un <color=#7b1f1f>tercer hombre</color> les segu\xEDa de cerca. "
+  - dialogue: I saw them! I was there when it happened! At first there were two,
+      but a <color=#7b1f1f>third man</color> was following closely.
     spriteIndex: 0
-  - dialogue: "El tercer hombre les arrincon\xF3 en el puente. Discutieron. Uno de
-      ellos intent\xF3 atacar al tercero, ah\xED se escuch\xF3 el <color=#7b1f1f>disparo</color>.
-      En ese momento hu\xED..."
+  - dialogue: "The third man cornered them on the bridge. They argued. One of them
+      tried to attack the third, then the <color=#7b1f1f>gunshot</color> rang out.
+      That\u2019s when I ran\u2026"
     spriteIndex: 0
-  - dialogue: (Se deja caer contra la pared, aliviado.)
+  - dialogue: (He collapses against the wall, relieved.)
     spriteIndex: 0
-  - dialogue: "Usted y yo... \xBFHemos tenido esta conversaci\xF3n antes?"
+  - dialogue: "You and I\u2026 have we had this conversation before?"
     spriteIndex: 0
-  - dialogue: "\xBFEn otra vida, quiz\xE1?"
+  - dialogue: In another life, perhaps?
     spriteIndex: 0
-  - dialogue: Todos tenemos algo que nos atrapa, que nos impide avanzar.
+  - dialogue: We all have something that traps us, that keeps us from moving forward.
     spriteIndex: 0
-  - dialogue: "Al final todo vuelve para ajustar cuentas, tarde o temprano. D\xEDgame,
-      \xBFse arrepiente de algo?"
+  - dialogue: In the end, everything comes back to settle scores, sooner or later.
+      Tell me, do you regret anything?
     spriteIndex: 0
-  - dialogue: "\xBFQue hubiese hecho diferente si pudiese volver atr\xE1s?"
+  - dialogue: Anything you would have done differently if you could go back?
     spriteIndex: 0
-  - dialogue: (El mendigo aparta la mirada, como si hubiese visto un fantasma).
+  - dialogue: "(The beggar looks away, as if he\u2019s seen a ghost.)"
     spriteIndex: 0
   responses: []

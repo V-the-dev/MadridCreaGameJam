@@ -16,16 +16,16 @@ MonoBehaviour:
   - {fileID: 21300000, guid: bda0fd681e524d449b347b223f73e665, type: 3}
   - {fileID: 21300000, guid: 6094f5e9382781749836d3297c790174, type: 3}
   charactersName:
-  - PERRO
+  - DOG
   - SERENO
   charactersTitle:
-  - Encadenado
+  - Chained
   - 
   charactersSide: 0000000001000000
   mainCharacterWhenResponses: 1
   mainCharacterIndex: 1
   conversationLine:
-  - dialogue: (<shake>Avanzas y el perro se lanza a tu cuello.</shake> Tu instinto
-      es levantar el chuzo y el pobre animal se ensarta en la pica).
+  - dialogue: (<shake>You move forward and the dog lunges at your neck.</shake> Your
+      instinct is to raise the Chuzo, and the poor animal impales itself on the spike.)
     spriteIndex: 0
   responses: []

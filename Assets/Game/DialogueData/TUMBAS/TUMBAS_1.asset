@@ -22,10 +22,10 @@ MonoBehaviour:
   mainCharacterWhenResponses: 0
   mainCharacterIndex: 0
   conversationLine:
-  - dialogue: "La mayor\xEDa jam\xE1s tuvieron un entierro digno."
+  - dialogue: Most of them never had a proper burial.
     spriteIndex: 0
-  - dialogue: "Ahora estas tumbas son compartidas, al menos metaf\xF3ricamente."
+  - dialogue: Now these graves are shared, at least metaphorically.
     spriteIndex: 0
-  - dialogue: "Representan una p\xE9rdida irremediable para la comunidad."
+  - dialogue: A silent reminder of a loss the community will never recover.
     spriteIndex: 0
   responses: []

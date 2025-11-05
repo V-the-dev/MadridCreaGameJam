@@ -16,15 +16,15 @@ MonoBehaviour:
   - {fileID: 21300000, guid: c6fe0b41957f01d4fb46f821ee620e8e, type: 3}
   - {fileID: 21300000, guid: 6094f5e9382781749836d3297c790174, type: 3}
   charactersName:
-  - AGENTE
+  - OFFICER
   - SERENO
   charactersTitle:
-  - de la Ley
+  - Law Enforcement
   - 
   charactersSide: 0000000001000000
   mainCharacterWhenResponses: 0
   mainCharacterIndex: 0
   conversationLine:
-  - dialogue: "Ret\xEDrese, Sereno. Esta investigaci\xF3n est\xE1 manos de profesionales. "
+  - dialogue: Stand back, Sereno. Professionals are handling this matter.
     spriteIndex: 0
   responses: []

@@ -22,13 +22,13 @@ MonoBehaviour:
   mainCharacterWhenResponses: 0
   mainCharacterIndex: 0
   conversationLine:
-  - dialogue: Tapado con una tela, solo puedes ver los zapatos de cuero que pertenecieron
-      a un hombre corpulento de mediana edad.
+  - dialogue: Shrouded under a cloth, only a pair of worn leather shoes remain in
+      sight. They belonged to a stout, middle-aged man.
     spriteIndex: 0
-  - dialogue: "El cuerpo est\xE1 boca arriba, y la manta est\xE1 manchada de sangre
-      a la altura del pecho."
+  - dialogue: The body lies on its back, the blanket darkened with blood where the
+      chest should be.
     spriteIndex: 0
-  - dialogue: "Es evidente que dispararon de frente, de manera que la v\xEDctima
-      pudo ver directamente a su asesino."
+  - dialogue: "It\u2019s clear he was shot from the front. The victim must have looked
+      his killer right in the eye."
     spriteIndex: 0
   responses: []

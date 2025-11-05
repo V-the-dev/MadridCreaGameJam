@@ -16,7 +16,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 2469aded923fea24c88f5abfeae8e3e4, type: 3}
   - {fileID: 21300000, guid: 6094f5e9382781749836d3297c790174, type: 3}
   charactersName:
-  - AMANTE
+  - LOVER
   - SERENO
   charactersTitle:
   - 
@@ -25,11 +25,12 @@ MonoBehaviour:
   mainCharacterWhenResponses: 0
   mainCharacterIndex: 1
   conversationLine:
-  - dialogue: (A falta de respuesta, el amante cae rendido. Te mira).
+  - dialogue: (Met with silence, the lover surrenders and looks your way.)
     spriteIndex: 0
-  - dialogue: Mi doncella no me ama. Toma esto. Supongo que ya no lo necesito.
+  - dialogue: "My lady does not love me. Take this... I suppose I\u2019ve no need
+      for it anymore."
     spriteIndex: 0
-  - dialogue: "(Te entrega una <color=#1f5f8d>paleta de jam\xF3n</color><img=jamon>,
-      un bien muy preciado en estos tiempos)."
+  - dialogue: (He hands you a <color=#1f5f8d>Ham shoulder</color><img=jamon>, a most
+      prized possession in these times.)
     spriteIndex: 0
   responses: []

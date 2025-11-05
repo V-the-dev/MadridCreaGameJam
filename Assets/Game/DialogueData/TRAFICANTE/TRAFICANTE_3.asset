@@ -22,7 +22,7 @@ MonoBehaviour:
   mainCharacterWhenResponses: 0
   mainCharacterIndex: 1
   conversationLine:
-  - dialogue: "Compras el <color=#1f5f8d>reloj viejo</color><img=reloj>. Con \xE9l
-      en la mano, sientes que la noche ser\xE1 m\xE1s larga."
+  - dialogue: You buy a <color=#1f5f8d>Watch</color><img=reloj>. Holding it, you
+      feel the night will feel longer.
     spriteIndex: 0
   responses: []
