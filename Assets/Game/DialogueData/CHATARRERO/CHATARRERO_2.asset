@@ -22,7 +22,7 @@ MonoBehaviour:
   mainCharacterWhenResponses: 0
   mainCharacterIndex: 0
   conversationLine:
-  - dialogue: You sell the <color=#1f5f8d>metal scrap</color><img=chatarra> for <color=#1f5f8d>50
+  - dialogue: You sell the <color=#1f5f8d>Metal scrap</color><img=chatarra> for <color=#1f5f8d>50
       pesetas</color><img=pesetas>.
     spriteIndex: 0
   responses: []

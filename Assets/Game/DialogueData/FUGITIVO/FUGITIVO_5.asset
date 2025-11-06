@@ -28,8 +28,8 @@ MonoBehaviour:
   - dialogue: "(You raise the Chuzo. You\u2019re close enough. <shake>You drive the
       spike into his <color=#7b1f1f>gut</color>.</shake>)"
     spriteIndex: 1
-  - dialogue: "(Isidro has the gun raised, aimed at you, but he doesn\u2019t pull
-      the trigger.)"
+  - dialogue: "(<color=#7b1f1f>Isidro</color> has the gun raised, aimed at you, but
+      he doesn\u2019t pull the trigger.)"
     spriteIndex: 0
   - dialogue: (He drops to his knees, then collapses to the ground.)
     spriteIndex: 0

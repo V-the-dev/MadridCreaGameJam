@@ -33,5 +33,5 @@ MonoBehaviour:
     dialogueObject: {fileID: 11400000, guid: 3dd3b1282d064d14496d5d73bd2b2bcf, type: 2}
   - responseText: Attack with the Chuzo.
     dialogueObject: {fileID: 11400000, guid: 999f9e94243c8054a8a412c6d382f2ac, type: 2}
-  - responseText: Give it the <color=#1f5f8d>Ham shoulder</color>
+  - responseText: Give it the <color=#1f5f8d>Ham shoulder.</color>
     dialogueObject: {fileID: 11400000, guid: 8983d85823e664b4da4b12334f09fde7, type: 2}

@@ -34,11 +34,11 @@ MonoBehaviour:
       on you? Care to join the game?\u201D"
     spriteIndex: 0
   responses:
-  - responseText: Ask about <color=#7b1f1f>Manuel</color>.
+  - responseText: Ask about <color=#7b1f1f>Manuel.</color>
     dialogueObject: {fileID: 11400000, guid: b9ed284345374ed499c01a7339e10565, type: 2}
-  - responseText: Ask about <color=#7b1f1f>Garrido</color>.
+  - responseText: Ask about <color=#7b1f1f>Garrido.</color>
     dialogueObject: {fileID: 11400000, guid: 269c27022c4e3d94c98ba276180ad9af, type: 2}
-  - responseText: Bet <color=#1f5f8d>50 pesetas</color>.
+  - responseText: Bet <color=#1f5f8d>50 pesetas.</color>
     dialogueObject: {fileID: 11400000, guid: 60754857ba5b54f4bb61ef6250580c5e, type: 2}
   - responseText: Go back.
     dialogueObject: {fileID: 11400000, guid: af8c13e16b1323448a0ccdbef1193dda, type: 2}

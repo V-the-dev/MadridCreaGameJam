@@ -29,7 +29,7 @@ MonoBehaviour:
       if you bring me some good-quality <color=#1f5f8d>Metal scrap</color><img=chatarra>.
     spriteIndex: 0
   responses:
-  - responseText: Sell <color=#1f5f8d>Metal scrap</color>.
+  - responseText: Sell <color=#1f5f8d>Metal scrap.</color>
     dialogueObject: {fileID: 11400000, guid: a067fb58cc6fccb478e9e7834fe5d986, type: 2}
   - responseText: Go back.
     dialogueObject: {fileID: 0}

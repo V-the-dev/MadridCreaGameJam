@@ -31,7 +31,7 @@ MonoBehaviour:
       of bread</color><img=pan> to spare?"
     spriteIndex: 0
   responses:
-  - responseText: Offer <color=#1f5f8d>Piece of bread</color>.
+  - responseText: Offer <color=#1f5f8d>Piece of bread.</color>
     dialogueObject: {fileID: 11400000, guid: e0ec3383abdb6494eabb8c528f93b1b3, type: 2}
   - responseText: Go back.
     dialogueObject: {fileID: 0}

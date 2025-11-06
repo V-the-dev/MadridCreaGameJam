@@ -28,5 +28,5 @@ MonoBehaviour:
   responses:
   - responseText: Go back.
     dialogueObject: {fileID: 0}
-  - responseText: Use the <color=#1f5f8d>Bundle of keys</color>
+  - responseText: Use the <color=#1f5f8d>Bundle of keys.</color>
     dialogueObject: {fileID: 11400000, guid: 45ba98594694259419257e4d41546ce1, type: 2}

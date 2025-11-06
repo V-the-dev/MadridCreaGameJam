@@ -22,11 +22,11 @@ MonoBehaviour:
   mainCharacterWhenResponses: 0
   mainCharacterIndex: 0
   conversationLine:
-  - dialogue: You step into the darkness, struggling to find your bearings.
+  - dialogue: (You step into the darkness, struggling to find your bearings.)
     spriteIndex: 0
-  - dialogue: You hear footsteps... someone is approaching.
+  - dialogue: (You hear footsteps... someone is approaching.)
     spriteIndex: 0
-  - dialogue: "You can\u2019t see them."
+  - dialogue: "(You can\u2019t see them.)"
     spriteIndex: 0
   responses:
   - responseText: ...

@@ -55,7 +55,7 @@ MonoBehaviour:
   responses:
   - responseText: Remain silent.
     dialogueObject: {fileID: 11400000, guid: 5c0ec9b0d246aa045bd0c6e2eaf4c735, type: 2}
-  - responseText: Ask about <color=#7b1f1f>Garrido</color>.
+  - responseText: Ask about <color=#7b1f1f>Garrido.</color>
     dialogueObject: {fileID: 11400000, guid: 5ef52ca4d74fd0b4fa09775fc22c5346, type: 2}
-  - responseText: Ask if he killed <color=#7b1f1f>Manuel</color>.
+  - responseText: Ask if he killed <color=#7b1f1f>Manuel.</color>
     dialogueObject: {fileID: 11400000, guid: 858890c0c9899e642823f32fadc0ce5f, type: 2}

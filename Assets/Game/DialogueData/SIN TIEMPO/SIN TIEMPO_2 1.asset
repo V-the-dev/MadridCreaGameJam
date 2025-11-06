@@ -25,12 +25,12 @@ MonoBehaviour:
   mainCharacterWhenResponses: 1
   mainCharacterIndex: 1
   conversationLine:
-  - dialogue: <shake>You hear a <color=#7b1f1f>gunshot</color>.</shake>
+  - dialogue: (<shake>You hear a <color=#7b1f1f>gunshot</color>.</shake>)
     spriteIndex: 0
-  - dialogue: Your stomach grows warm. <shake>You drop to your knees.</shake>
+  - dialogue: (Your stomach grows warm. <shake>You drop to your knees.</shake>)
     spriteIndex: 1
-  - dialogue: You can barely stay upright... consciousness slips through your fingers,
-      liquid and fragile.
+  - dialogue: (You can barely stay upright... consciousness slips through your fingers,
+      liquid and fragile.)
     spriteIndex: 1
   - dialogue: "I\u2019m sorry. This time, I chose my life."
     spriteIndex: 0

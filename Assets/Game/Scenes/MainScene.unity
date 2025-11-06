@@ -42912,6 +42912,22 @@ PrefabInstance:
       propertyPath: m_text
       value: Pause
       objectReference: {fileID: 0}
+    - target: {fileID: 5345826016341874574, guid: 0b3be3e6c12cdd546a29bed934201371, type: 3}
+      propertyPath: m_fontColor.b
+      value: 0.16078432
+      objectReference: {fileID: 0}
+    - target: {fileID: 5345826016341874574, guid: 0b3be3e6c12cdd546a29bed934201371, type: 3}
+      propertyPath: m_fontColor.g
+      value: 0.16078432
+      objectReference: {fileID: 0}
+    - target: {fileID: 5345826016341874574, guid: 0b3be3e6c12cdd546a29bed934201371, type: 3}
+      propertyPath: m_fontColor.r
+      value: 0.26666668
+      objectReference: {fileID: 0}
+    - target: {fileID: 5345826016341874574, guid: 0b3be3e6c12cdd546a29bed934201371, type: 3}
+      propertyPath: m_fontColor32.rgba
+      value: 4280887620
+      objectReference: {fileID: 0}
     - target: {fileID: 5483125225994304504, guid: 0b3be3e6c12cdd546a29bed934201371, type: 3}
       propertyPath: m_text
       value: Close

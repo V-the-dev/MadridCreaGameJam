@@ -27,7 +27,7 @@ MonoBehaviour:
   conversationLine:
   - dialogue: "(The man dares to approach. You notice he\u2019s nervous.)"
     spriteIndex: 0
-  - dialogue: "Sereno. Don\u2019t you remember me?\u201D"
+  - dialogue: "Sereno. Don\u2019t you remember me?"
     spriteIndex: 0
   - dialogue: Of course not. How could you?
     spriteIndex: 0

@@ -25,9 +25,10 @@ MonoBehaviour:
   mainCharacterWhenResponses: 1
   mainCharacterIndex: 1
   conversationLine:
-  - dialogue: When you try to make your way toward the mansion, the dog reaches you.
+  - dialogue: (When you try to make your way toward the mansion, the dog reaches
+      you.)
     spriteIndex: 0
-  - dialogue: <shake><color=#7b1f1f>It sinks its teeth into you mercilessly.</color></shake>
+  - dialogue: (<shake><color=#7b1f1f>It sinks its teeth into you mercilessly.</color></shake>)
     spriteIndex: 0
   responses:
   - responseText: The night continues...

@@ -28,7 +28,7 @@ MonoBehaviour:
   - dialogue: "Tell me, how\u2019s the night treating you?"
     spriteIndex: 0
   responses:
-  - responseText: Give <color=#1f5f8d>Bottle of liquor</color>.
+  - responseText: Give <color=#1f5f8d>Bottle of liquor.</color>
     dialogueObject: {fileID: 11400000, guid: a594bb65e9a2b21498443e596bcb9933, type: 2}
   - responseText: Go back.
     dialogueObject: {fileID: 11400000, guid: 4abd8ecda7f92034e960b0880af1332a, type: 2}
