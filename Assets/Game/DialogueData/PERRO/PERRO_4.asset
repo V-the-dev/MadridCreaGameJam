@@ -26,11 +26,11 @@ MonoBehaviour:
   mainCharacterIndex: 1
   conversationLine:
   - dialogue: "(Te agachas y sacas <color=#1f5f8d>paleta de jam\xF3n</color><img=jamon>.
-      El perro cambia inmediatamente de actitud)."
+      El perro cambia inmediatamente de actitud.)"
     spriteIndex: 0
   - dialogue: "(Sabes que muchos matar\xEDan por un trozo de carne, pero lo echas
-      al suelo y el perro se lanza a por \xE9l, olvid\xE1ndose por completo de ti)."
+      al suelo y el perro se lanza a por \xE9l, olvid\xE1ndose por completo de ti.)"
     spriteIndex: 0
-  - dialogue: (Al menos parece feliz, y sabes que se lo merece).
+  - dialogue: (Al menos parece feliz, y sabes que se lo merece.)
     spriteIndex: 0
   responses: []

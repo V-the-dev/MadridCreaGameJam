@@ -39,6 +39,6 @@ MonoBehaviour:
     spriteIndex: 0
   - dialogue: Pues vaya mierda de noche.
     spriteIndex: 1
-  - dialogue: (Ya no quieren volver a jugar contigo, claramente tienen mal perder).
+  - dialogue: (Ya no quieren volver a jugar contigo, claramente tienen mal perder.)
     spriteIndex: 2
   responses: []

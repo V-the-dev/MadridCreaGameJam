@@ -26,21 +26,21 @@ MonoBehaviour:
   mainCharacterIndex: 1
   conversationLine:
   - dialogue: (Caminas con diligencia cuando escuchas una campanada que anuncia la
-      llegada inminente del amanecer).
+      llegada inminente del amanecer.)
     spriteIndex: 1
-  - dialogue: (Te detienes).
+  - dialogue: (Te detienes.)
     spriteIndex: 1
   - dialogue: (A unos pasos delante de ti, en la oscuridad, ves una figura envuelta
-      en ropajes oscuros).
+      en ropajes oscuros.)
     spriteIndex: 0
-  - dialogue: "(Su mirada est\xE1 clavada en ti)."
+  - dialogue: "(Su mirada est\xE1 clavada en ti.)"
     spriteIndex: 0
-  - dialogue: (Y en su mano derecha, una pistola).
+  - dialogue: (Y en su mano derecha, una pistola.)
     spriteIndex: 0
   responses:
-  - responseText: "Mantener la posici\xF3n"
+  - responseText: "Mantener la posici\xF3n."
     dialogueObject: {fileID: 11400000, guid: d1f8b961642166944bc0ca0b80ddb974, type: 2}
-  - responseText: Huir
+  - responseText: Huir.
     dialogueObject: {fileID: 11400000, guid: cfe4c187aa3386845afd86e5db0eea9e, type: 2}
-  - responseText: Atacar
+  - responseText: Atacar con el Chuzo.
     dialogueObject: {fileID: 11400000, guid: cfe4c187aa3386845afd86e5db0eea9e, type: 2}

@@ -25,7 +25,7 @@ MonoBehaviour:
   mainCharacterWhenResponses: 1
   mainCharacterIndex: 1
   conversationLine:
-  - dialogue: (Un hombre joven mira una ventana iluminada con aire apasionado).
+  - dialogue: (Un hombre joven mira una ventana iluminada con aire apasionado.)
     spriteIndex: 0
   - dialogue: "\xA1Ay, doncella, si Crist\xF3bal Col\xF3n te viese dir\xEDa: Santa
       Mar\xEDa, qu\xE9 pinta tiene esa ni\xF1a!"

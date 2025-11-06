@@ -26,7 +26,7 @@ MonoBehaviour:
   mainCharacterIndex: 0
   conversationLine:
   - dialogue: "(La mujer est\xE1 alterada. Al verte, se emociona, por fin una cara
-      digna de confianza)."
+      digna de confianza.)"
     spriteIndex: 0
   - dialogue: "Oh, santo cielo. Por fin una cara conocida. Ver\xE1, Sereno, yo estaba
       en la cocina de mi casa cuando todo ocurri\xF3."

@@ -25,10 +25,10 @@ MonoBehaviour:
   mainCharacterWhenResponses: 1
   mainCharacterIndex: 1
   conversationLine:
-  - dialogue: <shake><color=#7b1f1f>(Caes de rodillas).</shake></color>
+  - dialogue: <shake><color=#7b1f1f>(Caes de rodillas.)</shake></color>
     spriteIndex: 1
   - dialogue: "(Un gesto casi imperceptible de l\xE1stima es lo \xFAnico que te dedica
-      antes de salir corriendo y desaparecer en la oscuridad)."
+      antes de salir corriendo y desaparecer en la oscuridad.)"
     spriteIndex: 0
   responses:
   - responseText: "La noche contin\xFAa..."

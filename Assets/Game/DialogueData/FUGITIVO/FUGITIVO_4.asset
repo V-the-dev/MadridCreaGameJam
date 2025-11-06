@@ -44,7 +44,7 @@ MonoBehaviour:
   - dialogue: "Me arrepiento tanto... \xBFT\xFA no?"
     spriteIndex: 0
   responses:
-  - responseText: Quedarse en silencio
+  - responseText: Quedarse en silencio.
     dialogueObject: {fileID: 11400000, guid: 4cb7c76fe8d289047bf170a38cb5f314, type: 2}
-  - responseText: Atacar con el chuzo
+  - responseText: Atacar con el Chuzo.
     dialogueObject: {fileID: 11400000, guid: 51e60e6e2d662d54fa181d73fb27f81f, type: 2}

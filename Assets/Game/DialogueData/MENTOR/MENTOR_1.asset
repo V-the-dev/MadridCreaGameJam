@@ -26,13 +26,13 @@ MonoBehaviour:
   mainCharacterIndex: 1
   conversationLine:
   - dialogue: "(Don Benavide, tu mentor est\xE1 apoyado en el \xE1rbol con una botella
-      de licor en mano y un par m\xE1s ya vac\xEDas a su lado)."
+      de licor en mano y un par m\xE1s ya vac\xEDas a su lado.)"
     spriteIndex: 0
   - dialogue: "Hombre, ah\xED est\xE1s. Oye, no me encuentro muy bien la verdad.
       \xBFCrees que puedes cubrir mi zona hoy?"
     spriteIndex: 0
   responses:
-  - responseText: Aceptar Soborno
+  - responseText: Aceptar soborno.
     dialogueObject: {fileID: 11400000, guid: b2a71cad99232ad488c31f2d27aaadba, type: 2}
-  - responseText: Rechazar
+  - responseText: Rechazar.
     dialogueObject: {fileID: 11400000, guid: 4abd8ecda7f92034e960b0880af1332a, type: 2}

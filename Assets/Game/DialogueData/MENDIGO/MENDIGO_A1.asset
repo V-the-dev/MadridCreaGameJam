@@ -26,13 +26,13 @@ MonoBehaviour:
   mainCharacterIndex: 1
   conversationLine:
   - dialogue: "(Un mendigo fam\xE9lico est\xE1 tumbado bajo el puente. Su estado
-      es deplorable)."
+      es deplorable.)"
     spriteIndex: 0
-  - dialogue: "Sereno... \xBFNo tendr\xEDa usted un <color=#1f5f8d>cacho de pan</color>
+  - dialogue: "Sereno... \xBFNo tendr\xEDa usted un <color=#1f5f8d>Cacho de pan</color>
       <img=pan> que darme?"
     spriteIndex: 0
   responses:
-  - responseText: Ofrecer <color=#1f5f8d>pan</color>
+  - responseText: Ofrecer <color=#1f5f8d>Pan.</color>
     dialogueObject: {fileID: 11400000, guid: e0ec3383abdb6494eabb8c528f93b1b3, type: 2}
-  - responseText: Volver
+  - responseText: Volver.
     dialogueObject: {fileID: 0}

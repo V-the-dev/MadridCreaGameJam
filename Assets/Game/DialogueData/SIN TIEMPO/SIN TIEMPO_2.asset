@@ -25,7 +25,7 @@ MonoBehaviour:
   mainCharacterWhenResponses: 1
   mainCharacterIndex: 1
   conversationLine:
-  - dialogue: (El hombre se atreve a acercarse. Le notas nervioso).
+  - dialogue: (El hombre se atreve a acercarse. Le notas nervioso.)
     spriteIndex: 0
   - dialogue: "Sereno. \xBFNo te acuerdas de mi?"
     spriteIndex: 0

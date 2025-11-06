@@ -26,13 +26,12 @@ MonoBehaviour:
   mainCharacterIndex: 1
   conversationLine:
   - dialogue: "<shake>(Un perro rabioso se abalanza sobre ti, pero la cadena atada
-      a su cuello se tensa en el \xFAltimo momento y le ahorca antes de llegar a
-      alcanzarte).</shake>"
+      a su cuello se tensa en el \xFAltimo momento antes de llegar a alcanzarte.)</shake>"
     spriteIndex: 0
   responses:
-  - responseText: Avanzar
+  - responseText: 'Avanzar. '
     dialogueObject: {fileID: 11400000, guid: 3dd3b1282d064d14496d5d73bd2b2bcf, type: 2}
-  - responseText: Avanzar y atacar
+  - responseText: Atacar con el Chuzo.
     dialogueObject: {fileID: 11400000, guid: 999f9e94243c8054a8a412c6d382f2ac, type: 2}
-  - responseText: "Darle el <color=#1f5f8d>jam\xF3n</color>"
+  - responseText: "Darle el <color=#1f5f8d>Paleta de jam\xF3n.</color>"
     dialogueObject: {fileID: 11400000, guid: 8983d85823e664b4da4b12334f09fde7, type: 2}

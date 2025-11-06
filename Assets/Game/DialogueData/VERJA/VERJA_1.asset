@@ -26,7 +26,7 @@ MonoBehaviour:
       amarradas de mala manera."
     spriteIndex: 0
   responses:
-  - responseText: Volver
+  - responseText: Volver.
     dialogueObject: {fileID: 0}
-  - responseText: Usar las <color=#1f5f8d>Llaves</color>
+  - responseText: Usar el <color=#1f5f8d>Manojo de llaves.</color>
     dialogueObject: {fileID: 11400000, guid: 45ba98594694259419257e4d41546ce1, type: 2}

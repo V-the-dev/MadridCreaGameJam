@@ -29,13 +29,13 @@ MonoBehaviour:
       en su <color=#7b1f1f>vientre</color></shake>)."
     spriteIndex: 1
   - dialogue: "(Isidro tiene la pistola alzada, apunt\xE1ndote, pero no aprieta el
-      gatillo)."
+      gatillo.)"
     spriteIndex: 0
-  - dialogue: (Cae de rodillas, y luego al suelo).
+  - dialogue: (Cae de rodillas, y luego al suelo.)
     spriteIndex: 0
-  - dialogue: "(Una vez m\xE1s, eligi\xF3 sacrificarse)."
+  - dialogue: "(Una vez m\xE1s, eligi\xF3 sacrificarse.)"
     spriteIndex: 0
-  - dialogue: (Elegiste el <color=#7b1f1f>castigo</color>).
+  - dialogue: (Elegiste el <color=#7b1f1f>castigo</color>.)
     spriteIndex: 1
   responses:
   - responseText: "La noche contin\xFAa..."

@@ -25,9 +25,9 @@ MonoBehaviour:
   mainCharacterWhenResponses: 1
   mainCharacterIndex: 1
   conversationLine:
-  - dialogue: "(El ladr\xF3n est\xE1 armado con una porra, se abalanza sobre ti)."
+  - dialogue: "(El ladr\xF3n est\xE1 armado con una porra, se abalanza sobre ti.)"
     spriteIndex: 0
-  - dialogue: <shake><color=#7b1f1f>(Te golpea la cabeza. Caes inconsciente)</color></shake>.
+  - dialogue: <shake><color=#7b1f1f>(Te golpea la cabeza. Caes inconsciente.)</color></shake>
     spriteIndex: 0
   responses:
   - responseText: "La noche contin\xFAa..."

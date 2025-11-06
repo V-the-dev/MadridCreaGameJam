@@ -25,9 +25,9 @@ MonoBehaviour:
   mainCharacterWhenResponses: 1
   mainCharacterIndex: 1
   conversationLine:
-  - dialogue: <shake>(Antes de poder hacer nada, escuchas un sonido estruendoso).</shake>
+  - dialogue: <shake>(Antes de poder hacer nada, escuchas un sonido estruendoso.)</shake>
     spriteIndex: 1
-  - dialogue: (El hombre, nervioso, deja caer su pistola).
+  - dialogue: (El hombre, nervioso, deja caer su pistola.)
     spriteIndex: 0
   responses:
   - responseText: ...

@@ -25,9 +25,9 @@ MonoBehaviour:
   mainCharacterWhenResponses: 1
   mainCharacterIndex: 1
   conversationLine:
-  - dialogue: "Cuando intentas pasar hacia la mansi\xF3n, el perro te alcanza."
+  - dialogue: "(Cuando intentas pasar hacia la mansi\xF3n, el perro te alcanza.)"
     spriteIndex: 0
-  - dialogue: <shake><color=#7b1f1f>Te muerde sin piedad.</color></shake>
+  - dialogue: <shake><color=#7b1f1f>(Te muerde sin piedad.)</color></shake>
     spriteIndex: 0
   responses:
   - responseText: "La noche contin\xFAa..."

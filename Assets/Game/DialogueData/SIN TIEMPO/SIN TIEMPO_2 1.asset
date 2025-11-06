@@ -25,18 +25,18 @@ MonoBehaviour:
   mainCharacterWhenResponses: 1
   mainCharacterIndex: 1
   conversationLine:
-  - dialogue: <shake>Escuchas un <color=#7b1f1f>disparo</color>.</shake>
+  - dialogue: (<shake>Escuchas un <color=#7b1f1f>disparo</color>.</shake>)
     spriteIndex: 0
-  - dialogue: Tu vientre se humedece. <shake>Caes de rodillas.</shake>
+  - dialogue: (Tu vientre se humedece. <shake>Caes de rodillas.</shake>)
     spriteIndex: 1
-  - dialogue: "Apenas puedes mantenerte erguido. La consciencia se te escurre entre
-      los dedos, l\xEDquida y fr\xE1gil."
+  - dialogue: "(Apenas puedes mantenerte erguido. La consciencia se te escurre entre
+      los dedos, l\xEDquida y fr\xE1gil.)"
     spriteIndex: 1
   - dialogue: Lo siento. Esta vez he elegido mi vida.
     spriteIndex: 0
   - dialogue: "T\xFA hiciste lo mismo aquel d\xEDa."
     spriteIndex: 0
-  - dialogue: <shake><color=#7b1f1f>(Caes de plomo al suelo).</shake></color>
+  - dialogue: <shake><color=#7b1f1f>(Caes de plomo al suelo.)</shake></color>
     spriteIndex: 1
   responses:
   - responseText: "La noche contin\xFAa..."

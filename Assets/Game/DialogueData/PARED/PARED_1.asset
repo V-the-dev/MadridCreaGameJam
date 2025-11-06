@@ -25,7 +25,7 @@ MonoBehaviour:
   - dialogue: "Un pared\xF3n con marcas de bala, aqu\xED hubo un fusilamiento hace
       poco. Las marcas de lo sucedido son indelebles.\_"
     spriteIndex: 0
-  - dialogue: "En el suelo encuentras un trozo de metal que a\xFAn puede venderse
-      como <color=#1f5f8d>chatarra</color><img=chatarra>."
+  - dialogue: "En el suelo encuentras un trozo de metal, a\xFAn puede venderse como
+      <color=#1f5f8d>Chatarra</color><img=chatarra>."
     spriteIndex: 0
   responses: []

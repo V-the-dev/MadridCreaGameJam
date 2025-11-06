@@ -28,14 +28,14 @@ MonoBehaviour:
   - dialogue: (Tiras del trozo con fuerza hasta que se arranca, causando el colapso
       de la debilitada estructura.)
     spriteIndex: 1
-  - dialogue: "(La ni\xF1a cae al suelo extenuada)."
+  - dialogue: "(La ni\xF1a cae al suelo extenuada.)"
     spriteIndex: 0
   - dialogue: (Al ponerse en pie, te dedica un gesto de respeto, agarra el trozo
-      de madera y se lo lleva a rastras, desapareciendo en la oscuridad).
+      de madera y se lo lleva a rastras, desapareciendo en la oscuridad.)
     spriteIndex: 0
-  - dialogue: (Te pones en pie).
+  - dialogue: (Te pones en pie.)
     spriteIndex: 1
   - dialogue: (Cuando el polvo se disipa, ves que lo que antes era una pared se ha
-      convertido en una rampa maltrecha que lleva al interior del edificio abandonado).
+      convertido en una rampa maltrecha que lleva al interior del edificio abandonado.)
     spriteIndex: 1
   responses: []

@@ -22,11 +22,11 @@ MonoBehaviour:
   mainCharacterWhenResponses: 0
   mainCharacterIndex: 0
   conversationLine:
-  - dialogue: Te adentras en la oscuridad, te cuesta ubicarte.
+  - dialogue: (Te adentras en la oscuridad, te cuesta ubicarte.)
     spriteIndex: 0
-  - dialogue: Escuchas pasos, alguien se acerca.
+  - dialogue: (Escuchas pasos, alguien se acerca.)
     spriteIndex: 0
-  - dialogue: No puedes verlo.
+  - dialogue: (No puedes verlo.)
     spriteIndex: 0
   responses:
   - responseText: ...

@@ -32,6 +32,6 @@ MonoBehaviour:
       agradecidos por lo que ha hecho por este barrio."
     spriteIndex: 0
   - dialogue: (Te entrega un <color=#1f5f8d>trozo de pan</color><img=pan>. Nunca
-      viene mal tener la tripa llena).
+      viene mal tener la tripa llena.)
     spriteIndex: 0
   responses: []
