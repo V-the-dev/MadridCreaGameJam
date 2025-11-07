@@ -1,6 +1,6 @@
 {
-  "collapse-filter": true,
-  "search": "",
+  "collapse-filter": false,
+  "search": "dialogueObject",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -14,9 +14,9 @@
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
   "centerStrength": 0,
-  "repelStrength": 10,
+  "repelStrength": 17.7083333333333,
   "linkStrength": 1,
-  "linkDistance": 130,
-  "scale": 0.7132754626224485,
-  "close": false
+  "linkDistance": 326,
+  "scale": 0.36288736930121407,
+  "close": true
 }
