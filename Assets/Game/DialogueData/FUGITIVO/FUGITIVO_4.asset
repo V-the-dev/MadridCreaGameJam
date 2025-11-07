@@ -31,7 +31,7 @@ MonoBehaviour:
   - dialogue: "Tell me the truth \u2014 not once did you think about how I took the
       fall for all four of us?\n<shake>Doesn\u2019t that bother you?</shake>"
     spriteIndex: 0
-  - dialogue: (<color=#7b1f1f>Isidro</color>loads his gun.)
+  - dialogue: (<color=#7b1f1f>Isidro</color> loads his gun.)
     spriteIndex: 0
   - dialogue: It took months before I started losing faith.
     spriteIndex: 0

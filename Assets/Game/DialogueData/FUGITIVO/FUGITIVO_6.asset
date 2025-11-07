@@ -25,7 +25,7 @@ MonoBehaviour:
   mainCharacterWhenResponses: 1
   mainCharacterIndex: 1
   conversationLine:
-  - dialogue: (Isidro lowers the gun.)
+  - dialogue: (<color=#7b1f1f>Isidro</color> lowers the gun.)
     spriteIndex: 0
   - dialogue: (He closes his eyes, then opens them again. He turns toward his car
       and opens the door.)
