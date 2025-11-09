@@ -692,10 +692,17 @@ MonoBehaviour:
     temps \xE9coul\xE9."
   - "Gardez cela \xE0 l\u2019esprit."
   - "Utilisez les touches W, A, S, D pour vous d\xE9placer, ou le joystick gauche."
+<<<<<<< Updated upstream
   - "Vous pouvez interagir avec les personnages en appuyant sur \xAB E \xBB ou sur
     le bouton d\u2019interaction gauche de votre manette."
   - "Utilisez la touche \xAB i \xBB ou le bouton d\u2019interaction sup\xE9rieur
     pour afficher votre inventaire."
+=======
+  - "Vous pouvez interagir avec les personnages en appuyant sur                                   
+    \xABe\xBB ou sur le bouton d\u2019interaction gauche de votre manette."
+  - "Utilisez la touche \xABi\xBB ou le bouton d\u2019interaction sup\xE9rieur pour
+    afficher votre inventaire."
+>>>>>>> Stashed changes
   - "LOOP CORE                                                                                                                                                        
     pr\xE9sente"
   fadeInTime: 1

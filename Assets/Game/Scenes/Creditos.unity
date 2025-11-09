@@ -687,20 +687,20 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PreludioTextScript
   textList:
-  - "ARTE & VFX                                                                                                  
+  - "ART & VFX                                                                                                  
     Yago L\xF3pez Mart\xEDnez                                                                             
     Beatriz Santos Santiuste                                                                         
     Carlos Gonz\xE1lez Garc\xEDa"
-  - "M\xDASICA & SFX                                                                                 
+  - "MUSIQUE & SFX                                                                                 
     Nerea Herreros L\xF3pez"
-  - "PROGRAMACI\xD3N                                                                                      
+  - "PROGRAMMATION                                                                                      
     V\xEDctor Herrero Gil                                                               
     Alejandro Men\xE9ndez \xC1lvarez                                                                                  
     Mart\xEDn P\xE9rez Villabrille"
-  - "DISE\xD1O & NARRATIVA                                                                              
+  - "CONCEPTION & NARRATION                                                                              
     Francisco Bl\xFCmel Araya                                                                              
     Germ\xE1n Gabari Llor\xE9ns"
-  - un juego de LOOP CORE
+  - un jeu de LOOP CORE
   fadeInTime: 1
   fadeOutTime: 2
   textTime: 3

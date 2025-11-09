@@ -1319,7 +1319,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
+<<<<<<< Updated upstream
   m_text: "Cr\xE9dits"
+=======
+  m_text: Credits
+>>>>>>> Stashed changes
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 92dce3fe2cc2dc84886a0538b4a8c27e, type: 2}
   m_sharedMaterial: {fileID: 5783959703281274285, guid: 92dce3fe2cc2dc84886a0538b4a8c27e, type: 2}
@@ -1469,7 +1473,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
+<<<<<<< Updated upstream
   m_text: "Cr\xE9dits"
+=======
+  m_text: Credits
+>>>>>>> Stashed changes
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: dc3de771b2d22594c85ca7f339de505c, type: 2}
   m_sharedMaterial: {fileID: -8104400192951100356, guid: dc3de771b2d22594c85ca7f339de505c, type: 2}
@@ -3058,7 +3066,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
+<<<<<<< Updated upstream
   m_text: Fermer
+=======
+  m_text: Fermers
+>>>>>>> Stashed changes
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 92dce3fe2cc2dc84886a0538b4a8c27e, type: 2}
   m_sharedMaterial: {fileID: 5783959703281274285, guid: 92dce3fe2cc2dc84886a0538b4a8c27e, type: 2}
@@ -6328,7 +6340,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
+<<<<<<< Updated upstream
   m_text: Musique et Son
+=======
+  m_text: Musique & son
+>>>>>>> Stashed changes
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 92dce3fe2cc2dc84886a0538b4a8c27e, type: 2}
   m_sharedMaterial: {fileID: 5783959703281274285, guid: 92dce3fe2cc2dc84886a0538b4a8c27e, type: 2}
@@ -11896,7 +11912,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
+<<<<<<< Updated upstream
   m_text: Game Design
+=======
+  m_text: Conception & Narrative
+>>>>>>> Stashed changes
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 92dce3fe2cc2dc84886a0538b4a8c27e, type: 2}
   m_sharedMaterial: {fileID: 5783959703281274285, guid: 92dce3fe2cc2dc84886a0538b4a8c27e, type: 2}
@@ -12448,7 +12468,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2793321405562826940, guid: 74b077aae0ba3d641950860300fdbf46, type: 3}
       propertyPath: m_text
+<<<<<<< Updated upstream
       value: "Plein \xE9cran"
+=======
+      value: "Plein \xC9cran"
+>>>>>>> Stashed changes
       objectReference: {fileID: 0}
     - target: {fileID: 2833316875756077623, guid: 74b077aae0ba3d641950860300fdbf46, type: 3}
       propertyPath: m_AnchorMax.y
@@ -12628,7 +12652,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6672921304598008352, guid: 74b077aae0ba3d641950860300fdbf46, type: 3}
       propertyPath: m_text
+<<<<<<< Updated upstream
       value: Effets de Son
+=======
+      value: Effets de son
+>>>>>>> Stashed changes
       objectReference: {fileID: 0}
     - target: {fileID: 6830064564493132854, guid: 74b077aae0ba3d641950860300fdbf46, type: 3}
       propertyPath: m_AnchorMax.y
@@ -12692,7 +12720,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8933832863837660240, guid: 74b077aae0ba3d641950860300fdbf46, type: 3}
       propertyPath: m_text
+<<<<<<< Updated upstream
       value: Volume
+=======
+      value: Son
+>>>>>>> Stashed changes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
