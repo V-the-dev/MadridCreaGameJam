@@ -19,25 +19,25 @@ MonoBehaviour:
   - ISIDRO
   - SERENO
   charactersTitle:
-  - Fugitivo
+  - Fugitif
   - 
   charactersSide: 0000000001000000
   mainCharacterWhenResponses: 1
   mainCharacterIndex: 1
   conversationLine:
-  - dialogue: "De los tres, siempre fuiste mi favorito. Pensaba que t\xFA y yo ten\xEDamos
-      algo especial. Me salvaste la vida en varias ocasiones."
+  - dialogue: "Des trois, t\u2019as toujours \xE9t\xE9 mon pr\xE9f\xE9r\xE9. Je croyais
+      qu\u2019il y avait un truc sp\xE9cial entre nous."
     spriteIndex: 0
-  - dialogue: "\xBFPor qu\xE9 no volviste a por m\xED?"
+  - dialogue: "Tu m\u2019as sauv\xE9 la vie plusieurs fois pendant la guerre."
     spriteIndex: 0
-  - dialogue: "Bernardo rompi\xF3 a llorar en cu\xE1nto me reconoci\xF3. Tiene m\xE9rito.
-      Yo mismo tengo mis dudas al mirarme al espejo."
+  - dialogue: "Bernardo s\u2019est mis \xE0 chialer d\xE8s qu\u2019il m\u2019a reconnu.
+      Respect. Moi-m\xEAme, j\u2019ai des doutes quand je me regarde dans la glace."
     spriteIndex: 0
-  - dialogue: "Est\xE1 abajo, en el s\xF3tano. Su destino depende mucho de lo que
-      hagas a continuaci\xF3n."
+  - dialogue: "Il est en bas, au sous-sol. Son sort d\xE9pend beaucoup de ce que
+      tu vas faire maintenant."
     spriteIndex: 0
-  - dialogue: "No sientas l\xE1stima por \xE9l. Me ha dicho d\xF3nde vives. No he
-      tenido que pregunt\xE1rselo dos veces."
+  - dialogue: "N\u2019aie pas piti\xE9 pour lui. Il m\u2019a dit o\xF9 tu vis. J\u2019ai
+      pas eu besoin de le lui demander deux fois."
     spriteIndex: 0
   responses:
   - responseText: ...

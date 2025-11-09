@@ -17,25 +17,25 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 06df070056594d541bc4ac4a37b81d96, type: 3}
   - {fileID: 21300000, guid: 6094f5e9382781749836d3297c790174, type: 3}
   charactersName:
-  - COCINERO
-  - CAMARERA
+  - CUISINIER
+  - SERVEUSE
   - SERENO
   charactersTitle:
-  - del Bar
-  - del Bar
+  - 
+  - 
   - 
   charactersSide: 000000000000000001000000
   mainCharacterWhenResponses: 0
   mainCharacterIndex: 0
   conversationLine:
-  - dialogue: (Un cocinero te hace un gesto para que te acerques).
+  - dialogue: "(Un cuisinier te fait signe d\u2019approcher.)"
     spriteIndex: 0
-  - dialogue: "\xA1Sereno! Que alivio verle por aqu\xED. Escuche, se han producido
-      <color=#7b1f1f>robos</color> por aqu\xED \xFAltimamente."
+  - dialogue: "Sereno! Quel soulagement de vous voir dans le coin. \xC9coutez, il
+      y a eu des <color=#7b1f1f>vols</color> par ici derni\xE8rement."
     spriteIndex: 1
-  - dialogue: "Alg\xFAn malnacido est\xE1 aprovechando la falta de luz en la calle
-      de aqu\xED al lado para emboscar a los residentes."
+  - dialogue: "Un b\xE2tard profite du manque de lumi\xE8re dans la rue voisine pour
+      attaquer aux habitants."
     spriteIndex: 0
-  - dialogue: Le advertimos, debe tener cuidado.
+  - dialogue: "Nous vous pr\xE9venons, faites bien attention."
     spriteIndex: 1
   responses: []

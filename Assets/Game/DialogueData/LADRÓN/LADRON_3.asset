@@ -16,17 +16,16 @@ MonoBehaviour:
   - {fileID: 21300000, guid: c7f227758eac4034698f17de7ad1ed10, type: 3}
   - {fileID: 21300000, guid: 6094f5e9382781749836d3297c790174, type: 3}
   charactersName:
-  - "LADR\xD3N"
+  - VOLEUR
   - SERENO
   charactersTitle:
-  - Maleante
+  - Criminel
   - 
   charactersSide: 0000000001000000
   mainCharacterWhenResponses: 0
   mainCharacterIndex: 0
   conversationLine:
-  - dialogue: "(Armado con tu <color=#1f5f8d>chuzo</color><img=chuzo>, intimidas
-      al ladr\xF3n, que se rinde y te entrega todo su bot\xEDn: <color=#1f5f8d>150
-      pesetas</color><img=pesetas>)."
+  - dialogue: "(Arm\xE9 de votre <color=#1f5f8d>pique</color><img=chuzo>, vous intimidez
+      le voleur, qui se rend et vous remet tout son butin: <color=#1f5f8d>150 pesetas</color><img=pesetas>.)"
     spriteIndex: 0
   responses: []

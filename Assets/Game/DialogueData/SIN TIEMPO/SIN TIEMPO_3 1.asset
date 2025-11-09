@@ -16,20 +16,20 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 05f05d3e2699dc64b8010fe0cb6c6e4c, type: 3}
   - {fileID: 21300000, guid: 6094f5e9382781749836d3297c790174, type: 3}
   charactersName:
-  - FUGITIVO
+  - FUGITIF
   - SERENO
   charactersTitle:
-  - Desconocido
+  - Inconnu
   - 
   charactersSide: 0000000001000000
   mainCharacterWhenResponses: 1
   mainCharacterIndex: 1
   conversationLine:
-  - dialogue: <shake><color=#7b1f1f>(Caes de rodillas).</shake></color>
+  - dialogue: "<shake><color=#7b1f1f>(Vous tombez \xE0 genoux).</color></shake>"
     spriteIndex: 1
-  - dialogue: "(Un gesto casi imperceptible de l\xE1stima es lo \xFAnico que te dedica
-      antes de salir corriendo y desaparecer en la oscuridad)."
+  - dialogue: "(Un geste presque imperceptible de piti\xE9 est tout ce qu\u2019il
+      vous accorde avant de s\u2019enfuir et de dispara\xEEtre dans l\u2019obscurit\xE9)."
     spriteIndex: 0
   responses:
-  - responseText: "La noche contin\xFAa..."
+  - responseText: La nuit continue...
     dialogueObject: {fileID: 0}

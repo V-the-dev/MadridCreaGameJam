@@ -16,22 +16,22 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 942aab31e52a16d41b106a600874a66d, type: 3}
   - {fileID: 21300000, guid: 6094f5e9382781749836d3297c790174, type: 3}
   charactersName:
-  - BORRACHO
+  - IVROGNE
   - SERENO
   charactersTitle:
-  - Inconsciente
+  - Inconscient
   - 
   charactersSide: 0000000001000000
   mainCharacterWhenResponses: 1
   mainCharacterIndex: 1
   conversationLine:
-  - dialogue: "(Un hombre inconsciente, es evidente que bebi\xF3 demasiado)."
+  - dialogue: "(Un homme g\xEEt inconscient, il est clair qu\u2019il a trop bu.)"
     spriteIndex: 0
-  - dialogue: (A su lado, una <color=#1f5f8d>botella de licor</color><img=licor>
-      a medio terminar).
+  - dialogue: "(\xC0 c\xF4t\xE9, il y a une <color=#1f5f8d>bouteille de liqueur</color><img=licor>
+      \xE0 moiti\xE9 vide)."
     spriteIndex: 0
   responses:
-  - responseText: Volver
+  - responseText: Retourner
     dialogueObject: {fileID: 0}
-  - responseText: Robar la <color=#1f5f8d>botella de licor</color>
+  - responseText: Voler la bouteille de liqueur
     dialogueObject: {fileID: 11400000, guid: 53e80befc37528c48980f2537d9ac466, type: 2}

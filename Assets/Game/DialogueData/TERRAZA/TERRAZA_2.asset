@@ -17,29 +17,31 @@ MonoBehaviour:
   - {fileID: 21300000, guid: ef0b912fdf7908e4d85671ec7ec4087c, type: 3}
   - {fileID: 21300000, guid: 6094f5e9382781749836d3297c790174, type: 3}
   charactersName:
-  - JUGADOR 1
-  - JUGADOR 2
+  - JOUEUR 1
+  - JOUEUR 2
   - SERENO
   charactersTitle:
-  - El confiado
-  - "El gru\xF1\xF3n"
-  - New Title
+  - "Le s\xFBr de lui"
+  - Le grincheux
+  - 
   charactersSide: 000000000000000001000000
   mainCharacterWhenResponses: 0
   mainCharacterIndex: 0
   conversationLine:
-  - dialogue: "\xBF<color=#7b1f1f>Manuel</color>? \xA1Claro! El hombre que estuvo
-      aqu\xED con <color=#7b1f1f>Garrido</color> hace un rato. Se tomaron algo, charlaron."
+  - dialogue: "<color=#7b1f1f>Manuel</color>? \xC7a doit \xEAtre le gars qui \xE9tait
+      ici avec <color=#7b1f1f>Garrido</color> tout \xE0 l\u2019heure. Ils ont bu
+      un coup, discut\xE9 un moment."
     spriteIndex: 0
-  - dialogue: "Definitivamente no fue una buena conversaci\xF3n. Estaban acojonados."
+  - dialogue: "C\u2019\xE9tait pas une conversation joyeuse, \xE7a c\u2019est s\xFBr.
+      Ils avaient la trouille."
     spriteIndex: 1
-  - dialogue: "Yo no dir\xEDa acojonados. Un poco preocupados si eso."
+  - dialogue: "Moi j\u2019dirais pas la trouille. Un peu inquiets, tout au plus."
     spriteIndex: 0
-  - dialogue: "Una mierda, ya te digo yo que algo gordo se tra\xEDan entre manos"
+  - dialogue: "Des conneries, j\u2019te dis qu\u2019ils pr\xE9paraient un sale coup."
     spriteIndex: 1
-  - dialogue: "Que s\xED, lo que t\xFA digas. En fin, luego fueron hacia el puente,
-      ten\xEDan prisa."
+  - dialogue: "Ouais, ouais, si tu veux\u2026 Enfin bref, ils sont partis vers le
+      pont, press\xE9s."
     spriteIndex: 0
-  - dialogue: "\xBFPodemos ayudarte con algo m\xE1s?"
+  - dialogue: On peut vous aider autrement?
     spriteIndex: 0
   responses: []

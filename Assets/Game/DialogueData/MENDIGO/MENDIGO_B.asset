@@ -22,7 +22,6 @@ MonoBehaviour:
   mainCharacterWhenResponses: 0
   mainCharacterIndex: 1
   conversationLine:
-  - dialogue: "(Un mendigo de aspecto fam\xE9lico ha muerto recientemente bajo este
-      puente)."
+  - dialogue: "(Un mendiant affam\xE9 est r\xE9cemment mort sous ce pont)."
     spriteIndex: 0
   responses: []

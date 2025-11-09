@@ -16,7 +16,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 9d7882720d31d0d4589d7cc412657a18, type: 3}
   - {fileID: 21300000, guid: 6094f5e9382781749836d3297c790174, type: 3}
   charactersName:
-  - BAILARINA
+  - DANSEUSE
   - SERENO
   charactersTitle:
   - 
@@ -25,10 +25,10 @@ MonoBehaviour:
   mainCharacterWhenResponses: 0
   mainCharacterIndex: 0
   conversationLine:
-  - dialogue: "Bueno, hace un tiempo vi... S\xED, dos hombres, hacia la terraza,
-      a mano derecha."
+  - dialogue: "Eh bien, il y a quelque temps j\u2019ai vu\u2026 Oui, deux hommes,
+      du c\xF4t\xE9 de la terrasse, tout \xE0 droite."
     spriteIndex: 0
-  - dialogue: <color=#7b1f1f>Garrido</color> era uno, puede ser. Se pasa la vida
-      jugando a las cartas.
+  - dialogue: "<color=#7b1f1f>Garrido</color>, c\u2019\xE9tait lui. Il passe sa vie
+      \xE0 jouer aux cartes."
     spriteIndex: 0
   responses: []

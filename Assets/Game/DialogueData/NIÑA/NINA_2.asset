@@ -16,7 +16,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 198aaf56ed4d0344f8004d78e883c6f3, type: 3}
   - {fileID: 21300000, guid: 6094f5e9382781749836d3297c790174, type: 3}
   charactersName:
-  - "NI\xD1A"
+  - FILLE
   - SERENO
   charactersTitle:
   - 
@@ -25,17 +25,19 @@ MonoBehaviour:
   mainCharacterWhenResponses: 1
   mainCharacterIndex: 0
   conversationLine:
-  - dialogue: (Tiras del trozo con fuerza hasta que se arranca, causando el colapso
-      de la debilitada estructura.)
+  - dialogue: "(Vous tirez la planche de toutes vos forces jusqu\u2019\xE0 ce qu\u2019elle
+      c\xE8de, provoquant l\u2019effondrement de la structure fragilis\xE9e.)"
     spriteIndex: 1
-  - dialogue: "(La ni\xF1a cae al suelo extenuada)."
+  - dialogue: "(La fille s\u2019\xE9croule, \xE9puis\xE9e.)"
     spriteIndex: 0
-  - dialogue: (Al ponerse en pie, te dedica un gesto de respeto, agarra el trozo
-      de madera y se lo lleva a rastras, desapareciendo en la oscuridad).
+  - dialogue: "(En se relevant, elle vous adresse un signe de respect, saisit la
+      planche et l\u2019emporte en la tra\xEEnant derri\xE8re elle, disparaissant
+      dans l\u2019obscurit\xE9)."
     spriteIndex: 0
-  - dialogue: (Te pones en pie).
+  - dialogue: (Vous vous redressez).
     spriteIndex: 1
-  - dialogue: (Cuando el polvo se disipa, ves que lo que antes era una pared se ha
-      convertido en una rampa maltrecha que lleva al interior del edificio abandonado).
+  - dialogue: "(Quand la poussi\xE8re retombe, vous voyez que ce qui \xE9tait autrefois
+      inaccessible est devenu une rampe branlante menant \xE0 l\u2019int\xE9rieur
+      du b\xE2timent abandonn\xE9)."
     spriteIndex: 1
   responses: []

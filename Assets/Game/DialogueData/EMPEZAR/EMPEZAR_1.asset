@@ -22,8 +22,8 @@ MonoBehaviour:
   mainCharacterWhenResponses: 0
   mainCharacterIndex: 0
   conversationLine:
-  - dialogue: Una campanada anuncia el comienzo de la noche.
+  - dialogue: "Un coup de cloche annonce le d\xE9but de la nuit."
     spriteIndex: 0
-  - dialogue: "El Sereno despierta de su sue\xF1o, comienza su jornada."
+  - dialogue: "Le Sereno s\u2019\xE9veille de son sommeil, sa garde commence."
     spriteIndex: 0
   responses: []

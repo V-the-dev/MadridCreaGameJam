@@ -16,23 +16,23 @@ MonoBehaviour:
   - {fileID: 21300000, guid: bda0fd681e524d449b347b223f73e665, type: 3}
   - {fileID: 21300000, guid: 6094f5e9382781749836d3297c790174, type: 3}
   charactersName:
-  - PERRO
+  - CHIEN
   - SERENO
   charactersTitle:
-  - Encadenado
+  - "Encha\xEEn\xE9"
   - 
   charactersSide: 0000000001000000
   mainCharacterWhenResponses: 1
   mainCharacterIndex: 1
   conversationLine:
-  - dialogue: "<shake>(Un perro rabioso se abalanza sobre ti, pero la cadena atada
-      a su cuello se tensa en el \xFAltimo momento y le ahorca antes de llegar a
-      alcanzarte).</shake>"
+  - dialogue: "<shake>(Un chien enrag\xE9 se jette sur vous, mais la cha\xEEne attach\xE9e
+      \xE0 son cou se tend au dernier moment et l\u2019\xE9trangle avant qu\u2019il
+      ne puisse vous atteindre.)</shake>"
     spriteIndex: 0
   responses:
-  - responseText: Avanzar
+  - responseText: Avancer
     dialogueObject: {fileID: 11400000, guid: 3dd3b1282d064d14496d5d73bd2b2bcf, type: 2}
-  - responseText: Avanzar y atacar
+  - responseText: Attaquer
     dialogueObject: {fileID: 11400000, guid: 999f9e94243c8054a8a412c6d382f2ac, type: 2}
-  - responseText: "Darle el <color=#1f5f8d>jam\xF3n</color>"
+  - responseText: Lui donner le <color=#1f5f8d>jambon</color>
     dialogueObject: {fileID: 11400000, guid: 8983d85823e664b4da4b12334f09fde7, type: 2}

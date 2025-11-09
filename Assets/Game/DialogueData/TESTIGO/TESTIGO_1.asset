@@ -16,7 +16,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 327863c6067e81541b866c15a157416f, type: 3}
   - {fileID: 21300000, guid: 6094f5e9382781749836d3297c790174, type: 3}
   charactersName:
-  - TESTIGO
+  - "T\xC9MOIN"
   - SERENO
   charactersTitle:
   - 
@@ -25,20 +25,20 @@ MonoBehaviour:
   mainCharacterWhenResponses: 0
   mainCharacterIndex: 0
   conversationLine:
-  - dialogue: "(La mujer est\xE1 alterada. Al verte, se emociona, por fin una cara
-      digna de confianza)."
+  - dialogue: "(La femme est boulevers\xE9e. En vous voyant, elle s\u2019\xE9meut,
+      enfin un visage digne de confiance.)"
     spriteIndex: 0
-  - dialogue: "Oh, santo cielo. Por fin una cara conocida. Ver\xE1, Sereno, yo estaba
-      en la cocina de mi casa cuando todo ocurri\xF3."
+  - dialogue: "Oh, mon Dieu\u2026 Voyez-vous, Sereno, j\u2019\xE9tais dans la cuisine
+      de ma maison quand tout est arriv\xE9."
     spriteIndex: 0
-  - dialogue: "Desde ah\xED, no pod\xEDa ver pero escuch\xE9 a <color=#7b1f1f>Manuel</color>
-      discutir con otro hombre en el puente"
+  - dialogue: "De l\xE0, je ne pouvais pas voir, mais j\u2019ai entendu <color=#7b1f1f>Manuel</color>
+      se disputer avec un autre homme sur le pont."
     spriteIndex: 0
-  - dialogue: "Luego se oy\xF3 el disparo y me escond\xED. Cuando me atrev\xED a
-      mirar, el otro hombre ya se hab\xEDa ido."
+  - dialogue: "Puis, on a entendu le coup de feu, et je me suis cach\xE9e. Quand
+      j\u2019ai os\xE9 regarder, l\u2019autre homme \xE9tait d\xE9j\xE0 parti."
     spriteIndex: 0
-  - dialogue: "Pilar, la <color=#7b1f1f>viuda</color>, debe estar destrozada. Sali\xF3
-      disparada hacia la casa de no s\xE9 qui\xE9n. Se fue en direcci\xF3n a la <color=#7b1f1f>calle
-      oscura</color>."
+  - dialogue: "Pilar, la <color=#7b1f1f>veuve</color>, doit \xEAtre an\xE9antie.
+      Elle est sortie en courant vers je ne sais quelle maison, en direction de la
+      <color=#7b1f1f>rue sombre</color>."
     spriteIndex: 0
   responses: []

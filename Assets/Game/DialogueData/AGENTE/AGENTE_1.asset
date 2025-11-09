@@ -16,23 +16,23 @@ MonoBehaviour:
   - {fileID: 21300000, guid: c6fe0b41957f01d4fb46f821ee620e8e, type: 3}
   - {fileID: 21300000, guid: 6094f5e9382781749836d3297c790174, type: 3}
   charactersName:
-  - AGENTE
+  - AGENT
   - SERENO
   charactersTitle:
-  - de la Ley
+  - de la Loi
   - 
   charactersSide: 0000000001000000
   mainCharacterWhenResponses: 0
   mainCharacterIndex: 0
   conversationLine:
-  - dialogue: (Con aire altivo y despectivo, el agente se acerca a ti).
+  - dialogue: "(Avec un air m\xE9prisant, l\u2019agent s\u2019approche de vous.)"
     spriteIndex: 0
-  - dialogue: Mantenga la distancia, Sereno. Se ha cometido un <color=#7b1f1f>asesinato</color>
-      recientemente.
+  - dialogue: "Gardez vos distances, Sereno. Un <color=#7b1f1f>meurtre</color> a
+      r\xE9cemment \xE9t\xE9 commis."
     spriteIndex: 0
-  - dialogue: "Podemos afirmar que se trata de un crimen de odio que ser\xE1 castigado
-      de manera ejemplar. "
+  - dialogue: "Nous pouvons affirmer qu\u2019il s\u2019agit d\u2019un crime de haine
+      qui sera puni de mani\xE8re exemplaire."
     spriteIndex: 0
-  - dialogue: "La investigaci\xF3n oficial comenzar\xE1 al amanecer."
+  - dialogue: "L\u2019enqu\xEAte officielle commencera \xE0 l\u2019aube."
     spriteIndex: 0
   responses: []

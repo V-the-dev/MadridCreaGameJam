@@ -16,7 +16,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 9d7882720d31d0d4589d7cc412657a18, type: 3}
   - {fileID: 21300000, guid: 6094f5e9382781749836d3297c790174, type: 3}
   charactersName:
-  - BAILARINA
+  - DANSEUSE
   - SERENO
   charactersTitle:
   - 
@@ -25,13 +25,14 @@ MonoBehaviour:
   mainCharacterWhenResponses: 1
   mainCharacterIndex: 1
   conversationLine:
-  - dialogue: "(La bailarina est\xE1 inmersa en su danza, no te presta atenci\xF3n.
-      Canturrea algo incomprensible)."
+  - dialogue: "(La danseuse est absorb\xE9e par sa chor\xE9graphie, elle ne vous
+      pr\xEAte aucune attention. Elle dit quelque chose d\u2019incompr\xE9hensible,
+      tout bas)."
     spriteIndex: 0
   responses:
   - responseText: Volver
     dialogueObject: {fileID: 0}
-  - responseText: Preguntar por Manuel
+  - responseText: Demander pour Manuel
     dialogueObject: {fileID: 11400000, guid: 50ec56e04a103284bb03fd2d15874429, type: 2}
-  - responseText: Preguntar por Garrido
+  - responseText: Demander pour Garrido
     dialogueObject: {fileID: 11400000, guid: 89447e1d7374ec240b35841eaf5dd9f8, type: 2}

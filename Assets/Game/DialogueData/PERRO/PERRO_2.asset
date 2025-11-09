@@ -16,19 +16,19 @@ MonoBehaviour:
   - {fileID: 21300000, guid: bda0fd681e524d449b347b223f73e665, type: 3}
   - {fileID: 21300000, guid: 6094f5e9382781749836d3297c790174, type: 3}
   charactersName:
-  - PERRO
+  - CHIEN
   - SERENO
   charactersTitle:
-  - Encadenado
+  - "Encha\xEEn\xE9"
   - 
   charactersSide: 0000000001000000
   mainCharacterWhenResponses: 1
   mainCharacterIndex: 1
   conversationLine:
-  - dialogue: "Cuando intentas pasar hacia la mansi\xF3n, el perro te alcanza."
+  - dialogue: (Lorsque vous essayez de passer vers le manoir, le chien vous atteint.)
     spriteIndex: 0
-  - dialogue: <shake><color=#7b1f1f>Te muerde sin piedad.</color></shake>
+  - dialogue: "<shake><color=#7b1f1f>(Il vous mord sans piti\xE9.)</color></shake>"
     spriteIndex: 0
   responses:
-  - responseText: "La noche contin\xFAa..."
+  - responseText: La nuit continue...
     dialogueObject: {fileID: 0}

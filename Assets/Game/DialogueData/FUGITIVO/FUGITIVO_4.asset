@@ -19,32 +19,33 @@ MonoBehaviour:
   - ISIDRO
   - SERENO
   charactersTitle:
-  - Fugitivo
+  - Fugitif
   - 
   charactersSide: 0000000001000000
   mainCharacterWhenResponses: 1
   mainCharacterIndex: 1
   conversationLine:
-  - dialogue: "Durante meses me vi a m\xED mismo como un m\xE1rtir. Pens\xE9 que
-      os hab\xEDa salvado, y me enorgullec\xEDa pensar en ello. Era mi resguardo."
+  - dialogue: "Pendant des mois je me suis pris pour un martyr. Je croyais vous avoir
+      sauv\xE9s, et j\u2019\xE9tais fier d\u2019y penser. C\u2019\xE9tait mon refuge."
     spriteIndex: 0
-  - dialogue: "Dime la verdad. \xBFNi un solo d\xEDa has pensado en que que yo cargu\xE9
-      con la culpa de los cuatro? <shake>\xBFNo te molesta?</shake>"
+  - dialogue: "Dis-moi la v\xE9rit\xE9. Pas un seul jour t\u2019es-tu dit que c\u2019est
+      moi qui ai port\xE9 la faute pour nous quatre? <shake>\xC7a te fait rien?</shake>"
     spriteIndex: 0
-  - dialogue: (<color=#7b1f1f>Isidro</color> carga su pistola).
+  - dialogue: (<color=#7b1f1f>Isidro</color> charge son pistolet).
     spriteIndex: 0
-  - dialogue: "Pasaron meses hasta que empec\xE9 a perder la fe."
+  - dialogue: "Des mois ont pass\xE9 avant que je commence \xE0 perdre la foi."
     spriteIndex: 0
-  - dialogue: Yo no soy una persona especialmente fuerte ni resiliente. Yo soy...
-      yo.
+  - dialogue: "J\u2019suis pas quelqu\u2019un de particuli\xE8rement costaud ni r\xE9silient.
+      J\u2019suis... moi."
     spriteIndex: 0
-  - dialogue: "Solo s\xE9 que si pudiera volver a ese d\xEDa, aunque estuviera atrapado
-      eternamente en \xE9l, siempre eligir\xEDa mi vida antes que la vuestra."
+  - dialogue: "Je sais juste que si je pouvais revenir \xE0 ce jour, m\xEAme si j'etais
+      coinc\xE9 en boucle pour l\u2019\xE9ternit\xE9, je choisirais toujours ma vie
+      avant la v\xF4tre."
     spriteIndex: 0
-  - dialogue: "Me arrepiento tanto... \xBFT\xFA no?"
+  - dialogue: "Je regrette tellement... Et toi, t\u2019en regrettes pas ?"
     spriteIndex: 0
   responses:
-  - responseText: Quedarse en silencio
+  - responseText: Rester silencieux
     dialogueObject: {fileID: 11400000, guid: 4cb7c76fe8d289047bf170a38cb5f314, type: 2}
-  - responseText: Atacar con el chuzo
+  - responseText: Attaquer avec la pique
     dialogueObject: {fileID: 11400000, guid: 51e60e6e2d662d54fa181d73fb27f81f, type: 2}

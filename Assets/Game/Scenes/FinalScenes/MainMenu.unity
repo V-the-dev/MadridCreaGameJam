@@ -453,7 +453,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Opciones
+  m_text: Options
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 92dce3fe2cc2dc84886a0538b4a8c27e, type: 2}
   m_sharedMaterial: {fileID: 5783959703281274285, guid: 92dce3fe2cc2dc84886a0538b4a8c27e, type: 2}
@@ -1319,7 +1319,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Cr\xE9ditos"
+  m_text: "Cr\xE9dits"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 92dce3fe2cc2dc84886a0538b4a8c27e, type: 2}
   m_sharedMaterial: {fileID: 5783959703281274285, guid: 92dce3fe2cc2dc84886a0538b4a8c27e, type: 2}
@@ -1469,7 +1469,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Cr\xE9ditos"
+  m_text: "Cr\xE9dits"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: dc3de771b2d22594c85ca7f339de505c, type: 2}
   m_sharedMaterial: {fileID: -8104400192951100356, guid: dc3de771b2d22594c85ca7f339de505c, type: 2}
@@ -3058,7 +3058,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Salir
+  m_text: Fermer
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 92dce3fe2cc2dc84886a0538b4a8c27e, type: 2}
   m_sharedMaterial: {fileID: 5783959703281274285, guid: 92dce3fe2cc2dc84886a0538b4a8c27e, type: 2}
@@ -3579,7 +3579,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Programaci\xF3n"
+  m_text: Programmation
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 92dce3fe2cc2dc84886a0538b4a8c27e, type: 2}
   m_sharedMaterial: {fileID: 5783959703281274285, guid: 92dce3fe2cc2dc84886a0538b4a8c27e, type: 2}
@@ -4370,7 +4370,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Continuar
+  m_text: Continuer
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 92dce3fe2cc2dc84886a0538b4a8c27e, type: 2}
   m_sharedMaterial: {fileID: 5783959703281274285, guid: 92dce3fe2cc2dc84886a0538b4a8c27e, type: 2}
@@ -4613,7 +4613,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Arte
+  m_text: Art
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 92dce3fe2cc2dc84886a0538b4a8c27e, type: 2}
   m_sharedMaterial: {fileID: 5783959703281274285, guid: 92dce3fe2cc2dc84886a0538b4a8c27e, type: 2}
@@ -5426,7 +5426,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Cerrar
+  m_text: Fermer
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 92dce3fe2cc2dc84886a0538b4a8c27e, type: 2}
   m_sharedMaterial: {fileID: 5783959703281274285, guid: 92dce3fe2cc2dc84886a0538b4a8c27e, type: 2}
@@ -6328,7 +6328,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Musica y Sonido
+  m_text: Musique et Son
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 92dce3fe2cc2dc84886a0538b4a8c27e, type: 2}
   m_sharedMaterial: {fileID: 5783959703281274285, guid: 92dce3fe2cc2dc84886a0538b4a8c27e, type: 2}
@@ -11896,7 +11896,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Dise\xF1o"
+  m_text: Game Design
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 92dce3fe2cc2dc84886a0538b4a8c27e, type: 2}
   m_sharedMaterial: {fileID: 5783959703281274285, guid: 92dce3fe2cc2dc84886a0538b4a8c27e, type: 2}
@@ -12442,6 +12442,14 @@ PrefabInstance:
       propertyPath: m_AnchorMax.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2386011381514275754, guid: 74b077aae0ba3d641950860300fdbf46, type: 3}
+      propertyPath: m_text
+      value: "Vid\xE9o"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2793321405562826940, guid: 74b077aae0ba3d641950860300fdbf46, type: 3}
+      propertyPath: m_text
+      value: "Plein \xE9cran"
+      objectReference: {fileID: 0}
     - target: {fileID: 2833316875756077623, guid: 74b077aae0ba3d641950860300fdbf46, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
@@ -12546,6 +12554,10 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5730706386911542150, guid: 74b077aae0ba3d641950860300fdbf46, type: 3}
+      propertyPath: m_text
+      value: "Atmosph\xE8re"
+      objectReference: {fileID: 0}
     - target: {fileID: 5837141041779321320, guid: 74b077aae0ba3d641950860300fdbf46, type: 3}
       propertyPath: m_AnchorMax.x
       value: 0
@@ -12594,6 +12606,10 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
+    - target: {fileID: 6125048735233365323, guid: 74b077aae0ba3d641950860300fdbf46, type: 3}
+      propertyPath: m_text
+      value: Options
+      objectReference: {fileID: 0}
     - target: {fileID: 6294438498676697486, guid: 74b077aae0ba3d641950860300fdbf46, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
@@ -12609,6 +12625,10 @@ PrefabInstance:
     - target: {fileID: 6294438498676697486, guid: 74b077aae0ba3d641950860300fdbf46, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6672921304598008352, guid: 74b077aae0ba3d641950860300fdbf46, type: 3}
+      propertyPath: m_text
+      value: Effets de Son
       objectReference: {fileID: 0}
     - target: {fileID: 6830064564493132854, guid: 74b077aae0ba3d641950860300fdbf46, type: 3}
       propertyPath: m_AnchorMax.y
@@ -12661,6 +12681,18 @@ PrefabInstance:
     - target: {fileID: 8109029986572772979, guid: 74b077aae0ba3d641950860300fdbf46, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8189770906279028198, guid: 74b077aae0ba3d641950860300fdbf46, type: 3}
+      propertyPath: m_text
+      value: Fermer
+      objectReference: {fileID: 0}
+    - target: {fileID: 8693497891685294662, guid: 74b077aae0ba3d641950860300fdbf46, type: 3}
+      propertyPath: m_text
+      value: Musique
+      objectReference: {fileID: 0}
+    - target: {fileID: 8933832863837660240, guid: 74b077aae0ba3d641950860300fdbf46, type: 3}
+      propertyPath: m_text
+      value: Volume
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

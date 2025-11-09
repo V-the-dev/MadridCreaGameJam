@@ -25,10 +25,10 @@ MonoBehaviour:
   mainCharacterWhenResponses: 1
   mainCharacterIndex: 1
   conversationLine:
-  - dialogue: "Cu\xE9ntame, \xBFc\xF3mo va la noche?"
+  - dialogue: Dit-moi, comment va la nuit?
     spriteIndex: 0
   responses:
-  - responseText: Entregar <color=#1f5f8d>licor</color>
+  - responseText: Donner le <color=#1f5f8d>liqueur</color>
     dialogueObject: {fileID: 11400000, guid: a594bb65e9a2b21498443e596bcb9933, type: 2}
-  - responseText: Volver
+  - responseText: Retourner
     dialogueObject: {fileID: 11400000, guid: 4abd8ecda7f92034e960b0880af1332a, type: 2}

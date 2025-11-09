@@ -16,31 +16,31 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 05f05d3e2699dc64b8010fe0cb6c6e4c, type: 3}
   - {fileID: 21300000, guid: 6094f5e9382781749836d3297c790174, type: 3}
   charactersName:
-  - MATEO
+  - ISIDRO
   - SERENO
   charactersTitle:
-  - Fugitivo
+  - Fugitif
   - 
   charactersSide: 0000000001000000
   mainCharacterWhenResponses: 1
   mainCharacterIndex: 1
   conversationLine:
-  - dialogue: (Isidro baja el brazo con la pistola).
+  - dialogue: "(Isidro baisse le bras, le pistolet \xE0 la main.)"
     spriteIndex: 0
-  - dialogue: (Cierra los ojos, y luego los abre de nuevo. Se gira hacia su coche
-      y abre la puerta).
+  - dialogue: "(Il ferme les yeux, puis les rouvre. Il se tourne vers sa voiture
+      et ouvre la porti\xE8re.)"
     spriteIndex: 0
-  - dialogue: "No quiero volver... No puedo volver. Hasta nunca compa\xF1ero."
+  - dialogue: Je veux pas y retourner... Je peux pas y retourner. Adieu, camarade.
     spriteIndex: 0
-  - dialogue: (Isidro cierra la puerta del coche).
+  - dialogue: "(Isidro referme la porti\xE8re.)"
     spriteIndex: 0
-  - dialogue: "(El vidrio del coche refleja moment\xE1neamente una luz cegadora)."
+  - dialogue: "(La vitre de la voiture refl\xE8te un instant une lumi\xE8re aveuglante.)"
     spriteIndex: 0
-  - dialogue: (Al darte la vuelta, ves el sol emerger entre los edificios. Por fin
-      <color=#7b1f1f>amanece</color>).
+  - dialogue: "(En vous retournant, vous voyez le soleil se lever entre les immeubles.
+      Enfin, <color=#7b1f1f>l\u2019aube</color> se l\xE8ve.)"
     spriteIndex: 1
-  - dialogue: (Elegiste <color=#7b1f1f>perdonar</color>).
+  - dialogue: (Vous avez choisi de <color=#7b1f1f>pardonner</color>.)
     spriteIndex: 0
   responses:
-  - responseText: El bucle se ha roto
+  - responseText: "Le boucle est bris\xE9"
     dialogueObject: {fileID: 0}

@@ -16,21 +16,21 @@ MonoBehaviour:
   - {fileID: 21300000, guid: bda0fd681e524d449b347b223f73e665, type: 3}
   - {fileID: 21300000, guid: 6094f5e9382781749836d3297c790174, type: 3}
   charactersName:
-  - PERRO
+  - CHIEN
   - SERENO
   charactersTitle:
-  - Encadenado
+  - "Encha\xEEn\xE9"
   - 
   charactersSide: 0000000001000000
   mainCharacterWhenResponses: 1
   mainCharacterIndex: 1
   conversationLine:
-  - dialogue: "(Te agachas y sacas <color=#1f5f8d>paleta de jam\xF3n</color><img=jamon>.
-      El perro cambia inmediatamente de actitud)."
+  - dialogue: "(Vous vous penchez et sortez la <color=#1f5f8d>palette de jambon</color><img=jamon>.
+      Le chien change imm\xE9diatement d\u2019attitude)."
     spriteIndex: 0
-  - dialogue: "(Sabes que muchos matar\xEDan por un trozo de carne, pero lo echas
-      al suelo y el perro se lanza a por \xE9l, olvid\xE1ndose por completo de ti)."
+  - dialogue: "(Vous savez que beaucoup tueraient pour un morceau de viande, mais
+      vous le jetez au sol, et le chien se pr\xE9cipite dessus, vous oubliant compl\xE8tement)."
     spriteIndex: 0
-  - dialogue: (Al menos parece feliz, y sabes que se lo merece).
+  - dialogue: "(Au moins, il a l\u2019air heureux, et vous savez qu\u2019il le m\xE9rite)."
     spriteIndex: 0
   responses: []

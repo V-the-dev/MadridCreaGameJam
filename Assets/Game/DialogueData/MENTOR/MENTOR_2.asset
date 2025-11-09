@@ -25,6 +25,6 @@ MonoBehaviour:
   mainCharacterWhenResponses: 1
   mainCharacterIndex: 1
   conversationLine:
-  - dialogue: "T\xFA mismo."
+  - dialogue: Comme tu veux.
     spriteIndex: 0
   responses: []

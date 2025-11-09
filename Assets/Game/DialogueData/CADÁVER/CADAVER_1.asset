@@ -22,13 +22,13 @@ MonoBehaviour:
   mainCharacterWhenResponses: 0
   mainCharacterIndex: 0
   conversationLine:
-  - dialogue: Tapado con una tela, solo puedes ver los zapatos de cuero que pertenecieron
-      a un hombre corpulento de mediana edad.
+  - dialogue: "Recouvert d\u2019un drap, on ne distingue que les chaussures en cuir,
+      appartenant \xE0 un homme corpulent d\u2019une cinquantaine d'an\xE9es."
     spriteIndex: 0
-  - dialogue: "El cuerpo est\xE1 boca arriba, y la manta est\xE1 manchada de sangre
-      a la altura del pecho."
+  - dialogue: "Le corps est allong\xE9 sur le dos, et la couverture est tach\xE9e
+      de sang au niveau de la poitrine."
     spriteIndex: 0
-  - dialogue: "Es evidente que dispararon de frente, de manera que la v\xEDctima
-      pudo ver directamente a su asesino."
+  - dialogue: "Il est \xE9vident qu\u2019on lui a tir\xE9 dessus de face, la victime
+      a pu voir son meurtrier droit dans les yeux."
     spriteIndex: 0
   responses: []

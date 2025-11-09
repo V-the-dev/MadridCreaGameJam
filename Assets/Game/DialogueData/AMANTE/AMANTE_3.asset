@@ -25,7 +25,8 @@ MonoBehaviour:
   mainCharacterWhenResponses: 1
   mainCharacterIndex: 1
   conversationLine:
-  - dialogue: "\xA1Ay, doncella, si amarte fuera trabajo, no existir\xEDa el desempleo!"
+  - dialogue: "Ma belle... J'ai envie de faire des trucs adultes avec toi, comme
+      d\xE9clarer mes imp\xF4ts..."
     spriteIndex: 0
   responses:
   - responseText: ...

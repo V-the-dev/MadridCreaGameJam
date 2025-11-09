@@ -19,27 +19,30 @@ MonoBehaviour:
   - PILAR
   - SERENO
   charactersTitle:
-  - Viuda
+  - Veuve
   - 
   charactersSide: 0000000001000000
   mainCharacterWhenResponses: 0
   mainCharacterIndex: 0
   conversationLine:
-  - dialogue: "\xA1Sereno! Usted conoc\xEDa a mi <color=#7b1f1f>Manuel</color>."
+  - dialogue: Sereno! Vous connaissiez mon <color=#7b1f1f>Manuel</color>.
     spriteIndex: 0
-  - dialogue: "Se ha enterado, \xBFverdad? <shake>\xA1Han asesinado a mi marido!</shake>"
+  - dialogue: "Vous \xEAtes au courant, n\u2019est-ce pas? <shake>On a assassin\xE9
+      mon mari!</shake>"
     spriteIndex: 0
-  - dialogue: "Ver\xE1. <color=#7b1f1f>Garrido</color> fue la \xFAltima persona que
-      le vi\xF3 con vida, o eso dicen."
+  - dialogue: "Voyez-vous, <color=#7b1f1f>Garrido</color> a \xE9t\xE9 la derni\xE8re
+      personne \xE0 le voir vivant, enfin, c\u2019est ce qu\u2019on dit."
     spriteIndex: 0
-  - dialogue: "Recuerda usted a <color=#7b1f1f>Garrido</color>, fue con usted y con
-      <color=#7b1f1f>Manuel</color> a la guerra. <color=#7b1f1f>Garrido</color> lleg\xF3
-      a casa alterado, y discutieron antes de irse juntos."
+  - dialogue: "Vous vous souvenez de <color=#7b1f1f>Garrido</color>: il est parti
+      \xE0 la guerre avec vous et avec <color=#7b1f1f>Manuel</color>."
     spriteIndex: 0
-  - dialogue: "Esta es la casa del hombre, llevo veinte minutos llamando a su puerta
-      pero no responde. Si no est\xE1n aqu\xED..."
+  - dialogue: "<color=#7b1f1f>Garrido</color> est rentr\xE9 chez lui boulevers\xE9,
+      et ils se sont disput\xE9s avant de partir ensemble."
     spriteIndex: 0
-  - dialogue: "Sereno, \xBFcree usted que puede encontrar a <color=#7b1f1f>Garrido</color>
-      por m\xED? Me temo lo peor."
+  - dialogue: "C\u2019est ici, la maison de cet homme, cela fait vingt minutes que
+      je frappe, mais il ne r\xE9pond pas. S\u2019il n\u2019est pas l\xE0..."
+    spriteIndex: 0
+  - dialogue: Sereno, pensez-vous pouvoir retrouver <color=#7b1f1f>Garrido</color>
+      pour moi? Je crains le pire.
     spriteIndex: 0
   responses: []

@@ -25,14 +25,15 @@ MonoBehaviour:
   mainCharacterWhenResponses: 1
   mainCharacterIndex: 1
   conversationLine:
-  - dialogue: "(Don Benavide, tu mentor est\xE1 apoyado en el \xE1rbol con una botella
-      de licor en mano y un par m\xE1s ya vac\xEDas a su lado)."
+  - dialogue: "(Monsieur Benavide, votre mentor, est appuy\xE9 contre l\u2019arbre,
+      une bouteille de liqueur \xE0 la main et deux autres d\xE9j\xE0 vides \xE0
+      c\xF4t\xE9 de lui.)"
     spriteIndex: 0
-  - dialogue: "Hombre, ah\xED est\xE1s. Oye, no me encuentro muy bien la verdad.
-      \xBFCrees que puedes cubrir mi zona hoy?"
+  - dialogue: "Te voil\xE0. \xC9coute, je ne suis pas en grande forme, franchement.
+      Tu crois que tu peux couvrir ma zone ce soir?"
     spriteIndex: 0
   responses:
-  - responseText: Aceptar Soborno
+  - responseText: Accepter
     dialogueObject: {fileID: 11400000, guid: b2a71cad99232ad488c31f2d27aaadba, type: 2}
-  - responseText: Rechazar
+  - responseText: Refuser
     dialogueObject: {fileID: 11400000, guid: 4abd8ecda7f92034e960b0880af1332a, type: 2}

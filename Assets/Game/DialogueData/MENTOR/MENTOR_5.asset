@@ -25,17 +25,18 @@ MonoBehaviour:
   mainCharacterWhenResponses: 1
   mainCharacterIndex: 1
   conversationLine:
-  - dialogue: (Benavide mira la botella que le entregas. Es <color=#1f5f8d>licor
-      barato</color><img=licor>, justo el que le gusta. Te dedica un gesto de aprecio).
+  - dialogue: "(Benavide regarde la bouteille. C\u2019est de la <color=#1f5f8d>liqueur
+      de mauvaise qualit\xE9</color><img=licor>, exactement celle qu\u2019il aime.
+      Il vous fait un geste de reconnaissance.)"
     spriteIndex: 0
-  - dialogue: Te has ganado un regalo, venga, elige uno.
+  - dialogue: "Tu t\u2019es gagn\xE9 un cadeau, allez, choisis."
     spriteIndex: 0
   responses:
   - responseText: <color=#1f5f8d>50 pesetas</color>
     dialogueObject: {fileID: 11400000, guid: f63992c0395af0245aee5340d98c7c22, type: 2}
-  - responseText: <color=#1f5f8d>Pedazo de chatarra</color>
+  - responseText: <color=#1f5f8d>Morceau de feraille</color>
     dialogueObject: {fileID: 11400000, guid: 5a22267dcc159c3499400f21481025a0, type: 2}
-  - responseText: <color=#1f5f8d>Farol de aceite</color>
+  - responseText: <color=#1f5f8d>Lanterne</color>
     dialogueObject: {fileID: 11400000, guid: ac458fc3536174243ae43478c3607ad2, type: 2}
-  - responseText: <color=#1f5f8d>Manojo de llaves</color>
+  - responseText: "<color=#1f5f8d>Trousseau de cl\xE9s</color>"
     dialogueObject: {fileID: 11400000, guid: 114a6aec13f6cc64fa3dfa8a1520c204, type: 2}

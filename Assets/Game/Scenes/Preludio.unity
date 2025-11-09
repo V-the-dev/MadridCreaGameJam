@@ -687,17 +687,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PreludioTextScript
   textList:
-  - "Este juego transcurre a lo largo de una fr\xEDa noche madrile\xF1a."
-  - "Los personajes podr\xE1n comportarse de forma distinta seg\xFAn tus acciones
-    y el tiempo transcurrido."
-  - Ten esto en cuenta.
-  - Usa las teclas W,A,S,D para moverte, o el joystick izquierdo.
-  - "Puedes interactuar con los personajes pulsando \"e\" o el bot\xF3n de interacci\xF3n
-    izquierdo en tu mando."
-  - "Usa la tecla \"i\" o el bot\xF3n de interacci\xF3n superior para mostrar tu
-    inventario."
-  - LOOP CORE                                                                                                                                                        
-    presenta
+  - "Ce jeu se d\xE9roule au cours d\u2019une froide nuit madril\xE8ne."
+  - "Les personnages pourront se comporter diff\xE9remment selon vos actions et le
+    temps \xE9coul\xE9."
+  - "Gardez cela \xE0 l\u2019esprit."
+  - "Utilisez les touches W, A, S, D pour vous d\xE9placer, ou le joystick gauche."
+  - "Vous pouvez interagir avec les personnages en appuyant sur \xAB E \xBB ou sur
+    le bouton d\u2019interaction gauche de votre manette."
+  - "Utilisez la touche \xAB i \xBB ou le bouton d\u2019interaction sup\xE9rieur
+    pour afficher votre inventaire."
+  - "LOOP CORE                                                                                                                                                        
+    pr\xE9sente"
   fadeInTime: 1
   fadeOutTime: 2
   textTime: 3

@@ -16,7 +16,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 57b9bfcf1c01ead4ba3e01fed173ce1a, type: 3}
   - {fileID: 21300000, guid: 6094f5e9382781749836d3297c790174, type: 3}
   charactersName:
-  - MENDIGO
+  - MENDIANT
   - SERENO
   charactersTitle:
   - 
@@ -25,31 +25,35 @@ MonoBehaviour:
   mainCharacterWhenResponses: 1
   mainCharacterIndex: 1
   conversationLine:
-  - dialogue: (Los ojos del mendigo se iluminan. Al comer el <color=#1f5f8d>trozo
-      de pan</color><img=pan>, parece recobrar la vida).
+  - dialogue: "(Les yeux du mendiant s\u2019illuminent. En mangeant le <color=#1f5f8d>morceau
+      de pain</color><img=pan>, il semble reprendre vie.)"
     spriteIndex: 0
-  - dialogue: (Entonces, parece ponerse nervioso y se agarra a tu abrigo).
+  - dialogue: (Puis, il devient nerveux et agrippe votre manteau.)
     spriteIndex: 0
-  - dialogue: "Yo los vi, \xA1estaba ah\xED cuando ocurri\xF3! Al principio hab\xEDa
-      dos, pero un <color=#7b1f1f>tercer hombre</color> les segu\xEDa de cerca. "
+  - dialogue: "Je les ai vus, j\u2019\xE9tais l\xE0 quand tout est arriv\xE9! Au
+      d\xE9but, ils \xE9taient deux, mais un <color=#7b1f1f>troisi\xE8me homme</color>
+      les suivait de pr\xE8s."
     spriteIndex: 0
-  - dialogue: "El tercer hombre les arrincon\xF3 en el puente. Discutieron. Uno de
-      ellos intent\xF3 atacar al tercero, ah\xED se escuch\xF3 el <color=#7b1f1f>disparo</color>.
-      En ese momento hu\xED..."
+  - dialogue: "Le troisi\xE8me les a accul\xE9s sur le pont. Ils se sont disput\xE9s.
+      L\u2019un d\u2019eux a essay\xE9 d\u2019attaquer le troisi\xE8me, et l\xE0,
+      on a entendu le <color=#7b1f1f>coup de feu</color>. \xC0 ce moment-l\xE0, j\u2019ai
+      pris la fuite..."
     spriteIndex: 0
-  - dialogue: (Se deja caer contra la pared, aliviado.)
+  - dialogue: "(Il se laisse tomber contre le mur, soulag\xE9)."
     spriteIndex: 0
-  - dialogue: "Usted y yo... \xBFHemos tenido esta conversaci\xF3n antes?"
+  - dialogue: "Vous et moi... On a d\xE9j\xE0 eu cette conversation, non?"
     spriteIndex: 0
-  - dialogue: "\xBFEn otra vida, quiz\xE1?"
+  - dialogue: "Dans une autre vie, peut-\xEAtre?"
     spriteIndex: 0
-  - dialogue: Todos tenemos algo que nos atrapa, que nos impide avanzar.
+  - dialogue: "On a tous quelque chose qui nous retient, qui nous emp\xEAche d\u2019avancer."
     spriteIndex: 0
-  - dialogue: "Al final todo vuelve para ajustar cuentas, tarde o temprano. D\xEDgame,
-      \xBFse arrepiente de algo?"
+  - dialogue: "Finalement, tout revient pour r\xE9gler ses comptes, t\xF4t ou tard.
+      Dites-moi... vous regrettez quelque chose?"
     spriteIndex: 0
-  - dialogue: "\xBFQue hubiese hecho diferente si pudiese volver atr\xE1s?"
+  - dialogue: "Qu\u2019est-ce que vous auriez fait diff\xE9remment, si vous pouviez
+      revenir en arri\xE8re?"
     spriteIndex: 0
-  - dialogue: (El mendigo aparta la mirada, como si hubiese visto un fantasma).
+  - dialogue: "(Le mendiant d\xE9tourne le regard, comme s\u2019il venait de voir
+      un fant\xF4me)."
     spriteIndex: 0
   responses: []

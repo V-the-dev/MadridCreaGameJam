@@ -25,6 +25,6 @@ MonoBehaviour:
   mainCharacterWhenResponses: 0
   mainCharacterIndex: 0
   conversationLine:
-  - dialogue: "Ret\xEDrese, Sereno. Esta investigaci\xF3n est\xE1 manos de profesionales. "
+  - dialogue: Partez, Sereno. Laissez cette affaire pour les professionnels.
     spriteIndex: 0
   responses: []

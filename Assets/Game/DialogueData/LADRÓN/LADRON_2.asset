@@ -16,19 +16,20 @@ MonoBehaviour:
   - {fileID: 21300000, guid: c7f227758eac4034698f17de7ad1ed10, type: 3}
   - {fileID: 21300000, guid: 6094f5e9382781749836d3297c790174, type: 3}
   charactersName:
-  - "LADR\xD3N"
+  - VOLEUR
   - SERENO
   charactersTitle:
-  - Maleante
+  - Criminel
   - 
   charactersSide: 0000000001000000
   mainCharacterWhenResponses: 1
   mainCharacterIndex: 1
   conversationLine:
-  - dialogue: "(El ladr\xF3n est\xE1 armado con una porra, se abalanza sobre ti)."
+  - dialogue: "(Le voleur, arm\xE9 d\u2019une matraque, se jette sur vous.)"
     spriteIndex: 0
-  - dialogue: <shake><color=#7b1f1f>(Te golpea la cabeza. Caes inconsciente)</color></shake>.
+  - dialogue: "<shake><color=#7b1f1f>(Il vous frappe \xE0 la t\xEAte. Vous perdez
+      connaissance.)</color></shake>"
     spriteIndex: 0
   responses:
-  - responseText: "La noche contin\xFAa..."
+  - responseText: La nuit continue...
     dialogueObject: {fileID: 0}

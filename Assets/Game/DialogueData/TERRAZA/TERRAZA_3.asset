@@ -17,32 +17,32 @@ MonoBehaviour:
   - {fileID: 21300000, guid: ef0b912fdf7908e4d85671ec7ec4087c, type: 3}
   - {fileID: 21300000, guid: 6094f5e9382781749836d3297c790174, type: 3}
   charactersName:
-  - JUGADOR 1
-  - JUGADOR 2
+  - JOUEUR 1
+  - JOUEUR 2
   - SERENO
   charactersTitle:
-  - El confiado
-  - "El gru\xF1\xF3n"
+  - "Le s\xFBr de lui"
+  - Le grincheux
   - 
   charactersSide: 000000000000000001000000
   mainCharacterWhenResponses: 0
   mainCharacterIndex: 0
   conversationLine:
-  - dialogue: "<color=#7b1f1f>Garrido</color>, s\xED, suele venir con nosotros a
-      jugar."
+  - dialogue: <color=#7b1f1f>Garrido</color>? Ouais, il vient souvent jouer avec
+      nous.
     spriteIndex: 0
-  - dialogue: Pero hoy no estaba de humor.
+  - dialogue: "Mais aujourd\u2019hui, il tirait une sale t\xEAte."
     spriteIndex: 0
-  - dialogue: "Uf, para nada. Tra\xEDa una cara de culo..."
+  - dialogue: "Pff, grave. Il faisait la gueule, comme pas possible\u2026"
     spriteIndex: 1
-  - dialogue: "Ni cuando pierde se pone as\xED... hehehe"
+  - dialogue: "M\xEAme quand il perd, il s\u2019\xE9nerve pas comme \xE7a, haha!"
     spriteIndex: 0
-  - dialogue: "<color=#7b1f1f>Garrido</color> dijo que le estaban siguiendo, o algo
-      as\xED..."
+  - dialogue: "<color=#7b1f1f>Garrido</color> disait qu\u2019on le suivait, ou un
+      truc du genre\u2026"
     spriteIndex: 1
-  - dialogue: "Ese hombre no est\xE1 bien, ve fantasmas desde que estuvo en Brunete
-      duante la guerra."
+  - dialogue: "Ce type va pas bien, il voit des fant\xF4mes depuis Brunete, \xE0
+      la guerre."
     spriteIndex: 0
-  - dialogue: "\xBFAlgo m\xE1s, maestro?"
+  - dialogue: Autre chose, chef?
     spriteIndex: 1
   responses: []

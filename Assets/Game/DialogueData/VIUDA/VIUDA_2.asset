@@ -19,13 +19,13 @@ MonoBehaviour:
   - PILAR
   - SERENO
   charactersTitle:
-  - Viuda
+  - Veuve
   - 
   charactersSide: 0000000001000000
   mainCharacterWhenResponses: 0
   mainCharacterIndex: 0
   conversationLine:
-  - dialogue: "Sereno, \xBFpudiste encontrar a <color=#7b1f1f>Garrido</color>? Es
-      la \xFAltima persona que vi\xF3 a mi marido antes de su muerte."
+  - dialogue: "Sereno, avez-vous pu retrouver <color=#7b1f1f>Garrido</color>? C\u2019est
+      la derni\xE8re personne qui a vu mon mari avant sa mort."
     spriteIndex: 0
   responses: []

@@ -16,44 +16,48 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 05f05d3e2699dc64b8010fe0cb6c6e4c, type: 3}
   - {fileID: 21300000, guid: 6094f5e9382781749836d3297c790174, type: 3}
   charactersName:
-  - FUGITIVO
+  - FUGITIF
   - SERENO
   charactersTitle:
-  - Desconocido
+  - Inconnu
   - 
   charactersSide: 0000000001000000
   mainCharacterWhenResponses: 1
   mainCharacterIndex: 1
   conversationLine:
-  - dialogue: (Escuchas movimiento tras la esquina).
+  - dialogue: "(Vous entendez un bruit derri\xE8re le coin.)"
     spriteIndex: 1
-  - dialogue: (Al acercarte, ves a un hombre cargando maletas en un coche maltrecho.
-      Al verte, se detiene).
+  - dialogue: "(En vous approchant, vous voyez un homme charger des valises dans
+      une voiture d\xE9labr\xE9e. En vous apercevant, il s\u2019arr\xEAte.)"
     spriteIndex: 0
-  - dialogue: Has venido. Tienes coraje, eso es evidente.
+  - dialogue: "Tu es venu. T\u2019as du courage, \xE7a se voit."
     spriteIndex: 0
-  - dialogue: "\xBFQu\xE9 pasa, te cuesta reconocer mi aspecto?"
+  - dialogue: "Quoi, tu as du mal \xE0 reconna\xEEtre ma gueule?"
     spriteIndex: 0
-  - dialogue: "Quiz\xE1 tres a\xF1os en un campo de trabajo han borrado mi identidad.
-      Soy <color=#7b1f1f>Isidro</color>. Tu sargento."
+  - dialogue: "Peut-\xEAtre que trois ans dans un camp de travail ont effac\xE9 mon
+      identit\xE9. Je suis <color=#7b1f1f>Isidro</color>. Ton sergent."
     spriteIndex: 0
-  - dialogue: "Recordar\xE1s que me dejaste atr\xE1s. Ni <color=#7b1f1f>Manuel</color>,
-      ni <color=#7b1f1f>Garrido</color> ni t\xFA volvisteis a por mi. Seguisteis
-      con vuestras vidas, sin m\xE1s."
+  - dialogue: "Tu te souviens, n\u2019est-ce pas ? Tu m\u2019as laiss\xE9 derri\xE8re. "
     spriteIndex: 0
-  - dialogue: Aunque he de decir que de los tres, eres quien ha salido peor parado.
+  - dialogue: "Ni <color=#7b1f1f>Manuel</color>, ni <color=#7b1f1f>Garrido</color>,
+      ni toi n\u2019\xEAtes revenus me chercher. Vous avez continu\xE9 vos vies,
+      comme si de rien n\u2019\xE9tait."
     spriteIndex: 0
-  - dialogue: "\xBFSereno? \xBFEn serio? \xBFGuardas llaves por una m\xEDsera propina?"
+  - dialogue: "Mais je dois dire que, de vous trois, c\u2019est toi qui t\u2019en
+      es le plus mal sorti."
     spriteIndex: 0
-  - dialogue: "T\xFA fuiste el m\xE1s despiadado de nosotros. Jam\xE1s parpadeabas
-      al apretar el gatillo."
+  - dialogue: "Sereno? S\xE9rieux? Tu gardes des cl\xE9s pour une mis\xE9rable pourboire?"
     spriteIndex: 0
-  - dialogue: Justo iba a por ti. Gracias por ahorrarme el caminito hasta tu pocilga.
+  - dialogue: "Tu \xE9tais le plus impitoyable des quatre. Tu ne clignais m\xEAme
+      pas des yeux quand tu tirais sur l'ennemi."
+    spriteIndex: 0
+  - dialogue: "J\u2019\xE9tais justement venu pour toi. Merci de m\u2019avoir \xE9vit\xE9
+      la promenade jusqu\u2019\xE0 ta porcherie."
     spriteIndex: 0
   responses:
-  - responseText: Quedarse en silencio
+  - responseText: Rester silencieux
     dialogueObject: {fileID: 11400000, guid: 5c0ec9b0d246aa045bd0c6e2eaf4c735, type: 2}
-  - responseText: Preguntar por <color=#7b1f1f>Garrido</color>
+  - responseText: Demander pour <color=#7b1f1f>Garrido</color>
     dialogueObject: {fileID: 11400000, guid: 5ef52ca4d74fd0b4fa09775fc22c5346, type: 2}
-  - responseText: "Preguntar si \xE9l mat\xF3 a <color=#7b1f1f>Manuel</color>"
+  - responseText: "Demander s\u2019il a tu\xE9 <color=#7b1f1f>Manuel</color>"
     dialogueObject: {fileID: 11400000, guid: 858890c0c9899e642823f32fadc0ce5f, type: 2}

@@ -25,11 +25,13 @@ MonoBehaviour:
   mainCharacterWhenResponses: 0
   mainCharacterIndex: 1
   conversationLine:
-  - dialogue: (A falta de respuesta, el amante cae rendido. Te mira).
+  - dialogue: "(En l\u2019absence de r\xE9ponse, l\u2019amant s\u2019effondre, abattu.
+      Il vous regarde.)"
     spriteIndex: 0
-  - dialogue: Mi doncella no me ama. Toma esto. Supongo que ya no lo necesito.
+  - dialogue: "Ma belle ne m\u2019aime pas. Tiens, prends ceci. Je suppose que je
+      n\u2019en ai plus besoin."
     spriteIndex: 0
-  - dialogue: "(Te entrega una <color=#1f5f8d>paleta de jam\xF3n</color><img=jamon>,
-      un bien muy preciado en estos tiempos)."
+  - dialogue: "(Il te remet une <color=#1f5f8d>palette de jambon</color><img=jamon>,
+      un bien tr\xE8s pr\xE9cieux par les temps qui courent.)"
     spriteIndex: 0
   responses: []

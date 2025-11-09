@@ -16,28 +16,28 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 05f05d3e2699dc64b8010fe0cb6c6e4c, type: 3}
   - {fileID: 21300000, guid: 6094f5e9382781749836d3297c790174, type: 3}
   charactersName:
-  - FUGITIVO
+  - FUGITIF
   - SERENO
   charactersTitle:
-  - Desconocido
+  - Inconnu
   - 
   charactersSide: 0000000001000000
   mainCharacterWhenResponses: 1
   mainCharacterIndex: 1
   conversationLine:
-  - dialogue: <shake>Escuchas un <color=#7b1f1f>disparo</color>.</shake>
+  - dialogue: <shake>(Vous entendez un <color=#7b1f1f>coup de feu)</color>.</shake>
     spriteIndex: 0
-  - dialogue: Tu vientre se humedece. <shake>Caes de rodillas.</shake>
+  - dialogue: "(Votre ventre se mouille). <shake>Vous tombez \xE0 genoux.</shake>"
     spriteIndex: 1
-  - dialogue: "Apenas puedes mantenerte erguido. La consciencia se te escurre entre
-      los dedos, l\xEDquida y fr\xE1gil."
+  - dialogue: "(Vous peinez \xE0 rester debout. La conscience vous glisse entre les
+      doigts, liquide et fragile)."
     spriteIndex: 1
-  - dialogue: Lo siento. Esta vez he elegido mi vida.
+  - dialogue: "D\xE9sol\xE9. Cette fois, j\u2019ai choisi ma vie."
     spriteIndex: 0
-  - dialogue: "T\xFA hiciste lo mismo aquel d\xEDa."
+  - dialogue: "Toi, t\u2019as fait pareil la derni\xE8re fois..."
     spriteIndex: 0
-  - dialogue: <shake><color=#7b1f1f>(Caes de plomo al suelo).</shake></color>
+  - dialogue: <shake><color=#7b1f1f>(Vous tombez lourdement au sol.)</color></shake>
     spriteIndex: 1
   responses:
-  - responseText: "La noche contin\xFAa..."
+  - responseText: La nuit continue...
     dialogueObject: {fileID: 0}

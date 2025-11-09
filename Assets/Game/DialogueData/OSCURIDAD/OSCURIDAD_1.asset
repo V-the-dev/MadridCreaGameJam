@@ -22,11 +22,12 @@ MonoBehaviour:
   mainCharacterWhenResponses: 0
   mainCharacterIndex: 0
   conversationLine:
-  - dialogue: Te adentras en la oscuridad, te cuesta ubicarte.
+  - dialogue: "Vous vous enfoncez dans l\u2019obscurit\xE9, il vous est difficile
+      de vous rep\xE9rer."
     spriteIndex: 0
-  - dialogue: Escuchas pasos, alguien se acerca.
+  - dialogue: "Vous entendez des pas, quelqu\u2019un s\u2019approche."
     spriteIndex: 0
-  - dialogue: No puedes verlo.
+  - dialogue: Mais vous ne voyez personne...
     spriteIndex: 0
   responses:
   - responseText: ...

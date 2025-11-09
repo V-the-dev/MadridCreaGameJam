@@ -22,10 +22,10 @@ MonoBehaviour:
   mainCharacterWhenResponses: 0
   mainCharacterIndex: 0
   conversationLine:
-  - dialogue: "Un pared\xF3n con marcas de bala, aqu\xED hubo un fusilamiento hace
-      poco. Las marcas de lo sucedido son indelebles.\_"
+  - dialogue: "Un mur cribl\xE9 d\u2019impacts de balles, un peloton d\u2019ex\xE9cution
+      a eu lieu ici r\xE9cemment. Les traces de ce qui s\u2019est pass\xE9 sont ind\xE9l\xE9biles."
     spriteIndex: 0
-  - dialogue: "En el suelo encuentras un trozo de metal que a\xFAn puede venderse
-      como <color=#1f5f8d>chatarra</color><img=chatarra>."
+  - dialogue: "Au sol, vous trouvez un morceau de m\xE9tal qui peut encore se vendre
+      comme <color=#1f5f8d>ferraille</color><img=chatarra>."
     spriteIndex: 0
   responses: []

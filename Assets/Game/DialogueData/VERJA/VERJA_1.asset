@@ -22,11 +22,11 @@ MonoBehaviour:
   mainCharacterWhenResponses: 0
   mainCharacterIndex: 0
   conversationLine:
-  - dialogue: "Esta verja est\xE1 <color=#7b1f1f>cerrada</color> con candado y cadenas,
-      amarradas de mala manera."
+  - dialogue: "Cette grille est <color=#7b1f1f>ferm\xE9e</color> par un cadenas et
+      des cha\xEEnes, mal attach\xE9s."
     spriteIndex: 0
   responses:
-  - responseText: Volver
+  - responseText: Retourner
     dialogueObject: {fileID: 0}
-  - responseText: Usar las <color=#1f5f8d>Llaves</color>
+  - responseText: "Utiliser les <color=#1f5f8d>Cl\xE9s</color>"
     dialogueObject: {fileID: 11400000, guid: 45ba98594694259419257e4d41546ce1, type: 2}
